@@ -3,21 +3,28 @@ TicWatch Pro 3 side load - xdrip
 [[/images/TicWatch Pro 3 side load - xdrip/sideload xdrip logod_860x303.jpg|TicWatch Pro 3 side load - xdrip logo]]<br><br>
 ## If you would like to follow these instructions with full video then click image below other wise continue step by step below <br><br>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Ackvo657Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <a href="https://youtu.be/7Ackvo657Ew" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="./images/TicWatch Pro 3 side load - xdrip/TicWatch Pro 3 side load install - xdrip_utube.jpg" title="TicWatch Pro 3 side load install fix (utube)"/>
  </a><br><br>
  <font size="3">
  
+1.	(0:43) First, we need to put your mobile into developer’s mode which we can do by going to settings / System / about / pressing Build number 7 times or more.<br><br>
+ 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear icon "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_system319_368.png" title="system "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_about_319_368.png" title="about"/> 
+ 4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_build number_319x368.png" title="build number "/> 
 
- 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="settings "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_system319_368.png" title="settings "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_about_319_368.png" title="settings "/> 
-4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_build number_319x368.png" title="settings "/> 
 
-1. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png" alt="drawing" width="319"/> 2 <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/2_system319_368.png" alt="drawing" width="319"/> 3. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/3_about_319_368.png" alt="drawing" width="319"/> 4. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/4_build number_319x368.png" alt="drawing" width="319"/>
 
- 1.	(0:43) First, we need to put your mobile into developer’s mode which we can do by going to settings / System / about / pressing Build number 7 times or more.<br><br>
- 1 [/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png]  2 [/my-project/img/TicWatch Pro 3 side load - xdrip/2_system319_368.png]<br><br>  3 [/images/TicWatch Pro 3 side load - xdrip/3_about_319_368.png] 4  [/images/TicWatch Pro 3 side load - xdrip/4_build number_319x368.png]<br><br>
+ 
+
  2.	(1:20) Now we need to enable ADB debugging mode and debug over wifi on your watch <br>
  We do this by going to settings / Developer options and enabling them both.<br><br>
+ 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="settings "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/developers options_319x368 - Copy.png" title="settings "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/ADB Debugging.png" title="Debugging "/> 
+ 4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/debug over wifi_319x368.png" title="debug over wifi "/> 
+
+
+
  1 [[/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/developers options_319x368 - Copy.png]]<br><br>  3 [[/images/TicWatch Pro 3 side load - xdrip/ADB Debugging.png]] 4  [[/images/TicWatch Pro 3 side load - xdrip/debug over wifi_319x368.png]]<br><br>
  3. (1:56) Now we need to install wear installer on your mobile phone,as well as on your watch, you do this on your watch by going to the Play Store and do a search for wear installer and install it on your Mobiles Wear installer.<br>
  1 [[/images/TicWatch Pro 3 side load - xdrip/1_top right button_319x368.png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/2_play store_319x368.png]]<br><br>  3 [[/images/TicWatch Pro 3 side load - xdrip/3_wear installer_319x630.png]]<br><br> 
