@@ -18,7 +18,9 @@ nav:
 -   NS-Update:
     - 'Nightscout Update': 'user-guide/Nightscout_update.md'
     - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
-    
+
+    -   Watch's:
+    - 'Ticwatch-Pro-3-SideLoad-Xdrip': 'user-guide/TicWatch-Pro-3-side-load---xdrip.md'
 
     
 - About :
