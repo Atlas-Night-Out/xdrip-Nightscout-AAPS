@@ -9,4 +9,3 @@ To Download latest version of Xdrip on a Pc , <a href="https://github.com/Nights
 
 No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings!
 
-xdrip mobile download.jpg
