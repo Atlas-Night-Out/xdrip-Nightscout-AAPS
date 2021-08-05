@@ -6,10 +6,7 @@ TicWatch Pro 3 side load - xdrip
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/7Ackvo657Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="https://youtu.be/7Ackvo657Ew" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="./images/TicWatch Pro 3 side load - xdrip/TicWatch Pro 3 side load install - xdrip_utube.jpg" title="TicWatch Pro 3 side load install fix (utube)"/>
- </a><br><br>
- <font size="3">
+
  
 1.	(0:43) First, we need to put your mobile into developer’s mode which we can do by going to settings / System / about / pressing Build number 7 times or more.<br><br>
  1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear icon "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_system319_368.png" title="system "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_about_319_368.png" title="about"/> 
