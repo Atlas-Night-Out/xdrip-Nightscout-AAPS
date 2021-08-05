@@ -9,7 +9,7 @@ TicWatch Pro 3 side load - xdrip
  <font size="3">
  
 
- <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/hanberger setting_200x396.jpg" title="settings "/>
+ <img width="319" height="368" border="0" align="center"  src="/my-project/docs/img/xdrip_followers_setup/hanberger setting_200x396.jpg" title="settings "/>
 1. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png" alt="drawing" width="319"/> 2 <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png" alt="drawing" width="319"/>
 
  1.	(0:43) First, we need to put your mobile into developer’s mode which we can do by going to settings / System / about / pressing Build number 7 times or more.<br><br>
