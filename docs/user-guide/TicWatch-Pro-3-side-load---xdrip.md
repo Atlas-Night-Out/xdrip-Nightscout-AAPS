@@ -43,16 +43,21 @@ Now add your ip address of your watch into the settings on your mobile <br><br>
 4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_wifi_319x368.png" title="wifi "/> 
 5.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/5_your wifi connection_319_368.png" title="your wifi connection "/> 
 6.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/6_ip_address_319x368.png" title="ip_address "/> 
-
-
- 1 [[/images/TicWatch Pro 3 side load - xdrip/1_top right button_319x368 (2).png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/2_icon_319x368.png]]<br><br>  3 [[/images/TicWatch Pro 3 side load - xdrip/3_connectivity_319x368.png]] 4  [[/images/TicWatch Pro 3 side load - xdrip/4_wifi_319x368.png]]  <br>5  [[/images/TicWatch Pro 3 side load - xdrip/5_your wifi connection_319_368.png]] 6  [[/images/TicWatch Pro 3 side load - xdrip/6_ip_address_319x368.png]]<br><br>
+<br><br>
 
 
 
  5.	(3:16) Now go to  <a href="https://play.google.com/store?hl=en&tab=r8" target="_blank" title="Google Play Store">Google Play Store</a> and install Wear installer onto your mobile and add your ip address into it that you got from your watch<br>
  scroll down your Apps list to find your xdrip you have already installed onto your watch. And select it to install. Ok the connection on your watch for the install process to begin. Xdrip is now installed onto your watch. <br><br>
- 1 [[/images/TicWatch Pro 3 side load - xdrip/1_Google play_wear installer_319x650.png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/2_wear installer_319x630.png]]<br><br>
- 6. (4:13) Don't forget to turn off ADB debugging on the watch. <br>
+
+
+1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_Google play_wear installer_319x650.png" title="Google play_wear installer"/> 
+2.<img width="319" height="368" border="0" align="center"  src="/my-project/img/2_wear installer_319x630.png" title="wear installer"/> 
+
+<br><br>
+6. (4:13) Don't forget to turn off ADB debugging on the watch. <br><br>
+1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/Turn_off_ADB_debugging_20210715_319x368.jpg" title="Turn_off_ADB_debugging"/> 
+
  1 [[/images/TicWatch Pro 3 side load - xdrip/Turn_off_ADB_debugging_20210715_319x368.jpg]] <br>
  7. (4:23) Update xdrip on watch - Now go to xDrip Prefs on the Watch, press button twice and go to xdrip Pref and click on it then scroll down till you see Force Update - and tap it. <br> <br>
  1 [[/images/TicWatch Pro 3 side load - xdrip/1_top right button_319x368 (2).png]] 2 [[/images/TicWatch Pro 3 side load - xdrip/2_xdrip_pref_20210715_319x368.jpg]]<br><br> 3 [[/images/TicWatch Pro 3 side load - xdrip/3_force_update_20210715_319x368.jpg]]<br><br>
