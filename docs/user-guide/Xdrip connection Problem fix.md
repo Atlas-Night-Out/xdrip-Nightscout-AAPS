@@ -7,7 +7,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 <br>
 
-<img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
@@ -16,10 +16,10 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 1. Make sure you are up to date on xdrip. You can this by <span style="background-color: #FFFF00">** Following the links below**</span><br>
 2. If you are working on a <span style="background-color: #FFFF00">** PC **</span> Download latest version of Xdrip from here <a href= target="_blank" title="xdrip Nightly build PC">Click Here</a> or goto https://github.com/NightscoutFoundation/xDrip/releases 
  <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/xdrip_nightly build logo.jpg" title="xdrip Nightly Build"/></a>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip_nightly build logo.jpg" title="xdrip Nightly Build"/></a>
 3. If you are working on a <span style="background-color: #FFFF00">** Mobile - Go to Chrome on your mobile**</span> & Download the latest version of Xdrip on to your Android Mobile Device <a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here to download</a> or go to https://jamorham.github.io/#xdrip-plus in your broswer.
  <a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/Nightly Build Mobile link.jpg" title="xdrip Nightly Build Mobile"/></a><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Nightly Build Mobile link.jpg" title="xdrip Nightly Build Mobile"/></a><br>
   4. First try un-pairing your Bluetooth on mobile if it’s still paired to it.<br>
   <iframe width="860" height="615" src="https://www.youtube.com/embed/YVy_qxeHpog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
   5. Then go to your system status in xdrip and forget device and <span style="background-color: #FFFF00">** restart the Collector**</span><br>
@@ -34,10 +34,16 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs! 
 
 
+
+If you would like to donate to me for helping with these documents please visit where I try to attempt to do one of the challenge each year to raise funds for Diabetes UK I'm yet again doing one on the 1st September 2021 (Thank you for your kind donations!)  
+
+<a href="https://www.facebook.com/david.galloway.75033/posts/573983773774927?__cft__[0]=AZUnXPgENQhMUmUoX8ubo153kZN9YoNBMp-SwuQoBBGmcs38N9N3N9U4JEthonOLFp6hn5c7Dpg-Xo4bAl5RS5Ew9qWOA0yys2hzR0dhh0Jsroj4wWTWvYpdvt0ilnFFQHo&__tn__=%2CO%2CP-R
+" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/uk_wide_cycle_ride_.jpg" title="Diabetes UK Wide cycle Ride"/>
 
 
 </font>
@@ -52,7 +58,7 @@ click here link
 		<a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here</a> download xdrip from mobile: 
 		
 <a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
 		
 		
 adding 	Yellow Hightligher!!!!!!!!	
@@ -60,17 +66,17 @@ adding 	Yellow Hightligher!!!!!!!!
 
 
 <a>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
 
 
 
 
 Adding a image
 <a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/nightscout version_14.06.jpg" title="Version of Nightscout Video"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/nightscout version_14.06.jpg" title="Version of Nightscout Video"/>
 </a>
 
-<img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a>
 
 Adding Video
 
@@ -87,7 +93,7 @@ Paragraph:
 
 1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
   and **click** Start Free
- <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
    2. Sub item two
    3. Sub item three
 2. Item two

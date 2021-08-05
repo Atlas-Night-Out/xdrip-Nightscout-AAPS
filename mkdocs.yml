@@ -4,6 +4,7 @@ nav:
 - Home: 'index.md'
 
 - Xdrip :
+    - 'Xdrip Download': 'user-guide/xdrip - Download.md'
     - 'Xdrip connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
     - 'Xdrip Follower Setup': 'user-guide/Xdrip Follower Setup.md'
 
@@ -12,12 +13,8 @@ nav:
     
     - 'Fork and Deploy cgm remote monitory Part 4': 'user-guide/Fork_and_Deploy_cgm_remote_monitory_part4.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
-    - 'Setting up GitHub Account Part 1': 'user-guide/Setting_up_Github_Account_part1.md'
-    - 'Setting up Heroku Account Part 2': 'user-guide/Setting_up_Heroku_Account_part2.md'
-    - 'Setting up Atlas Account Part 3': 'user-guide/Setting_up_Atlas_Account_part3.md'
-
-- 'Nightscout Plugins': 'user-guide/Nightscout_Plugins.md'
     
+       
 -   NS-Update:
     - 'Nightscout Update': 'user-guide/Nightscout_update.md'
     - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
