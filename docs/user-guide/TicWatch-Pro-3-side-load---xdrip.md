@@ -57,10 +57,16 @@ Now add your ip address of your watch into the settings on your mobile <br><br>
 <br><br>
 
 6. (4:13) Don't forget to turn off ADB debugging on the watch. <br><br>
-1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/Turn_off_ADB_debugging_20210715_319x368.jpg" title="Turn off ADB Debugging"/> 
-
- 1 [[/images/TicWatch Pro 3 side load - xdrip/Turn_off_ADB_debugging_20210715_319x368.jpg]] <br>
+1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/Turn_off_ADB_debugging_20210715_319x368.jpg" title="Turn off ADB Debugging"/> <br><br>
  7. (4:23) Update xdrip on watch - Now go to xDrip Prefs on the Watch, press button twice and go to xdrip Pref and click on it then scroll down till you see Force Update - and tap it. <br> <br>
+
+1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_top right button_319x368 (2).png" title="top right button "/> 
+2.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_xdrip_pref_20210715_319x368.jpg" title="xdrip_pref"/> 
+3.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_force_update_20210715_319x368.jpg" title="force_update"/> 
+
+
+
+
  1 [[/images/TicWatch Pro 3 side load - xdrip/1_top right button_319x368 (2).png]] 2 [[/images/TicWatch Pro 3 side load - xdrip/2_xdrip_pref_20210715_319x368.jpg]]<br><br> 3 [[/images/TicWatch Pro 3 side load - xdrip/3_force_update_20210715_319x368.jpg]]<br><br>
  It should check ADB, and ask for authorization, select Always Allow. 
     This time it should say ADB looks good and then will auto install xdrip latest version and restart.<br>
