@@ -10,7 +10,7 @@ From a "mobile" You will need to go to a web browser on your mobile and
 
 No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings first!<br> 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3n9cKoD3Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/C3n9cKoD3Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
