@@ -7,5 +7,7 @@ To Download latest version of Xdrip on a Pc , <a href="https://github.com/Nights
 
 [<img src="/my-project/img/xdrip/xdrip mobile download.jpg">](https://jamorham.github.io/#xdrip-plus)
 
-No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings!
+No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings!<br> 
+
+<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 
