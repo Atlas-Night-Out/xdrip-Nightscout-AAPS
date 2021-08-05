@@ -9,11 +9,11 @@ TicWatch Pro 3 side load - xdrip
  <font size="3">
  
 
- <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="settings "/>
-1. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png" alt="drawing" width="319"/> 2 <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png" alt="drawing" width="319"/>
+ 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="settings "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="settings "/> 2. 
+1. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png" alt="drawing" width="319"/> 2 <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/2_system319_368.png" alt="drawing" width="319"/> 3. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/3_about_319_368.png" alt="drawing" width="319"/> 4. <img src="/my-project/docs/images/TicWatch Pro 3 side load - xdrip/4_build number_319x368.png" alt="drawing" width="319"/>
 
  1.	(0:43) First, we need to put your mobile into developer’s mode which we can do by going to settings / System / about / pressing Build number 7 times or more.<br><br>
- 1 [/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png]  2 [/my-project/images/TicWatch Pro 3 side load - xdrip/2_system319_368.png]<br><br>  3 [/images/TicWatch Pro 3 side load - xdrip/3_about_319_368.png] 4  [/images/TicWatch Pro 3 side load - xdrip/4_build number_319x368.png]<br><br>
+ 1 [/my-project/docs/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png]  2 [/my-project/img/TicWatch Pro 3 side load - xdrip/2_system319_368.png]<br><br>  3 [/images/TicWatch Pro 3 side load - xdrip/3_about_319_368.png] 4  [/images/TicWatch Pro 3 side load - xdrip/4_build number_319x368.png]<br><br>
  2.	(1:20) Now we need to enable ADB debugging mode and debug over wifi on your watch <br>
  We do this by going to settings / Developer options and enabling them both.<br><br>
  1 [[/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/developers options_319x368 - Copy.png]]<br><br>  3 [[/images/TicWatch Pro 3 side load - xdrip/ADB Debugging.png]] 4  [[/images/TicWatch Pro 3 side load - xdrip/debug over wifi_319x368.png]]<br><br>
