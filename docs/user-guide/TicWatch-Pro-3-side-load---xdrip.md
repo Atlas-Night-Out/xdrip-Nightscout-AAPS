@@ -1,9 +1,10 @@
 TicWatch Pro 3 side load - xdrip
 
+ 1.<img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
 [[/images/TicWatch Pro 3 side load - xdrip/sideload xdrip logod_860x303.jpg|TicWatch Pro 3 side load - xdrip logo]]<br><br>
 ## If you would like to follow these instructions with full video then click image below other wise continue step by step below <br><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7Ackvo657Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="860" height="615" src="https://www.youtube.com/embed/7Ackvo657Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://youtu.be/7Ackvo657Ew" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="./images/TicWatch Pro 3 side load - xdrip/TicWatch Pro 3 side load install - xdrip_utube.jpg" title="TicWatch Pro 3 side load install fix (utube)"/>
@@ -20,7 +21,7 @@ TicWatch Pro 3 side load - xdrip
 
  2.	(1:20) Now we need to enable ADB debugging mode and debug over wifi on your watch <br>
  We do this by going to settings / Developer options and enabling them both.<br><br>
- 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="settings "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/developers options_319x368 - Copy.png" title="settings "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/ADB Debugging.png" title="Debugging "/> 
+ 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/developers options_319x368 - Copy.png" title="Developers Option "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/ADB Debugging.png" title="ADB Debugging "/> 
  4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/debug over wifi_319x368.png" title="debug over wifi "/> 
 
 
