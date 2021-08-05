@@ -12,11 +12,13 @@ nav:
     - 'Specifications': 'user-guide/Specifications.md'
     - 'Fork and Deploy cgm remote monitory Part 4': 'user-guide/Fork_and_Deploy_cgm_remote_monitory_part4.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
+    - 'Nightscout Update': 'user-guide/Nightscout_update.md'
+    - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
     
        
 -   Watches:
     - 'Nightscout Update': 'user-guide/Nightscout_update.md'
-    - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
+    
 
     
 - About :
