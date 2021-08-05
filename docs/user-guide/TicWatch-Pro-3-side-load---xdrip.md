@@ -52,7 +52,7 @@ Now add your ip address of your watch into the settings on your mobile <br><br>
 
 
 1.<img width="319" height="650" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_Google play_wear installer_319x650.png" title="Google play wear installer"/> 
-2.<img width="319" height="646" border="0" align="center"  src="/my-project/img/2_wear installer_319x630.png" title="wear installer"/> 
+1.<img width="319" height="650" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_wear installer_319x630.png" title="wear installer"/> 
 
 <br><br>
 
