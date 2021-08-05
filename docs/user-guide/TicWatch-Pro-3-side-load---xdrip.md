@@ -1,7 +1,7 @@
 TicWatch Pro 3 side load - xdrip
 
- 1.<img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
-[[/images/TicWatch Pro 3 side load - xdrip/sideload xdrip logod_860x303.jpg|TicWatch Pro 3 side load - xdrip logo]]<br><br>
+ <img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
+<br>
 ## If you would like to follow these instructions with full video then click image below other wise continue step by step below <br><br>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/7Ackvo657Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,15 +21,24 @@ TicWatch Pro 3 side load - xdrip
 
  2.	(1:20) Now we need to enable ADB debugging mode and debug over wifi on your watch <br>
  We do this by going to settings / Developer options and enabling them both.<br><br>
- 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/developers options_319x368 - Copy.png" title="Developers Option "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/ADB Debugging.png" title="ADB Debugging "/> 
- 4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/debug over wifi_319x368.png" title="debug over wifi "/> 
+1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon "/> 
+2.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/developers options_319x368 - Copy.png" title="Developers Option "/> 
+3.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/ADB Debugging.png" title="ADB Debugging "/> 
+4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/debug over wifi_319x368.png" title="debug over wifi "/> 
 
 
-
- 1 [[/images/TicWatch Pro 3 side load - xdrip/1_icon_319x368.png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/developers options_319x368 - Copy.png]]<br><br>  3 [[/images/TicWatch Pro 3 side load - xdrip/ADB Debugging.png]] 4  [[/images/TicWatch Pro 3 side load - xdrip/debug over wifi_319x368.png]]<br><br>
  3. (1:56) Now we need to install wear installer on your mobile phone,as well as on your watch, you do this on your watch by going to the Play Store and do a search for wear installer and install it on your Mobiles Wear installer.<br>
+1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_top right button_319x368.png" title="Gear Icon "/> 
+2.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_play store_319x368.png" title="Developers Option "/> 
+3.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_wear installer_319x630.png" title="ADB Debugging "/> <br><br> 
+Now add your ip address of your watch into the settings on your mobile <br><br>
+
+
  1 [[/images/TicWatch Pro 3 side load - xdrip/1_top right button_319x368.png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/2_play store_319x368.png]]<br><br>  3 [[/images/TicWatch Pro 3 side load - xdrip/3_wear installer_319x630.png]]<br><br> 
- 	Now add your ip address of your watch into the settings on your mobile <br><br>
+ 	
+
+
+
  4. (2:46) To find your ip address on your watch scroll down on watch face to setting icon/ connectivity/ wifi and tap on your connected wifi network which will then show you your ip address<br><br>
  1 [[/images/TicWatch Pro 3 side load - xdrip/1_top right button_319x368 (2).png]]  2 [[/images/TicWatch Pro 3 side load - xdrip/2_icon_319x368.png]]<br><br>  3 [[/images/TicWatch Pro 3 side load - xdrip/3_connectivity_319x368.png]] 4  [[/images/TicWatch Pro 3 side load - xdrip/4_wifi_319x368.png]]  <br>5  [[/images/TicWatch Pro 3 side load - xdrip/5_your wifi connection_319_368.png]] 6  [[/images/TicWatch Pro 3 side load - xdrip/6_ip_address_319x368.png]]<br><br>
  5.	(3:16) Now go to  <a href="https://play.google.com/store?hl=en&tab=r8" target="_blank" title="Google Play Store">Google Play Store</a> and install Wear installer onto your mobile and add your ip address into it that you got from your watch<br>
