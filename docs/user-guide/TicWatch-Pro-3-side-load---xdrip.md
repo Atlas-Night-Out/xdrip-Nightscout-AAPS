@@ -40,7 +40,7 @@ Now add your ip address of your watch into the settings on your mobile <br><br>
 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_top right button_319x368 (2).png" title="top right button "/> 
 2.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_icon_319x368.png" title="Gear icon"/> 
 3.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_connectivity_319x368.png" title="connectivity"/> 
-4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_wifi_319x368.png]" title="wifi "/> 
+4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_wifi_319x368.png" title="wifi "/> 
 5.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/5_your wifi connection_319_368.png" title="your wifi connection "/> 
 6.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/6_ip_address_319x368.png" title="ip_address "/> 
 
