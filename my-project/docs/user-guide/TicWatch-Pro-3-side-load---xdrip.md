@@ -64,7 +64,7 @@ Now add your ip address of your watch into the settings on your mobile <br><br>
 3.<img width="319" height="368" border="0" align="center"  src="/img/side_load_ xdrip/3_force_update_20210715_319x368.jpg" title="force_update"/> 
 
 It should check ADB, and ask for authorization, select Always Allow. This time it should say ADB looks good and then will auto install xdrip latest version and restart.<br>
-This should download and then xDrip will install itself. If you do not have xdrip already install miss this part! <br><br><Br>
+This should download and then xDrip will install itself. If you do not have xdrip already install miss this part! <br><br><br>
 8. You should now have an updated version of xdrip on your watch.<br><br>
 1.<img width="319" height="368" border="0" align="center"  src="/img/side_load_ xdrip/xdrip_face_watch_20210715_319x368.jpg" title="xdrip_face_watch"/> <br><br>
 9. (5:14) Huawei Quick Install reminder (see video below)<br><br>
