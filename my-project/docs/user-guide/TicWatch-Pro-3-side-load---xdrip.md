@@ -1,6 +1,6 @@
 TicWatch Pro 3 side load - xdrip
 
- <img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
+ <img width="860" height="303" border="0" align="center"  src="/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
 <br>
 ## If you would like to follow these instructions with full video then click image below other wise continue step by step below <br><br>
 
@@ -9,8 +9,8 @@ TicWatch Pro 3 side load - xdrip
 
  
 1.	(0:43) First, we need to put your mobile into developer’s mode which we can do by going to settings / System / about / pressing Build number 7 times or more.<br><br>
- 1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear icon "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_system319_368.png" title="system "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_about_319_368.png" title="about"/> 
- 4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_build number_319x368.png" title="build number "/> 
+ 1.<img width="319" height="368" border="0" align="center"  src="/img/side_load_ xdrip/1_icon_319x368.png" title="Gear icon "/> 2. <img width="319" height="368" border="0" align="center"  src="/img/side_load_ xdrip/2_system319_368.png" title="system "/> 3. <img width="319" height="368" border="0" align="center"  src="/img/side_load_ xdrip/3_about_319_368.png" title="about"/> 
+ 4.<img width="319" height="368" border="0" align="center"  src="/img/side_load_ xdrip/4_build number_319x368.png" title="build number "/> 
 
 
 
