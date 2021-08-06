@@ -6,7 +6,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 ## <span style="color:#111478">Fork and Deploy cgm remote monitory Part 4 </span> <br> 
 
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/Fork_and_Deploy_cgm_remote_monitory_Part_4t_860x462.jpg" Setting up Atlas Part 3"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Fork_and_Deploy_cgm_remote_monitory_Part_4t_860x462.jpg" Setting up Atlas Part 3"/>
 
 
    
@@ -15,22 +15,22 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 1. Hopfully you should now have 3 pages opened in your browser: <span style="background-color: #FFFF00">**Heroku, Atlas, and Github,**</span> Make sure you are logged-in on each one (i.e. important) before you continue.
 
 2.  <a href="https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Release Versions">Click Here</a> or goto https://github.com/nightscout/cgm-remote-monitor, to open a new GitHub page. Click the on <span style="background-color: #FFFF00">**Fork**</span> icon in the top right
-   <img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/1_fork.jpg"/>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/1_fork.jpg"/>
 
 3. Wait for a moment
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/forking.jpg" title="WAIT until compleate"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/forking.jpg" title="WAIT until compleate"/>
 </a>
    
 3. Scroll down the page and click <span style="background-color: #FFFF00">**Deploy to Heroku**</span> 
-   <img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/Deploy_to_Heroku.jpg"title="This deploys to Heroku Account"/>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Deploy_to_Heroku.jpg"title="This deploys to Heroku Account"/>
    
 4. Enter in your Heroku account a site name: invent a name you would like to use or see your BG in on the internet. Confirm that the name is available.
- <img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/site_name.jpg"title="Give yourself a App name"/>
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/site_name.jpg"title="Give yourself a App name"/>
  
 5.  Don’t change the region.
 
 6. <span style="background-color: #FFFF00">**Scroll down**</span> and setup the following variables: You can come back to these later later by going to settings and config Var!
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/API_SECRET_Required2.jpg"title="Give yourself a API Secret Passwod"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/API_SECRET_Required2.jpg"title="Give yourself a API Secret Passwod"/>
      <iframe width="800" height="415" src="https://www.youtube.com/embed/65KI5-3E_XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
@@ -44,9 +44,9 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </tbody>
 </table>
 7. <span style="background-color: #FFFF00">**API_SECRET**</span> will be your Nightscout site password, it needs to be at least 12 characters long and <span style="background-color: #FFFF00">**you should NOT use spaces if you use @ or ! symbolyou should NOT use spaces if you use @ or ! symbols**</span> remember you will probably need to express them using Percent encoding in your uploader and downloader apps. If you're not sure on how to do this, it is recommended to use only letters (uppercase + lowercase) and digits.
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/API_SECRET_Required1.jpg"title="Give yourself a API Secret Passwod"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/API_SECRET_Required1.jpg"title="Give yourself a API Secret Passwod"/><br>
 8. If you <span style="background-color: #FFFF00">**want to link your Dexcom Share account**</span> as a data source, complete the following lines:
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/bridge_for_Dexcom_share.jpg"title=" Link your Dexcom Share Account "/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/bridge_for_Dexcom_share.jpg"title=" Link your Dexcom Share Account "/><br>
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -61,16 +61,16 @@ The BRIDGE_PASSWORD and BRIDGE_USER_NAME are NOT visible from within your Dexcom
 </tbody>
 </table><br>
 9. If you want to link your <span style="background-color: #FFFF00">**Care Link account**</span> as a data source (currently not functional with Heroku), complete the following lines:<br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/mmconnect.jpg"title="Care Link Account"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/mmconnect.jpg"title="Care Link Account"/>
 <br>
 10. Select the units you’re using in <span style="background-color: #FFFF00">**DISPLAY_UNITS**</span> the acceptable choices are <span style="background-color: #FFFF00">**mg/dl or mmol/L**</span> (or just <span style="background-color: #FFFF00">**mmol**</span> when entering it).
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/display_units.jpg"title="Display Units"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/display_units.jpg"title="Display Units"/><br>
 In <span style="background-color: #FFFF00">**my case I used mmol**</span> <img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/display_unit_EU.jpg"title="Display Units"/><br>11. In <span style="background-color: #FFFF00">**ENABLE,**</span> copy and paste the following Plugins below <span style="background-color: #FFFF00">**(separated by a space)**</span> so that won't have to think about which you want now
 
 | **Plugins**       |    |
 | :------------- | |
 |  careportal basal dbsize rawbg iob maker cob bwp cage iage sage boluscalc pushover treatmentnotify loop pump profile food openaps bage alexa override speech cors |
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/enable.jpg"title="Plugins you can add to enable"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/enable.jpg"title="Plugins you can add to enable"/><br>
 
 | **Plugins**       |    |
 | :------------- | |
@@ -134,7 +134,7 @@ function myFunction() {
 
 
 
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="Version of Nightscout Video"/><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="Version of Nightscout Video"/><br><br>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
