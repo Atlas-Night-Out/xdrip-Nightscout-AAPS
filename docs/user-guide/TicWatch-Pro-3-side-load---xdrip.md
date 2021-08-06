@@ -1,3 +1,7 @@
+<!-- this is  on github live server!
+docs made by D.Galloway 2019- 2021-->
+
+
 TicWatch Pro 3 side load - xdrip
 
  <img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>

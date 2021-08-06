@@ -1,3 +1,7 @@
+<!-- this is  on github live server!
+docs made by D.Galloway 2019- 2021-->
+
+
 user-guidegetting-started.md
 
 # Welcome to The Diabeticway
