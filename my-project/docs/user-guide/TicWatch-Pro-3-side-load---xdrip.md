@@ -68,9 +68,17 @@ This should download and then xDrip will install itself. If you do not have xdri
 8. You should now have an updated version of xdrip on your watch.<br><br>
 1.<img width="319" height="368" border="0" align="center"  src="/img/side_load_ xdrip/xdrip_face_watch_20210715_319x368.jpg" title="xdrip_face_watch"/> <br><br>
 9. (5:14) Huawei Quick Install reminder (see video below)<br><br>
-<iframe width="860" height="615" src="https://www.youtube.com/embed/7Ackvo657Ew?start=314" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="860" height="615" src="https://www.youtube.com/embed/7Ackvo657Ew?start=314" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
- 
+ <a href="https://www.diabetes.org.uk/" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs! 
+
+If you would like to donate to me for helping with these documents please visit where I try to attempt to do one of the challenge each year to raise funds for Diabetes UK I'm yet again doing one on the 1st September 2021 (Thank you for your kind donations!)  
+
+<a href="https://www.facebook.com/david.galloway.75033/posts/573983773774927?__cft__[0]=AZUnXPgENQhMUmUoX8ubo153kZN9YoNBMp-SwuQoBBGmcs38N9N3N9U4JEthonOLFp6hn5c7Dpg-Xo4bAl5RS5Ew9qWOA0yys2hzR0dhh0Jsroj4wWTWvYpdvt0ilnFFQHo&__tn__=%2CO%2CP-R
+" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/uk_wide_cycle_ride_.jpg" title="Diabetes UK Wide cycle Ride"/>
 
 
 
