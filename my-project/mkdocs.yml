@@ -1,0 +1,29 @@
+site_name: Cyb Netics Docs sever
+
+nav:
+- Home: 'index.md'
+
+- Xdrip :
+    - 'Xdrip Download': 'user-guide/xdrip - Download.md'
+    - 'Xdrip connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
+    - 'Xdrip Follower Setup': 'user-guide/Xdrip Follower Setup.md'
+
+- Nightscout :
+    - 'Specifications': 'user-guide/Specifications.md'
+    - 'Fork and Deploy cgm remote monitory Part 4': 'user-guide/Fork_and_Deploy_cgm_remote_monitory_part4.md'
+    - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
+    - 'Nightscout Update': 'user-guide/Nightscout_update.md'
+    - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
+    
+       
+-   Watches:
+    - 'TicWatch-Pro-3-Side-Load': 'user-guide/TicWatch-Pro-3-side-load---xdrip.md'
+    
+
+    
+- About :
+
+
+    - 'About': 'about.md'
+    
+

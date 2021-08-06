@@ -36,29 +36,12 @@
                             <li class="navitem">
                                 <a href="../.." class="nav-link">Home</a>
                             </li>
-                            <li class="dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Xdrip <b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                    
-<li>
-    <a href="../Xdrip%20connection%20Problem%20fix/" class="dropdown-item">Xdrip connection Problem fix</a>
-</li>
-                                    
-<li>
-    <a href="../Xdrip%20Follower%20Setup/" class="dropdown-item">Xdrip Follower Setup</a>
-</li>
-                                </ul>
-                            </li>
                             <li class="dropdown active">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Nightscout <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
 <li>
     <a href="../Specifications/" class="dropdown-item">Specifications</a>
-</li>
-                                    
-<li>
-    <a href="./" class="dropdown-item active">Fork and Deploy cgm remote monitory Part 4</a>
 </li>
                                     
 <li>
@@ -76,10 +59,15 @@
 <li>
     <a href="../Setting_up_Atlas_Account_part3/" class="dropdown-item">Setting up Atlas Account Part 3</a>
 </li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">Fork and Deploy cgm remote monitory Part 4</a>
+</li>
+                                    
+<li>
+    <a href="../Nightscout_Plugins/" class="dropdown-item">Nightscout Plugins</a>
+</li>
                                 </ul>
-                            </li>
-                            <li class="navitem">
-                                <a href="../Nightscout_Plugins/" class="nav-link">Nightscout Plugins</a>
                             </li>
                             <li class="dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">NS-Update <b class="caret"></b></a>
@@ -112,12 +100,12 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../Specifications/" class="nav-link">
+                                <a rel="prev" href="../Setting_up_Atlas_Account_part3/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
                             <li class="nav-item">
-                                <a rel="next" href="../Nightscout_usefull_Information/" class="nav-link">
+                                <a rel="next" href="../Nightscout_Plugins/" class="nav-link">
                                     Next <i class="fa fa-arrow-right"></i>
                                 </a>
                             </li>
@@ -267,48 +255,49 @@ In <span style="background-color: #FFFF00"><strong>my case I used mmol</strong><
 </tbody>
 </table>
 <p><br>
-11. Now you need the <span style="background-color: #FFFF00"><strong>connection string</strong></span> you defined during the <span style="background-color: #FFFF00"><strong>Atlas cluster creation</strong></span> (as the example below, but not the string below). Copy and paste it in the MONGODB_URI variable field.<br>
-ar 12. I will try to give you an example about the way to do it below:</p>
+11. Now you need the connection string you defined during the Atlas cluster creation (as the example below, but not the string below). Copy and paste it in the MONGODB_URI variable field.<br>
+12. I will give you an example about this below:</p>
 <p><br>
-   1. In the boxes below 1st is your Atlas Account you gave yourself a <span style="background-color: #FFFF00"><strong>User Name</strong></span> add it to the box User Name
+   1. The 1st is your Atlas Account you gave yourself a <span style="background-color: #FFFF00">User Name</span>
  <br>
-   2. Then you made a <span style="background-color: #FFFF00"><strong>Database Password add your Password</strong> </span>you  created for your database
+   2. Then you made a <span style="background-color: #FFFF00">Database Password</span>
 <br>
-   3. And lastly you made a <span style="background-color: #FFFF00"><strong>Database Name</strong> </span>also add this to the last box and click the <span style="background-color: #FFFF00"><strong>Copy Text button</strong></span>  which will generate your code that you will  need to add to your Heroku API
+   3. And lastly you made a <span style="background-color: #FFFF00">Database Name</span>
 <br>
-    <br></p>
-<p></font>
+    <br>
+13. oijhou
+</font>
 <br><p>
-<span style="background-color: #FFFF00"><strong>username:</strong></span> <input type="text" id="username" value="click here, delete and put your own " size="32">  Eg username: <input type="text" id="egusername" value="Dave" size="32"><br></p>
-<p><span style="background-color: #FFFF00"><strong>Database password:</strong></span> <input type="text" id="dbpassword" value="click here,delete and put your own" size="31"> Eg Database password: <input type="text" id="egdbpassword" value="   Mypassword1234" size="20"><br>
+username: <input type="text" id="username" value="click here, delete and put your own " size="32">  Eg username: <input type="text" id="egusername" value="Dave" size="32"><br></p>
+<p>Database password: <input type="text" id="dbpassword" value="click here,delete and put your own" size="31"> Eg Database password: <input type="text" id="egdbpassword" value="   Mypassword1234" size="20"><br>
 <br>
-<span style="background-color: #FFFF00"><strong>Database Name:</strong></span> <input type="text" id="dbname" value="click here, delete and put your own " size="32"> E.g Database Name: <input type="text" id="egdbname" value=" Davesdatabase " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32">
+Database Name: <input type="text" id="dbname" value="click here, delete and put your own " size="32"> E.g Database Name: <input type="text" id="egdbname" value=" Davesdatabase " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32">
 <br>
 <br></p>
 <p></p>
 
-<p><br />
-13. Yours should look simular to the one below mine might be a little different to what yours should be so do check it carefully<br></p>
-<p><span style="background-color: #FFFF00"><strong>mongodb+srv://</strong></span> <input type="text" id="field3"value="User Name">
-: <input type="text" id="field4"value="Database Password">
-@cluster0.lkqng.mongodb.net/ <input type="text" id="field5"value="Database Name">?retryWrites=true&amp;w=majority<br><br>
+<p>jhgkjhl
+dfdfsfdsfdsf
+sdgfdsgfdsfdsfds
+sdfsffsdfdsfsdfsdf
+sdfsfsdffffffffffffffffffffff
+<br /></p>
+<p>Field1: <input type="text" id="field1" value="Hello World!">
+Field3: <input type="text" id="field3"><br><br>
 <button onclick="myFunction()">Copy Text</button></p>
 <script>
 function myFunction() {
-  document.getElementById("field3").value = document.getElementById("username").value;
-  document.getElementById("field4").value = document.getElementById("dbpassword").value;
-  document.getElementById("field5").value = document.getElementById("dbname").value;
-
+  document.getElementById("field3").value = document.getElementById("field1").value;
 }
 </script>
-<p><br></p>
-<ol>
-<li>In your connection string of Atlas: click Copy and paste your code somewhere to edit it (like Notepad)</li>
-</ol>
-<p><img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="Version of Nightscout Video"/><br><br></p>
-<p><a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit <a href="https://cycle.diabetes.org.uk/">UK Wide Cycle Ride - Diabetes.uk</a> or  <a href="https://swim22.diabetes.org.uk/">Swim22 - Diabetes.uk</a> for your Diabetes Needs!</p>
+
+<script>
+function myFunction() {
+  document.getElementById("field3").value = document.getElementById("field1","field2").value;
+}
+</script>
+
+<p><font size="4"></p>
 <p></font></p>
 <!--  
 
