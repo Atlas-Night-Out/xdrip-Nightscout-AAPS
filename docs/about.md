@@ -52,7 +52,7 @@ visiting back from time to time for updates and help with video tips and Article
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) or [One million steps - Diabetes.uk](https://step.diabetes.org.uk/)  <p align="center" border="0">
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) or [One million steps - Diabetes.uk](https://step.diabetes.org.uk/)  <p align="center" border="0"  background-color: green>
 <img src="https://media.giphy.com/media/gnMDz0KTtObMMjXl2M/giphy.gif" width="400" height="220" />
 </p>
 
