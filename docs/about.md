@@ -4,7 +4,7 @@ to see how to setup this see: https://www.mkdocs.org/user-guide/deploying-your-d
 and also my notes in onenote Mkdocs to Github-->
 
 
-# Welcome to The Diabetic way D
+# Welcome to The Diabetic way test
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
