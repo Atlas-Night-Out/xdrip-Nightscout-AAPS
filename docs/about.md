@@ -1,15 +1,28 @@
 <!-- this is  on github live server!
 docs made by D.Galloway 2019- 2021
+<<<<<<< HEAD
 to see how to setup this see: https://www.mkdocs.org/user-guide/deploying-your-docs/
 and also my notes in onenote Mkdocs to Github-->
+=======
+>>>>>>> 0e268f1fcc3504bcd33b2fbcfc06fe2389c6ce02
 
+-->
 
+<<<<<<< HEAD
 # Welcome to The Diabetic way test
+=======
+
+# Welcome to The Diabetic way 55
+>>>>>>> 0e268f1fcc3504bcd33b2fbcfc06fe2389c6ce02
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
 
+<<<<<<< HEAD
 <img width="600" height="600" border="0" align="center"  src="/my-project/img/cyb netics_logo.jpg" title="Cyb netics Intro"/>
+=======
+<img width="600" height="600" border="0" align="center"  src="img/cyb netics_logo.jpg" title="Cyb netics Intro"/>
+>>>>>>> 0e268f1fcc3504bcd33b2fbcfc06fe2389c6ce02
 
 The Diabetic way was first created in 2000
 
