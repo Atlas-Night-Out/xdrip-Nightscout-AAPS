@@ -9,7 +9,7 @@ docs made by D.Galloway 2019- 2021
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
 
-<img width="600" height="600" border="0" align="center"  src="mg/cyb netics_logo.jpg" title="Cyb netics Intro"/>
+<img width="600" height="600" border="0" align="center"  src="img/cyb netics_logo.jpg" title="Cyb netics Intro"/>
 
 The Diabetic way was first created in 2000
 
