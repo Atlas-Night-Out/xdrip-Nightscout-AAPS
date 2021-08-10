@@ -37,7 +37,7 @@ control my difficult Diabetes with issues I have with it and controlling it.
 
 I just started the site to learn how to make a web site in the first place and by me learning this I’m now trying to help with new information and programmes that come to are needs and in us having to learn the development of Diabetes getting better with technologies being adapted into are everyday use.
 
-I hope you enjoy the Docs and cycling events but more important is for yourself to get out on a bike (not Car) to help your Diabetes as it won’t help you sitting doing nothing and pumping loads of insulin into you, but more important is you enjoy in doing so.
+I hope you enjoy the Docs and cycling events but more important is for yourself to get out on a bike or swim or even a walk (not Car) to help your Diabetes as it won’t help you sitting, but more important is you get out and  enjoy it.
 Xdrip and Nightscout are extremely hard to get setup at the start but once you are setup you will not looking back! It’s the way forward!
 
 
