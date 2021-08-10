@@ -1,6 +1,5 @@
 <!-- this is  on github live server!
 docs made by D.Galloway 2019- 2021
-<<<<<<< HEAD
 to see how to setup this see: https://www.mkdocs.org/user-guide/deploying-your-docs/
 and also my notes in onenote Mkdocs to Github-->
 
