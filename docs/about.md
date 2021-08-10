@@ -1,8 +1,10 @@
 <!-- this is  on github live server!
-docs made by D.Galloway 2019- 2021-->
+docs made by D.Galloway 2019- 2021
+to see how to setup this see: https://www.mkdocs.org/user-guide/deploying-your-docs/
+and also my notes in onenote Mkdocs to Github-->
 
 
-# Welcome to The Diabetic way VCcc
+# Welcome to The Diabetic way 
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
@@ -24,7 +26,7 @@ I have been on computers since the Zx81 when it was just a black and white scree
 this was in the 1970's now in 2021 I see that computers are doing a lot more in helping Diabetics live and manage a easier life and want in some way also try to help where I can in doing so.
 
 I will not be teaching you on this site of Diabetes itself you will be better visiting My favorite Diabetes web site [Diabetes.uk](https://www.diabetes.org.uk/"The best Diabetes web site for your Diabetes")<a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="150px" height="50" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="150px" height="50" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>
 
 I will also always be relating to a Type 1 Diabetes not a Type 2 has I do not have this disease myself and would find it hard to relate to it like I do with type 1! 
@@ -48,7 +50,7 @@ you enjoy your stay on the site and I hope it will be a place to keep.
 visiting back from time to time for updates and help with video tips and Articles. All the Best to you all and I hope you can have a happier T1 life :-)
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs!
 
 
