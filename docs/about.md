@@ -1,5 +1,7 @@
 <!-- this is  on github live server!
-docs made by D.Galloway 2019- 2021-->
+docs made by D.Galloway 2019- 2021
+
+-->
 
 
 # Welcome to The Diabetic way
