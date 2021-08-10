@@ -1,13 +1,13 @@
 <!-- this is  on github live server!
 docs made by D.Galloway 2019- 2021-->
 
-# Welcome to The Diabetic way 44
+# Welcome to The Diabetic way 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
 
 ## Xdrip Follower Setup
-
+![Screenshot](img/xdrip_followers_setup/20210624_190543_460x3777.jpg.png)
 
 <img width="auto" height="auto" border="0" align="center"  src=" /my-project/img/xdrip_followers_setup/20210624_190543_460x3777.jpg" title="xdrip setup"/></a>
 
