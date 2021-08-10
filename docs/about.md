@@ -18,12 +18,13 @@ The Diabetic way was first created in 2000
 I have had diabetes for over 50 years now, and during this time I have built up a lot of information and knowledge to hopefully help 
 other diabetics to a healthier T1 living by means of exercise and on wearing or having a CGM and pump or Pod with  better foods to control are Blood ranges better, for a healthier future. 
 
-It's a very difficult and hard disease to cope with let alone deal with other issues in life it's a very hard battle to deal and go through with and for someone to just get the disease can be a nightmare to understanding it all so quickly! 
+It's a very difficult and hard disease to cope with let alone deal with other issues in life it's a very hard battle to deal and go through with and for someone to just get the disease can be a nightmare to understanding it all so quickly and find teh righ information! 
 
-There is lots of information now on the internet, but this information can also be very confusing due to things changing that’s very fast, and information not keeping up with documents for people to know what’s best and latest information for Diabetics to know what Past is and what is the Future to read! Hopefully these Docs will get dated so you will know! 
+There is lots of information now on the internet, but this information can also be very confusing due to things changing that’s very fast and incorrect information too, and also information not keeping up with documents for people to know what’s best and latest information for Diabetics to know what Past is and what is the Future to read! Hopefully these Docs will get dated so you will know! But like Humans we all make and forget! ;-) 
 
-I have been on computers since the Zx81 when it was just a black and white screen no sound and know way back then that this could be some fun trying to get it to help me with my diabetes.
-this was in the 1970's now in 2021 I see that computers are doing a lot more in helping Diabetics live and manage a easier life and want in some way also try to help where I can in doing so.
+I have been on computers since the Zx81 when it was just a black and white screen with no sound, and knowing now taht  way back then in teh 1970's that this could be some fun trying to get it to help me with my diabetes in the furture and which it is doing right now for us all
+.
+Now in 2021 I see that computers are doing a lot more in helping Diabetics live and manage a easier life and want in some way also try to help where I can in doing so.
 
 I will not be teaching you on this site of Diabetes itself you will be better visiting My favorite Diabetes web site [Diabetes.uk](https://www.diabetes.org.uk/"The best Diabetes web site for your Diabetes")<a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="150px" height="50" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
@@ -51,7 +52,7 @@ visiting back from time to time for updates and help with video tips and Article
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs!
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/)  [One million step Challenge ](https://step.diabetes.org.uk/) for your Diabetes Needs!
 
 
 I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.
