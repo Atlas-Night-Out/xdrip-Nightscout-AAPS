@@ -52,7 +52,9 @@ visiting back from time to time for updates and help with video tips and Article
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) or [One million steps - Diabetes.uk](https://step.diabetes.org.uk/)  <iframe src="https://giphy.com/embed/gnMDz0KTtObMMjXl2M" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-cycling-swimming-walking-gnMDz0KTtObMMjXl2M">via GIPHY</a></p>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) or [One million steps - Diabetes.uk](https://step.diabetes.org.uk/)  <p align="center">
+<img src="https://media.giphy.com/media/gnMDz0KTtObMMjXl2M/giphy.gif" width="200" height="180" /><br>
+</p>
 
 
 I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.
