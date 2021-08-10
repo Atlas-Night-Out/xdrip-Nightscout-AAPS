@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2021
 to see how to setup this see: https://www.mkdocs.org/user-guide/deploying-your-docs/
 and also my notes in onenote Mkdocs to Github-->
 
-# Welcome to The Diabetic way test 222
+# Welcome to The Diabetic way 
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
@@ -52,7 +52,7 @@ visiting back from time to time for updates and help with video tips and Article
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/)   for your Diabetes Needs!
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) or [One million steps - Diabetes.uk](https://step.diabetes.org.uk/)  for your Diabetes Needs!
 
 
 I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.
