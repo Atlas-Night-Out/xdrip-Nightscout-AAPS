@@ -5,7 +5,7 @@ src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon "
 -->
 
 
-TicWatch Pro 3 side load - xdrip666666
+TicWatch Pro 3 side load - xdrip
 
  <img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
 <br>
