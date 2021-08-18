@@ -1,8 +1,11 @@
 <!-- this is  on github live server!
-docs made by D.Galloway 2019- 2021-->
+docs made by D.Galloway 2019- 2021
+images would need to be change for them to show up on github from src="/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
+src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
+-->
 
 
-TicWatch Pro 3 side load - xdrip
+TicWatch Pro 3 side load - xdrip22
 
  <img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
 <br>
