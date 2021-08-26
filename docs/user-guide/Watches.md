@@ -34,8 +34,8 @@ If you want to use your Pebble with Loop see <a href="https://loopkit.github.io/
 ## <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">Pebble xDrip+</a><br>
 To Enable Pebble Integration in xdrip Smartwatch features, go to<br>
 
- 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
- 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/Pebble Intergration.jpg" title="Pebble Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/pebble intergration on1.jpg" title="Pebble Watch Intergration Turn On"/>
+ 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
+ 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/Pebble Intergration.jpg" title="Pebble Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/pebble intergration on1.jpg" title="Pebble Watch Intergration Turn On"/>
 
 
 You can answer no to default watchface install if you like,so that you will be able to select another one. <br>
@@ -58,8 +58,8 @@ Note: Newer versions of Wear OS do not support this feature anymore, you have to
 ## <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">Android Wear xDrip+</a><br>
 To enable Android Wear Integration to send xDrip+ BG to your smartwatch. Do not enable either Wear Collection service or Force Wear Collection.<br><br>
 
- 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
- 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/Android wear intergration.jpg" title="Android Wear Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/wear intergration.jpg" title="Wear Intergration Turn On"/>
+ 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
+ 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/Android wear intergration.jpg" title="Android Wear Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/wear intergration.jpg" title="Wear Intergration Turn On"/>
 <br>
 For full xDrip+ wear documentation go <a href="https://github.com/jamorham/xDrip-plus/blob/master/Documentation/WatchGuide.md" target="_blank">here.</a><br>
 
@@ -68,8 +68,8 @@ For AAPS on Wear OS smartwatch <a href="https://androidaps.readthedocs.io/en/lat
 <a href="https://play.google.com/store/apps/details?id=it.ct.glicemia">Glimp </a>on Google Play<br>
 Select your Wearable device and enable the Glimp watchface.<br>
 
-1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/Glimp.jpg" title="Option "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/glimp settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/img/watches/glimp bluetooth.jpg" title="Bluetooth"/><br>
- 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/glimp select wearible device.jpg" title="select wearible device"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/glimp select your watch.jpg" title="select your watch"/>
+1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/Glimp.jpg" title="Option "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/glimp settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/img/Watches/glimp bluetooth.jpg" title="Bluetooth"/><br>
+ 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/glimp select wearible device.jpg" title="select wearible device"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/glimp select your watch.jpg" title="select your watch"/>
 
 
 ## **Amazfit Pace & Stratos<br>**
@@ -81,11 +81,11 @@ xDrip+<br>
 	4. unlock and enable USB debug on the watch, Do this by going to options then about and clicking on it 7 times.Video below is on a Ticwatch Pro 3 but I believe its done similar on the Amazfit Pace<br><br>
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/c7taDhXspz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
     5. Run TOOL ALL IN ONE and click the APK Installer button, select the widget apk file and INSTALL it.<br>
-    <img width="619" height="368" border="0" align="center"  src="/my-project/img/watches/TOOL ALL IN ONE_Apk_installer.jpg" title="TOOL ALL IN ONE Apk_installer"/><br><br>
+    <img width="619" height="368" border="0" align="center"  src="/my-project/img/Watches/TOOL ALL IN ONE_Apk_installer.jpg" title="TOOL ALL IN ONE Apk_installer"/><br><br>
 	6. Close the install window and click Reboot System.<br><br>
 	7. In xDrip+, enable the Amazfit service and select other options you want to enable.<br><br>
-	 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
- 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/Amazfit_sync_service.jpg" title="Amazfit Sync Service"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/Amafit_service.jpg" title="Amafit service"/><br><br>
+	 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
+ 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/Amazfit_sync_service.jpg" title="Amazfit Sync Service"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/Amafit_service.jpg" title="Amafit service"/><br><br>
  
 
 
