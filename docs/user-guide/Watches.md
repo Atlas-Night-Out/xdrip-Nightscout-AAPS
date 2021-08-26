@@ -1,18 +1,18 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by D.Galloway 2019- 2021
-images would need to be change for them to show up on github from src="/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
+images would need to be change for them to show up on github from src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
 src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
 
 -->
 
 <br> 
 
- <img width="460" height="303" border="0" align="center"  src="/img/Watches/Watches 20210821_233839.jpg" title="xdrip Logo "/>
+ <img width="460" height="303" border="0" align="center"  src="/my-project/img/Watches/Watches 20210821_233839.jpg" title="xdrip Logo "/>
 <br>
 ## **How to display CGM data on your watch.**<br><br>
 
 ## Pebble Smartwatches
- <img width="360" height="303" border="0" align="center"  src="/img/Garmin945 Connect/Pebble watch2.jpg" title="Pebble Watch"/>
+ <img width="360" height="303" border="0" align="center"  src="/my-project/img/Garmin945 Connect/Pebble watch2.jpg" title="Pebble Watch"/>
 <br>
 
 Pebble has been bought in 2016 by Fitbit and information resources have moved to
@@ -34,12 +34,12 @@ If you want to use your Pebble with Loop see <a href="https://loopkit.github.io/
 ## <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">Pebble xDrip+</a><br>
 To Enable Pebble Integration in xdrip Smartwatch features, go to<br>
 
- 1.<img width="219" height="468" border="0" align="center"  src="/img/watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
- 4.<img width="219" height="468" border="0" align="center"  src="/img/watches/Pebble Intergration.jpg" title="Pebble Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/img/watches/pebble intergration on1.jpg" title="Pebble Watch Intergration Turn On"/>
+ 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
+ 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/Pebble Intergration.jpg" title="Pebble Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/pebble intergration on1.jpg" title="Pebble Watch Intergration Turn On"/>
 
 
 You can answer no to default watchface install if you like,so that you will be able to select another one. <br>
-You can also choose to install or not the snooze control. <img width="219" height="468" border="0" align="center"  src="/img/watches/snooze button.jpg" title="Snooz Button"/>
+You can also choose to install or not the snooze control. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/snooze button.jpg" title="Snooz Button"/>
 
 
 ## <a href="https://wearos.google.com/#hands-free-help" target="_blank">Android Wear OS smartwatches</a>
@@ -58,8 +58,8 @@ Note: Newer versions of Wear OS do not support this feature anymore, you have to
 ## <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">Android Wear xDrip+</a><br>
 To enable Android Wear Integration to send xDrip+ BG to your smartwatch. Do not enable either Wear Collection service or Force Wear Collection.<br><br>
 
- 1.<img width="219" height="468" border="0" align="center"  src="/img/watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
- 4.<img width="219" height="468" border="0" align="center"  src="/img/watches/Android wear intergration.jpg" title="Android Wear Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/img/watches/wear intergration.jpg" title="Wear Intergration Turn On"/>
+ 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
+ 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/Android wear intergration.jpg" title="Android Wear Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/img/watches/wear intergration.jpg" title="Wear Intergration Turn On"/>
 <br>
 For full xDrip+ wear documentation go <a href="https://github.com/jamorham/xDrip-plus/blob/master/Documentation/WatchGuide.md" target="_blank">here.</a><br>
 
