@@ -1,4 +1,4 @@
-<!-- this is  on github live server!
+<!-- this is  on github live server! https://atlas-night-out.github.io/my-project/user-guide/TicWatch-Pro-3-side-load---xdrip/
 docs made by D.Galloway 2019- 2021
 images would need to be change for them to show up on github from src="/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
 src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
