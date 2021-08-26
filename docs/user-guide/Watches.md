@@ -12,7 +12,7 @@ src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon "
 ## **How to display CGM data on your watch.**<br><br>
 
 ## Pebble Smartwatches
- <img width="360" height="303" border="0" align="center"  src="/my-project/img/Garmin945 Connect/Pebble watch2.jpg" title="Pebble Watch"/>
+ <img width="360" height="303" border="0" align="center"  src="/my-project/img/Watches/Pebble watch2.jpg" title="Pebble Watch"/>
 <br>
 
 Pebble has been bought in 2016 by Fitbit and information resources have moved to
