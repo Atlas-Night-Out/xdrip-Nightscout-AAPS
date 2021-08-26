@@ -4,7 +4,7 @@ images would need to be change for them to show up on github from src="/img/side
 src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon "  -->
 
 
-TicWatch Pro 3 side load - xdrip 776
+TicWatch Pro 3 side load - xdrip 
 
  <img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
 <br>
