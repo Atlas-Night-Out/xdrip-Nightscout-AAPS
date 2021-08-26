@@ -34,12 +34,12 @@ If you want to use your Pebble with Loop see <a href="https://loopkit.github.io/
 ## <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">Pebble xDrip+</a><br>
 To Enable Pebble Integration in xdrip Smartwatch features, go to<br>
 
- 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
- 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/Pebble Intergration.jpg" title="Pebble Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/pebble intergration on1.jpg" title="Pebble Watch Intergration Turn On"/>
+ 1.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/hanberger setting2.jpg" title="Hamberger "/> 2. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/xdrip settings.jpg" title="Settings "/> 3. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/smart watch feature (2).jpg" title="Smart Watch Features"/><br>
+ 4.<img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/Pebble Intergration.jpg" title="Pebble Intergration"/> 5.<img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/pebble intergration on1.jpg" title="Pebble Watch Intergration Turn On"/>
 
 
 You can answer no to default watchface install if you like,so that you will be able to select another one. <br>
-You can also choose to install or not the snooze control. <img width="219" height="468" border="0" align="center"  src="/my-project/img/watches/snooze button.jpg" title="Snooz Button"/>
+You can also choose to install or not the snooze control. <img width="219" height="468" border="0" align="center"  src="/my-project/img/Watches/snooze button.jpg" title="Snooz Button"/>
 
 
 ## <a href="https://wearos.google.com/#hands-free-help" target="_blank">Android Wear OS smartwatches</a>
