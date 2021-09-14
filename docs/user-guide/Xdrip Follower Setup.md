@@ -7,7 +7,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 
 ## Xdrip Follower Setup
-![Screenshot](img/xdrip_followers_setup/20210624_190543_460x3777.jpg.png)
+![Screenshot](/my-project/img/xdrip_followers_setup/20210624_190543_460x3777.jpg.png)
 
 <img width="auto" height="auto" border="0" align="center"  src=" /my-project/img/xdrip_followers_setup/20210624_190543_460x3777.jpg" title="xdrip setup"/></a>
 
@@ -50,6 +50,9 @@ in Sync Settings on your main phone<br><br>
 
 
 If you would like to donate to me for helping with these documents please visit where I try to attempt to do one of the challenge each year to raise funds for Diabetes UK I'm yet again doing one on the 1st September 2021 (Thank you for your kind donations!)  
+
+<a href="https://cycle.diabetes.org.uk/fundraising/UKWideCycleRide-DiabetesUK" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/uk_wide_cycle_ride_.jpg" title="Diabetes UK Wide cycle Ride"/>
 
 <a href="https://www.facebook.com/david.galloway.75033/posts/573983773774927?__cft__[0]=AZUnXPgENQhMUmUoX8ubo153kZN9YoNBMp-SwuQoBBGmcs38N9N3N9U4JEthonOLFp6hn5c7Dpg-Xo4bAl5RS5Ew9qWOA0yys2hzR0dhh0Jsroj4wWTWvYpdvt0ilnFFQHo&__tn__=%2CO%2CP-R
 " target="_blank">
