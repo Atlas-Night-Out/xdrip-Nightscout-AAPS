@@ -57,9 +57,9 @@ visiting back from time to time for updates and help with video tips and Article
 </p>
 
 
-I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.
-
 If you would like to donate to me for helping with these documents please visit where I try to attempt to do one of the challenge each year to raise funds for Diabetes UK I'm yet again doing one on the 1st September 2021 (Thank you for your kind donations!)  
 
 <a href="https://cycle.diabetes.org.uk/fundraising/UKWideCycleRide-DiabetesUK" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/uk_wide_cycle_ride_.jpg" title="Diabetes UK Wide cycle Ride"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/uk_wide_cycle_ride_.jpg" title="Diabetes UK Wide cycle Ride"/><br><br>
+
+  I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.
