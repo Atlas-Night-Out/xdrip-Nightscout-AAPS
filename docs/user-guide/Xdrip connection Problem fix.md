@@ -5,7 +5,7 @@ docs made by D.Galloway 2019- 2021-->
 # Welcome to The Diabetic way
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
-<br>
+<br>David!
 
 ## <span style="color:#111478">Xdrip connection Problem fix </span> <br> 
 
