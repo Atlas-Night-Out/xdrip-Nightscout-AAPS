@@ -17,7 +17,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
    
 <br>  
 <font size="4"> 
-1. Make sure you are up to date on xdrip. You can this by <span style="background-color: #FFFF00">** Following the links below**</span><br>
+1.David Make sure you are up to date on xdrip. You can this by <span style="background-color: #FFFF00">** Following the links below**</span><br>
 2. If you are working on a <span style="background-color: #FFFF00">** PC **</span> Download latest version of Xdrip from here <a href= target="_blank" title="xdrip Nightly build PC">Click Here</a> or goto https://github.com/NightscoutFoundation/xDrip/releases 
  <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip_nightly build logo.jpg" title="xdrip Nightly Build"/></a>
