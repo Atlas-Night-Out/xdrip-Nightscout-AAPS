@@ -170,6 +170,6 @@ If you would like to donate to me for helping with these documents please visit 
 <!-- 
 
 Adding links!!!!!!!!!!!!!!
-<a href="https://rebble.io/" target="_blank">rebble.io.</a><br>
+<a href=" https://github.com/" target="_blank" title="Download Xdrip from mobile">Click Here</a> download xdrip from mobile: 
 
  -->
