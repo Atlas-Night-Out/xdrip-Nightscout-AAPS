@@ -32,7 +32,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 1. First <span style="background-color: #FFFF00">**Sign up for Github Acount**</span>   <a href=" https://github.com/" target="_blank" title="Github">Click Here</a> 
    <br><br>
 
-2. Fill in all of your account  details  on screen and keep them writen down in a safe place to keep.<br>
+2. Fill in all of your account  details  on screen and keep them written down in a safe place to keep.<br>
 
 3. <a href="https://github.com/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github account.jpg" title="Setting up Github"/>
@@ -60,7 +60,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </a><br>
 9. Click this <a href=" https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Main Repository">Link</a> to take you to the <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> make sure to open it in a new tab: https://github.com/nightscout/cgm-remote-monitor <br>
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/6o3AdkQBVog?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-10. Now fork it from <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> to your own respository (in my case)  <span style="background-color: #FFFF00">**thediabeticway23**</span> <br>
+10. Now fork it from <span style="background-color: #FFFF00">**Nightscout Main repository**</span> to your own respository (in my case)  <span style="background-color: #FFFF00">**thediabeticway23**</span> <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/nightscout_repo.jpg" Setting up GitHub Part 1"/>
 11. Once you have forked it from Nightscout Repo to your own repo you should be able to go to it, to see all the files!
 
