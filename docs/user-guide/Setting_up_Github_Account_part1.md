@@ -42,26 +42,26 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </a><br>
 4. After filling in your details you will then need to do a <span style="background-color: #FFFF00">**puzzle**</span> Puzzle<br>
 
-    <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
+    <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
 </a><br>
 5. After doing the puzzle you will be sent an email, so <span style="background-color: #FFFF00">**check your email**</span>  for the code sent to you!<br> 
 
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github code.jpg" title="Github Code"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github code.jpg" title="Github Code"/>
 </a><br>
 6. Now <span style="background-color: #FFFF00">**enter the code**</span> sent to you to finish the setup<br>
 
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github enter code.jpg" title="Setting up github"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github enter code.jpg" title="Setting up github"/>
 </a><br>
 7. Just fill in the rest of the details to what you want to use in my case I SELECTED all the tools needed!<br><br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github tools.jpg" title="Github Tools"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github tools.jpg" title="Github Tools"/>
 </a><br>
 8. Now click on the <span style="background-color: #FFFF00">**Cat icon**</span>  to get to your main Github account. <br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/cat icon.jpg" title="Github Cat Icon"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/cat icon.jpg" title="Github Cat Icon"/>
 </a><br>
 9. Click this <a href=" https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Main Repository">Link</a> to take you to the <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> make sure to open it in a new tab: https://github.com/nightscout/cgm-remote-monitor <br>
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/6o3AdkQBVog?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 10. Now fork it from <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> to your own respository (in my case)  <span style="background-color: #FFFF00">**thediabeticway23**</span> <br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/nightscout_repo.jpg" Setting up GitHub Part 1"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/nightscout_repo.jpg" Setting up GitHub Part 1"/>
 11. Once you have forked it from Nightscout Repo to your own repo you should be able to go to it, to see all the files!
 
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/M78KtZ5WbYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -95,7 +95,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br> 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
   <!--  
