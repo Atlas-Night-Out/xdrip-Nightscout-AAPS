@@ -5,7 +5,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/>
 
 
 
