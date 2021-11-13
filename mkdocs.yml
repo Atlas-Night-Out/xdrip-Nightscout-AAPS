@@ -11,7 +11,7 @@ nav:
 - Nightscout :
     - 'Specifications': 'user-guide/Specifications.md'
     - 'Part 1 Setting up Github Account ': 'user-guide/Setting_up_Github_Account_part1.md'
-    - 'Fork and Deploy cgm remote monitory Part 4': 'user-guide/Fork_and_Deploy_cgm_remote_monitory_part4.md'
+    - 'Part 4 - Fork and Deploy cgm remote monitory': 'user-guide/Fork_and_Deploy_cgm_remote_monitory_part4.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
     - 'Nightscout Update': 'user-guide/Nightscout_update.md'
     - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
