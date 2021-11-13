@@ -1,3 +1,6 @@
+<!-- this is not on github server its local only and run my mkdocs server!
+docs made by D.Galloway 2019- 2021-->
+
 # Welcome to The Diabetic way
 
 
@@ -260,9 +263,9 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 </table>
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not also visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) for your Diabetes Needs! 
-
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
+</center>
 
   <!--  
   

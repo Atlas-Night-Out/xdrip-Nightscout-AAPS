@@ -1,3 +1,6 @@
+<!-- this is not on github server its local only and run my mkdocs server!
+docs made by D.Galloway 2019- 2021-->
+
 # Welcome to The Diabetic way
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
@@ -128,16 +131,9 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </table>
 <br><br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs! 
-
-If you would like to donate to me for helping with these documents please visit where I try to attempt to do one of the challenge each year to raise funds for Diabetes UK I'm yet again doing one on the 1st September 2021 (Thank you for your kind donations!)  
-
-<a href="https://www.facebook.com/david.galloway.75033/posts/573983773774927?__cft__[0]=AZUnXPgENQhMUmUoX8ubo153kZN9YoNBMp-SwuQoBBGmcs38N9N3N9U4JEthonOLFp6hn5c7Dpg-Xo4bAl5RS5Ew9qWOA0yys2hzR0dhh0Jsroj4wWTWvYpdvt0ilnFFQHo&__tn__=%2CO%2CP-R
-" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/uk_wide_cycle_ride_.jpg" title="Diabetes UK Wide cycle Ride"/>
-</font>
-
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
+</center>
  <!--
 
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">

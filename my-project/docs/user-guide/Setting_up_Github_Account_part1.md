@@ -4,392 +4,119 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <br>
 
-## <span style="color:#111478">Setting up GitHub Account Part 1 </span> <br> 
-
 <br>
 <img width="auto" height="auto" border="0" align="center"  src="/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/>
 
 
 
+# Part 1: Setting up the Github for Nightscout <br>
 
 
-Part 1: Setting up the Github
-Create a user account by going to Github     see below for links
-Github: https://github.com/
-Click on sign up for Github
-Fill in your details and write them down in a safe place.
-Create your own unique username, email address, and password (also write these down)
-Make sure it's at least 15 characters OR at least 8 characters, including a tiny number and letter.
-Make sure you are a real person and not a bot by turning around the image of an animal until it is standing... and then you'll be able to click on the green "create an account" at the bottom of the page
-Do not forget to check your email to verify your account
-You can choose the free plan for this task. You can skip the survey questions in the second step if you like
-After verified and logged in, go to the main Nightscout repository here
-Once you’re verified and logged in, go to the Nightscout Main repository
-Nightscout Main Repository: https://github.com/nightscout/cgm-remote-monitor
-Now make your own copy of the project by “forking” it:
-Click on the Fork button in the upper right
-After a moment, you will have your own fork of the project.
-Bookmark this page,( thediabeticways / cgm-remote-monitor) for revisits from time to time.
-In your case the name you made for ( Your Github account name / cgm-remote-monitor)
-Go back to your Github account and click on the Octocat icon to refresh your page.
-You now have your own copy of the Nightscout repository
-Bookmark this page,(main Nightscout repository) for revisits from time to time
-Now it’s time to create a Heroku account - now see Setting up a Heroku Account Part 2
-Heroku: https://signup.heroku.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/>
-
-
-
-<font size="4">
-
-This is a regular paragraph.
-
-Paragraph:
-
-1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
-  and **click** Start Free
- <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
-      2. **No need to do this part** but I did.<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB_Atlas account_setup.jpg"MongoDB Atlas Account Setup.jp"/>
- <br>
-      3. Sub item three<br>
-2. Item two
-
-
-* Enter your information and then click Get Started Free
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas fill in details2.jpg"Fill in your details"/>
+## If you would like to follow these instructions with video then see below other wise continue step by step below <br><br>
   
   
-  Select Create a cluster in Shared Clusters (FREE)
-  
-  
- 
-  
-  Leave all default values and click Create Cluster
-  
-  
-  
-  
-  
-  Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes)
-  
-  
-  
-   Click on CONNECT
-   
-   
-   f. Click on Allow Access from Anywhere
-   
-   
-   Click on Add IP Address
-   
-   
-   
-   
-   h) Add a database username (for example nightscout) and a database password (in the example below soo5ecret but please change it!).
-   
-   
-   i) Then click Create Database User.
-   
-   
-   j)Click on Choose a connection method
-   
-   
-   Select Connect your application
-   
-   
-   
-   Copy the connection string: click Copy and paste it somewhere to edit it (like Notepad).
-   
-</font>
- 
-
-Check what version you are upto on your Nightscout site. In my example I'm on version  14.06 (Liquorice)
-
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! video, see below</span></span></td>
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
 </tr>
 <tr style="height: 56.4063px;">
 <td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
+ <iframe id="video3" width="860" height="515" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
 </tr>
 </tbody>
-</table>
-
-
-
-Updating your website to the latest version
- <a href="https://github.com/nightscout/cgm-remote-monitor/releases" target="_blank" title="Nightscout Release Versions">See Here</a> for the 
- current released version at moment) is easy with the update tool linked below. 
-
-
- 
-## Instructions
-
-These instruction have been made on the 28 <span style="background-color: #FFFF00">**April 2021**</span><br>
-<br>
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">Azure Users
-as of 0.12, Nightscout no longer supports the free Azure platform now. If you really want to keep using Azure, don’t update to any version above 0.12</span></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-# Step 1 Update Github Repo
-
-* Log into your GitHub Account.<a href="https://github.com/" target="_blank" title="GitHub Login">-- Here --</a>
-<span style="background-color: #FFFF00">**Wait**</span>: Make sure you’re actually signed into your GitHub account and <span style="background-color: #FFFF00">**Check**</span> by looking in the upper right corner of the page to verify. You cannot do this later.<span style="background-color: #FFFF00">**Best to do it now!.**</span> 
-😉 <br>
-
-* Now<a href="http://nightscout.github.io/pages/update-fork/" target="_blank" title="Update Tool">-- Click Here --</a> to open the <span style="background-color: #FFFF00">**update tool or image below!**</span>for Nightscout in a new tab from Github. Make sure both are open<br>
-
-* Enter your GitHub <span style="background-color: #FFFF00">**username**</span> and click the blue button that says Check for updates. (Note: your username is not an email address.)<br>
-
-
-<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/>
-</a>
-click the blue button that says<span style="background-color: #FFFF00">**Checks for updates**</span>
-
-* If an update is available, the tool will tell you this,and provide directions for you, and also give you a button that will take you to <span style="background-color: #FFFF00">**GitHub**</span> to finish the process.
-
-<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/update availible.jpg" title="Update Tool"/></a><br>
+</table><br>
+   <!--  <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
   
-* <span style="background-color: #FFFF00">**Click the Continue updating at GitHub button.**</span> Review the directions on the screen that pops up, and continue.
+ -->
+1. First <span style="background-color: #FFFF00">**Sign up for Github Acount**</span>   <a href=" https://github.com/" target="_blank" title="Github">Click Here</a> 
+   <br><br>
 
-## step 1 `(see Step1 & Step2 video below)`
+2. Fill in all of your account  details  on screen and keep them written down in a safe place to keep.<br>
 
-* <span style="background-color: #FFFF00">**Click "Create pull request"**</span> Your fork must be on the left side  
-<a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
- and the <span style="background-color: #FFFF00">**nightscout/cgm-remote-monitor must be on the right.**</span><br>
- 
-## step 2 create pull request
+3. <a href="https://github.com/" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github account.jpg" title="Setting up Github"/>
+</a><br>
 
-* Click <span style="background-color: #FFFF00">**"Create pull request” again,**</span> do not change the comparison. Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right side.
-<a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 2 create pull request again.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
-* <span style="background-color: #FFFF00">** Also Give your pull request a name**</span> like “Update” or “Sweet Liquorice Update” — doesn’t really matter what this is.
+      <img width="Auto" height="Auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="Github account details"/>
+</a><br>
+4. After filling in your details you will then need to do a <span style="background-color: #FFFF00">**puzzle**</span> Puzzle<br>
 
-## Step 1 & Step 2 Video
-<br>
+    <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
+</a><br>
+5. After doing the puzzle you will be sent an email, so <span style="background-color: #FFFF00">**check your email**</span>  for the code sent to you!<br> 
+
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github code.jpg" title="Github Code"/>
+</a><br>
+6. Now <span style="background-color: #FFFF00">**enter the code**</span> sent to you to finish the setup<br>
+
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github enter code.jpg" title="Setting up github"/>
+</a><br>
+7. Just fill in the rest of the details to what you want to use in my case I SELECTED all the tools needed!<br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/github tools.jpg" title="Github Tools"/>
+</a><br>
+8. Now click on the <span style="background-color: #FFFF00">**Cat icon**</span>  to get to your main Github account. <br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/cat icon.jpg" title="Github Cat Icon"/>
+</a><br>
+9. Click this <a href=" https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Main Repository">Link</a> to take you to the <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> make sure to open it in a new tab: https://github.com/nightscout/cgm-remote-monitor <br>
+<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/6o3AdkQBVog?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+10. Now fork it from <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> to your own repository (in my case)  <span style="background-color: #FFFF00">**thediabeticway23**</span> <br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/nightscout_repo.jpg" Setting up GitHub Part 1"/>
+11. Once you have forked it from Nightscout Repo to your own repo you should be able to go to it, to see all the files!
+
+<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/M78KtZ5WbYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">step 1 & Step 2 Video</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/6tGsLOE1BuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
+
 
 
  <br>
 
-
-## step 3 merge pull request
-
-* Click <span style="background-color: #FFFF00">**"Merge pull request**</span>
-
-<a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 3 merge pull request.jpg" title="Merge pull request"/></a>
-  
-* or see video below
-<br>
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! video,</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/gUEqZAfPEZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-
-
-
-## step 4 confirm merge
-<br>
-* Now Click the  <span style="background-color: #FFFF00">**Confirm merge button.**</span>
-<a>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 4 click  confirm merge.jpg" title="Step 4 Confirm Merge"/></a>
-
-## step 5 merged
-
-* If you see <span style="background-color: #FFFF00">**"Merged" in purple,**</span> you have successfully updated your fork. If you're using Heroku you will need to to push the Deploy Branch button, in the Manual deploy section of the Deploy page.
-
-* <span style="background-color: #FFFF00">**You have successfully updated your GitHub repository**</span>, now let's deploy it in Heroku.
-<br>
-<br>
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">If you’re on Heroku and have Automatic Deploys enabled, you’re done!<br>
- If you don’t have Automatic Deploys on yet, or aren’t sure, run through these steps below!</span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">Bookmark this page,( thediabeticway23 / cgm-remote-monitor) for revisits from time to time.<br>
+<span style="background-color: #FFFF00">In your case </span>the name you made for ( Your Github account name / cgm-remote-monitor)
+<br>
+  I would also bookmark the Nightscout Repo for updates later, (  nightscout / cgm-remote-monitor) <a href=" https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Main Repository">Here</a> </span></td>
 </tr>
 </tbody>
 </table>
-
-# Step6: Deploy in Heroku
+<br>
+## <center>Now Do <br></center>
+<br>
+# <center>Part 2: Setting up Heroku Account </center>
 <br>
 
  
-* Log into <a href="https://id.heroku.com/login" target="_blank" title="Nightscout Release Versions">Heroku</a>  
-<a href="https://id.heroku.com/login" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/log into heroku.jpg" title="Log into Heroku"/>
-</a>
+<br> 
 
-* Select your app `(In my case The Dibetic Way)`
-<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Select_your_App.jpg" title="Select Deploy Tab"/>
-<br>
-
-* In the middle bit, click on the GitHub button if it isn’t already showing as connected. It will ask you to authorize the connection if you’re doing it for the first time.
-
-<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/github connected.jpg" title="Select Deploy Tab"/>
-<br>
-
-* Type “cgm” into the repo-name search box, and click Search
-<br>
-
-* Click the Connect button once it finds your cgm-remote-monitor repository. You should now be connected
-<br>
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! see video</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/5S2lcc5XY_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-  
-* Or if Heroku is not connected to GitHub, scroll down and click Connect to GitHub, if a popup window opens and requires authorization, click Authorize Heroku
-<br>
-  
-* Now after connecting to Gitnub, Scroll down to the bottom of the page, make sure to select the <span style="background-color: #FFFF00">master branch</span>  and then click <span style="background-color: #FFFF00"> Deploy Branch</span>
-<br>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/masterthendeploy.jpg" title="Select master then Deploy Branch"/>
-</a>
-<br>
-* Build will start, do not interfere and wait for completion. It can take a while <span style="background-color: #FFFF00">approximately around 10 minutes Do not Interrupt the process</span>  has it can lead to a broken site and you'll need to restart again.
-<br>  
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Build-will-start.jpg" title="Build will start and information will scroll in the log window"/>
-</a>
-<br>
-*  Wait until the deploy process completes and <span style="background-color: #FFFF00">click View</span> if nothing happens click Manage App then upper right Open App
-<br>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/view-App.jpg" title="Delect View now that the deploy process is complete"/></a>
-<br>
-*  Your site will open and  it should be at the latest version on your Nightscout Site
-<br>
-* <span style="background-color: #FFFF00">You're Finished!</span> 
-* Head over to your Nightscout site and check its updated!
-
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Check if Nightscout as updated Video</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Helpfull Note!</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<span style="background-color: #00000">To let your site finish updating itself as soon as you update your fork in the future with another Pull Request, enable Automatic Deploys here (from the master branch):
-<br>                                                                </span> 
-
-<iframe width="850" height="415" src="https://www.youtube.com/embed/x73tDH-ln4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <span style="background-color: #FFFFFF"> If you’ve just turned the Automatic thing on, you’ll need to manually do the first deploy — make sure the branch is on master, and click the Deploy Branch button:</span></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-
-
-<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
-</tr>
-</tbody>
-</table>
-<br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not also visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) for your Diabetes Needs! 
-
-
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
+</center>
   <!--  
-  
+  ******************************************************************************************************************
   mkdocs.yml    # The configuration file.
     docs/
     index.md  # The documentation homepage.
        ...       # Other markdown pages, images and other files.
 		
+		*************************************************************************
+		center text**
+		## <center>Now Do  </center><br>
+		
+		*************************************************************
 		
 		
 <a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
 		
 		
-adding 	Yellow Hightligher!!!!!!!!	
+adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
 
 
@@ -399,15 +126,20 @@ adding 	Yellow Hightligher!!!!!!!!
 
 
 
-Adding a image
+Adding a image with link
 <a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/nightscout version_14.06.jpg" title="Version of Nightscout Video"/>
-</a>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
+</a><br>
 
 
 Adding Video
 
 <iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Adding an embeded video
+<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
@@ -432,6 +164,8 @@ font size
 
 </font>
 
+link
+<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
 
 
 Table
@@ -440,6 +174,31 @@ Table
 | Header | Title |
 | Paragraph | Text |
 
+
+Video in a box border!
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
+ <iframe id="video3" width="860" height="515" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
+</tr>
+</tbody>
+</table>
+*****************************************************
+Warning Note<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
+</tr>
+</tbody>
+</table>
 
 -->
 
