@@ -1,5 +1,5 @@
  <img width="860" height="303" border="0" align="center"  src="/my-project/img/side_load_ xdrip/sideload xdrip logod_860x303.jpg" title="xdrip Logo "/>
-<br>dave woz here4 million times36543khkkiuudgd23
+<br>dave woz here4 tryign ti get it to work again 0 times  getting errors
 ## If you would like to follow these instructions with full video then click image below other wise continue step by step below <br><br>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/7Ackvo657Ew" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
