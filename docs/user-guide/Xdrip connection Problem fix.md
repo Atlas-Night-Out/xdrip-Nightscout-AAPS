@@ -10,7 +10,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 <br>
 
-<img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    
