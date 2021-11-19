@@ -22,7 +22,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
   <img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/xdrip_nightly build logo.jpg" title="xdrip Nightly Build"/></a>
 3. If you are working on a <span style="background-color: #FFFF00">** Mobile - Go to Chrome on your mobile**</span> & Download the latest version of Xdrip on to your Android Mobile Device <a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here to download</a> or go to https://jamorham.github.io/#xdrip-plus in your broswer.
  <a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/Nightly Build Mobile link.jpg" title="xdrip Nightly Build Mobile"/></a><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Nightly Build Mobile link.jpg" title="xdrip Nightly Build Mobile"/></a><br>
   4. First try un-pairing your Bluetooth on mobile if it’s still paired to it.<br>
   <iframe width="860" height="615" src="https://www.youtube.com/embed/YVy_qxeHpog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
   5. Then go to your system status in xdrip and forget device and <span style="background-color: #FFFF00">** restart the Collector**</span><br>
@@ -37,7 +37,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
