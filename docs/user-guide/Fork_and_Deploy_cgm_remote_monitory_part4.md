@@ -67,7 +67,7 @@ The BRIDGE_PASSWORD and BRIDGE_USER_NAME are NOT visible from within your Dexcom
 <br>
 10. Select the units you’re using in <span style="background-color: #FFFF00">**DISPLAY_UNITS**</span> the acceptable choices are <span style="background-color: #FFFF00">**mg/dl or mmol/L**</span> (or just <span style="background-color: #FFFF00">**mmol**</span> when entering it).
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/display_units.jpg"title="Display Units"/><br>
-In <span style="background-color: #FFFF00">**my case I used mmol**</span> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/display_unit_EU.jpg"title="Display Units"/><br>11. In <span style="background-color: #FFFF00">**ENABLE,**</span> copy and paste the following Plugins below <span style="background-color: #FFFF00">**(separated by a space)**</span> so that won't have to think about which you want now
+In <span style="background-color: #FFFF00">**my case I used mmol**</span> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/display_unit_EU.jpg"title="Display Units"/><br>11. In <span style="background-color: #FFFF00">**ENABLE,**</span> copy and paste the following Plugins below <span style="background-color: #FFFF00">**(separated by a space)**</span> so that won't have to think about which you want now<br>
 
 | **Plugins**       |    |
 | :------------- | |
@@ -76,8 +76,7 @@ In <span style="background-color: #FFFF00">**my case I used mmol**</span> <img w
 
 | **Plugins**       |    |
 | :------------- | |
-|  careportal basal dbsize rawbg iob maker cob bwp cage iage sage boluscalc pushover treatmentnotify loop pump profile food openaps bage alexa override speech cors |
-
+|  careportal basal dbsize rawbg iob maker cob bwp cage iage sage boluscalc pushover treatmentnotify loop pump profile food openaps bage alexa override speech cors |<br>
 <table width="1166" padding="0.35rem" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="0" cellspacing="0" height="0">
 <tbody>
 <tr style="height: 0px;">
@@ -88,38 +87,41 @@ In <span style="background-color: #FFFF00">**my case I used mmol**</span> <img w
 </tr>
 </tbody>
 </table><br>
-11. Now you need the <span style="background-color: #FFFF00">**connection string**</span> you defined during the <span style="background-color: #FFFF00">**Atlas cluster creation**</span> (as the example below, but not the string below). Copy and paste it in the MONGODB_URI variable field.<br>
-ar 12. I will try to give you an example about the way to do it below:
+11. Now you need the <span style="background-color: #FFFF00">**connection string**</span> you defined during the <span style="background-color: #FFFF00">**Atlas cluster creation - Part 3**</span> (as the example below, but not the string below). Copy and paste the results into the MONGODB_URI variable field in Heroku vars.<br><br>
+12. I will try to give you an example about the way to do it below:
 
 
 <br>
-   1. In the boxes below 1st is your Atlas Account you gave yourself a <span style="background-color: #FFFF00">**User Name**</span> add it to the box User Name
+  ** A.** In the boxes below 1st is your Atlas Account you gave yourself a <span style="background-color: #FFFF00">**User Name**</span> add it to the box below User Name on the left side!
  <br>
-   2. Then you made a <span style="background-color: #FFFF00">**Database Password add your Password** </span>you  created for your database
+   **B.** Then you also made a <span style="background-color: #FFFF00">**Database user Password add your Password** </span>you  created for your database add this too into the box on the left side.
 <br>
-   3. And lastly you made a <span style="background-color: #FFFF00">**Database Name** </span>also add this to the last box and click the <span style="background-color: #FFFF00">**Copy Text button**</span>  which will generate your code that you will  need to add to your Heroku API
+   **C.** And lastly you made up a <span style="background-color: #FFFF00">**Database Name** </span>, also add this to the last box on the left and click the <span style="background-color: #FFFF00">**Generate button**</span>  which will generate your <span style="background-color: #FFFF00">**connection string code**</span> that you will  need to add to your Heroku API
 <br>
     <br>
+	I have given you my examples below in the right side boxes so just ignore them! 
 
 </font>
 <br><p>
-<span style="background-color: #FFFF00">**username:**</span> <input type="text" id="username" value="click here, delete and put your own " size="32">  Eg username: <input type="text" id="egusername" value="Dave" size="32"><br>
+<span style="background-color: #FFFF00">**username:**</span> <input type="text" id="username" value="click here, delete and put your own " size="32">  Eg username: <input type="text" id="egusername" value="nightkai" size="32"><br>
 
-<span style="background-color: #FFFF00">**Database password:**</span> <input type="text" id="dbpassword" value="click here,delete and put your own" size="31"> Eg Database password: <input type="text" id="egdbpassword" value="   Mypassword1234" size="20"><br>
+<span style="background-color: #FFFF00">**Database password:**</span> <input type="text" id="dbpassword" value="click here,delete and put your own" size="31"> Eg Database password: <input type="text" id="egdbpassword" value="   N8!aX9q:FhgRpiF" size="20"><br>
 <br>
-<span style="background-color: #FFFF00">**Database Name:**</span> <input type="text" id="dbname" value="click here, delete and put your own " size="32"> E.g Database Name: <input type="text" id="egdbname" value=" Davesdatabase " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32">
+<span style="background-color: #FFFF00">**Database Name:**</span> <input type="text" id="dbname" value="click here, delete and put your own " size="32"> E.g Database Name: <input type="text" id="egdbname" value=" kaisdatabase " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32">
 <br>
 <br>
 <p></p>
 
 
 <br />
-13. Yours should look simular to the one below mine might be a little different to what yours should be so do check it carefully<br>
+13. Yours should look similar to the one below mine might be a little different to what yours should be so do check it carefully<br>
  
 <span style="background-color: #FFFF00">**mongodb+srv://**</span> <input type="text" id="field3"value="User Name">
 : <input type="text" id="field4"value="Database Password">
 @cluster0.lkqng.mongodb.net/ <input type="text" id="field5"value="Database Name">?retryWrites=true&w=majority<br><br>
-<button onclick="myFunction()">Copy Text</button>
+<button onclick="myFunction()">Generate</button><br><br>
+### Yours should look somthing like this now!<br><br>
+** mongodb+srv://nightkai:N8!aX9q:FhgRpiF@cluster0.lkqng.mongodb.net/kaisdatabase?retryWrites=true&w=majority**<br>
 
 
 
@@ -130,9 +132,22 @@ function myFunction() {
   document.getElementById("field5").value = document.getElementById("dbname").value;
   
 }
-</script><br>
+</script><br><br>
 
-13. In your connection string of Atlas: click Copy and paste your code somewhere to edit it (like Notepad)
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff="" ><span style="font-size: 14pt;"><span style="color: #ffffff; ">video demo of getting connection string,</span></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
+ <iframe id="video3" width="860" height="615" src="https://www.youtube.com/embed/C0BHmeG2Zrg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
+</tr>
+</tbody>
+</table>
+
+14. 
 
 
 
@@ -142,9 +157,6 @@ function myFunction() {
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 
-
-
-   
    
 </font>
  
