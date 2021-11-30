@@ -1,3 +1,5 @@
+<!-- this is on github live server !
+docs made by D.Galloway 2019- 2021-->
 # Welcome to The Diabetic way
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
@@ -5,139 +7,210 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 ## <span style="color:#111478">Setting up Atlas Account Part 3 </span> <br> 
 
-<br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/>
-
-h) Add a database username (for example nightscout) and a database password (in the example below soo5ecret but please change it!).
-
-<br>
-
-Write down these credentials in the boxes below (yes, in this browser window you're reading now, unless you're reading a printed version). You’ll need them later.
-
-<br>
-Database password:<input type="text" id="myPwd" value="click here, delete and put your own " size="32">
-<br>
-
-Database username:<input type="text" id="myUsr" value="click here, delete and put your own" size="32">
-
-<br>
-Paste the string in the box below `(yes, in this browser window you're reading now, unless you're reading a printed version)`
-<input type="text" id="myAtlas" value="click here, delete and paste your Atlas connection string" size="100">
-<br>
-
-Database Name: <input type="text" id="mydB" value="click here, delete and put your own" size="30">
-<br>
-Click the Generate button (just here below this line: in this browser window you're reading):
-
-<br>
-
-
-<button onclick="Generate()">Generate</button>
-
-
-
-
-Field1: <input type="text" id="field1" value="Hello World!"><br>
-Field2: <input type="text" id="field2"><br><br>
-Field3: <input type="text" id="field3"><br><br>
-<button onclick="myFunction()">Copy Text</button>
-
-<p>A function is triggered when the button is clicked. The function copies the text from Field1 into Field2.</p>
-
-<script>
-function myFunction() {
-  document.getElementById("field3").value = document.getElementById("field1","field2").value;
-}
-</script>
-
-
-
-
-
-For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
-<br>
-<br>
-
-## <span style="color:#111478">Setting up Atlas Account Part 3 </span> <br> 
-
-<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/><br><br>
+## **Part 3 Setting up a Atlas Account for Nightscout**<br><br>
 
 
 
 <font size="4">
 
-This is a regular paragraph.
+1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Try Free">See Here</a> 
+  and **click** <span style="background-color: #FFFF00">**Start Free**</span><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/free Atlas Account.jpg" title="Sign up a Atlas Account"/></a>	
+2. Enter your Account Details like I have and then click <span style="background-color: #FFFF00">**get started free**</span> 
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/setting up a free  Atlas Account.jpg"Fill in your details"/><br><br>
+3. Atlas will send you an email, if you don't receive it check your Spam folder.<br>
+4. Now verify your email<br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/verify your email.jpg"Verify your email"/><br>
+5. Enter some information like I have below and then Finish <br>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/welcome to Atlas.jpg" Welcome to Atlas"/>
+6. Select Create a cluster in <span style="background-color: #FFFF00">**Shared Clusters (FREE)**</span><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/deploy a could database free.jpg" title="Shared Clusters (FREE)"/>
+7. Leave all default values and click <span style="background-color: #FFFF00">**Create Cluster**</span><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/create shared clusters.jpg" title="Create Cluster"/><br>
+  Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes) If not sure after a while click on the leaf icon in the top left!<br><br>
+8.  Click on <span style="background-color: #FFFF00">**CONNECT**</span><br>
+    <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/click on connect.jpg" title="click connect"/><br>
+9. Click on <span style="background-color: #FFFF00">**Allow Access from Anywhere**</span><br>
+   <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Allow Access from Anywhere.jpg" title="Allow Access from Anywhere"/><br>
+   <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">If you don't allow access from anywhere (IP 0.0.0.0/0) Nightscout will not be able to access your database.!<br></span></td>
+</tr>
+</tbody>
+</table><br>
+10. Click on <span style="background-color: #FFFF00">**Add IP Address**</span><br>
+   <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Add IP Address.jpg" title=" Click on Add IP Address"/><br>
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">Database Details: Make sure to not use your Atlas account Account details. <br>Do not use special characters: only letters and numbers. No spaces.<br>
+ </span></td>
+</tr>
+</tbody>
+</table><br> 
+11. Add a database username (for example <span style="background-color: #FFFF00">**nightkai**</span>) and a database user password (in the my examples below <span style="background-color: #FFFF00">** Madeuppassword7**</span>) but please change it later, see both images below!!
+    <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/database username and a database password.jpg" title=" Add a database username and a database password, see both images below!"/><br>
+12. Then click <span style="background-color: #FFFF00">**Create Database User**</span>.<br>
+   <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/create database user.jpg" title=" Create Database User"/><br>
+   <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">Make sure you write these details down in a safe place, you are going to need them later in the boxes below to make your Connection String!<br> <span style="background-color: #FFFF00">db user</span> and <span style="background-color: #FFFF00">db user password!</span></span></td>
+</tr>
+</tbody>
+</table><br>
+13. Click on  <span style="background-color: #FFFF00">**Choose a Connection Method**</span><br>
+   <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/connection method.jpg" title=" connection method"/><br>
+14.  Now Select <span style="background-color: #FFFF00">**Connect your application**</span><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Connect your application.jpg" title=" Connect your application"/><br>
+15. Copy the <span style="background-color: #FFFF00">**Connection string:**</span> click Copy icon and paste it somewhere to edit it later(like Notepad).
+<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/connection string.jpg" title=" connection string"/><br>
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note! It should be similar to this - cluster0 (xxxxx) will be different):</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">mongodb+srv://nightkai:password@cluster0.xxxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority<br>
+ </span></td>
+</tr>
+</tbody>
+</table><br><br>
+16. Makeup a name for your database, this is not a important information (example kdatabase ), note that default is <span style="background-color: #FFFF00">**myFirstDatabase**</span>. Only letters and numbers, no spaces.<br><br>
+17. I will try to give you an example about the way to do it below:
 
-Paragraph:
 
-1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
-  and **click** Start Free
- <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
-      2. **No need to do this part** but I did.<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB_Atlas account_setup.jpg"MongoDB Atlas Account Setup.jp"/>
+<br>
+  ** A.** In the boxes below 1st is your Atlas Account you gave yourself a <span style="background-color: #FFFF00">**User Name**</span> add it to the box below User Name on the left side!
  <br>
-      3. Sub item three<br>
-2. Item two
+   **B.** Then you also made a <span style="background-color: #FFFF00">**Database user Password add your Password** </span>you  created for your database add this too into the box on the left side.
+<br>
+   **C.** For the Cluster0 xxxxx where everyones will be unique when making a cluster when it is made so yours needs to be added into the Connection string part after it says Cluster0<br>
+   **D.** And lastly you made up a <span style="background-color: #FFFF00">**Database Name** </span>, also add this to the last box on the left and click the <span style="background-color: #FFFF00">**Generate button**</span>  which will generate your <span style="background-color: #FFFF00">**connection string code**</span> that you will  need to add to your Heroku API
+<br>
+    <br>
+####	**I have given you my examples below on the right side of the  boxes so just ignore them they are my examples to show you how the connection string is made up! **<br> You need to had your details into the left side Boxes making sure to remove (click here, delete and put your own!)first, and click on Generate.
+
+</font>
+<br><p>
+<span style="background-color: #FFFF00">**username:**</span> <input type="text" id="username" value="click here, delete and put your own! " size="32">  Eg: username: <input type="text" id="egusername" value="nightkai" size="32"><br>
+
+<span style="background-color: #FFFF00">**Database password:**</span> <input type="text" id="dbpassword" value="click here,delete and put your own!" size="31">Eg: Database password: <input type="text" id="egdbpassword" value="   Madeuppassword7" size="20"><br>
+<br>
+<span style="background-color: #FFFF00">**@cluster0:xxxxx**</span> <input type="text" id="@cluster" value="click here, delete and put your own! " size="32"> E.g: cluster0.xxxxx <input type="text" id="egdbname" value=" j2iil " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32">
+
+<br>
+<span style="background-color: #FFFF00">**Database Name:**</span> <input type="text" id="dbname" value="click here, delete and put your own! " size="32"> E.g: Database Name: <input type="text" id="egdbname" value=" kdatabase " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32"><br>
+
+<br>
+<p></p>
+
+<button onclick="myFunction()">Generate</button><br><br><br><br>
+<span style="background-color: #FFFF00">**mongodb+srv://**</span> <input type="text" id="field3"value="User Name">
+: <input type="text" id="field4"value="Database Password">
+@cluster0.<input type="text" id="field6"value="cluster0.xxxxx ">.mongodb.net/ <input type="text" id="field5"value="Database Name">?retryWrites=true&w=majority<br><br>
+
+**E.** After you have generated it, yours should be looking somthing similar to the one below. Mine might be a little different to what yours should be so do check it carefully, and make sure to copy and paste it into notepad like I will show you in the video below<br>
+
+### **My Connection String results**
+<font size="+0"> **mongodb+srv://nightkai:Madeuppassword7@cluster0.j2iil.mongodb.net/kdatabase?retryWrites=true&w=majority**</font><br>
+
+<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
+<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> Keep this string safely aside, it is called your MONGODB_URI<br/>  </span></td>
+</tr>
+</tbody>
+</table><br>
 
 
-* Enter your information and then click Get Started Free
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas fill in details2.jpg"Fill in your details"/>
+
+<script>
+function myFunction() {
+  document.getElementById("field3").value = document.getElementById("username").value;
+  document.getElementById("field4").value = document.getElementById("dbpassword").value;
+  document.getElementById("field5").value = document.getElementById("dbname").value;
+  document.getElementById("field6").value = document.getElementById("@cluster").value;
   
-  
-  Select Create a cluster in Shared Clusters (FREE)
-  
-  
+}
+</script><br><br>
+
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff="" ><span style="font-size: 14pt;"><span style="color: #ffffff; ">video demo of getting connection string,</span></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
+ <iframe id="video3" width="860" height="615" src="https://www.youtube.com/embed/iYnNddVSbzY?start=19" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</tr>
+</tbody>
+</table><br>
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************************
+   
+   a) If you want to do it manually: replace <password> with your database password as noted previously (in the example below **Madeuppassword7** ) and <dbname> by any text you want to add as your **database name**, say kdatabase in my example. The result will be like this:<br>
+ <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
+
+
+### ** Another example for you below!** 
+<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="connecting_to_cluster"/>
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;" " target="_blank" title="First create a user account by going to">There are no < and > characters in the final string, neither for password nor for database name.</span></span></td>
+</tr>
+</tbody>
+</table><br>
+## <center>Now we need to do <br></center>
+<br>
+# <center>Part 4: <a href="https://atlas-night-out.github.io/my-project/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
+<br><br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!<br><br>
+
+
+
+
+
  
-  
-  Leave all default values and click Create Cluster
-  
-  
-  
-  
-  
-  Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes)
-  
-  
-  
-   Click on CONNECT
-   
-   
-   f. Click on Allow Access from Anywhere
-   
-   
-   Click on Add IP Address
-   
-   
-   
-   
-   h) Add a database username (for example nightscout) and a database password (in the example below soo5ecret but please change it!).
-   
-   
-   i) Then click Create Database User.
-   
-   
-   j)Click on Choose a connection method
-   
-   
-   Select Connect your application
-   
-   
-   
-   Copy the connection string: click Copy and paste it somewhere to edit it (like Notepad).
-   
-   
-   
-   
-   
-   
-   p) If you want to do it manually: replace <password> with your database password as noted previously (in the example below soo5ecret) and <dbname> by any text you want, say mycgmic for example. The result will be like this:
 
-mongodb+srv://nightscout:soo5ecret@cluster0.xxxxx.mongodb.net/mycgmic?retryWrites=true&w=majority
-   
-   
-   
-   
-   
-##Step 4: Fork and deploy cgm-remote-monitor
+
+  <!--  
+  ****************************************************************************************************************
+  remove this after you finish it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  
+  ##Step 4: Fork and deploy cgm-remote-monitor
    
 <br>   
    1.  You should now have 3 pages opened in your browser: Heroku, Atlas, and Github, Make sure you are logged-in on each one (i.e. not asking you to login) before you continue.
@@ -219,239 +292,16 @@ Check what version you are upto on your Nightscout site. In my example I'm on ve
 Updating your website to the latest version
  <a href="https://github.com/nightscout/cgm-remote-monitor/releases" target="_blank" title="Nightscout Release Versions">See Here</a> for the 
  current released version at moment) is easy with the update tool linked below. 
-
-
- 
-## Instructions
-
-These instruction have been made on the 28 <span style="background-color: #FFFF00">**April 2021**</span><br>
-<br>
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">Azure Users
-as of 0.12, Nightscout no longer supports the free Azure platform now. If you really want to keep using Azure, don’t update to any version above 0.12</span></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-# Step 1 Update Github Repo
-
-* Log into your GitHub Account.<a href="https://github.com/" target="_blank" title="GitHub Login">-- Here --</a>
-<span style="background-color: #FFFF00">**Wait**</span>: Make sure you’re actually signed into your GitHub account and <span style="background-color: #FFFF00">**Check**</span> by looking in the upper right corner of the page to verify. You cannot do this later.<span style="background-color: #FFFF00">**Best to do it now!.**</span> 
-😉 <br>
-
-* Now<a href="http://nightscout.github.io/pages/update-fork/" target="_blank" title="Update Tool">-- Click Here --</a> to open the <span style="background-color: #FFFF00">**update tool or image below!**</span>for Nightscout in a new tab from Github. Make sure both are open<br>
-
-* Enter your GitHub <span style="background-color: #FFFF00">**username**</span> and click the blue button that says Check for updates. (Note: your username is not an email address.)<br>
-
-
-<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/>
-</a>
-click the blue button that says<span style="background-color: #FFFF00">**Checks for updates**</span>
-
-* If an update is available, the tool will tell you this,and provide directions for you, and also give you a button that will take you to <span style="background-color: #FFFF00">**GitHub**</span> to finish the process.
-
-<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/update availible.jpg" title="Update Tool"/></a><br>
   
-* <span style="background-color: #FFFF00">**Click the Continue updating at GitHub button.**</span> Review the directions on the screen that pops up, and continue.
-
-## step 1 `(see Step1 & Step2 video below)`
-
-* <span style="background-color: #FFFF00">**Click "Create pull request"**</span> Your fork must be on the left side  
-<a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
- and the <span style="background-color: #FFFF00">**nightscout/cgm-remote-monitor must be on the right.**</span><br>
- 
-## step 2 create pull request
-
-* Click <span style="background-color: #FFFF00">**"Create pull request” again,**</span> do not change the comparison. Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right side.
-<a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 2 create pull request again.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
-* <span style="background-color: #FFFF00">** Also Give your pull request a name**</span> like “Update” or “Sweet Liquorice Update” — doesn’t really matter what this is.
-
-## Step 1 & Step 2 Video
-<br>
-
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">step 1 & Step 2 Video</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/6tGsLOE1BuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-
-
- <br>
-
-
-## step 3 merge pull request
-
-* Click <span style="background-color: #FFFF00">**"Merge pull request**</span>
-
-<a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 3 merge pull request.jpg" title="Merge pull request"/></a>
   
-* or see video below
-<br>
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! video,</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/gUEqZAfPEZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-
-
-
-## step 4 confirm merge
-<br>
-* Now Click the  <span style="background-color: #FFFF00">**Confirm merge button.**</span>
-<a>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 4 click  confirm merge.jpg" title="Step 4 Confirm Merge"/></a>
-
-## step 5 merged
-
-* If you see <span style="background-color: #FFFF00">**"Merged" in purple,**</span> you have successfully updated your fork. If you're using Heroku you will need to to push the Deploy Branch button, in the Manual deploy section of the Deploy page.
-
-* <span style="background-color: #FFFF00">**You have successfully updated your GitHub repository**</span>, now let's deploy it in Heroku.
-<br>
-<br>
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">If you’re on Heroku and have Automatic Deploys enabled, you’re done!<br>
- If you don’t have Automatic Deploys on yet, or aren’t sure, run through these steps below!</span></td>
-</tr>
-</tbody>
-</table>
-
-# Step6: Deploy in Heroku
-<br>
-
- 
-* Log into <a href="https://id.heroku.com/login" target="_blank" title="Nightscout Release Versions">Heroku</a>  
-<a href="https://id.heroku.com/login" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/log into heroku.jpg" title="Log into Heroku"/>
-</a>
-
-* Select your app `(In my case The Dibetic Way)`
-<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Select_your_App.jpg" title="Select Deploy Tab"/>
-<br>
-
-* In the middle bit, click on the GitHub button if it isn’t already showing as connected. It will ask you to authorize the connection if you’re doing it for the first time.
-
-<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/github connected.jpg" title="Select Deploy Tab"/>
-<br>
-
-* Type “cgm” into the repo-name search box, and click Search
-<br>
-
-* Click the Connect button once it finds your cgm-remote-monitor repository. You should now be connected
-<br>
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! see video</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/5S2lcc5XY_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
   
-* Or if Heroku is not connected to GitHub, scroll down and click Connect to GitHub, if a popup window opens and requires authorization, click Authorize Heroku
-<br>
   
-* Now after connecting to Gitnub, Scroll down to the bottom of the page, make sure to select the <span style="background-color: #FFFF00">master branch</span>  and then click <span style="background-color: #FFFF00"> Deploy Branch</span>
-<br>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/masterthendeploy.jpg" title="Select master then Deploy Branch"/>
-</a>
-<br>
-* Build will start, do not interfere and wait for completion. It can take a while <span style="background-color: #FFFF00">approximately around 10 minutes Do not Interrupt the process</span>  has it can lead to a broken site and you'll need to restart again.
-<br>  
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Build-will-start.jpg" title="Build will start and information will scroll in the log window"/>
-</a>
-<br>
-*  Wait until the deploy process completes and <span style="background-color: #FFFF00">click View</span> if nothing happens click Manage App then upper right Open App
-<br>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/view-App.jpg" title="Delect View now that the deploy process is complete"/></a>
-<br>
-*  Your site will open and  it should be at the latest version on your Nightscout Site
-<br>
-* <span style="background-color: #FFFF00">You're Finished!</span> 
-* Head over to your Nightscout site and check its updated!
-
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Check if Nightscout as updated Video</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Helpfull Note!</span></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
-<span style="background-color: #00000">To let your site finish updating itself as soon as you update your fork in the future with another Pull Request, enable Automatic Deploys here (from the master branch):
-<br>                                                                </span> 
-
-<iframe width="850" height="415" src="https://www.youtube.com/embed/x73tDH-ln4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  <span style="background-color: #FFFFFF"> If you’ve just turned the Automatic thing on, you’ll need to manually do the first deploy — make sure the branch is on master, and click the Deploy Branch button:</span></td>
-</tr>
-</tbody>
-</table>
-<br>
-
-
-
-<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
-</tr>
-</tbody>
-</table>
-<br>
-<a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not also visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) for your Diabetes Needs! 
-
-
-  <!--  
   
+  
+  
+  
+  
+  ********************************************************************************************************************************
   mkdocs.yml    # The configuration file.
     docs/
     index.md  # The documentation homepage.
@@ -467,18 +317,20 @@ adding 	Yellow Hightligher!!!!!!!!
 <span style="background-color: #FFFF00">**Marked text**</span>
 
 
-<a>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
+***********************
+adding an image
+***********************
+
+  <a><img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
 
 
 
 
-Adding a image
 <a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/nightscout version_14.06.jpg" title="Version of Nightscout Video"/>
 </a>
 
-
+*******************************************************************************
 Adding Video
 
 <iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -506,8 +358,38 @@ font size
 
 </font>
 
+*******************************
+orange table
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">If you’re on Heroku and have Automatic Deploys enabled, you’re done!<br>
+ If you don’t have Automatic Deploys on yet, or aren’t sure, run through these steps below!</span></td>
+</tr>
+</tbody>
+</table>
+***************************************
+red warning table
+***************************
+<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
+</tr>
+</tbody>
+</table>
 
 
+
+
+*******************************
 Table
 | Syntax | Description |
 | ----------- | ----------- |

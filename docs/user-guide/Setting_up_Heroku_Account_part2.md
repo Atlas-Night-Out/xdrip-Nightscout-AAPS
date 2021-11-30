@@ -1,4 +1,4 @@
-<!-- this is not on github server !
+<!-- this is on github live server !
 docs made by D.Galloway 2019- 2021-->
 # Welcome to The Diabetic way
 
@@ -21,7 +21,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="First create a user account by going to">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title=" Part 1 Setting up Github Account for Nightscout.">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>
