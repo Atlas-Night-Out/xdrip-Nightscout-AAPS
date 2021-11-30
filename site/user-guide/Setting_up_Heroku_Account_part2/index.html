@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../img/favicon.ico">
-        <title>Welcome to The Diabetic way - Cyb Netics Docs</title>
+        <title>Part 2 Setting up Heroku Account  - Cyb Netics Docs</title>
         <link href="../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../css/font-awesome.min.css" rel="stylesheet">
         <link href="../../css/base.css" rel="stylesheet">
@@ -53,7 +53,7 @@
 </li>
                                 </ul>
                             </li>
-                            <li class="dropdown">
+                            <li class="dropdown active">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Nightscout <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     
@@ -63,6 +63,10 @@
                                     
 <li>
     <a href="../Setting_up_Github_Account_part1/" class="dropdown-item">Part 1 Setting up Github Account </a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active">Part 2 Setting up Heroku Account </a>
 </li>
                                     
 <li>
@@ -116,6 +120,16 @@
                                 <i class="fa fa-search"></i> Search
                             </a>
                         </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../Setting_up_Github_Account_part1/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../Fork_and_Deploy_cgm_remote_monitory_part4/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
                     </ul>
                 </div>
             </div>
@@ -140,43 +154,18 @@
               <ul class="nav flex-column">
               </ul>
             </li>
-            <li class="nav-item" data-level="2"><a href="#instructions" class="nav-link">Instructions</a>
+            <li class="nav-item" data-level="2"><a href="#part-2-setting-up-a-heroku-account-for-nightscout" class="nav-link">Part 2 Setting up a Heroku Account for Nightscout</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#now-we-need-to-do" class="nav-link">Now we need to do </a>
               <ul class="nav flex-column">
               </ul>
             </li>
               </ul>
             </li>
             
-            <li class="nav-item" data-level="1"><a href="#step-1-update-github-repo" class="nav-link">Step 1 Update Github Repo</a>
-              <ul class="nav flex-column">
-            <li class="nav-item" data-level="2"><a href="#step-1-see-step1-step2-video-below" class="nav-link">step 1 (see Step1 &amp; Step2 video below)</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#step-2-create-pull-request" class="nav-link">step 2 create pull request</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#step-1-step-2-video" class="nav-link">Step 1 &amp; Step 2 Video</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#step-3-merge-pull-request" class="nav-link">step 3 merge pull request</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#step-4-confirm-merge" class="nav-link">step 4 confirm merge</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-            <li class="nav-item" data-level="2"><a href="#step-5-merged" class="nav-link">step 5 merged</a>
-              <ul class="nav flex-column">
-              </ul>
-            </li>
-              </ul>
-            </li>
-            
-            <li class="nav-item" data-level="1"><a href="#step6-deploy-in-heroku" class="nav-link">Step6: Deploy in Heroku</a>
+            <li class="nav-item" data-level="1"><a href="#part-3-set-up-a-atlas-account" class="nav-link">Part 3: Set up a Atlas Account </a>
               <ul class="nav flex-column">
               </ul>
             </li>
@@ -185,6 +174,8 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
+<!-- this is not on github server !
+docs made by D.Galloway 2019- 2021-->
 <h1 id="welcome-to-the-diabetic-way">Welcome to The Diabetic way</h1>
 <p>For full Website content visit <a href="https://www.thediabeticway.co.uk/index.php/en/">The Diabetic Way</a>.
 <br>
@@ -192,32 +183,88 @@
 <h2 id="setting-up-heroku-account-part-2"><span style="color:#111478">Setting up Heroku Account part 2 </span></h2>
 <p><br> 
 <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Robot face_ heroku_account.jpg" Setting up Heroku Part 2"/></p>
-<p>Part 2 Setting up a Heroku Account for Nightscout</p>
-<p>Links:</p>
-<p>Heroku: https://signup.heroku.com
-Github: https://github.com/
-Advanced Plug In’s: https://github.com/nightscout/cgm-remote-monitor#plugins
-Errors or issues: https://heroku.com/verify
-How to Installing Xdrip: https://www.youtube.com/watch?v=7Qwr4HrchTU&amp;feature=youtu.be</p>
-<p>Now we are going to create a Heroku account.</p>
-<p>You will have already needed to have done Part 1 Setting up Github for Nightscout. To be able to continue.</p>
-<p>First you will need go to Heroku and create an account for yourself
-Heroku: https://signup.heroku.com
-Now enter your account details.</p>
+<h2 id="part-2-setting-up-a-heroku-account-for-nightscout"><strong>Part 2 Setting up a Heroku Account for Nightscout</strong><br><br></h2>
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href=" http://127.0.0.1:8000/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="First create a user account by going to">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+</tr>
+</tbody>
+</table>
+
+<p><br></p>
+<h3 id="now-we-are-going-to-create-a-heroku-account"><strong>Now we are going to create a Heroku account.</strong><br><br></h3>
+<ol>
+<li>First you will need go to Heroku web page and create an account for yourself at: https://signup.heroku.com<br>
+And enter all your account details.<br>
+<a href="https://signup.heroku.com" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/sign_up.jpg" title="Sign up a Heroku Account"/></a>   </li>
+</ol>
 <p>First Name, last name, email address
-“Role” and “Primary development language” can be anything, but “Hobbyist” and “Node js” are the most appropriate choices.
-Now go to verify your account via the link in the verification email that’s sent to you, and set your password.
-Set Heroku passwordSet Heroku password
-Github cgm-remote-monitorGithub cgm-remote-monitor</p>
-<p>Now go back to your Github account, and make sure you’re in your ( Your Github account name / cgm-remote-monitor)repository in my case thediabeticways/cgm-remote-monitor.</p>
-<p>Your Github Account Name
-Your Github Account Name</p>
-<p>In your case it will be ( Your Github Account Name / cgm-remote-monitor)</p>
-<p>Github_cgm-remote-monitor-Repository
-Github_cgm-remote-monitor-Repository</p>
-<p>In the repository, scroll down to where the Readme file is displayed, and click the Purple Deploy to Heroku button.</p>
-<p>If you are doing this process on a phone or tablet, you may not see the Readme displayed on scrolling — have your browser load the Desktop version of the page first.</p>
-<p>Make sure to write all settings down if you can! Things like App name, API secret you will need in a lot of other setups so it’s important to document it.
+“Role” and “Primary development language” can be anything, but “Hobbyist” and “Node js” are the most appropriate choices. <span style="background-color: #FFFF00"><strong>And click on Create your free Account</strong></span><br><br>
+2. Now go to verify your account via the link in the verification email that’s sent to you, and then set your password.<br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/set password.jpg" title="set password up"/><br>
+3. Click <span style="background-color: #FFFF00"><strong>Later</strong></span> for Secure your Account this can be done later!<br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Later for Secure your Account.jpg" title="Secure your Account"/><br>
+4. Your Heroku page will open, now click on your profile picture, in the top right corner, and <span style="background-color: #FFFF00"><strong>select Account Settings</strong></span><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/heroku Account Settings.jpg" title="Heroku Account Settings"/><br></p>
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> Unless you willingly select billable features, your credit card information is only used for verifications and you will not be charged anything. Worst case you’ll be charged £0.00</span></span></td>
+</tr>
+</tbody>
+</table>
+<p><br>
+5.  Click on <span style="background-color: #FFFF00"><strong>Billing</strong></span><br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/billing.jpg" title="Select Billing"/><br>
+6.  Click on your <span style="background-color: #FFFF00"><strong>credit card details</strong></span><br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Add credit Card.jpg" title="Add yoru credit card details"/><br>
+7.  Enter your <span style="background-color: #FFFF00"><strong>credit card Details</strong></span> and click Save Details<br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/enter payment details.jpg" title="Enter Card Details"/><br></p>
+<h3 id="you-should-now-have-2-web-pages-open-github-and-heroku-leave-them-open">You should now have 2 web pages open: <span style="background-color: #FFFF00"><strong>Github</strong></span> and <span style="background-color: #FFFF00"><strong>Heroku</strong></span> Leave them open.<br><br></h3>
+<p><strong>Heroku</strong>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/welcome to heroku.jpg" title="Welcome to Heroku main page"/><br><br>
+<strong>Gitbub</strong>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/github & heroku open.jpg" title="Welcome to Github main page"/><br><br></p>
+<h2 id="now-we-need-to-do"><center>Now we need to do <br></center></h2>
+<p><br></p>
+<h1 id="part-3-set-up-a-atlas-account"><center>Part 3: <a href="http://127.0.0.1:8000/user-guide/Setting_up_Atlas_Account_part3/" target="_blank" title="set up a Atlas Account - Part 3">Set up a Atlas Account</a> </center></h1>
+<p><br></p>
+<hr />
+<!--  
+***********************************************************************************************************************************************************
+below needs removing when finished!!!!!!!!!!!!!
+*************************************************************************************************************************************************************
+
+8. Now go back to your Github account, and make sure you’re in your ( Your Github account name / cgm-remote-monitor)<br>
+
+
+
+
+In your case it will be ( Your Github Account Name / cgm-remote-monitor)
+
+
+
+Github_cgm-remote-monitor-Repository
+Github_cgm-remote-monitor-Repository
+
+
+In the repository, scroll down to where the Readme file is displayed, and click the Purple Deploy to Heroku button.
+
+
+If you are doing this process on a phone or tablet, you may not see the Readme displayed on scrolling — have your browser load the Desktop version of the page first.
+
+
+
+
+Make sure to write all settings down if you can! Things like App name, API secret you will need in a lot of other setups so it’s important to document it.
 On the Heroku screen that opens, fill in the information requested:
 App name: Your site will have a URL like “your-app-name.herokuapp.com”. This is where you choose the “your-app-name” part. In my case I called mine app-name: t1diabetics
 Region: No matter where you are, this setting does not impact you; leave it on United States.
@@ -238,8 +285,10 @@ https://github.com/nightscout/cgm-remote-monitor#plugins
 Now click the Deploy app button at the bottom of the page.
 Heroku will begin deployment, going through a list of automated steps at the bottom of the page. This process can take a while be patient!
 During the “Configure environment” step, you will be asked to add a credit/debit card to the account.
-All Heroku accounts need a card on file to verify the account and allow for paid add-ons. You will never be charged without explicitly opting into extra levels of service, and for a typical Nightscout site you won’t ever need anything extra.</p>
-<p>Fill in your details, you will never be charged without explicitly opting into extra levels of service, and for a typical Nightscout site you won’t ever need anything extra
+All Heroku accounts need a card on file to verify the account and allow for paid add-ons. You will never be charged without explicitly opting into extra levels of service, and for a typical Nightscout site you won’t ever need anything extra.
+
+
+Fill in your details, you will never be charged without explicitly opting into extra levels of service, and for a typical Nightscout site you won’t ever need anything extra
 Sometimes you might have an error or issue’s in doing this process due to incorrect password or need to verify again then go to https://heroku.com/verify
 After adding your Card Details again, Click save
 and go back to the Deployment page.
@@ -258,32 +307,54 @@ Now go back and refresh your Nightscout Site you created
 Your Heroku site is now created
 Make sure to write your Nightscout App URL down for safe keepings as will need this later.
 We now need to add your Nightscout App URL into Xdrip for your CGM data to go to Nightscout there are lots of different ways to do this, but for this setup I’m going to show you in Xdrip how to add base URL into it, which will be in another video.
-We will also need to setup your profile editor which I will also do in another video</p>
-<p>If you have not setup xdrip already see my other video on utube How to Installing Xdrip at https://youtu.be/7Qwr4HrchTU It is also on The Diabetic way Website</p>
-<p>Has you will need to have xdrip installed before we can add your base URL for Nightscout to work
+We will also need to setup your profile editor which I will also do in another video
+
+
+If you have not setup xdrip already see my other video on utube How to Installing Xdrip at https://youtu.be/7Qwr4HrchTU It is also on The Diabetic way Website
+
+
+Has you will need to have xdrip installed before we can add your base URL for Nightscout to work
 Please note this xdrip setup was not made with the same Github accounts so urls and names will be different until I can make an updated xdrip video.
 Now we need to see How to add Base URL into xDrip
-See Part 3 How to add Base URL into Xdrip</p>
-<p>h) Add a database username (for example nightscout) and a database password (in the example below soo5ecret but please change it!).</p>
-<p><br></p>
-<p>Write down these credentials in the boxes below (yes, in this browser window you're reading now, unless you're reading a printed version). You’ll need them later.</p>
-<p><br>
-Database password:<input type="text" id="myPwd" value="click here, delete and put your own " size="32">
-<br></p>
-<p>Database username:<input type="text" id="myUsr" value="click here, delete and put your own" size="32"></p>
-<p><br>
-Paste the string in the box below <code>(yes, in this browser window you're reading now, unless you're reading a printed version)</code>
-<input type="text" id="myAtlas" value="click here, delete and paste your Atlas connection string" size="100">
-<br></p>
-<p>Database Name: <input type="text" id="mydB" value="click here, delete and put your own" size="30">
+See Part 3 How to add Base URL into Xdrip
+
+
+
+
+h) Add a database username (for example nightscout) and a database password (in the example below soo5ecret but please change it!).
+
 <br>
-Click the Generate button (just here below this line: in this browser window you're reading):</p>
-<p><br></p>
-<p><button onclick="Generate()">Generate</button></p>
-<p>Field1: <input type="text" id="field1" value="Hello World!"><br>
+
+Write down these credentials in the boxes below (yes, in this browser window you're reading now, unless you're reading a printed version). You’ll need them later.
+
+<br>
+Database password:<input type="text" id="myPwd" value="click here, delete and put your own " size="32">
+<br>
+
+Database username:<input type="text" id="myUsr" value="click here, delete and put your own" size="32">
+
+<br>
+Paste the string in the box below `(yes, in this browser window you're reading now, unless you're reading a printed version)`
+<input type="text" id="myAtlas" value="click here, delete and paste your Atlas connection string" size="100">
+<br>
+
+Database Name: <input type="text" id="mydB" value="click here, delete and put your own" size="30">
+<br>
+Click the Generate button (just here below this line: in this browser window you're reading):
+
+<br>
+
+
+<button onclick="Generate()">Generate</button>
+
+
+
+
+Field1: <input type="text" id="field1" value="Hello World!"><br>
 Field2: <input type="text" id="field2"><br><br>
 Field3: <input type="text" id="field3"><br><br>
-<button onclick="myFunction()">Copy Text</button></p>
+<button onclick="myFunction()">Copy Text</button>
+
 <p>A function is triggered when the button is clicked. The function copies the text from Field1 into Field2.</p>
 
 <script>
@@ -292,40 +363,81 @@ function myFunction() {
 }
 </script>
 
-<p><img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/></p>
-<p><font size="4"></p>
-<p>This is a regular paragraph.</p>
-<p>Paragraph:</p>
-<ol>
-<li><strong>Now Open another tab</strong>  to make a Mongodb Atlas<strong> Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
-  and </strong>click** Start Free
- <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/><ol>
-<li><strong>No need to do this part</strong> but I did.<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB_Atlas account_setup.jpg"MongoDB Atlas Account Setup.jp"/>
- <br></li>
-<li>Sub item three<br></li>
-</ol>
-</li>
-<li>
-<p>Item two</p>
-</li>
-<li>
-<p>Enter your information and then click Get Started Free
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas fill in details2.jpg"Fill in your details"/></p>
-</li>
-</ol>
-<p>Select Create a cluster in Shared Clusters (FREE)</p>
-<p>Leave all default values and click Create Cluster</p>
-<p>Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes)</p>
-<p>Click on CONNECT</p>
-<p>f. Click on Allow Access from Anywhere</p>
-<p>Click on Add IP Address</p>
-<p>h) Add a database username (for example nightscout) and a database password (in the example below soo5ecret but please change it!).</p>
-<p>i) Then click Create Database User.</p>
-<p>j)Click on Choose a connection method</p>
-<p>Select Connect your application</p>
-<p>Copy the connection string: click Copy and paste it somewhere to edit it (like Notepad).</p>
-<p></font></p>
-<p>Check what version you are upto on your Nightscout site. In my example I'm on version  14.06 (Liquorice)</p>
+
+
+
+
+
+
+<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/>
+
+
+
+<font size="4">
+
+This is a regular paragraph.
+
+Paragraph:
+
+1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
+  and **click** Start Free
+ <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
+      2. **No need to do this part** but I did.<img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB_Atlas account_setup.jpg"MongoDB Atlas Account Setup.jp"/>
+ <br>
+      3. Sub item three<br>
+2. Item two
+
+
+* Enter your information and then click Get Started Free
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas fill in details2.jpg"Fill in your details"/>
+
+
+  Select Create a cluster in Shared Clusters (FREE)
+
+
+
+
+  Leave all default values and click Create Cluster
+
+
+
+
+
+  Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes)
+
+
+
+   Click on CONNECT
+
+
+   f. Click on Allow Access from Anywhere
+
+
+   Click on Add IP Address
+
+
+
+
+   h) Add a database username (for example nightscout) and a database password (in the example below soo5ecret but please change it!).
+
+
+   i) Then click Create Database User.
+
+
+   j)Click on Choose a connection method
+
+
+   Select Connect your application
+
+
+
+   Copy the connection string: click Copy and paste it somewhere to edit it (like Notepad).
+
+</font>
+
+
+Check what version you are upto on your Nightscout site. In my example I'm on version  14.06 (Liquorice)
+
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -338,12 +450,18 @@ function myFunction() {
 </tbody>
 </table>
 
-<p>Updating your website to the latest version
+
+
+Updating your website to the latest version
  <a href="https://github.com/nightscout/cgm-remote-monitor/releases" target="_blank" title="Nightscout Release Versions">See Here</a> for the 
- current released version at moment) is easy with the update tool linked below. </p>
-<h2 id="instructions">Instructions</h2>
-<p>These instruction have been made on the 28 <span style="background-color: #FFFF00"><strong>April 2021</strong></span><br>
-<br></p>
+ current released version at moment) is easy with the update tool linked below. 
+
+
+
+## Instructions
+
+These instruction have been made on the 28 <span style="background-color: #FFFF00">**April 2021**</span><br>
+<br>
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -355,49 +473,49 @@ as of 0.12, Nightscout no longer supports the free Azure platform now. If you re
 </tr>
 </tbody>
 </table>
-<p><br></p>
-<h1 id="step-1-update-github-repo">Step 1 Update Github Repo</h1>
-<ul>
-<li>
-<p>Log into your GitHub Account.<a href="https://github.com/" target="_blank" title="GitHub Login">-- Here --</a>
-<span style="background-color: #FFFF00"><strong>Wait</strong></span>: Make sure you’re actually signed into your GitHub account and <span style="background-color: #FFFF00"><strong>Check</strong></span> by looking in the upper right corner of the page to verify. You cannot do this later.<span style="background-color: #FFFF00"><strong>Best to do it now!.</strong></span> 
-😉 <br></p>
-</li>
-<li>
-<p>Now<a href="http://nightscout.github.io/pages/update-fork/" target="_blank" title="Update Tool">-- Click Here --</a> to open the <span style="background-color: #FFFF00"><strong>update tool or image below!</strong></span>for Nightscout in a new tab from Github. Make sure both are open<br></p>
-</li>
-<li>
-<p>Enter your GitHub <span style="background-color: #FFFF00"><strong>username</strong></span> and click the blue button that says Check for updates. (Note: your username is not an email address.)<br></p>
-</li>
-</ul>
-<p><a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
+<br>
+
+# Step 1 Update Github Repo
+
+* Log into your GitHub Account.<a href="https://github.com/" target="_blank" title="GitHub Login">-- Here --</a>
+<span style="background-color: #FFFF00">**Wait**</span>: Make sure you’re actually signed into your GitHub account and <span style="background-color: #FFFF00">**Check**</span> by looking in the upper right corner of the page to verify. You cannot do this later.<span style="background-color: #FFFF00">**Best to do it now!.**</span> 
+😉 <br>
+
+* Now<a href="http://nightscout.github.io/pages/update-fork/" target="_blank" title="Update Tool">-- Click Here --</a> to open the <span style="background-color: #FFFF00">**update tool or image below!**</span>for Nightscout in a new tab from Github. Make sure both are open<br>
+
+* Enter your GitHub <span style="background-color: #FFFF00">**username**</span> and click the blue button that says Check for updates. (Note: your username is not an email address.)<br>
+
+
+<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/>
 </a>
-click the blue button that says<span style="background-color: #FFFF00"><strong>Checks for updates</strong></span></p>
-<ul>
-<li>If an update is available, the tool will tell you this,and provide directions for you, and also give you a button that will take you to <span style="background-color: #FFFF00"><strong>GitHub</strong></span> to finish the process.</li>
-</ul>
-<p><a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/update availible.jpg" title="Update Tool"/></a><br></p>
-<ul>
-<li><span style="background-color: #FFFF00"><strong>Click the Continue updating at GitHub button.</strong></span> Review the directions on the screen that pops up, and continue.</li>
-</ul>
-<h2 id="step-1-see-step1-step2-video-below">step 1 <code>(see Step1 &amp; Step2 video below)</code></h2>
-<ul>
-<li><span style="background-color: #FFFF00"><strong>Click "Create pull request"</strong></span> Your fork must be on the left side<br />
+click the blue button that says<span style="background-color: #FFFF00">**Checks for updates**</span>
+
+* If an update is available, the tool will tell you this,and provide directions for you, and also give you a button that will take you to <span style="background-color: #FFFF00">**GitHub**</span> to finish the process.
+
+<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/update availible.jpg" title="Update Tool"/></a><br>
+
+* <span style="background-color: #FFFF00">**Click the Continue updating at GitHub button.**</span> Review the directions on the screen that pops up, and continue.
+
+## step 1 `(see Step1 & Step2 video below)`
+
+* <span style="background-color: #FFFF00">**Click "Create pull request"**</span> Your fork must be on the left side  
 <a >
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
- and the <span style="background-color: #FFFF00"><strong>nightscout/cgm-remote-monitor must be on the right.</strong></span><br></li>
-</ul>
-<h2 id="step-2-create-pull-request">step 2 create pull request</h2>
-<ul>
-<li>Click <span style="background-color: #FFFF00"><strong>"Create pull request” again,</strong></span> do not change the comparison. Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right side.
+ and the <span style="background-color: #FFFF00">**nightscout/cgm-remote-monitor must be on the right.**</span><br>
+
+## step 2 create pull request
+
+* Click <span style="background-color: #FFFF00">**"Create pull request” again,**</span> do not change the comparison. Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right side.
 <a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 2 create pull request again.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a></li>
-<li><span style="background-color: #FFFF00"><strong> Also Give your pull request a name</strong></span> like “Update” or “Sweet Liquorice Update” — doesn’t really matter what this is.</li>
-</ul>
-<h2 id="step-1-step-2-video">Step 1 &amp; Step 2 Video</h2>
-<p><br></p>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 2 create pull request again.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
+* <span style="background-color: #FFFF00">** Also Give your pull request a name**</span> like “Update” or “Sweet Liquorice Update” — doesn’t really matter what this is.
+
+## Step 1 & Step 2 Video
+<br>
+
+
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -410,17 +528,19 @@ click the blue button that says<span style="background-color: #FFFF00"><strong>C
 </tbody>
 </table>
 
-<p><br></p>
-<h2 id="step-3-merge-pull-request">step 3 merge pull request</h2>
-<ul>
-<li>Click <span style="background-color: #FFFF00"><strong>"Merge pull request</strong></span></li>
-</ul>
-<p><a >
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 3 merge pull request.jpg" title="Merge pull request"/></a></p>
-<ul>
-<li>or see video below
-<br></li>
-</ul>
+
+ <br>
+
+
+## step 3 merge pull request
+
+* Click <span style="background-color: #FFFF00">**"Merge pull request**</span>
+
+<a >
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 3 merge pull request.jpg" title="Merge pull request"/></a>
+
+* or see video below
+<br>
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -433,22 +553,21 @@ click the blue button that says<span style="background-color: #FFFF00"><strong>C
 </tbody>
 </table>
 
-<h2 id="step-4-confirm-merge">step 4 confirm merge</h2>
-<p><br>
-* Now Click the  <span style="background-color: #FFFF00"><strong>Confirm merge button.</strong></span>
-<a>
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 4 click  confirm merge.jpg" title="Step 4 Confirm Merge"/></a></p>
-<h2 id="step-5-merged">step 5 merged</h2>
-<ul>
-<li>
-<p>If you see <span style="background-color: #FFFF00"><strong>"Merged" in purple,</strong></span> you have successfully updated your fork. If you're using Heroku you will need to to push the Deploy Branch button, in the Manual deploy section of the Deploy page.</p>
-</li>
-<li>
-<p><span style="background-color: #FFFF00"><strong>You have successfully updated your GitHub repository</strong></span>, now let's deploy it in Heroku.
+
+
+## step 4 confirm merge
 <br>
-<br></p>
-</li>
-</ul>
+* Now Click the  <span style="background-color: #FFFF00">**Confirm merge button.**</span>
+<a>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/step 4 click  confirm merge.jpg" title="Step 4 Confirm Merge"/></a>
+
+## step 5 merged
+
+* If you see <span style="background-color: #FFFF00">**"Merged" in purple,**</span> you have successfully updated your fork. If you're using Heroku you will need to to push the Deploy Branch button, in the Manual deploy section of the Deploy page.
+
+* <span style="background-color: #FFFF00">**You have successfully updated your GitHub repository**</span>, now let's deploy it in Heroku.
+<br>
+<br>
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -461,36 +580,30 @@ click the blue button that says<span style="background-color: #FFFF00"><strong>C
 </tbody>
 </table>
 
-<h1 id="step6-deploy-in-heroku">Step6: Deploy in Heroku</h1>
-<p><br></p>
-<ul>
-<li>
-<p>Log into <a href="https://id.heroku.com/login" target="_blank" title="Nightscout Release Versions">Heroku</a><br />
+# Step6: Deploy in Heroku
+<br>
+
+
+* Log into <a href="https://id.heroku.com/login" target="_blank" title="Nightscout Release Versions">Heroku</a>  
 <a href="https://id.heroku.com/login" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/log into heroku.jpg" title="Log into Heroku"/>
-</a></p>
-</li>
-<li>
-<p>Select your app <code>(In my case The Dibetic Way)</code>
+</a>
+
+* Select your app `(In my case The Dibetic Way)`
 <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Select_your_App.jpg" title="Select Deploy Tab"/>
-<br></p>
-</li>
-<li>
-<p>In the middle bit, click on the GitHub button if it isn’t already showing as connected. It will ask you to authorize the connection if you’re doing it for the first time.</p>
-</li>
-</ul>
-<p><img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/github connected.jpg" title="Select Deploy Tab"/>
-<br></p>
-<ul>
-<li>
-<p>Type “cgm” into the repo-name search box, and click Search
-<br></p>
-</li>
-<li>
-<p>Click the Connect button once it finds your cgm-remote-monitor repository. You should now be connected
-<br></p>
-</li>
-</ul>
+<br>
+
+* In the middle bit, click on the GitHub button if it isn’t already showing as connected. It will ask you to authorize the connection if you’re doing it for the first time.
+
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/github connected.jpg" title="Select Deploy Tab"/>
+<br>
+
+* Type “cgm” into the repo-name search box, and click Search
+<br>
+
+* Click the Connect button once it finds your cgm-remote-monitor repository. You should now be connected
+<br>
+
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -503,32 +616,29 @@ click the blue button that says<span style="background-color: #FFFF00"><strong>C
 </tbody>
 </table>
 
-<ul>
-<li>
-<p>Or if Heroku is not connected to GitHub, scroll down and click Connect to GitHub, if a popup window opens and requires authorization, click Authorize Heroku
-<br></p>
-</li>
-<li>
-<p>Now after connecting to Gitnub, Scroll down to the bottom of the page, make sure to select the <span style="background-color: #FFFF00">master branch</span>  and then click <span style="background-color: #FFFF00"> Deploy Branch</span>
+* Or if Heroku is not connected to GitHub, scroll down and click Connect to GitHub, if a popup window opens and requires authorization, click Authorize Heroku
+<br>
+
+* Now after connecting to Gitnub, Scroll down to the bottom of the page, make sure to select the <span style="background-color: #FFFF00">master branch</span>  and then click <span style="background-color: #FFFF00"> Deploy Branch</span>
 <br>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/masterthendeploy.jpg" title="Select master then Deploy Branch"/>
 </a>
-<br></p>
-</li>
-<li>Build will start, do not interfere and wait for completion. It can take a while <span style="background-color: #FFFF00">approximately around 10 minutes Do not Interrupt the process</span>  has it can lead to a broken site and you'll need to restart again.
-<br><br />
+<br>
+* Build will start, do not interfere and wait for completion. It can take a while <span style="background-color: #FFFF00">approximately around 10 minutes Do not Interrupt the process</span>  has it can lead to a broken site and you'll need to restart again.
+<br>  
   <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Build-will-start.jpg" title="Build will start and information will scroll in the log window"/>
 </a>
-<br></li>
-<li>Wait until the deploy process completes and <span style="background-color: #FFFF00">click View</span> if nothing happens click Manage App then upper right Open App
+<br>
+*  Wait until the deploy process completes and <span style="background-color: #FFFF00">click View</span> if nothing happens click Manage App then upper right Open App
 <br>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/view-App.jpg" title="Delect View now that the deploy process is complete"/></a>
-<br></li>
-<li>Your site will open and  it should be at the latest version on your Nightscout Site
-<br></li>
-<li><span style="background-color: #FFFF00">You're Finished!</span> </li>
-<li>Head over to your Nightscout site and check its updated!</li>
-</ul>
+<br>
+*  Your site will open and  it should be at the latest version on your Nightscout Site
+<br>
+* <span style="background-color: #FFFF00">You're Finished!</span> 
+* Head over to your Nightscout site and check its updated!
+
+
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -540,7 +650,8 @@ click the blue button that says<span style="background-color: #FFFF00"><strong>C
 </tr>
 </tbody>
 </table>
-<p><br></p>
+<br>
+
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -555,7 +666,10 @@ click the blue button that says<span style="background-color: #FFFF00"><strong>C
 </tr>
 </tbody>
 </table>
-<p><br></p>
+<br>
+
+
+
 <table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -566,10 +680,15 @@ click the blue button that says<span style="background-color: #FFFF00"><strong>C
 </tr>
 </tbody>
 </table>
+***********************************************************************************************************************************************************
+above needs removing when finished!!!!!!!!!!!!!
+*************************************************************************************************************************************************************
+-->
 <p><br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not also visit <a href="https://cycle.diabetes.org.uk/">UK Wide Cycle Ride - Diabetes.uk</a> for your Diabetes Needs! </p>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://cycle.diabetes.org.uk/">UK Wide Cycle Ride - Diabetes.uk</a> <span style="background-color: #FFFF00"><strong>or</strong></span>  <a href="https://swim22.diabetes.org.uk/">Swim22 - Diabetes.uk</a> <span style="background-color: #FFFF00"><strong>or</strong></span> <a href="https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE">Month of Miles - Diabetes.uk</a> for all of your Diabetes Needs!
+</center></p>
 <!--  
 
   mkdocs.yml    # The configuration file.
