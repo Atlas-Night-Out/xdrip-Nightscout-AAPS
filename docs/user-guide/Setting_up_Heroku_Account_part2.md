@@ -1,3 +1,5 @@
+<!-- this is not on github server !
+docs made by D.Galloway 2019- 2021-->
 # Welcome to The Diabetic way
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
@@ -11,44 +13,73 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 
 
-Part 2 Setting up a Heroku Account for Nightscout
-
-
-Links:
-
-Heroku: https://signup.heroku.com
-Github: https://github.com/
-Advanced Plug In’s: https://github.com/nightscout/cgm-remote-monitor#plugins
-Errors or issues: https://heroku.com/verify
-How to Installing Xdrip: https://www.youtube.com/watch?v=7Qwr4HrchTU&feature=youtu.be
+## **Part 2 Setting up a Heroku Account for Nightscout**<br><br>
  
-
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href=" http://127.0.0.1:8000/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="First create a user account by going to">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+</tr>
+</tbody>
+</table>
  
-
- 
-
-Now we are going to create a Heroku account.
-
-You will have already needed to have done Part 1 Setting up Github for Nightscout. To be able to continue.
-
- 
-
-First you will need go to Heroku and create an account for yourself
-Heroku: https://signup.heroku.com
-Now enter your account details.
+<br>
+### **Now we are going to create a Heroku account.**<br><br>
+1. First you will need go to Heroku web page and create an account for yourself at: https://signup.heroku.com<br>
+And enter all your account details.<br>
+<a href="https://signup.heroku.com" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/sign_up.jpg" title="Sign up a Heroku Account"/></a>	
 
 First Name, last name, email address
-“Role” and “Primary development language” can be anything, but “Hobbyist” and “Node js” are the most appropriate choices.
-Now go to verify your account via the link in the verification email that’s sent to you, and set your password.
-Set Heroku passwordSet Heroku password
-Github cgm-remote-monitorGithub cgm-remote-monitor
- 
+“Role” and “Primary development language” can be anything, but “Hobbyist” and “Node js” are the most appropriate choices. <span style="background-color: #FFFF00">**And click on Create your free Account**</span><br><br>
+2. Now go to verify your account via the link in the verification email that’s sent to you, and then set your password.<br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/set password.jpg" title="set password up"/><br>
+3. Click <span style="background-color: #FFFF00">**Later**</span> for Secure your Account this can be done later!<br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Later for Secure your Account.jpg" title="Secure your Account"/><br>
+4. Your Heroku page will open, now click on your profile picture, in the top right corner, and <span style="background-color: #FFFF00">**select Account Settings**</span><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/heroku Account Settings.jpg" title="Heroku Account Settings"/><br>
 
-Now go back to your Github account, and make sure you’re in your ( Your Github account name / cgm-remote-monitor)repository in my case thediabeticways/cgm-remote-monitor.
- 
 
-Your Github Account Name
-Your Github Account Name
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> Unless you willingly select billable features, your credit card information is only used for verifications and you will not be charged anything. Worst case you’ll be charged £0.00</span></span></td>
+</tr>
+</tbody>
+</table><br>
+5.  Click on <span style="background-color: #FFFF00">**Billing**</span><br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/billing.jpg" title="Select Billing"/><br>
+6.  Click on your <span style="background-color: #FFFF00">**credit card details**</span><br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/Add credit Card.jpg" title="Add yoru credit card details"/><br>
+7.  Enter your <span style="background-color: #FFFF00">**credit card Details**</span> and click Save Details<br>
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/enter payment details.jpg" title="Enter Card Details"/><br>
+
+### You should now have 2 web pages open: <span style="background-color: #FFFF00">**Github**</span> and <span style="background-color: #FFFF00">**Heroku**</span> Leave them open.<br><br>
+**Heroku**
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/welcome to heroku.jpg" title="Welcome to Heroku main page"/><br><br>
+**Gitbub**
+<img width="auto" height="auto" border="0" align="center"  src="/img/Heroku/github & heroku open.jpg" title="Welcome to Github main page"/><br><br>
+
+## <center>Now we need to do <br></center>
+<br>
+# <center>Part 3: <a href="http://127.0.0.1:8000/user-guide/Setting_up_Atlas_Account_part3/" target="_blank" title="set up a Atlas Account - Part 3">Set up a Atlas Account</a> </center>
+<br>
+
+**********************************************************************************************
+<!--  
+***********************************************************************************************************************************************************
+below needs removing when finished!!!!!!!!!!!!!
+*************************************************************************************************************************************************************
+
+8. Now go back to your Github account, and make sure you’re in your ( Your Github account name / cgm-remote-monitor)<br>
+
+
 
 
 In your case it will be ( Your Github Account Name / cgm-remote-monitor)
@@ -483,11 +514,15 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 </tr>
 </tbody>
 </table>
+***********************************************************************************************************************************************************
+above needs removing when finished!!!!!!!!!!!!!
+*************************************************************************************************************************************************************
+-->
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not also visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) for your Diabetes Needs! 
-
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
+</center>
 
   <!--  
   
