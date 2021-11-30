@@ -62,9 +62,9 @@ First Name, last name, email address
 
 ### You should now have 2 web pages open: <span style="background-color: #FFFF00">**Github**</span> and <span style="background-color: #FFFF00">**Heroku**</span> Leave them open.<br><br>
 **Heroku**
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/my-project/img/Heroku/welcome to heroku.jpg" title="Welcome to Heroku main page"/><br><br>
-**Gitbub**
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/my-project/img/Heroku/github & heroku open.jpg" title="Welcome to Github main page"/><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/welcome to heroku.jpg" title="Welcome to Heroku main page"/><br><br>
+**Github**
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/github & heroku open.jpg" title="Welcome to Github main page"/><br><br>
 
 ## <center>Now we need to do <br></center>
 <br>
