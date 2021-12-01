@@ -68,7 +68,7 @@ First Name, last name, email address
 
 ## <center>Now we need to do <br></center>
 <br>
-# <center>Part 3: <a href="http://127.0.0.1:8000/user-guide/Setting_up_Atlas_Account_part3/" target="_blank" title="set up a Atlas Account - Part 3">Set up a Atlas Account</a> </center>
+# <center>Part 3: <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Atlas_Account_part3/" target="_blank" title="set up a Atlas Account - Part 3">Set up a Atlas Account</a> </center>
 <br>
 
 **********************************************************************************************
