@@ -11,7 +11,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 # Part 1: Setting up the Github for Nightscout <br>
 
-For setting up Nightscout I have used a Dexcom G6 and using xdrip as my uploader as well as Android APS, but I will imagine they will also work
+For setting up Nightscout I have used a Dexcom G6 with xdrip as my uploader as well as Android APS, but I will imagine they will also work
 with other devices and setups too! You do this at your own risk as my instructions are for educational purposes only and you should check with your GP or specialist or Endo, not sure how many more names I need to put here for doctors 😊  as I do not know all the worlds ways they are treated!
 <br>
 
