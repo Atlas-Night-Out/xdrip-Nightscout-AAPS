@@ -2,8 +2,6 @@
 docs made by D.Galloway 2019- 2021 -->
 
 
-
-
  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Deleting-your-cgm-remote-monitor/utube_Github-deleting your cgm-remote-monitor fork.jpg" title="Github - Deleting Your cgm-remote-monitor fork  "/>
 <br>
 ## Deleting Your cgm-remote-monitor fork <br><br>

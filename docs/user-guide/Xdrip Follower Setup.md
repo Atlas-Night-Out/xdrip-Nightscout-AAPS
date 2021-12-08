@@ -7,7 +7,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/20210624_190543_460x3777.jpg" title="xdrip setup"/></a><br>
 ## Xdrip Follower Setup
-dave
+
 ## If you would like to follow these instructions with video then click image below other wise continue step by step below<br><br>
 <a href="https://youtu.be/iS-jvFBCsOg" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/utube video image_866x330.jpg" title="xdrip follower setup Video"/>
