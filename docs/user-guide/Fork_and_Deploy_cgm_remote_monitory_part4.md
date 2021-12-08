@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-dave
+
 ## <span style="color:#111478">Fork and Deploy cgm remote monitory Part 4 </span> <br> 
 
 <br>
@@ -148,7 +148,7 @@ function myFunction() {
 </table>
 
 14. 
-
+dave
 
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="Version of Nightscout Video"/><br><br>
