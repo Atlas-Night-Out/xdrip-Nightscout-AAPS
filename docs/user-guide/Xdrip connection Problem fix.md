@@ -5,12 +5,8 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-
-## <span style="color:#111478">Xdrip connection Problem fix </span> <br> 
-
-<br>
-
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a><br>
+## <span style="color:#111478">Xdrip connection Problem fix </span> <br>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    

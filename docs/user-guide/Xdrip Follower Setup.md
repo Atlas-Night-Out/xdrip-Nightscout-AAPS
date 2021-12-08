@@ -5,12 +5,9 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/20210624_190543_460x3777.jpg" title="xdrip setup"/></a><br>
 ## Xdrip Follower Setup
-
-
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/20210624_190543_460x3777.jpg" title="xdrip setup"/></a>
-
+dave
 ## If you would like to follow these instructions with video then click image below other wise continue step by step below<br><br>
 <a href="https://youtu.be/iS-jvFBCsOg" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/utube video image_866x330.jpg" title="xdrip follower setup Video"/>
