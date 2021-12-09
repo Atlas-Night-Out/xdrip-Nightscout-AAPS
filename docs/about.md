@@ -62,4 +62,7 @@ If you would like to donate to me for helping with these documents please visit 
 <a href="https://cycle.diabetes.org.uk/fundraising/UKWideCycleRide-DiabetesUK" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/uk_wide_cycle_ride_.jpg" title="Diabetes UK Wide cycle Ride"/><br><br>
 
-  I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.
+ Disclaimer
+Disclaimer All information, thought, and code described here is intended for informational and educational purposes only. The Diabetic way - Cyb netics currently makes no attempt at HIPAA privacy compliance. Use of code from github.com is without warranty or support of any kind. Please review the LICENSE found within each repository for further details. Use Nightscout at your own risk, and do not use the information or code to make medical decisions.
+
+I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.
