@@ -205,7 +205,7 @@ You will WAIT until a while for them completion. Do not stop  the process until 
 **a.** Lastly, you might want to change the PAPERTRAIL_API_TOKEN line. Heroku gives you a free, tiny amount of Papertrail service (this is like a logging service for how the site is running), but this generates a lot of confusion to most people later on.<br> when they get a message that their "Free Papertrail Service has run out of room". Papertrail is not needed at all, edit the line with the pensil icon and add <span style="background-color: #FFFF00">** DISABLED**</span> at the end, so that you can recover the function if you need it later.<br><br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/PAPERTRAIL_DISABLED.jpg" title="PAPERTRAIL has been Disabled"/><br>
 <br><br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Nightscout.jpg" title="Nightscout All setup and working"/>br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Nightscout.jpg" title="Nightscout All setup and working"/><br><br>
 
 <font size="6"> <center>**Congratulations Nightscout is now setup!**</center><br><br></font>
 
