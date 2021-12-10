@@ -141,7 +141,7 @@ careportal basal dbsize rawbg iob maker cob bwp cage iage sage boluscalc pushove
 @cluster0.<input type="text" id="field6"value="cluster0.xxxxx ">.mongodb.net/ <input type="text" id="field5"value="Database Name">?retryWrites=true&w=majority<br><br>
 
 ### **My Connection String results**
-<font size="+0"> **mongodb+srv://nightkai:N8!aX9q:FhgRpiF@cluster0.j2iil.mongodb.net/kdatabase?retryWrites=true&w=majority**</font><br>
+<font size="+0"> **mongodb+srv://nightkai:Madeuppassword7@cluster0.j2iil.mongodb.net/kdatabase?retryWrites=true&w=majority**</font><br>
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/how to make connection string.jpg" title="Update Tool"/><br>
 <table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
