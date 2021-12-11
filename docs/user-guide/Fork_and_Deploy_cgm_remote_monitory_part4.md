@@ -229,18 +229,18 @@ You will then not need to login into Heroku and execute Manual Deploy, as soon a
 
 a)	To allow automatic deploy, log in Heroku and select your app, in my case diabeticway and then selecting the <span style="background-color: #FFFF00">**Deploy section**</span>.<br>
 b)	 Select <span style="background-color: #FFFF00">**Connect to Github**</span><br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/Deploy heroku.jpg" title="Go to Deploy Section"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Deploy heroku.jpg" title="Go to Deploy Section"/></a>	<br>
 c) Authenticate GitHub and your cgm-remote-monitor app are now connected.
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/connect to github.jpg" title="Authenticate GitHub"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/connect to github.jpg" title="Authenticate GitHub"/></a>	<br>
 d) Click on <span style="background-color: #FFFF00">**search**</span> and add your repo name, it will then connect to Github<br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/search.jpg" title="search"/></a><br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/repo name.jpg" title="your repo name"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/search.jpg" title="search"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/repo name.jpg" title="your repo name"/></a><br>
 e) Verify the master branch is selected and click <span style="background-color: #FFFF00">**Enable Automatic Deploys**</span>.
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch.jpg" title="Enable Automatic Deploys"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch.jpg" title="Enable Automatic Deploys"/></a>	<br>
 f) Your site will <span style="background-color: #FFFF00">**update automatically**</span> every time you update the GitHub repository now.<br><br>
-<img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch_2.jpg" title="Verify the master branch"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch_2.jpg" title="Verify the master branch"/></a>	<br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <img width="auto" height="auto" border="0" align="center"  src="/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
