@@ -223,7 +223,7 @@ You will WAIT until a while for them completion. Do not stop  the process until 
 
 <font size="6"> <center>**Congratulations Nightscout is now setup!**</center><br><br></font><br><br>
 
-## **Enable Auto Deploys in Heroku**<br><br>dave
+## **Enable Auto Deploys in Heroku**<br><br>
 Automatic deploys will allow you to update routinely your Heroku apps when you renew the GitHub repository.
 You will then not need to login into Heroku and execute Manual Deploy, as soon as do a new version of the repo be merged into GitHub an automatic deploy will trigger in all enabled Heroku apps.
 
