@@ -11,7 +11,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Robot face_ heroku_account.jpg" Setting up Heroku Part 2"/>
 
 
-Dave
+
 
 ## **Part 2 Setting up a Heroku Account for Nightscout**<br><br>
  
@@ -28,8 +28,7 @@ Dave
  
 <br>
 ### **Now we are going to create a Heroku account.**<br><br>
-1. First you will need go to Heroku web page and create an account for yourself <a href=" https://signup.heroku.com" target="_blank" title="Heroku Account">Click Here</a> or: https://signup.heroku.com<br>
-And enter all your account details.<br>
+1. First you will need go to Heroku web page and create an account for yourself <a href=" https://signup.heroku.com" target="_blank" title="Heroku Account">Click Here</a> or: https://signup.heroku.com  <span style="background-color: #FFFF00">**And enter all your account details**</span>.<br>
 <a href="https://signup.heroku.com" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/sign_up.jpg" title="Sign up a Heroku Account"/></a>	
 
