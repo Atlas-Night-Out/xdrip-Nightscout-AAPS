@@ -28,7 +28,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
  
 <br>
 ### **Now we are going to create a Heroku account.**<br><br>
-1. First you will need go to Heroku web page and create an account for yourself at: https://signup.heroku.com<br>
+1. First you will need go to Heroku web page and create an account for yourself <a href=" https://signup.heroku.com" target="_blank" title="Heroku Account">Click Here</a> or: https://signup.heroku.com<br>
 And enter all your account details.<br>
 <a href="https://signup.heroku.com" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/sign_up.jpg" title="Sign up a Heroku Account"/></a>	
