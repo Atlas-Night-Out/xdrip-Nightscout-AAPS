@@ -11,7 +11,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Robot face_ heroku_account.jpg" Setting up Heroku Part 2"/>
 
 
-
+Dave
 
 ## **Part 2 Setting up a Heroku Account for Nightscout**<br><br>
  
