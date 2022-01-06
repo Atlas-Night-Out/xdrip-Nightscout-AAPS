@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Xdrip   Setting up Glucose Meters - Cyb Netics Docs</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/font-awesome.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
+
+        <script src="../../js/jquery-1.10.2.min.js" defer></script>
+        <script src="../../js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Cyb Netics Docs</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem">
+                                <a href="../.." class="nav-link">Home</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Xdrip <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../xdrip%20-%20Download/" class="dropdown-item">Xdrip Download</a>
+</li>
+                                    
+<li>
+    <a href="../Xdrip%20connection%20Problem%20fix/" class="dropdown-item">Xdrip connection Problem fix</a>
+</li>
+                                    
+<li>
+    <a href="../Xdrip%20Follower%20Setup/" class="dropdown-item">Xdrip Follower Setup</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Nightscout <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../Specifications/" class="dropdown-item">Specifications</a>
+</li>
+                                    
+<li>
+    <a href="../Setting_up_Github_Account_part1/" class="dropdown-item">Part 1 Setting up Github Account </a>
+</li>
+                                    
+<li>
+    <a href="../Setting_up_Heroku_Account_part2/" class="dropdown-item">Part 2 Setting up Heroku Account </a>
+</li>
+                                    
+<li>
+    <a href="../Setting_up_Atlas_Account_part3/" class="dropdown-item">Part 3 Setting up Atlas Account </a>
+</li>
+                                    
+<li>
+    <a href="../Fork_and_Deploy_cgm_remote_monitory_part4/" class="dropdown-item">Part 4 - Fork and Deploy cgm remote monitory</a>
+</li>
+                                    
+<li>
+    <a href="../Nightscout_usefull_Information/" class="dropdown-item">Nightscout usefull Information</a>
+</li>
+                                    
+<li>
+    <a href="../Nightscout_update/" class="dropdown-item">Nightscout Update</a>
+</li>
+                                    
+<li>
+    <a href="../Redeploying%20your%20repository/" class="dropdown-item">Redeploying the repository</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Watches <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../Watches/" class="dropdown-item">Watches</a>
+</li>
+                                    
+<li>
+    <a href="../TicWatch-Pro-3-side-load---xdrip/" class="dropdown-item">TicWatch-Pro-3-Side-Load</a>
+</li>
+                                    
+<li>
+    <a href="../Garmin_Connect_BloodReadings/" class="dropdown-item">Connecting Garmin 945 to Dexcom G6</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Update <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../Deleting-your-cgm-remote-monitor/" class="dropdown-item">Github - Deleting-your-cgm-remote-monitor  </a>
+</li>
+                                    
+<li>
+    <a href="../Nightscout_update/" class="dropdown-item">Nightscout Update</a>
+</li>
+                                    
+<li>
+    <a href="../../about/" class="dropdown-item">About</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#welcome-to-the-diabetic-way" class="nav-link">Welcome to The Diabetic way</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#xdrip-setting-up-glucose-meters" class="nav-link">Xdrip - Setting up Glucose Meters </a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#if-you-would-like-to-follow-these-instructions-with-video-then-see-below-other-wise-continue-step-by-step-below" class="nav-link">If you would like to follow these instructions with video then see below other wise continue step by step below </a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#items-i-used" class="nav-link">Items I used </a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#putting-xdrip-into-pairing-mode" class="nav-link">Putting Xdrip into Pairing Mode</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<!-- this is not on github server its local only and run my mkdocs server!
+docs made by D.Galloway 2019- 2021-->
+<h1 id="welcome-to-the-diabetic-way">Welcome to The Diabetic way</h1>
+<p>For full Website content visit <a href="https://www.thediabeticway.co.uk/index.php/en/">The Diabetic Way</a>.
+<br>
+<br></p>
+<p><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/Contour Next one_logo.jpg"Contour Next One Logo"/></p>
+<h2 id="xdrip-setting-up-glucose-meters"><span style="color:#111478">Xdrip - Setting up Glucose Meters</span> <br></h2>
+<h2 id="if-you-would-like-to-follow-these-instructions-with-video-then-see-below-other-wise-continue-step-by-step-below">If you would like to follow these instructions with video then see below other wise continue step by step below <br><br></h2>
+<p>Dave100</p>
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
+ <iframe id="video3" width="860" height="615" src="https://www.youtube.com/embed/D5w3i3O6Cyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
+
+</tr>
+</tbody>
+</table>
+<p><br> 
+<font size="4"> </p>
+<h2 id="items-i-used"><strong>Items I used</strong> <br></h2>
+<p>Mobile: Samsung Note 10 + <br>
+Contour Next One Blood Meter with strips <br>
+xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Download Xdrip">:Here</a> </p>
+<p>If you live in the United Kingdom you may be able to get a CONTOUR®PLUS BLUE free by clicking <a href="https://www.diabetes.ascensia.co.uk/products/contour-plus-blue/" target="_blank" title="CONTOUR® PLUS BLUE">:Here</a> </p>
+<p>Or this link for a Contour Next One with Bluetooth, which is the one I'm Using! <a href="https://www.contournextone.co.uk/register_uk/?promo=Web16#section2" target="_blank" title="CONTOUR® NEXT ONE">:Here</a> <br><br>
+CONTOUR DIABETES app (UK)
+<a href="https://play.google.com/store/apps/details?id=com.ascensia.contour.uk&hl=en" target="_blank" title="CONTOUR DIABETES app (UK)">:Here</a> <br><br></p>
+<h2 id="putting-xdrip-into-pairing-mode"><strong>Putting Xdrip into Pairing Mode</strong><br><br></h2>
+<ol>
+<li>First go into <span style="background-color: #FFFF00"><strong>settings</strong></span> - <span style="background-color: #FFFF00"><strong>Glucose Meters</strong></span> and select <span style="background-color: #FFFF00"><strong>Scan for Bluetooth Meter</strong></span>
+<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/1_Hamberger_icon.jpg" title="Select Burger icon "/>  <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/2_settings.jpg" title="Go to Settings "/><br> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/4_glucose meters 2.jpg" title="select Glucose Meter"/> 
+<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/5_scan for Bluetooth Meter.jpg" title="Select Scan for Bluetooth "/> <br></li>
+<li>Now you need to  pair it to your Contour Next One Meter, but before you do this.<br>
+<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/6_contour Next One2.jpg" title="Contour Next One "/></li>
+<li><span style="background-color: #FFFF00"><strong>Press down for 7 sec</strong></span> on your Contour next meter button, to put it into pairing mode.<br>
+   <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/7_Meter Scan.jpg" title="Meter Scan "/> <br>
+And select scan. You might not need to do this if you are quick enough. Just <span style="background-color: #FFFF00"><strong>select your Contour</strong></span> if it pops up<br><br></li>
+<li>Make sure to put it very close to the Note 10+ I found it better placing it at the back of the mobile!
+ <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/9_contour paired.jpg" title="Pairing it "/> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/10_paired.jpg" title="Select Pair  "/> <br>
+<span style="background-color: #FFFF00"><strong>Select Pair</strong></span>. Then after you have paired it. <br><br></li>
+<li>You should now be able to turn on the option <span style="background-color: #FFFF00"><strong>Use Bluetooth Meter</strong></span>  by going back.<br>
+<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/use bluetooth meter.jpg" title="Use Bluetooth Meter "/> <br></li>
+</ol>
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You should now be fully able to test your blood readings and have them automatically go straight into xdrip for you. </span></td>
+</tr>
+</tbody>
+</table>
+<p><br>
+6. In the the video above I will also show you how it will get your blood readings results stright into xdrip auomaticly but for you now <br>
+<font size="6"> <center><strong>Congratulations Contour Meter is now setup!</strong></center><br><br></font></p>
+<p><a href="https://www.diabetes.org.uk/" target="_blank">
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit <a href="https://cycle.diabetes.org.uk/">UK Wide Cycle Ride - Diabetes.uk</a> <span style="background-color: #FFFF00"><strong>or</strong></span>  <a href="https://swim22.diabetes.org.uk/">Swim22 - Diabetes.uk</a> <span style="background-color: #FFFF00"><strong>or</strong></span> <a href="https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE">Month of Miles - Diabetes.uk</a> for all of your Diabetes Needs!</p>
+<p></font></p>
+<!--  
+  ******************************************************************************************************************
+  mkdocs.yml    # The configuration file.
+    docs/
+    index.md  # The documentation homepage.
+       ...       # Other markdown pages, images and other files.
+
+
+
+<a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>      
+
+
+adding  Yellow Hightligher!!!!!!!!  with bold too
+<span style="background-color: #FFFF00">**Marked text**</span>
+
+
+link
+
+<a href=" https://github.com/" target="_blank" title="Github">Click Here</a> 
+
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Fork and Deploy cgm remote monitory Part 4/warning_sign.png" title="Update Tool"/></a>   
+
+<img width="30" height="30" src="/img/Fork and Deploy cgm remote monitory Part 4/clipart2068155.png">
+
+Adding a image with link
+<a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
+</a><br>
+
+
+Adding Video
+
+<iframe width="850" height="415" src="https://www.youtube.com/embed/MFsbm45b6YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Adding an embeded video
+<iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Note
+**Note:** a note is something that needs to be mentioned but is apart from the context.
+
+
+List
+This is a regular paragraph.
+
+Paragraph:
+
+1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Start Free">See Here</a> 
+  and **click** Start Free
+ <img width="auto" height="auto" border="0" align="center"  src="/img/Atlas/MongoDB Atlas start free.jpg"Click Start"/>
+   2. Sub item two
+   3. Sub item three
+2. Item two
+
+
+
+font size
+<font size="4">
+
+</font>
+
+link
+<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
+
+*******************************************************************************************************************************
+*******************************
+orange table
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">If you’re on Heroku and have Automatic Deploys enabled, you’re done!<br>
+ If you don’t have Automatic Deploys on yet, or aren’t sure, run through these steps below!</span></td>
+</tr>
+</tbody>
+</table>
+***************************************
+red warning table
+***************************
+<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
+</tr>
+</tbody>
+</table>
+*********************************
+Blue Note
+******************************
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+</tr>
+</tbody>
+</table>
+
+
+
+Table
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+Video in a box border!
+
+<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
+ <iframe id="video3" width="860" height="515" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  </span></td>
+</tr>
+</tbody>
+</table>
+*****************************************************
+Warning Note<table width="1266" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<tbody>
+<tr style="height: 16px;">
+<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
+</tr>
+<tr style="height: 56.4063px;">
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> 1: Some new features, updates, or bug fixes may require that you clear your browser cache before you will see the changes taken effect<br/> 2: If you get no errors and no readings after a while see about doing a <a href="http://127.0.0.1:8000/user-guide/Redeploying%20your%20repository/" target="_blank" title="Redeploying your repository link">Redeploying your repository</a> </span></td>
+</tr>
+</tbody>
+</table>
+
+--></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js" defer></script>
+        <script src="../../search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
