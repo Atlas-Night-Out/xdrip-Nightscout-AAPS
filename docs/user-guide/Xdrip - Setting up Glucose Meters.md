@@ -27,7 +27,7 @@ Dave G was here <br>Thanks to Julie!
 <font size="4"> 
 
 ## **Items I used** <br>
-Mobile: Samsung Note 10 + <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Download Xdrip"> Here</a> <br>
+Mobile: Samsung Note 10 + <a href=" https://www.onlybranded.co.uk/mobile-phones/" target="_blank" title="buy Samsung Note 10 +"> Here</a> <br>
 
 Contour Next One Blood Meter with strips <br>
 xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Buy Samsung Note 10 +"> Here</a> 
