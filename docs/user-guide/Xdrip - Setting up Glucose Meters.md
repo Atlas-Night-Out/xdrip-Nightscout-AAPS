@@ -30,7 +30,7 @@ Dave G was here <br>Thanks to Julie!
 Mobile: Samsung Note 10 + <a href=" https://www.onlybranded.co.uk/mobile-phones/" target="_blank" title="buy Samsung Note 10 +"> Here</a> <br>
 
 Contour Next One Blood Meter with strips <br>
-xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Buy Samsung Note 10 +"> Here</a> 
+xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Samsung Note 10 +"> Here</a> 
 
 If you live in the United Kingdom you may be able to get a CONTOUR®PLUS BLUE free by clicking click<a href="https://www.diabetes.ascensia.co.uk/products/contour-plus-blue/" target="_blank" title="CONTOUR® PLUS BLUE"> Here</a> 
 
