@@ -29,14 +29,14 @@ Dave G was here <br>Thanks to Julie!
 ## **Items I used** <br>
 Mobile: Samsung Note 10 + <br>
 Contour Next One Blood Meter with strips <br>
-xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Download Xdrip">:Here</a> 
+xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Download Xdrip"> Here</a> 
 
-If you live in the United Kingdom you may be able to get a CONTOUR®PLUS BLUE free by clicking <a href="https://www.diabetes.ascensia.co.uk/products/contour-plus-blue/" target="_blank" title="CONTOUR® PLUS BLUE">:Here</a> 
+If you live in the United Kingdom you may be able to get a CONTOUR®PLUS BLUE free by clicking click<a href="https://www.diabetes.ascensia.co.uk/products/contour-plus-blue/" target="_blank" title="CONTOUR® PLUS BLUE"> Here</a> 
 
 
 Or this link for a Contour Next One with Bluetooth, which is the one I'm Using! <a href="https://www.contournextone.co.uk/register_uk/?promo=Web16#section2" target="_blank" title="CONTOUR® NEXT ONE">:Here</a> <br><br>
-CONTOUR DIABETES app (UK)
-<a href="https://play.google.com/store/apps/details?id=com.ascensia.contour.uk&hl=en" target="_blank" title="CONTOUR DIABETES app (UK)">:Here</a> <br><br>
+CONTOUR DIABETES app (UK) click 
+<a href="https://play.google.com/store/apps/details?id=com.ascensia.contour.uk&hl=en" target="_blank" title="CONTOUR DIABETES app (UK)"> Here</a> <br><br>
 
 ## **Putting Xdrip into Pairing Mode**<br><br>
 
