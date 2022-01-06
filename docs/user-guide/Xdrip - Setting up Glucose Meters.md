@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-Dave G was here Julie! 
+Dave G was here <br>Thanks to Julie! 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/Contour Next one_logo.jpg"Contour Next One Logo"/>
 
 ## <span style="color:#111478">Xdrip - Setting up Glucose Meters</span> <br> 
