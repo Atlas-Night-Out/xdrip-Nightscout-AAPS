@@ -27,9 +27,10 @@ Dave G was here <br>Thanks to Julie!
 <font size="4"> 
 
 ## **Items I used** <br>
-Mobile: Samsung Note 10 + <br>
+Mobile: Samsung Note 10 + <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Download Xdrip"> Here</a> <br>
+
 Contour Next One Blood Meter with strips <br>
-xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Download Xdrip"> Here</a> 
+xdrip version: 2021 2nd July you can Download  <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip%20-%20Download/" target="_blank" title="Buy Samsung Note 10 +"> Here</a> 
 
 If you live in the United Kingdom you may be able to get a CONTOUR®PLUS BLUE free by clicking click<a href="https://www.diabetes.ascensia.co.uk/products/contour-plus-blue/" target="_blank" title="CONTOUR® PLUS BLUE"> Here</a> 
 
@@ -60,7 +61,8 @@ And select scan. You might not need to do this if you are quick enough. Just <sp
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You should now be fully able to test your blood readings and have them automatically go straight into xdrip for you. </span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You should now be fully able to test your blood readings and have them automatically go straight into xdrip for you.<br>
+( If you have a brand new meter it won't pair unless there is at least one glucose reading in the meter before you try the pairing to xdrip) Thanks to Matthew Gray for this tip</span></td>
 </tr>
 </tbody>
 </table><br>
