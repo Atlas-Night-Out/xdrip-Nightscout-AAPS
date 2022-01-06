@@ -37,7 +37,7 @@ If you live in the United Kingdom you may be able to get a CONTOUR®PLUS BLUE fr
 
 Or this link for a Contour Next One with Bluetooth, which is the one I'm Using! <a href="https://www.contournextone.co.uk/register_uk/?promo=Web16#section2" target="_blank" title="CONTOUR® NEXT ONE">:Here</a> <br><br>
 CONTOUR DIABETES app (UK) click 
-<a href="https://play.google.com/store/apps/details?id=com.ascensia.contour.uk&hl=en" target="_blank" title="CONTOUR DIABETES app (UK)"> Here</a> <br><br>(Do not use with xdrip)
+<a href="https://play.google.com/store/apps/details?id=com.ascensia.contour.uk&hl=en" target="_blank" title="CONTOUR DIABETES app (UK)"> Here</a> (Do not use when using xdrip) <br><br>
 
 ## **Putting Xdrip into Pairing Mode**<br><br>
 
