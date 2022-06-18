@@ -11,6 +11,8 @@ JDRF: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gc
 
 Tide Pool: <a href="https://www.tidepool.org/" target="_blank" title="Tide Pool">Tide Pool</a> (Your gateway to understanding your Diabetes data)<br>
 
+The Diabetic Way: <a href="https://www.thediabeticway.co.uk/index.php/en/homedecom-topmenu" target="_blank" title="The Diabetic Way">The Diabetic Way</a><br>
+
 Riding for Lives: <a href="https://staging2.riding4lives.uk/?fbclid=IwAR3mifb-ZE5o5-aZjzvbZuuVnF0KDuQO5Go8Mt6j1Wp-XbTr_7BimK52By0" title="Riding for lives">Riding for Lives</a><br>
 
 We are Cycling UK:  <a href="https://www.cyclinguk.org/join?gclid=CjwKCAjwgISIBhBfEiwALE19Sc_JwoxwmKLhSA9Tyz28aN1Ca7CbvZw8D-DSKLPDC6BUOPiW8YiOehoCoh4QAvD_BwE" target="_blank" title="We are Cycling UK ">We are Cycling UK:</a><br>
@@ -49,15 +51,23 @@ The UKWideCycleRide Community - Diabetes.uk: <a href="https://cycle.diabetes.org
 
 Swim22 - Diabetes.uk: <a href="https://swim22.diabetes.org.uk/" target="_blank" title="Swim22 - Diabetes Uk">Swim22 - Diabetes.uk</a><br>
 
-## Sponsor cycling ride events you can join!
-Hope to have more soon!
+Diabetes UK Month of Miles Challenge: <a href="https://swim22.diabetes.org.uk/" target="_blank" title="Diabetes UK Month of Miles Challenge"> Diabetes UK Month of Miles Challenge</a><br>
 
+JDRF: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="Tide Pool">JDRF</a><br>
+
+## Sponsor cycling ride events you can join!
+
+JDRF Cycling Events:  <a href="https://jdrf.org.uk/get-involved/fundraise/events/?event_cat=cycle-rides#postFilter" title="JDRF Cycling Events">JDRF Cycling Events</a><br>
 
 Ride The Lights <a href="https://www.visitblackpool.com/things-to-do/events/ride-the-lights/?fbclid=IwAR2Nu16vjixmeDWUuuqSN3rd3sQsGZDVfo2fqv4kHEIw7CKIBLGebFxi91U" target="_blank" title="Ride The Lights">See Here</a><br>
+
+Hope to have more soon!
 
 ## Facebook Groups
 
 Swim22:  <a href="https://www.facebook.com/Tamarahmcphie22" title="Swim22">Swim22</a><br>
+
+UK Wide Cycle Ride - Diabetes UK:  <a href="https://www.facebook.com/groups/693788144706854" title="Swim22">UK Wide Cycle Ride - Diabetes UK</a><br>
 
 CGM in the Cloud: <a href="https://www.facebook.com/groups/cgm in the cloud/" title="CGM in the Cloud">CGM in the Cloud</a><br>
 
@@ -70,27 +80,32 @@ Loop: <a href="https://www.facebook.com/groups/TheLoopedGroup" target="_blank"> 
 
 Parents of Children with Type 1 Diabetes - Group <a href="https://www.facebook.com/groups/104811746342626" target="_blank"> Parents of Children with Type 1 Diabetes</a><br>
 
+The Diabetic Lounge UK: Type 1 Diabetes - Group <a href="https://www.facebook.com/groups/1761470610745826" target="_blank"> The Diabetic Lounge UK</a><br>
+
 Juicebox Podcast: Type 1 Diabetes - Group <a href="https://www.facebook.com/groups/boldwithinsulin/" target="_blank"> Juicebox Podcast: Type 1 Diabetes</a><br>
-
-Dexcom CGM Users: <a href="https://www.facebook.com/groups/268385496689037" target="_blank"> Dexcom CGM Users</a><br>
-
-Dexcom Users: <a href="https://www.facebook.com/groups/1691039397784554" target="_blank"> Dexcom Users</a><br>
 
 Nightscout UK: <a href="https://www.facebook.com/groups/nightscoutUK" target="_blank"> Nightscout UK</a><br>
 
 Diabetes 101 for Beginners: <a href="https://www.facebook.com/groups/252995116355123" target="_blank"> Diabetes 101 for Beginners</a><br>
 
-Dexcom G7: <a href="https://www.facebook.com/groups/235546917779339" target="_blank"> Dexcom G7</a><br>
-
 Diabetes UK Cycling Heroes: <a href="https://www.facebook.com/groups/435526556616007" target="_blank"> Diabetes UK Cycling Heroes</a><br>
 
 You know you're a Type 1 Diabetic when...: <a href="https://www.facebook.com/groups/245031082351346" target="_blank"> You know you're a Type 1 Diabetic when...</a><br>
 
+
 ## CGM (Continuous Glucose Monitoring)
 
+Dexcom CGM Users: <a href="https://www.facebook.com/groups/268385496689037" target="_blank"> Dexcom CGM Users</a><br>
+
+Dexcom Users: <a href="https://www.facebook.com/groups/1691039397784554" target="_blank"> Dexcom Users</a><br>
+
 CGMitC Off Topic #T1DIY: <a href="https://www.facebook.com/groups/CGMITCOFFTOPIC" target="_blank"> CGMitC Off Topic #T1DIY</a><br>
 
 CGMitC Off Topic #T1DIY: <a href="https://www.facebook.com/groups/CGMITCOFFTOPIC" target="_blank"> CGMitC Off Topic #T1DIY</a><br>
+
+Freestyle Libre Users: <a href="https://www.facebook.com/groups/847425671954383" target="_blank"> Freestyle Libre Users</a><br>
+
+Dexcom G7: <a href="https://www.facebook.com/groups/235546917779339" target="_blank"> Dexcom G7</a><br>
 
 ## Pumps
 
@@ -111,8 +126,13 @@ Medtronic 770G and 780G support group and beyond: <a href="https://www.facebook.
 ## Diabetes Information Technologies
 
 Brolis Sensor Technology <a href="https://www.youtube.com/watch?v=Nu9rQ-HwVFU" title="Brolis Sensor Technology">See Here</a> (Video)<br>
+
 Brolis Sensor Technology <a href="https://brolis-sensor.com/" title="Brolis Sensor Technology Web site">See Here</a> (Web site)<br>
+
 Longevity Techology <a href="https://www.longevity.technology/smart-tech-earring-is-cgm-game-changer/" title="Longevity Techology ">See Here</a>Smart tech earring is CGM game-changer<br>
+
+Bionic Wookiee: <a href="https://bionicwookiee.com/2021/05/27/anubis-developments/?fbclid=IwAR1zLQ5adZQYcYPSvjbA3Hh2vNZkKMkET-DxSQpERxHc4QOPU1Itcd7pNac" target="_blank" title="Bionic Wookiee">Bionic Wookiee</a><br>
+
 
 ## xdrip - Wiki
 
@@ -130,6 +150,9 @@ Nightscout Setup: <a href="https://atlas-night-out.github.io/my-project/user-gui
 
 ## Diabetes News
 News as it arrive's<br><br>
+
+## email me!
+If you see or get any links not working or you have a link you'd like me to add please email me at diabetes.uk@outlook.com
 
 <p align="center">
 <img src="https://media.giphy.com/media/S2g8fOg4oFYyWg4STt/giphy.gif" width="200" height="180" /><br>
