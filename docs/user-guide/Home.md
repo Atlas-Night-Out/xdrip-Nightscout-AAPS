@@ -86,7 +86,7 @@ Diabetes UK Cycling Heroes: <a href="https://www.facebook.com/groups/43552655661
 
 You know you're a Type 1 Diabetic when...: <a href="https://www.facebook.com/groups/245031082351346" target="_blank"> You know you're a Type 1 Diabetic when...</a><br>
 
-## CGM ()
+## CGM (Continuous Glucose Monitoring)
 
 CGMitC Off Topic #T1DIY: <a href="https://www.facebook.com/groups/CGMITCOFFTOPIC" target="_blank"> CGMitC Off Topic #T1DIY</a><br>
 
