@@ -41,6 +41,8 @@ Pebble Nightscout Watch Faces <a href="https://apps.rebble.io/en_US/search/watch
 
 Pebble with Loop <a href="https://loopkit.github.io/loopdocs/nightscout/pebble/" target="_blank">Pebble Watchface,</a> for <a href="https://androidaps.readthedocs.io/en/latest/Configuration/Watchfaces.html#pebble" target="_blank">AndroidAPS</a> and <a href="https://github.com/mddub/pancreabble" target="_blank">FreeAPS</a>.
 
+Fitbit Versa 2 Users Group: <a href="https://www.facebook.com/groups/fitbitversa2" target="_blank" title="Fitbit Versa 2 Users Group">Fitbit Versa 2 Users Group</a><br>
+
 
 
 ## Sponsor Web Sites
@@ -55,7 +57,7 @@ Diabetes UK Month of Miles Challenge: <a href="https://swim22.diabetes.org.uk/" 
 
 JDRF: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF">JDRF</a><br>
 
-## Sponsor cycling ride Swimming and Walking events you can join!
+## Sponsor cycling ride's, Swimming and Walking Events you can join!
 
 JDRF Cycling Events:  <a href="https://jdrf.org.uk/get-involved/fundraise/events/?event_cat=cycle-rides#postFilter" title="JDRF Cycling Events">JDRF Cycling Events</a><br>
 
