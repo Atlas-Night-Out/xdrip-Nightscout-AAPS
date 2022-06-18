@@ -47,19 +47,21 @@ Pebble with Loop <a href="https://loopkit.github.io/loopdocs/nightscout/pebble/"
 
 Diabetes.uk <a href="https://www.diabetes.org.uk/" target="_blank" title="Diabetes Uk Web site">Diabetes.uk</a><br>
 
-The UKWideCycleRide Community - Diabetes.uk: <a href="https://cycle.diabetes.org.uk/?gclid=CjwKCAjwgISIBhBfEiwALE19SWE-1-IopgttOT0R5YxKNBT8bZltGZT1-GisxxCK5WcesSfY9yurcRoCHuoQAvD_BwE" target="_blank" title="The #UKWideCycleRide Community - Diabetes Uk">The UKWideCycleRide Community - Diabetes.uk </a><br>
+The UKWideCycleRide Community - Diabetes.uk: <a href="https://cycle.diabetes.org.uk/?gclid=CjwKCAjwgISIBhBfEiwALE19SWE-1-IopgttOT0R5YxKNBT8bZltGZT1-GisxxCK5WcesSfY9yurcRoCHuoQAvD_BwE" target="_blank" title="The UKWideCycleRide Community - Diabetes Uk">The UKWideCycleRide Community - Diabetes.uk </a><br>
 
 Swim22 - Diabetes.uk: <a href="https://swim22.diabetes.org.uk/" target="_blank" title="Swim22 - Diabetes Uk">Swim22 - Diabetes.uk</a><br>
 
 Diabetes UK Month of Miles Challenge: <a href="https://swim22.diabetes.org.uk/" target="_blank" title="Diabetes UK Month of Miles Challenge"> Diabetes UK Month of Miles Challenge</a><br>
 
-JDRF: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="Tide Pool">JDRF</a><br>
+JDRF: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF">JDRF</a><br>
 
-## Sponsor cycling ride events you can join!
+## Sponsor cycling ride Swimming and Walking events you can join!
 
 JDRF Cycling Events:  <a href="https://jdrf.org.uk/get-involved/fundraise/events/?event_cat=cycle-rides#postFilter" title="JDRF Cycling Events">JDRF Cycling Events</a><br>
 
-Ride The Lights <a href="https://www.visitblackpool.com/things-to-do/events/ride-the-lights/?fbclid=IwAR2Nu16vjixmeDWUuuqSN3rd3sQsGZDVfo2fqv4kHEIw7CKIBLGebFxi91U" target="_blank" title="Ride The Lights">See Here</a><br>
+Swim22:  <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" title="Swim22">Swim22</a><br>
+
+Ride The Lights: <a href="https://www.visitblackpool.com/things-to-do/events/ride-the-lights/?fbclid=IwAR2Nu16vjixmeDWUuuqSN3rd3sQsGZDVfo2fqv4kHEIw7CKIBLGebFxi91U" target="_blank" title="Ride The Lights">Ride The Lights</a><br>
 
 Hope to have more soon!
 
@@ -67,12 +69,17 @@ Hope to have more soon!
 
 Swim22:  <a href="https://www.facebook.com/Tamarahmcphie22" title="Swim22">Swim22</a><br>
 
-UK Wide Cycle Ride - Diabetes UK:  <a href="https://www.facebook.com/groups/693788144706854" title="Swim22">UK Wide Cycle Ride - Diabetes UK</a><br>
+UK Wide Cycle Ride - Diabetes UK:  <a href="https://www.facebook.com/groups/693788144706854" title="UK Wide Cycle Ride - Diabetes UK"> UK Wide Cycle Ride - Diabetes UK</a><br>
+
+Sporty Diabetic Type1's:  <a href="https://www.facebook.com/groups/SportyT1" title="Sporty Diabetic Type1's"> Sporty Diabetic Type1's</a><br>
 
 CGM in the Cloud: <a href="https://www.facebook.com/groups/cgm in the cloud/" title="CGM in the Cloud">CGM in the Cloud</a><br>
 
-Xdrip: <a href="https://www.facebook.com/groups/xDripG5/" title="Xdrip">See Here</a><br>
-G-Watch app <a href= "https://www.facebook.com/groups/304670184064267/?ref=pages_group_cta/" title="SamsungG-Watch app">Xdrip</a><br>
+Xdrip: <a href="https://www.facebook.com/groups/xDripG5/" title="Xdrip">Xdrip</a><br>
+
+G-Watch app <a href= "https://www.facebook.com/groups/304670184064267/?ref=pages_group_cta/" title="SamsungG-Watch app">G-Watch app</a><br>
+
+JDRF San Diego Ride to Cure Diabetes:  <a href="https://www.facebook.com/groups/jdrfsdridetocurediabetes" title="JDRF San Diego Ride to Cure Diabetes"> JDRF San Diego Ride to Cure Diabetes</a><br>
 
 AndroidAPS: <a href="https://www.facebook.com/groups/AndroidAPSUsers/posts/2932550243633040" title="AndroidAPS">AndroidAPS</a><br>
 
@@ -106,6 +113,8 @@ CGMitC Off Topic #T1DIY: <a href="https://www.facebook.com/groups/CGMITCOFFTOPIC
 Freestyle Libre Users: <a href="https://www.facebook.com/groups/847425671954383" target="_blank"> Freestyle Libre Users</a><br>
 
 Dexcom G7: <a href="https://www.facebook.com/groups/235546917779339" target="_blank"> Dexcom G7</a><br>
+
+LIBRE & DEXCOM CGM D.I.Y DIABETIC REBELS: <a href="https://www.facebook.com/groups/528436247518366" target="_blank"> LIBRE & DEXCOM CGM D.I.Y DIABETIC REBELS</a><br>
 
 ## Pumps
 
