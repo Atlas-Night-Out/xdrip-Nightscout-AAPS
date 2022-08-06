@@ -1,5 +1,22 @@
 site_name: Cyb Netics Docs
-
+theme:
+    name: material
+    language: en
+    features:
+       # - header.autohide
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.tracking
+        - navigation.top
+        - search.suggest
+        - search.highlight
+        - content.code.annotate
+    logo: assets/images/T1_xDrip+logo_white_236x236.png
+    favicon: assets/images/favicon.png
+    palette:
+      primary: black
+      scheme: default
+    nav_style: primary
 nav:
 - Home: 'index.md'
 
