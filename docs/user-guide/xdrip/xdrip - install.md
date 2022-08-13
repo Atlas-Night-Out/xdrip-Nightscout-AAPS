@@ -7,13 +7,6 @@ This video installation process is a little old now and the video really needs t
 But for now, it’s still a good help for you to set up xdrip+ onto your mobile. Just turn off the music if it’s not to your tastes :-) 
 You do not need to have Nightscout installed for xdrip+ to work as mentioned in the video!
 You can get your reading from your CGM direct from xdrip+.
-
-## **PC Download**
-[<img src="/my-project/img/xdrip/xdrip pc download.jpg">](https://github.com/NightscoutFoundation/xDrip/releases)
-<br>
-
-## **Mobile download**
-[<img src="/my-project/img/xdrip/xdrip mobile download.jpg">](https://jamorham.github.io/#xdrip-plus)
 <br>
 
 ### **Authorize background activity**<br>
@@ -21,7 +14,7 @@ xDrip+ must have the right to be used in background, and it must be white-listed
 This is necessary for the correct functioning of xdrip+. It should ask you to allow this authorization. If it doesn't or you need to look this up later, to check it in your phone Settings - Apps - xDrip+. Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
 <img src="/my-project/img/xdrip/1_samsung settingbutton.jpg">[<img src="/my-project/img/xdrip/2_Apps.jpg">]
 
-<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="150" height="250">
+<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="250" height="350"><img src="/my-project/img/2_Apps.jpg" alt="alt text" width="250" height="350">
 
 ### **Install Xdrip+** 
 
