@@ -2,7 +2,7 @@
 docs made by D.Galloway 2019- 2021-->
 # **Install xDrip+**<img width="360" height="104" border="0"  src="/my-project/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
 
-This installation process is a little old now and the video really needs to be updated, which I will do as soon as get time to.
+This video installation process is a little old now and the video really needs to be updated, which I will do as soon as I get time to.
 
 But for now, it’s still a good help for you to set up xdrip+ onto your mobile. Just turn off the music if it’s not to your tastes :-) 
 You do not need to have Nightscout installed for xdrip+ to work as mentioned in the video!
