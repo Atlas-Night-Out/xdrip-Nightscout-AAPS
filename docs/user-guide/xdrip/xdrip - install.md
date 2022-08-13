@@ -1,4 +1,4 @@
-<!-- this is not on github server its local only and run my mkdocs server!
+<!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 # **Install xDrip+**
 <img width="860" height="304" border="0" align="center"  src="/my-project/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a><br>
