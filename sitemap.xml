@@ -116,6 +116,36 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/user-guide/Nightscout/Compatible%20Watches/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/user-guide/Nightscout/Part%204%20-%20Fork%20and%20Deploy%20cgm%20remote%20monitory/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/user-guide/Nightscout/Setting_up_Atlas_Account_part3/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/user-guide/Nightscout/Setting_up_Github_Account_part1/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/user-guide/Nightscout/Setting_up_Heroku_Account_part2/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/user-guide/Nightscout/image/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/user-guide/xdrip/xdrip%20-%20Download/</loc>
          <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
