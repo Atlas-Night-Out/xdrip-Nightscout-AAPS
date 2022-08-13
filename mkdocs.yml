@@ -24,8 +24,8 @@ nav:
 - Home: 'index.md'
 
 - Xdrip :
-    - 'Xdrip Download': 'user-guide/xdrip - Download.md'
-    - 'Xdrip Install': 'user-guide/xdrip/xdrip - install.md'
+    - 'Download': 'user-guide/xdrip - Download.md'
+    - 'Install': 'user-guide/xdrip/xdrip - install.md'
     - 'Xdrip connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
     - 'Xdrip Follower Setup': 'user-guide/Xdrip Follower Setup.md'
     - 'Xdrip Setting up Glucose Meters': 'user-guide/Xdrip - Setting up Glucose Meters.md'
