@@ -10,7 +10,7 @@ You can get your reading from your CGM direct from xdrip+.
 
 
 ## **PC Download**
-[<img src="../../img/xdrip/xdrip pc download.jpg">](https://github.com/NightscoutFoundation/xDrip/releases)
+[<img src="/my-project/img/xdrip/xdrip pc download.jpg">](https://github.com/NightscoutFoundation/xDrip/releases)
 <br>
 
 ## **Mobile download**
