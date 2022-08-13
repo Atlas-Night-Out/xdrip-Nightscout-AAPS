@@ -16,6 +16,10 @@ You can get your reading from your CGM direct from xdrip+.
 [<img src="/my-project/img/xdrip/xdrip mobile download.jpg">](https://jamorham.github.io/#xdrip-plus)
 <br>
 
+### **Authorize background activity**<br>
+xDrip+ must have the right to be used in background, and it must be white-listed for battery optimization. 
+This is necessary for the correct functioning of xdrip+. It should ask you to allow this authorization. If it doesn't or you need to look this up later, to check it in your phone Settings - Apps - xDrip+. Consult your mobile documents as they will vary on Android software version and manufacturers.
+
 
 ### **Install Xdrip+** 
 
