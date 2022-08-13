@@ -12,9 +12,8 @@ You can get your reading from your CGM direct from xdrip+.
 ### **Authorize background activity**<br>
 xDrip+ must have the right to be used in background, and it must be white-listed for battery optimization. 
 This is necessary for the correct functioning of xdrip+. It should ask you to allow this authorization. If it doesn't or you need to look this up later, to check it in your phone Settings - Apps - xDrip+. Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
-<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg">[<img src="/my-project/img/xdrip/2_Apps.jpg">]
 
-<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="250" height="350"><img src="/my-project/img/2_Apps.jpg" alt="alt text" width="250" height="350">
+<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="250" height="350"><img src="/my-project/img/2_Apps.jpg" alt="alt text" width="250" height="350"><br>
 
 ### **Install Xdrip+** 
 
