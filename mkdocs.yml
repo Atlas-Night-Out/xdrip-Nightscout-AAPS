@@ -24,7 +24,7 @@ nav:
 - Home: 'index.md'
 
 - Xdrip :
-    - 'Download': 'user-guide/xdrip - Download.md'
+    - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
     - 'Xdrip connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
     - 'Xdrip Follower Setup': 'user-guide/Xdrip Follower Setup.md'
