@@ -1,10 +1,29 @@
 site_name: Cyb Netics Docs
 
+site_url: https://example.com
+theme:
+    name: material
+    language: en
+    features:
+        - navigation.tabs
+        - navigation.tabs.sticky
+        - navigation.tracking
+        - navigation.top
+        - search.suggest
+        - search.highlight
+        - content.code.annotate
+    logo: assets/images/T1_xDrip+logo_white_236x236.png
+    favicon: assets/images/favicon.png
+    palette:
+      primary: Black
+      scheme: default
+    nav_style: primary
+
 nav:
 - Home: 'index.md'
 
 - Xdrip :
-    
+    - 'Xdrip Download': 'user-guide/xdrip - Download.md'
     - 'Xdrip connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
     - 'Xdrip Follower Setup': 'user-guide/Xdrip Follower Setup.md'
     - 'Xdrip Setting up Glucose Meters': 'user-guide/Xdrip - Setting up Glucose Meters.md'
