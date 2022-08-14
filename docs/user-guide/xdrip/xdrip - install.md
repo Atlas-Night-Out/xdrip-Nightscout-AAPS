@@ -9,14 +9,6 @@ You do not need to have Nightscout installed for xdrip+ to work as mentioned in 
 You can get your reading from your CGM direct from xdrip+.
 <br>
 
-### **Authorize background activity**<br>
-xDrip+ must have the right to be used in background, and it must be white-listed for battery optimization. 
-This is necessary for the correct functioning of xdrip+. It should ask you to allow this authorization. If it doesn't or you need to look this up later, to check it in your phone Settings - Apps - xDrip+. Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
-
-<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="350" height="881"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="350" height="881"><br><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="350" height="881"><img src="/my-project/img/xdrip/4_Battery_460x200.jpg" alt="alt text" width="350" height="881">
-
-
-
 ### **Install Xdrip+** 
 
 <iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/7Qwr4HrchTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -29,7 +21,7 @@ After you have installed Your Apk and xdrip+ its time to install a few other opt
 xDrip+ must have the right to be used in background, and it must be white-listed for battery optimization. 
 This is necessary for the correct functioning of xdrip+. It should ask you to allow this authorization. If it doesn't or you need to look this up later, to check it in your phone Settings - Apps - xDrip+. Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
 
-<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="430" height="881">    <img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="430" height="881"><br>
+<img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="350" height="881"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="350" height="881"><br><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="350" height="881"><img src="/my-project/img/xdrip/4_Battery_460x200.jpg" alt="alt text" width="350" height="881">
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
