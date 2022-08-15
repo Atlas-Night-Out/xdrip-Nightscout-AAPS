@@ -1,7 +1,7 @@
 
 
 
-<img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/dexcom660.png" title="Dexcom"/></a>	
+<img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/DXCM_BIG.D.png" title="Dexcom"/></a>	
 ### **There are 4 Elements to get started**
 
 1. Sensor Applicator
