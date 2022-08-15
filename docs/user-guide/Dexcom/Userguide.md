@@ -16,7 +16,7 @@
 
 * Prepare for sensor insertion <br>
 * Take off Labels <span style="background-color: #FFFF00">**(Do not forget to keep Lebels safe or take a photo of your Sensor Code)**</span><br> you will need the code later.<br>
-<centre><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Sensor _code20220811_160x271.jpg" title="Sensor Code"/></a></centre><br>
+<centre><img width="Auto" height="Auto" border="0" align="center"  src="/my-projec/img/Dexcom/Sensor _code20220811_160x271.jpg" title="Sensor Code"/></a></centre><br>
 * Insert a sensor <br>
 * Attach transmitter to transmitter holder 
 
