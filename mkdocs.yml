@@ -37,7 +37,7 @@ nav:
     - 'Part 3 Setting up Atlas Account ': 'user-guide/Nightscout/Setting_up_Atlas_Account_part3.md'
     - 'Part 4 - Fork and Deploy cgm remote monitory': 'user-guide/Nightscout/Part 4 - Fork and Deploy cgm remote monitory.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
-    - 'Nightscout Update': 'user-guide/Nightscout_update.md'
+    - 'Nightscout Update': 'user-guide/nightscout/Nightscout_update.md'
     - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
     
        
