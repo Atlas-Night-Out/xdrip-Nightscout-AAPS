@@ -111,6 +111,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/user-guide/Dexcom/Userguide/</loc>
+         <lastmod>2022-08-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/user-guide/Nightscout/Compatible%20Watches/</loc>
          <lastmod>2022-08-15</lastmod>
          <changefreq>daily</changefreq>
