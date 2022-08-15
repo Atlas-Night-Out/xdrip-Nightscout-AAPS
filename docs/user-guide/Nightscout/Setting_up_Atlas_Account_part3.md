@@ -24,16 +24,16 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 ###4. Now verify your email<br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/verify your email.jpg"Verify your email"/><br>
 ###5. Enter some information like I have below and then Finish <br>
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/welcome to Atlas.jpg" Welcome to Atlas"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/welcome to Atlas.jpg" Welcome to Atlas"/>
 ###6. Select Create a cluster in <span style="background-color: #FFFF00">**Shared Clusters (FREE)**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/deploy a could database free.jpg" title="Shared Clusters (FREE)"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/deploy a could database free.jpg" title="Shared Clusters (FREE)"/>
 ###7. Leave all default values and click <span style="background-color: #FFFF00">**Create Cluster**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/create shared clusters.jpg" title="Create Cluster"/><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/create shared clusters.jpg" title="Create Cluster"/><br>
   Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes) If not sure after a while click on the leaf icon in the top left!<br><br>
 ###8.  Click on <span style="background-color: #FFFF00">**CONNECT**</span><br>
-    <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/click on connect.jpg" title="click connect"/><br>
+    <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/click on connect.jpg" title="click connect"/><br>
 ###9. Click on <span style="background-color: #FFFF00">**Allow Access from Anywhere**</span><br>
-   <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/Allow Access from Anywhere.jpg" title="Allow Access from Anywhere"/><br>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/Allow Access from Anywhere.jpg" title="Allow Access from Anywhere"/><br>
    <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -45,7 +45,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </tbody>
 </table><br>
 ###10. Click on <span style="background-color: #FFFF00">**Add IP Address**</span><br>
-   <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/Add IP Address.jpg" title=" Click on Add IP Address"/><br>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/Add IP Address.jpg" title=" Click on Add IP Address"/><br>
 <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -58,9 +58,9 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </tbody>
 </table><br> 
 ###11. Add a database username (for example <span style="background-color: #FFFF00">**nightkai**</span>) and a database user password (in the my examples below <span style="background-color: #FFFF00">** Madeuppassword7**</span>) but please change it later, see both images below!!
-    <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/database username and a database password.jpg" title=" Add a database username and a database password, see both images below!"/><br>
+    <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/database username and a database password.jpg" title=" Add a database username and a database password, see both images below!"/><br>
 ###12. Then click <span style="background-color: #FFFF00">**Create Database User**</span>.<br>
-   <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/create database user.jpg" title=" Create Database User"/><br>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/create database user.jpg" title=" Create Database User"/><br>
    <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -72,11 +72,11 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </tbody>
 </table><br>
 ###13. Click on  <span style="background-color: #FFFF00">**Choose a Connection Method**</span><br>
-   <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/connection method.jpg" title=" connection method"/><br>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/connection method.jpg" title=" connection method"/><br>
 ###14.  Now Select <span style="background-color: #FFFF00">**Connect your application**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/Connect your application.jpg" title=" Connect your application"/><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/Connect your application.jpg" title=" Connect your application"/><br>
 ###15. Copy the <span style="background-color: #FFFF00">**Connection string:**</span> click Copy icon and paste it somewhere to edit it later(like Notepad).
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/connection string.jpg" title=" connection string"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/connection string.jpg" title=" connection string"/><br>
 <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -127,7 +127,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 ### **My Connection String results**
 <font size="+0"> **mongodb+srv://nightkai:Madeuppassword7@cluster0.j2iil.mongodb.net/kdatabase?retryWrites=true&w=majority**</font><br>
 
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
 <table width="1266" Height="120 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
