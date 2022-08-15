@@ -177,11 +177,11 @@ function myFunction() {
 ****************************************************************************************
    
    a) If you want to do it manually: replace <password> with your database password as noted previously (in the example below **Madeuppassword7** ) and <dbname> by any text you want to add as your **database name**, say kdatabase in my example. The result will be like this:<br>
- <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
 
 
 ### ** Another example for you below!** 
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="connecting_to_cluster"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="connecting_to_cluster"/>
 <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
