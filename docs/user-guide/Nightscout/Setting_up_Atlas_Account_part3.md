@@ -8,7 +8,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 
 
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/><br><br>
 ## **Part 3 Setting up a Atlas Account for Nightscout**<br><br>
 
 
