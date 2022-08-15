@@ -74,7 +74,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 
 * <span style="background-color: #FFFF00">**Click "Create pull request"**</span> Your fork must be on the left side  
 <a >
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
+  <img width="auto" height="650" border="0" align="center"  src="/my-project/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
  and the <span style="background-color: #FFFF00">**nightscout/cgm-remote-monitor must be on the right.**</span><br>
  
 ## step 2 create pull request
