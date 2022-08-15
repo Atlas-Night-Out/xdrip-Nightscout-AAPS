@@ -4,13 +4,13 @@
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/nightscout/nigthscout update.jpg" Nightscout Update"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/nigthscout update.jpg" Nightscout Update"/>
 
 ## <span style="color:#111478">Updating Nightscout to the Latest Version </span> <br> 
 
 Check what version you are upto on your Nightscout site. In my example I'm on version  14.06 (Liquorice)
 
-<table width="1166" height="550" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="510" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! video, see below</span></span></td>
@@ -34,7 +34,7 @@ Updating your website to the latest version
 
 These instruction have been made on the 28 <span style="background-color: #FFFF00">**April 2021**</span><br>
 <br>
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="160"border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
