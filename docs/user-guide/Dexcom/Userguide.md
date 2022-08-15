@@ -1,3 +1,4 @@
+
 <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom G6 Logo_1_200x30.png" title="Dexcom"/></a><br>
 
 
@@ -6,11 +7,11 @@
 1. Sensor Applicator
 <img width="420" height="220" border="0" align="center"  src="/my-projec/img/Dexcom/Sensor Applicator_20220811_135041_2.jpg" title="Sensor Applicator"/></a>	
 2.  Sensor
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Sensor_20220811_160x269.jpg" title="Sensor"/></a>	
+<img width="Auto" height="Auto" border="0" align="center"  src="/my-projec/img/Dexcom/Sensor_20220811_160x269.jpg" title="Sensor"/></a>	
 3.  Transmitter
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Transmitter_20220811_180x190.jpg" title="Transmitter"/></a>
+<img width="Auto" height="Auto" border="0" align="center"  src="/my-projec/img/Dexcom/Transmitter_20220811_180x190.jpg" title="Transmitter"/></a>
 4.  A Display
-<img width="320" height="120" border="0" align="center"  src="/my-project/img/Dexcom/Display_20220812_460x537.jpg" title="Display"/></a><br>
+<img width="320" height="120" border="0" align="center"  src="/my-projec/img/Dexcom/Display_20220812_460x537.jpg" title="Display"/></a><br>
 
 ## **Dexcom Intro Userguide**
 
