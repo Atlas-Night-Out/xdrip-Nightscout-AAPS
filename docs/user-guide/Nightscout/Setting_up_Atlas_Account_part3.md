@@ -17,12 +17,12 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 ###1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Try Free">See Here</a> 
   and **click** <span style="background-color: #FFFF00">**Start Free**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/free Atlas Account.jpg" title="Sign up a Atlas Account"/></a>	
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/free Atlas Account.jpg" title="Sign up a Atlas Account"/></a>	
 ###2. Enter your Account Details like I have and then click <span style="background-color: #FFFF00">**get started free**</span> 
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/setting up a free  Atlas Account.jpg"Fill in your details"/><br><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/setting up a free  Atlas Account.jpg"Fill in your details"/><br><br>
 ###3. Atlas will send you an email, if you don't receive it check your Spam folder.<br>
 ###4. Now verify your email<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/verify your email.jpg"Verify your email"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/verify your email.jpg"Verify your email"/><br>
 ###5. Enter some information like I have below and then Finish <br>
   <img width="auto" height="auto" border="0" align="center"  src="../../img/Atlas/welcome to Atlas.jpg" Welcome to Atlas"/>
 ###6. Select Create a cluster in <span style="background-color: #FFFF00">**Shared Clusters (FREE)**</span><br>
