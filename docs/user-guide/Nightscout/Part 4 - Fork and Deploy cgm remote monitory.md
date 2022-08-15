@@ -5,7 +5,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <br>
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Fork_and_Deploy_cgm_remote_monitory_Part_4t_860x462.jpg" Setting up Atlas Part 3"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Fork_and_Deploy_cgm_remote_monitory_Part_4t_860x462.jpg" Setting up Atlas Part 3"/>
 
 ## **Part 4 - Fork and Deploy cgm remote monitory  **<br><br>
 ## If you would like to follow these instructions with video then see below other wise continue step by step below<br>
@@ -40,17 +40,17 @@ Delete your current cgm-remote-monitor fork using (<a href="  https://atlas-nigh
 ###1. Hopfully you should now have 3 pages opened in your browser: <span style="background-color: #FFFF00">**Heroku, Atlas, and Github,**</span> Make sure you are logged-in on each one (<span style="background-color: #FFFF00">**i.e. important**</span>) before you continue.
 
 ###2.  <a href="https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Release Versions">Click Here</a> or goto https://github.com/nightscout/cgm-remote-monitor, to open a new GitHub page. Click the on <span style="background-color: #FFFF00">**Fork**</span> icon in the top right
-   <img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/1_fork.jpg"/>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/1_fork.jpg"/>
 
 ###3. Wait for a moment
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/forking.jpg" title="WAIT until compleate"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/forking.jpg" title="WAIT until compleate"/>
 </a>
    
 ###3.1. Scroll down the page and click <span style="background-color: #FFFF00">**Deploy to Heroku**</span> 
-   <img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Deploy_to_Heroku.jpg"title="This deploys to Heroku Account"/>
+   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Deploy_to_Heroku.jpg"title="This deploys to Heroku Account"/>
    
 ###4. Enter in your Heroku account a site name: invent a name you would like to use or see your BG in on the internet. Confirm that the name is available.
- <img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/site_name.jpg"title="Give yourself a App name"/>
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/site_name.jpg"title="Give yourself a App name"/>
  
 ###5.  Don’t change the region.
 
@@ -71,9 +71,9 @@ Delete your current cgm-remote-monitor fork using (<a href="  https://atlas-nigh
 </table>
 
 ###7. <span style="background-color: #FFFF00">**API_SECRET**</span> will be your Nightscout site password, it needs to be at least 12 characters long and <span style="background-color: #FFFF00">**you should NOT use spaces if you use @ or ! symbol you should NOT use spaces if you use @ or ! symbols**</span> remember you will probably need to express them using Percent encoding in your uploader and downloader apps. If you're not sure on how to do this, it is recommended to <span style="background-color: #FFFF00">**use only letters (uppercase + lowercase) and digits**</span>.
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/API_SECRET_Required1.jpg"title="Give yourself a API Secret Passwod"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/API_SECRET_Required1.jpg"title="Give yourself a API Secret Passwod"/><br>
 ###8. If you <span style="background-color: #FFFF00">**want to link your Dexcom Share account**</span> as a data source, complete the following 3 lines:
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/bridge_for_Dexcom_share.jpg"title=" Link your Dexcom Share Account "/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/bridge_for_Dexcom_share.jpg"title=" Link your Dexcom Share Account "/><br>
 <table width="1166" height="390" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -88,15 +88,15 @@ The BRIDGE_PASSWORD and BRIDGE_USER_NAME are NOT visible from within your Dexcom
 </tbody>
 </table><br>
 ###9. If you want to link your <span style="background-color: #FFFF00">**Care Link account**</span> as a data source (currently not functional with Heroku), complete the following lines:<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/mmconnect.jpg"title="Care Link Account"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/mmconnect.jpg"title="Care Link Account"/><br>
 ###10. Select the units you’re using in <span style="background-color: #FFFF00">**DISPLAY_UNITS**</span> the acceptable choices are <span style="background-color: #FFFF00">**mg/dl or mmol/L**</span> (or just <span style="background-color: #FFFF00">**mmol**</span> when entering it).
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/display_units.jpg"title="Display Units"/><br>
-In <span style="background-color: #FFFF00">**my case I used mmol**</span> <img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/display_unit_EU.jpg"title="Display Units"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/display_units.jpg"title="Display Units"/><br>
+In <span style="background-color: #FFFF00">**my case I used mmol**</span> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/display_unit_EU.jpg"title="Display Units"/><br>
 ## Plugins <br>
 
 ###11.    In <span style="background-color: #FFFF00">**ENABLE,**</span> copy and paste the following Plugins below <span style="background-color: #FFFF00">**(separated by a space)**</span> so that won't have to think about which you want now and learn the rest later!<br><br>
 **Plugins I added to config var Enable**<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/enable.jpg"title="Plugins you can add to enable"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/enable.jpg"title="Plugins you can add to enable"/><br>
  **Plugins I added**<br>
 careportal basal dbsize rawbg iob maker cob bwp cage iage sage boluscalc pushover treatmentnotify loop pump profile food openaps bage alexa override speech cors<br>
 <table width="1166" padding="0.35rem" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="0" cellspacing="0" height="0">
@@ -121,7 +121,7 @@ careportal basal dbsize rawbg iob maker cob bwp cage iage sage boluscalc pushove
 </tbody>
 </table><br>
 ###12. Now you need the <span style="background-color: #FFFF00">**connection string**</span> you defined during the <span style="background-color: #FFFF00">**Atlas cluster creation - Part 3**</span> (as the example below, but not the string below). Copy and paste your! results into the MONGODB_URI variable field in Heroku vars.<br><br>
- <img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/mongo_uri.jpg" title="Mongo_URI"/></a>	
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/mongo_uri.jpg" title="Mongo_URI"/></a>	
 ###13. I will try to give you an example about the way to do it again below, you can also see my video if you get stuck!
 
 
@@ -195,16 +195,16 @@ function myFunction() {
 </table><br>
 ###14. Once you have added your Connection string into the MongoDB_Uri. Scroll down to the bottom of the Config var list and click the <span style="background-color: #FFFF00">**Deploy APP**</span><br>
 You will WAIT until a while for them completion. Do not stop  the process until it's complete.
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/select deploy app.jpg" title="Select the Deploy Button"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/select deploy app.jpg" title="Select the Deploy Button"/></a>	<br>
 ###15.  click the  <span style="background-color: #FFFF00">**View button**</span> and it should come up (if not, then click the Manage App -> Open App, in the top right corner)<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/click view.jpg" title="click the view button"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/click view.jpg" title="click the view button"/></a>	<br>
 ###16. Your Nightscout site  should open and direct you to fill in profile editor for Nightscout.<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/profile editor.jpg" title="Nightscout profile editor"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/profile editor.jpg" title="Nightscout profile editor"/></a>	<br>
 ###17. All you need to fill in at this moment in time is your <span style="background-color: #FFFF00">**Time zone**</span> and eventually all the other fields e.g. Insulin to carbs. Make sure to not leave any fields empty. If you don't understand which value to use, just use the <span style="background-color: #FFFF00">**default value**</span>.<br>
 **a.** You can come back and change these values later at any time by going to your  Nightscout URL selecting the <span style="background-color: #FFFF00">**Hamberger icon**</span> on the right and selecting <span style="background-color: #FFFF00">**profile editor**</span>.<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/getting to nightscout profile editor.jpg" title="Getting to your Nightscout profile editor"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/getting to nightscout profile editor.jpg" title="Getting to your Nightscout profile editor"/></a>	<br>
 ###18. You will then need to go down to <span style="background-color: #FFFF00">**Authentication Status**</span> on the left and click Authentication.  And enter your <span style="background-color: #FFFF00">**Heroku API secret**</span> you made earlier. Then click <span style="background-color: #FFFF00">**Authenticate button**</span>, Then <span style="background-color: #FFFF00">**save**</span>.
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Authentication.jpg" title="Authentication"/><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Api secret image.jpg" title="Look in Heroku - Settings -  Reveal config Vars for API_SECRET"/><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/save.jpg" title="Save it image"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Authentication.jpg" title="Authentication"/><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Api secret image.jpg" title="Look in Heroku - Settings -  Reveal config Vars for API_SECRET"/><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/save.jpg" title="Save it image"/></a>	<br>
 <table width="auto" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
@@ -217,12 +217,12 @@ You will WAIT until a while for them completion. Do not stop  the process until 
 </table><br>
 ###19. Dexcom Share and CareLink users should see data working after a few minutes. <br>Other uploaders like <span style="background-color: #FFFF00">**xDrip+**</span>, <span style="background-color: #FFFF00">**Spike**</span>, xDrip4iOS, Gimp,Tomato etc will need to be setup with a Nightscout address and API secret in each Apps settings (<a href=" https://github.com/" target="_blank" title="see uploaders">See Uploaders</a>).<br><br><br>
 ## Nightscout Address for your Uploader Apps<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Nightscout Address.jpg" title="Nightscout Address for your Uploader Apps"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Nightscout Address.jpg" title="Nightscout Address for your Uploader Apps"/></a><br>
 ## PAPERTRAIL<br>
 **a.** Lastly, you might want to change the PAPERTRAIL_API_TOKEN line. Heroku gives you a free, tiny amount of Papertrail service (this is like a logging service for how the site is running), but this generates a lot of confusion to most people later on.<br> when they get a message that their "Free Papertrail Service has run out of room". Papertrail is not needed at all, edit the line with the pensil icon and add <span style="background-color: #FFFF00">** DISABLED**</span> at the end, so that you can recover the function if you need it later.<br><br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/PAPERTRAIL_DISABLED.jpg" title="PAPERTRAIL has been Disabled"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/PAPERTRAIL_DISABLED.jpg" title="PAPERTRAIL has been Disabled"/><br>
 <br><br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Nightscout.jpg" title="Nightscout All setup and working"/><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Nightscout.jpg" title="Nightscout All setup and working"/><br><br>
 
 <font size="6"> <center>**Congratulations Nightscout is now setup!**</center><br><br></font><br><br>
 
@@ -232,19 +232,19 @@ You will then not need to login into Heroku and execute Manual Deploy, as soon a
 
 a)	To allow automatic deploy, log in Heroku and select your app, in my case diabeticway and then selecting the <span style="background-color: #FFFF00">**Deploy section**</span>.<br>
 b)	 Select <span style="background-color: #FFFF00">**Connect to Github**</span><br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Deploy heroku.jpg" title="Go to Deploy Section"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Deploy heroku.jpg" title="Go to Deploy Section"/></a>	<br>
 c) Authenticate GitHub and your cgm-remote-monitor app are now connected.
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/connect to github.jpg" title="Authenticate GitHub"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/connect to github.jpg" title="Authenticate GitHub"/></a>	<br>
 d) Click on <span style="background-color: #FFFF00">**search**</span> and add your repo name, it will then connect to Github<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/search.jpg" title="search"/></a><br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/repo name.jpg" title="your repo name"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/search.jpg" title="search"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/repo name.jpg" title="your repo name"/></a><br>
 e) Verify the master branch is selected and click <span style="background-color: #FFFF00">**Enable Automatic Deploys**</span>.
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch.jpg" title="Enable Automatic Deploys"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch.jpg" title="Enable Automatic Deploys"/></a>	<br>
 f) Your site will <span style="background-color: #FFFF00">**update automatically**</span> every time you update the GitHub repository now.<br><br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch_2.jpg" title="Verify the master branch"/></a>	<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Fork and Deploy cgm remote monitory Part 4/Verify the master branch_2.jpg" title="Verify the master branch"/></a>	<br>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <img width="auto" height="auto" border="0" align="center"  src="../../img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 
 
