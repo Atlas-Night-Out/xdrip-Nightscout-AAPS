@@ -4,7 +4,7 @@
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/nigthscout update.jpg" Nightscout Update"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/NIGHTSCOUT UPDATE 860X430.png" Nightscout Update"/>
 
 ## <span style="color:#111478">Updating Nightscout to the Latest Version </span> <br> 
 
