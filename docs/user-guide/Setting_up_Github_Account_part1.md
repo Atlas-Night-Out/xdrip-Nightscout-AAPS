@@ -9,7 +9,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 
 
-# Part 1: Setting up the Github for Nightscout <br>
+### Part 1: Setting up the Github for Nightscout <br>
 
 For setting up Nightscout I have used a Dexcom G6 with xdrip as my uploader as well as Android APS, but I will imagine they will also work
 with other devices and setups too! You do this at your own risk as my instructions are for educational purposes only and you should check with your GP or specialist or Endo, not sure how many more names I need to put here for doctors 😊  as I do not know all the worlds ways they are treated!
@@ -19,7 +19,7 @@ with other devices and setups too! You do this at your own risk as my instructio
 ## If you would like to follow these instructions with video then see below other wise continue step by step below <br><br>
   
   
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="600" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">video Instructions,</span></span></td>
@@ -33,40 +33,40 @@ with other devices and setups too! You do this at your own risk as my instructio
    <!--  <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/6o3AdkQBVog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
   
  -->
-1. First <span style="background-color: #FFFF00">**Sign up for Github Acount**</span>   <a href=" https://github.com/" target="_blank" title="Github">Click Here</a> 
+###1. First <span style="background-color: #FFFF00">**Sign up for Github Acount**</span>   <a href=" https://github.com/" target="_blank" title="Github">Click Here</a> 
    <br><br>
 
-2. Fill in all of your account  details  on screen and keep them written down in a safe place to keep.<br>
+###2. Fill in all of your account  details  on screen and keep them written down in a safe place to keep.<br>
 
-3. <a href="https://github.com/" target="_blank">
+###3. <a href="https://github.com/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github account.jpg" title="Setting up Github"/>
 </a><br>
 
       <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/Github account details.jpg" title="Github account details"/>
 </a><br>
-4. After filling in your details you will then need to do a <span style="background-color: #FFFF00">**puzzle**</span> Puzzle<br>
+###4. After filling in your details you will then need to do a <span style="background-color: #FFFF00">**puzzle**</span> Puzzle<br>
 
     <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
 </a><br>
-5. After doing the puzzle you will be sent an email, so <span style="background-color: #FFFF00">**check your email**</span>  for the code sent to you!<br> 
+###5. After doing the puzzle you will be sent an email, so <span style="background-color: #FFFF00">**check your email**</span>  for the code sent to you!<br> 
 
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github code.jpg" title="Github Code"/>
 </a><br>
-6. Now <span style="background-color: #FFFF00">**enter the code**</span> sent to you to finish the setup<br>
+###6. Now <span style="background-color: #FFFF00">**enter the code**</span> sent to you to finish the setup<br>
 
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github enter code.jpg" title="Setting up github"/>
 </a><br>
-7. Just fill in the rest of the details to what you want to use in my case I SELECTED all the tools needed!<br><br>
+###7. Just fill in the rest of the details to what you want to use in my case I SELECTED all the tools needed!<br><br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github tools.jpg" title="Github Tools"/>
 </a><br>
-8. Now click on the <span style="background-color: #FFFF00">**Cat icon**</span>  to get to your main Github account. <br>
+###8. Now click on the <span style="background-color: #FFFF00">**Cat icon**</span>  to get to your main Github account. <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/cat icon.jpg" title="Github Cat Icon"/>
 </a><br>
-9. Click this <a href=" https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Main Repository">Link</a> to take you to the <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> make sure to open it in a new tab: https://github.com/nightscout/cgm-remote-monitor <br>
+###9. Click this <a href=" https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Main Repository">Link</a> to take you to the <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> make sure to open it in a new tab: https://github.com/nightscout/cgm-remote-monitor <br>
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/6o3AdkQBVog?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-10. Now fork it from <span style="background-color: #FFFF00">**Nightscout Main repository**</span> to your own respository (in my case)  <span style="background-color: #FFFF00">**thediabeticway23**</span> <br>
+###10. Now fork it from <span style="background-color: #FFFF00">**Nightscout Main repository**</span> to your own respository (in my case)  <span style="background-color: #FFFF00">**thediabeticway23**</span> <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/nightscout_repo.jpg" Setting up GitHub Part 1"/>
-11. Once you have forked it from Nightscout Repo to your own repo you should be able to go to it, to see all the files!
+###11. Once you have forked it from Nightscout Repo to your own repo you should be able to go to it, to see all the files!
 
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/M78KtZ5WbYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -76,7 +76,7 @@ with other devices and setups too! You do this at your own risk as my instructio
 
  <br>
 
-<table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" Height="270" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>

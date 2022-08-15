@@ -32,9 +32,9 @@ nav:
 
 - Nightscout :
     - 'Specifications': 'user-guide/Specifications.md'
-    - 'Part 1 Setting up Github Account ': 'user-guide/Setting_up_Github_Account_part1.md'
-    - 'Part 2 Setting up Heroku Account ': 'user-guide/Setting_up_Heroku_Account_part2.md'
-    - 'Part 3 Setting up Atlas Account ': 'user-guide/Setting_up_Atlas_Account_part3.md'
+    - 'Part 1 Setting up Github Account ': 'user-guide/Nightscout/Setting_up_Github_Account_part1.md'
+    - 'Part 2 Setting up Heroku Account ': 'user-guide/Nightscout/Setting_up_Heroku_Account_part2.md'
+    - 'Part 3 Setting up Atlas Account ': 'user-guide/Nightscout/Setting_up_Atlas_Account_part3.md'
     - 'Part 4 - Fork and Deploy cgm remote monitory': 'user-guide/Fork_and_Deploy_cgm_remote_monitory_part4.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
     - 'Nightscout Update': 'user-guide/Nightscout_update.md'
