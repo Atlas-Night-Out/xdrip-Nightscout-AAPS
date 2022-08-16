@@ -54,6 +54,6 @@ nav:
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Deleting-your-cgm-remote-monitor.md'
     - 'Nightscout Update': 'user-guide/Nightscout_update.md'
     - 'Diabetes helpful web links': 'user-guide/Home.md'
-
+- Helpful Links: 'user-guide/Helpful/Helplinks.md' 
     - 'About': 'about.md'
 

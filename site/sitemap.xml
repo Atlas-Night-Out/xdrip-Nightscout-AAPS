@@ -116,6 +116,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://example.com/user-guide/Helpful/Helplinks/</loc>
+         <lastmod>2022-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://example.com/user-guide/Nightscout/Compatible%20Watches/</loc>
          <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
