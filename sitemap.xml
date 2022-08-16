@@ -31,11 +31,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://example.com/user-guide/Deleting-your-cgm-remote-monitor/</loc>
-         <lastmod>2022-08-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://example.com/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/</loc>
          <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
@@ -112,6 +107,11 @@
     </url>
     <url>
          <loc>https://example.com/user-guide/Dexcom/Userguide/</loc>
+         <lastmod>2022-08-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://example.com/user-guide/Helpful/Deleting-your-cgm-remote-monitor/</loc>
          <lastmod>2022-08-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
