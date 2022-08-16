@@ -48,11 +48,12 @@ nav:
     - 'Connecting Garmin 945 to Dexcom G6': 'user-guide/Garmin_Connect_BloodReadings.md'
 
 - Update :
-    - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Deleting-your-cgm-remote-monitor.md'
+    
     - 'Nightscout Update': 'user-guide/Nightscout_update.md'
     - 'Diabetes helpful web links': 'user-guide/Home.md'
 
 - Helpful Links : 
-    - 'Helpful Links': 'user-guide/Helpful/Helplinks.md' 
+    - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
+    - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Deleting-your-cgm-remote-monitor.md' 
     - 'About': 'about.md'
 
