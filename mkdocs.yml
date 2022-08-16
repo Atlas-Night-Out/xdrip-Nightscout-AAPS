@@ -1,6 +1,6 @@
 site_name: Cyb Netics Docs
 
-site_url: https://example.com
+
 theme:
     name: material
     language: en
