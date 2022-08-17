@@ -7,6 +7,10 @@ docs made by D.Galloway 2019- 2021-->
 ## PC Download
 [<img src="/my-project/img/xdrip/xdrip pc download.jpg">](https://github.com/NightscoutFoundation/xDrip/releases)
 <br>
+<a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip pc download.jpg" title="PC Download"/>
+</a><br>
+
 
 To Download latest version of Xdrip on a Pc , <a href="https://github.com/NightscoutFoundation/xDrip/releases " target="_blank" title="PC xdrip latest version">See Here</a>  and go to the  "Latest version". <br>
 From a "mobile" You will need to go to a web browser on your mobile and
