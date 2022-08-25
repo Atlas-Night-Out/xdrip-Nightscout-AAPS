@@ -8,7 +8,7 @@ docs made by D.Galloway 2019- 2021 -->
 
 #### see video below on how to do this process!<br><br>
 
-<table width="1166" height="500"border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="550"border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff="" ><span style="font-size: 14pt;"><span style="color: #ffffff; ">video: Deleting your Github cgm-remote-monitor fork</span></span></td>
