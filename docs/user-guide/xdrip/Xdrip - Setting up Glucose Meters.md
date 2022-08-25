@@ -55,7 +55,7 @@ And select scan. You might not need to do this if you are quick enough. Just <sp
 5. You should now be able to turn on the option <span style="background-color: #FFFF00">**Use Bluetooth Meter**</span>  by going back.<br>
 <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/use bluetooth meter.jpg" title="Use Bluetooth Meter "/> <br>
 
-<table width="1166" height="200" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="210" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
