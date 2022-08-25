@@ -39,7 +39,7 @@ nav:
     - 'Part 4 - Fork and Deploy cgm remote monitory': 'user-guide/Nightscout/Part 4 - Fork and Deploy cgm remote monitory.md'
     - 'Nightscout Update': 'user-guide/Nightscout/Nightscout_update.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
-    - 'Redeploying the repository': 'user-guide/Redeploying your repository.md'
+    - 'Redeploying the repository': 'user-guide/Nightscout/Redeploying your repository.md'
     
        
 -   Watches:
