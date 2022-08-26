@@ -211,7 +211,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * Head over to your Nightscout site and check its updated!
 
 
-<table width="1166" height="610" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="590" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Check if Nightscout as updated Video</span></span></td>
@@ -224,7 +224,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 </table>
 <br>
 
-<table width="1166" height="610" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="630" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Helpfull Note!</span></span></td>
@@ -242,7 +242,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 
 
 
-<table width="1266" height="160" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1266" height="200" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
