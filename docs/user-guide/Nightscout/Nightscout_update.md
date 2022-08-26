@@ -10,7 +10,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 Check what version you are upto on your Nightscout site. In my example I'm on version  14.06 (Liquorice)
 
-<table width="1166" height="510" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="520" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! video, see below</span></span></td>
@@ -88,7 +88,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 <br>
 
 
-<table width="1166" height="610" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="580" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">step 1 & Step 2 Video</span></span></td>
@@ -113,7 +113,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
   
 * or see video below
 <br>
-<table width="1166" height="610" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="580" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! video,</span></span></td>
@@ -140,7 +140,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * <span style="background-color: #FFFF00">**You have successfully updated your GitHub repository**</span>, now let's deploy it in Heroku.
 <br>
 <br>
-<table width="1166" height="160"border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="170"border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
@@ -176,7 +176,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * Click the Connect button once it finds your cgm-remote-monitor repository. You should now be connected
 <br>
 
-<table width="1166" height="610" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="580" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Note! see video</span></span></td>
@@ -211,7 +211,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * Head over to your Nightscout site and check its updated!
 
 
-<table width="1166" height="590" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="560" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><span style="color: #ffffff;">Check if Nightscout as updated Video</span></span></td>
