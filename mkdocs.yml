@@ -41,13 +41,14 @@ nav:
     - 'Nightscout Update': 'user-guide/Nightscout/Nightscout_update.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout_usefull_Information.md'
     - 'Redeploying the repository': 'user-guide/Nightscout/Redeploying your repository.md'
+    - 'Compatible Watches': 'user-guide/Nightscout/Compatible Watches.md'
     
        
 -   Watches:
     - 'Watches': 'user-guide/Watches.md'
     - 'TicWatch-Pro-3-Side-Load': 'user-guide/TicWatch-Pro-3-side-load---xdrip.md'
     - 'Connecting Garmin 945 to Dexcom G6': 'user-guide/Garmin_Connect_BloodReadings.md'
-
+    
 
 - Helpful Links : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
