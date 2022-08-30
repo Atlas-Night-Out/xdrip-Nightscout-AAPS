@@ -1,4 +1,4 @@
-site_name: Cyb Netics Docs
+site_name: Cyb Netics Docs 
 
 
 theme:
@@ -27,9 +27,10 @@ nav:
 - Xdrip :
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
-    - 'Xdrip connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
-    - 'Xdrip Follower Setup': 'user-guide/Xdrip Follower Setup.md'
-    - 'Xdrip Setting up Glucose Meters': 'user-guide/xdrip/Xdrip - Setting up Glucose Meters.md'
+    - 'Connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
+    - 'Follower Setup': 'user-guide/Xdrip Follower Setup.md'
+    - 'Setting up Glucose Meters': 'user-guide/xdrip/Xdrip - Setting up Glucose Meters.md'
+    - 'Sideload Ticwatch Pro ': 'user-guide/xdrip/TicWatch-Pro-3-side-load---xdrip.md'
     
 
 - Nightscout :
