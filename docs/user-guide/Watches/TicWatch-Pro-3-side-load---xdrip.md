@@ -8,7 +8,7 @@
  ### Developer’s Mode
 ###1.	(0:43) First, we need to put your mobile into developer’s mode which we can do by going to settings / System / about / pressing Build number 7 times or more.<br><br>
  1.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear icon "/> 2. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_system319_368.png" title="system "/> 3. <img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/3_about_319_368.png" title="about"/> 
- 4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_build number_319x368.png" title="build number "/> 
+ 4.<img width="319" height="368" border="0" align="center"  src="/my-project/img/side_load_ xdrip/4_build number_319x368.png" title="build number "/> <br>
 
 
 
