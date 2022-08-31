@@ -42,8 +42,8 @@ CONTOUR DIABETES app (UK) click
 ## **Putting Xdrip into Pairing Mode**<br><br>
 
 ###1.  First go into <span style="background-color: #FFFF00">**settings**</span> - <span style="background-color: #FFFF00">**Glucose Meters**</span> and select <span style="background-color: #FFFF00">**Scan for Bluetooth Meter**</span>
-<center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/1_Hamberger_icon.jpg" title="Select Burger icon "/>  <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/2_settings.jpg" title="Go to Settings "/><br></center><br> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/4_glucose meters 2.jpg" title="select Glucose Meter"/> 
-<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/5_scan for Bluetooth Meter.jpg" title="Select Scan for Bluetooth "/> <br>
+<center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/1_Hamberger_icon.jpg" title="Select Burger icon "/>  <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/2_settings.jpg" title="Go to Settings "/><br></center><br> <center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/4_glucose meters 2.jpg" title="select Glucose Meter"/> 
+<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/5_scan for Bluetooth Meter.jpg" title="Select Scan for Bluetooth "/> </center><br>
 ###2.  Now you need to  pair it to your Contour Next One Meter, but before you do this.<br>
 <center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/6_contour Next One2.jpg" title="Contour Next One "/></center>
 
@@ -51,12 +51,12 @@ CONTOUR DIABETES app (UK) click
    <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/7_Meter Scan.jpg" title="Meter Scan "/> <br>
 And select scan. You might not need to do this if you are quick enough. Just <span style="background-color: #FFFF00">**select your Contour**</span> if it pops up<br><br>
 ###4. Make sure to put it very close to the Note 10+ I found it better placing it at the back of the mobile!<br>
- <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/9_contour paired.jpg" title="Pairing it "/> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/10_paired.jpg" title="Select Pair  "/> <br>
+ <center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/9_contour paired.jpg" title="Pairing it "/> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/10_paired.jpg" title="Select Pair  "/> </center><br>
 <span style="background-color: #FFFF00">**Select Pair**</span>. Then after you have paired it. <br><br>
 ###5. You should now be able to turn on the option <span style="background-color: #FFFF00">**Use Bluetooth Meter**</span>  by going back.<br>
 <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/use bluetooth meter.jpg" title="Use Bluetooth Meter "/> <br>
 
-<table width="1166" height="235" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="237" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
