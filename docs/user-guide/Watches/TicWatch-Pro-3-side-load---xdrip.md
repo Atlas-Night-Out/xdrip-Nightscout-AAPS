@@ -49,8 +49,7 @@ Now add your ip address of your watch into the settings on your mobile <br><br>
  scroll down your Apps list to find your xdrip you have already installed onto your watch. And select it to install. Ok the connection on your watch for the install process to begin. Xdrip is now installed onto your watch. <br><br>
 
 
-  <center><img width="319" height="650" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_Google play_wear installer_319x650.png" title="Google play wear installer"/>  
-  <img width="319" height="650" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_wear installer_319x630.png" title="wear installer"/> </center>
+  <center><img width="319" height="650" border="0" align="center"  src="/my-project/img/side_load_ xdrip/1_Google play_wear installer_319x650.png" title="Google play wear installer"/> <img width="319" height="650" border="0" align="center"  src="/my-project/img/side_load_ xdrip/2_wear installer_319x630.png" title="wear installer"/> </center>
 
 <br><br>
 
