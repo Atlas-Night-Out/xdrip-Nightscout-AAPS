@@ -15,9 +15,9 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 ## First, we need to setup the Master mode<br>
 in Sync Settings on your main phone<br><br>
 <font size="4"> 
-1. Go to settings <br><br>
+###1. Go to settings <br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/hanberger setting_200x396.jpg" title="settings "/></a><br><br>
-2. then xdrip+ sync settings<br><br>
+###2. then xdrip+ sync settings<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip+ sync settings_200x400.jpg" title="xdrip+ sync settings"/></a><br><br>
 3. These are the Settings to select.<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/sync settings_200x441.jpg" title="Settings to select"/></a><br><br>
