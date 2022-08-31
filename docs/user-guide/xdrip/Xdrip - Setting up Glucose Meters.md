@@ -45,7 +45,8 @@ CONTOUR DIABETES app (UK) click
 <center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/1_Hamberger_icon.jpg" title="Select Burger icon "/>  <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/2_settings.jpg" title="Go to Settings "/><br></center><br> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/4_glucose meters 2.jpg" title="select Glucose Meter"/> 
 <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/5_scan for Bluetooth Meter.jpg" title="Select Scan for Bluetooth "/> <br>
 ###2.  Now you need to  pair it to your Contour Next One Meter, but before you do this.<br>
-<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/6_contour Next One2.jpg" title="Contour Next One "/>
+<center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/6_contour Next One2.jpg" title="Contour Next One "/></center>
+
 ###3. <span style="background-color: #FFFF00">**Press down for 7 sec**</span> on your Contour next meter button, to put it into pairing mode.<br>
    <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/7_Meter Scan.jpg" title="Meter Scan "/> <br>
 And select scan. You might not need to do this if you are quick enough. Just <span style="background-color: #FFFF00">**select your Contour**</span> if it pops up<br><br>
