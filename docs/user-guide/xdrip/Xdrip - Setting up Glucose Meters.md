@@ -41,18 +41,18 @@ CONTOUR DIABETES app (UK) click
 
 ## **Putting Xdrip into Pairing Mode**<br><br>
 
-1.  First go into <span style="background-color: #FFFF00">**settings**</span> - <span style="background-color: #FFFF00">**Glucose Meters**</span> and select <span style="background-color: #FFFF00">**Scan for Bluetooth Meter**</span>
+###1.  First go into <span style="background-color: #FFFF00">**settings**</span> - <span style="background-color: #FFFF00">**Glucose Meters**</span> and select <span style="background-color: #FFFF00">**Scan for Bluetooth Meter**</span>
 <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/1_Hamberger_icon.jpg" title="Select Burger icon "/>  <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/2_settings.jpg" title="Go to Settings "/><br> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/4_glucose meters 2.jpg" title="select Glucose Meter"/> 
 <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/5_scan for Bluetooth Meter.jpg" title="Select Scan for Bluetooth "/> <br>
-2.  Now you need to  pair it to your Contour Next One Meter, but before you do this.<br>
+###2.  Now you need to  pair it to your Contour Next One Meter, but before you do this.<br>
 <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/6_contour Next One2.jpg" title="Contour Next One "/>
-3. <span style="background-color: #FFFF00">**Press down for 7 sec**</span> on your Contour next meter button, to put it into pairing mode.<br>
+###3. <span style="background-color: #FFFF00">**Press down for 7 sec**</span> on your Contour next meter button, to put it into pairing mode.<br>
    <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/7_Meter Scan.jpg" title="Meter Scan "/> <br>
 And select scan. You might not need to do this if you are quick enough. Just <span style="background-color: #FFFF00">**select your Contour**</span> if it pops up<br><br>
-4. Make sure to put it very close to the Note 10+ I found it better placing it at the back of the mobile!
+###4. Make sure to put it very close to the Note 10+ I found it better placing it at the back of the mobile!<br>
  <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/9_contour paired.jpg" title="Pairing it "/> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/10_paired.jpg" title="Select Pair  "/> <br>
 <span style="background-color: #FFFF00">**Select Pair**</span>. Then after you have paired it. <br><br>
-5. You should now be able to turn on the option <span style="background-color: #FFFF00">**Use Bluetooth Meter**</span>  by going back.<br>
+###5. You should now be able to turn on the option <span style="background-color: #FFFF00">**Use Bluetooth Meter**</span>  by going back.<br>
 <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/use bluetooth meter.jpg" title="Use Bluetooth Meter "/> <br>
 
 <table width="1166" height="240" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
@@ -66,7 +66,7 @@ And select scan. You might not need to do this if you are quick enough. Just <sp
 </tr>
 </tbody>
 </table><br>
-6. In the the video above I will also show you how it will get your blood readings results stright into xdrip auomaticly but for you now <br>
+###6. In the the video above I will also show you how it will get your blood readings results stright into xdrip auomaticly but for you now <br>
 <font size="6"> <center>**Congratulations Contour Meter is now setup!**</center><br><br></font>
 
 
