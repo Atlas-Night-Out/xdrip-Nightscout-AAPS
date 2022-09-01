@@ -18,10 +18,10 @@ You can get your reading from your CGM direct from within xdrip+.
 After you have installed Your Apk and xdrip+ its time to install a few other options within xdrip.<br>
 
 ### **Authorize background activity**<br>
-xDrip+ must have the right to be used in background, and it must be white-listed for battery optimization. 
+xDrip+ must have the right to be used in the background, and it must be white-listed for battery optimization. 
 This is necessary for the correct functioning of xdrip+.<br>
 
-It should ask you to allow this authorization. If it doesn't or you need to look this up later, to check it in your phone <span style="background-color: #FFFF00">**Settings - Apps - xDrip+.**</span> Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
+It should ask you to allow these authorizations. If it doesn't or you need to look this up later, check it in your phone settings <span style="background-color: #FFFF00">**Settings - Apps - xDrip+.**</span> Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
 
 <center><img src="/my-project/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/4_Battery_460x200.jpg" alt="alt text" width="300" height="auto"></center>
 
