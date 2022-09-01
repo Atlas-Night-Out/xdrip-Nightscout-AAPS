@@ -43,8 +43,8 @@ in Sync Settings on your main phone<br><br>
 ###9. Then select Auto Configure again<br><br>
 <img width=300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure.jpg" title="Auto Configure again"/></a><br><br>
 
-10. and scan the other mobile bar code, with it<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/bar code_200x415.jpg" title="mobile bar code"/></a><br><br>
+###10. and scan the other mobile bar code, with it<br><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/bar code.jpg" title="mobile bar code"/></a><br><br>
 
 ### If you need to setup mulitiple xdrip Followers then see my other setup on how to do this. I will add a link
 ###when I have done it! <br><br>
