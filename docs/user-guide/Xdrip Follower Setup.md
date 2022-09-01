@@ -23,8 +23,8 @@ in Sync Settings on your main phone<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/sync settings.jpg" title="Settings to select"/></a><br><br>
 ## Now display the security key QR code and scan with our Followers handset<br><br><br>
 
-###4.  Go to show settings QR codes on main mobile<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/show settings QR codes on main mobile_200x395.jpg" title="show settings QR codes"/></a><br><br>
+###4.  Go to setting/show settings QR codes on main mobile phone<br><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/show settings QR codes.jpg" title="show settings QR codes"/></a><br><br>
 
 ###5. And select xdrip plus security key settings only.<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip plus security key settings only_200x398.jpg" title="xdrip plus security key settings only"/></a><br><br>
