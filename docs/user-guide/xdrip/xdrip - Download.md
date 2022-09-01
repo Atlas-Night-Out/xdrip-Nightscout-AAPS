@@ -5,8 +5,7 @@ docs made by D.Galloway 2019- 2021-->
 
 
 ## PC Download
-[<img src="/my-project/img/xdrip/xdrip pc download.jpg">](https://github.com/NightscoutFoundation/xDrip/releases)
-<br>
+
 <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip pc download.jpg" title="PC Download"/>
 </a><br>
