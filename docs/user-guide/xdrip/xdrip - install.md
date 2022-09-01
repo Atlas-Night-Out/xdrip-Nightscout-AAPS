@@ -33,12 +33,14 @@ APPS/xDrip+/Battery<br>
 
 ## <center>**Making sure xDrip+ will not be put in to sleep mode and enabled permissions**</center><br>
 Make sure these settings are checked, but still make sure they are exactly like shown below. 
-Every time your Mobile updates or you re install, check again: disable and enable checkboxes that should be enabled to enforce the settings.<br>
+Every time your Mobile updates or you re-install, check again: disable and enable checkboxes that should be enabled to enforce the settings.<br>
 Go to <center><span style="background-color: #FFFF00">**Other misc options**</span><br>
 <span style="background-color: #FFFF00">**/ Settings / Less Common Settings / Other misc options**</span></center><br><br>
 
 And make sure these are selected!<br>
-<center><img src="/my-project/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br>
+<center><img src="/my-project/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br><br>
+
+<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/VZ6wpkuxnhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
