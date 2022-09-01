@@ -27,8 +27,15 @@ APPS/xDrip+/Battery<br>
 
 <center><img src="/my-project/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/Battery.jpg" alt="alt text" width="300" height="auto"></center><br>
 
-And select Battery Unrestricted.<br>
-<center><img src="/my-project/img/xdrip/Battery_unrestrcted.jpg" alt="alt text" width="300" height="auto"></center>
+<center> And select Battery Unrestricted.<br>
+<img src="/my-project/img/xdrip/Battery_unrestrcted.jpg" alt="alt text" width="300" height="auto"></center><br>
+
+## **Making sure xDrip+ will not be put in to sleep mode and enabled permissions**<br>
+Make sure these settings are checked, but still make sure they are exactly like shown below. 
+Every time your Mobile updates or you re install, check again: disable and enable checkboxes that should be enabled to enforce the settings.<br>
+Go to <center><span style="background-color: #FFFF00">**Other misc options**</span><br>
+<span style="background-color: #FFFF00">**/ Settings / Less Common Settings / Other misc options**</span></center><br>
+
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
