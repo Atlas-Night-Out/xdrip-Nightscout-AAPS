@@ -40,6 +40,15 @@ Go to <center><span style="background-color: #FFFF00">**Other misc options**</sp
 And make sure these are selected!<br>
 <center><img src="/my-project/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br><br>
 
+## **Enable location & other XDRIP+ Permissions**<br>
+
+From Android versions <a href="https://en.wikipedia.org/wiki/Android_version_history#Android_6.0_Marshmallow" target="_blank" title="Android version 6 Marshmallow">(6 Marshmallow (and above),</a> location is required to allow Bluetooth Low Energy connection.
+If you will be using xDrip+ with a Bluetooth sensor or bridge you must enable location and allow xDrip+ to access it. See your phone manual as it will depend on Android version and manufacturer in my case I’m using a Samsung Note10+
+See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
+
+
+
+
 <iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/VZ6wpkuxnhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -82,6 +91,11 @@ Adding a image with link
   <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
 </a><br>
 
+*******************		
+external link
+******************
+
+# <center>Part 4: <a href="https://atlas-night-out.github.io/my-project/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
 
 Adding Video
 
