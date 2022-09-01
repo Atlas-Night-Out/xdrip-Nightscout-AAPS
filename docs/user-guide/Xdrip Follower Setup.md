@@ -34,7 +34,7 @@ in Sync Settings on your main phone<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/hardware data source.jpg" title="hardware data source "/></a><br><br>
 
 ###7. and then select xdrip+ sync follower<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip+ sync follower_200x393.jpg" title="xdrip+ sync follower"/></a><br><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip+ sync follower..jpg" title="xdrip+ sync follower"/></a><br><br>
 
 8. Now select Configure and allow permissions.<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure_200x396.jpg" title="Auto Configure"/></a><br><br>
