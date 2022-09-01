@@ -23,9 +23,12 @@ This is necessary for the correct functioning of xdrip+.<br>
 
 It should ask you to allow these authorizations. If it doesn't or you need to look this up later, check it in your phone settings <span style="background-color: #FFFF00">**Settings - Apps - xDrip+.**</span> Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
 For me on a Samsung I swiped down and click on the gear icon to get to my settings.<br>
+APPS/xDrip+/Battery<br>
 
+<center><img src="/my-project/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/Battery.jpg" alt="alt text" width="300" height="auto"></center><br>
 
-<center><img src="/my-project/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/4_Battery_460x200.jpg" alt="alt text" width="300" height="auto"></center>
+And select Battery Unrestricted.<br>
+<center><img src="/my-project/img/xdrip/Battery_unrestrcted.jpg" alt="alt text" width="300" height="auto"></center>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
