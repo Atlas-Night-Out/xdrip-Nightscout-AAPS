@@ -21,7 +21,7 @@ After you have installed Your Apk and xdrip+ its time to install a few other opt
 xDrip+ must have the right to be used in background, and it must be white-listed for battery optimization. 
 This is necessary for the correct functioning of xdrip+. It should ask you to allow this authorization. If it doesn't or you need to look this up later, to check it in your phone Settings - Apps - xDrip+. Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
 
-<center><img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="300" height="681"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="681"><br></center><br>   <center><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="681"><img src="/my-project/img/xdrip/4_Battery_460x200.jpg" alt="alt text" width="300" height="681"></center>
+<center><img src="/my-project/img/xdrip/1_samsung settingbutton.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/4_Battery_460x200.jpg" alt="alt text" width="300" height="auto"></center>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
