@@ -40,7 +40,7 @@ Go to <center><span style="background-color: #FFFF00">**Other misc options**</sp
 And make sure these are selected!<br>
 <center><img src="/my-project/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br><br>
 
-<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/VZ6wpkuxnhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/VZ6wpkuxnhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
