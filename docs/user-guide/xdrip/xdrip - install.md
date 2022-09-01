@@ -43,7 +43,7 @@ And make sure these are selected!<br>
 ## **Enable location & other XDRIP+ Permissions**<br>
 
 From Android versions <a href="https://en.wikipedia.org/wiki/Android_version_history#Android_6.0_Marshmallow" target="_blank" title="Android version 6 Marshmallow">(6 Marshmallow (and above),</a> location is required to allow Bluetooth Low Energy connection.
-If you will be using xDrip+ with a Bluetooth sensor or bridge you must enable location and allow xDrip+ to access it. See your phone manual as it will depend on Android version and manufacturer in my case I’m using a Samsung Note10+
+If you will be using xDrip+ with a Bluetooth sensor or bridge you must enable location and allow xDrip+ to access it. See your mobiles instructions as it will depend on Android version and manufacturer in my case I’m using a Samsung Note10+
 See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
 
 
