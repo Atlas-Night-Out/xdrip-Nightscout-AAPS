@@ -28,7 +28,8 @@ in Sync Settings on your main phone<br><br>
 
 ###5. And select xdrip plus security key settings only.<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip plus security key settings only.jpg" title="xdrip plus security key settings only"/></a><br><br>
-#####  Now configure <span style="background-color: #FFFF00">**the follower’s handset**</span> using its camera<br><br>
+
+##  Now configure <span style="background-color: #FFFF00">**the follower’s handset**</span> using its camera<br><br>
 
 ###6. Go to settings / hardware data source <br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/hardware data source.jpg" title="hardware data source "/></a><br><br>
@@ -39,8 +40,8 @@ in Sync Settings on your main phone<br><br>
 ###8. Now select Configure and allow permissions.<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure.jpg" title="Auto Configure"/></a><br><br>
 
-9. Then select Auto Configure again<br><br>
-<img width=300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure_200x396.jpg" title="Auto Configure again"/></a><br><br>
+###9. Then select Auto Configure again<br><br>
+<img width=300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure.jpg" title="Auto Configure again"/></a><br><br>
 
 10. and scan the other mobile bar code, with it<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/bar code_200x415.jpg" title="mobile bar code"/></a><br><br>
