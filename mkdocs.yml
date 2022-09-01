@@ -23,7 +23,7 @@ theme:
 nav:
 - Home: 'index.md'
 - Dexcom :
-        - 'Dexcom': 'user-guide/Dexcom/Userguide.md'
+        - 'Dexcom G6': 'user-guide/Dexcom/Userguide.md'
 - Xdrip :
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
