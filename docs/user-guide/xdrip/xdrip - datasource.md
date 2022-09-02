@@ -18,7 +18,7 @@ You can get your reading from your CGM direct from xdrip+.
 <br>
 
 
-### **Install Xdrip+** 
+### **Data Source** 
 
 <iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/7Qwr4HrchTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
