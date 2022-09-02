@@ -46,6 +46,8 @@ Freestyle Libre: <a href="https://glycaemicindex.com/" target="_blank" title="Fr
 ## **Diet:**
 Glycaemic Index: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
 
+NIH: <a href="https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity" target="_blank" title="NIH">NIH</a><br>
+
 ## **Diabetes Watches**<br>
 
 Pebble Wiki: <a href="https://github.com/pebble-dev/wiki/wiki" target="_blank" title="pebble Wiki">Pebble Wiki</a><br>
