@@ -27,8 +27,9 @@ nav:
 - Xdrip :
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
+    - 'Data Source': 'user-guide/xdrip/xdrip - datasource.md'
     - 'Connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
-    - 'Follower Setup': 'user-guide/Xdrip Follower Setup.md'
+    - 'Follower Setup': 'user-guide/xdrip/Xdrip Follower Setup.md'
     - 'Setting up Glucose Meters': 'user-guide/xdrip/Xdrip - Setting up Glucose Meters.md'
     - 'Sideload Ticwatch Pro ': 'user-guide/xdrip/TicWatch-Pro-3-side-load---xdrip.md'
     
