@@ -5,6 +5,7 @@
 
 ## **Forums and communities:**
 Insulin Pumpers: <a href="www.insulin-pumpers.org.uk" target="_blank" title="Insulin Pumpers">Insulin Pumpers</a><br>
+Diabetes Support Forums: <a href="www.diabetessupport.co.uk" target="_blank" title="Diabetes Support Forums">Diabetes Support Forums</a><br>
 
 ## **Web Sites**
 
