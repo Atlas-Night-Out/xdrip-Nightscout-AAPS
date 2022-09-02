@@ -46,6 +46,8 @@ Freestyle Libre: <a href="https://glycaemicindex.com/" target="_blank" title="Fr
 ## **Organisations:**
 Association of Medical Research Charities: <a href="https://www.amrc.org.uk/" target="_blank" title="Association of Medical Research Charities">Association of Medical Research Charities</a><br>
 
+Association of Medical Research CharitieInternational Diabetes Federations: <a href="https://www.idf.org/" target="_blank" title="International Diabetes Federation">International Diabetes Federation</a><br>
+
 
 ## **Diet:**
 Glycaemic Index: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
