@@ -9,6 +9,9 @@ Insulin Pumpers: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" ti
 Diabetes Support Forums: <a href="https://forum.diabetes.org.uk/" target="_blank" title="Diabetes Support Forums">Diabetes Support Forums</a><br>
 
 Digibete: <a href="https://www.digibete.org/" target="_blank" title="Digibete">Digibete</a><br>
+
+Children With Diabetes: <a href="https://www.childrenwithdiabetesuk.org/" target="_blank" title="Children With Diabetes">Children With Diabetes</a><br>
+
 ## **Web Sites**
 
 JDRF - UK: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF - UK">JDRF - UK</a><br>
@@ -38,7 +41,10 @@ Nightscout Reporter: <a href="https://nightscout-reporter.zreptil.de/beta/?fbcli
 
 One million step Challenge - Diabetes UK: <a href="https://step.diabetes.org.uk/" target="_blank" title="One million step Challenge - Diabetes Uk">One million step Challenge - Diabetes UK</a><br>
 
-Freestyle Libre: <a href="https://www.freestylelibre.co.uk/libre/" target="_blank" title="Freestyle Libre">Freestyle Libre</a><br>
+Freestyle Libre: <a href="https://glycaemicindex.com/" target="_blank" title="Freestyle Libre">Freestyle Libre</a><br>
+
+## **Diet:**
+Glycaemic Index: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
 
 ## **Diabetes Watches**<br>
 
