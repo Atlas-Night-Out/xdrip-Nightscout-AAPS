@@ -4,8 +4,8 @@
 <img src="https://media.giphy.com/media/lNjpNhi82csekMFe3r/giphy.gif" width="200" height="180" /><br>
 
 ## **Forums and communities:**
-Insulin Pumpers: <a href="www.insulin-pumpers.org.uk" target="_blank" title="Insulin Pumpers">Insulin Pumpers</a><br>
-Diabetes Support Forums: <a href="www.diabetessupport.co.uk" target="_blank" title="Diabetes Support Forums">Diabetes Support Forums</a><br>
+Insulin Pumpers: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" title="Insulin Pumpers">Insulin Pumpers</a><br>
+Diabetes Support Forums: <a href="https://forum.diabetes.org.uk/" target="_blank" title="Diabetes Support Forums">Diabetes Support Forums</a><br>
 
 ## **Web Sites**
 
