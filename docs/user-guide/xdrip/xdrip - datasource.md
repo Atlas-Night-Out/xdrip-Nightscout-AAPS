@@ -36,7 +36,7 @@ Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If i
 
 Unpair if already connected.<br>
 
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/bluetooth unpair.jpg" title="bluetooth unpair"/><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/Dexcom unpair.jpg" title="Dexcom unpair"/></a></a><br>
+<img width="380" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/bluetooth unpair.jpg" title="bluetooth unpair"/><img width="380" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/Dexcom unpair.jpg" title="Dexcom unpair"/></a></a><br>
 
 
 
