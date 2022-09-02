@@ -18,19 +18,7 @@ And turn on your Source Wizard Button.<br>
 Or you can go to the Burger icon in top left then /settings/Harware Data Source<br>
 <iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/8OnjK3BYeCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
-
-## **Data Source**
-[<img src="../../img/xdrip/xdrip pc download.jpg">](https://github.com/NightscoutFoundation/xDrip/releases)
-<br>
-
-## **Mobile download**
-[<img src="../../img/xdrip/xdrip mobile download.jpg">](https://jamorham.github.io/#xdrip-plus)
-<br>
-
-
-### **Data Source** 
-
-<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/7Qwr4HrchTU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## To Be continued
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
