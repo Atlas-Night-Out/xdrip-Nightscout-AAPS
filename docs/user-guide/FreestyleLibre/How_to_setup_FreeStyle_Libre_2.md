@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2021-->
 <img width="860" height="615" border="0" align="center"  src="/my-project/img/Hardware Data Source/Hardware Data Source.jpg" title="Data Source"/></a><br>
 # **How to setup a Freestyle Libre 2** <br>
 
-I believe this method works thanks to somone helping me in xdrip uk group, why I'm addin g it due to them saying it worked ok for them if you have any issues please let me know!.<br>
+I believe this method works thanks to somone helping somone kindly in xdrip uk group, why I'm adding it due to them saying it worked ok for them if you have any issues please let me know!<br>
 <a href="https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/FreestyleLibre/how to setup freestyle libre 2.jpg" title="How to Setup Freestyle Libre 2"/>
 
