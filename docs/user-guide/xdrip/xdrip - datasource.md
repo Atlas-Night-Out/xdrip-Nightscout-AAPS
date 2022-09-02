@@ -6,7 +6,9 @@ These is where you will be selecting your Device or Transmitter to work with xdr
 
 You will need to go to choose your data source you will be using.
 To do this you should have a start source setup wizard on your main screen from installation.
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/start source setup wizard.jpg" title="Start Source setup wizard"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/start source setup wizard.jpg" title="Start Source setup wizard"/></a><br>
+If you do not have one do a long press on the xdrip+ image at the top of your main screen.<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/xdrip image logo.jpg" title="xdrip+ image logo"/></a><br>
 
 
 ## **Data Source**
