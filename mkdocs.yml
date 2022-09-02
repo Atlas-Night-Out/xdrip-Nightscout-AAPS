@@ -53,8 +53,8 @@ nav:
     - 'Compatible Watches': 'user-guide/Watches/Compatible Watches.md'
     
  -  Freestyle Libre : 
-    - 'Helpful Links': 'user-guide/FreestyleLibre/How to setup FreeStyle Libre 2.md'
-        
+    - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How to setup FreeStyle Libre 2.md'
+
 - Helpful Links : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
