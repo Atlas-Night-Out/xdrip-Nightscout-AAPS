@@ -48,6 +48,10 @@ Association of Medical Research Charities: <a href="https://www.amrc.org.uk/" ta
 
 Association of Medical Research CharitieInternational Diabetes Federations: <a href="https://www.idf.org/" target="_blank" title="International Diabetes Federation">International Diabetes Federation</a><br>
 
+Diabetes.uk <a href="https://www.diabetes.org.uk/" target="_blank" title="Diabetes Uk Web site">Diabetes.uk</a><br>
+
+Diabetes.co.uk <a href="https://www.diabetes.co.uk/" target="_blank" title="Diabetes.co.uk">Diabetes.co.uk</a><br>
+
 
 ## **Diet:**
 Glycaemic Index: <a href="https://glycaemicindex.com/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
@@ -74,8 +78,6 @@ Fitbit Versa 2 Users Group: <a href="https://www.facebook.com/groups/fitbitversa
 
 
 ## **Sponsor Web Sites**
-
-Diabetes.uk <a href="https://www.diabetes.org.uk/" target="_blank" title="Diabetes Uk Web site">Diabetes.uk</a><br>
 
 The UKWideCycleRide Community - Diabetes.uk: <a href="https://cycle.diabetes.org.uk/?gclid=CjwKCAjwgISIBhBfEiwALE19SWE-1-IopgttOT0R5YxKNBT8bZltGZT1-GisxxCK5WcesSfY9yurcRoCHuoQAvD_BwE" target="_blank" title="The UKWideCycleRide Community - Diabetes Uk">The UKWideCycleRide Community - Diabetes.uk </a><br>
 
