@@ -20,7 +20,7 @@ Or you can go to the Burger icon in top left then /settings/Harware Data Source<
 You will see a long list of options to chose from. In this example I will be showing on how to add a Dexcom G6 or Dexcom One CGM Transmitter.<br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/list Harware data source.jpg" title="list Harware data source"/></a><br>
 
-<table width="1166" height="390" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="200" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning! Do not use your mobiles bluetooth connection </span></strong></span></td>
