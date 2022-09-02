@@ -43,10 +43,16 @@ One million step Challenge - Diabetes UK: <a href="https://step.diabetes.org.uk/
 
 Freestyle Libre: <a href="https://glycaemicindex.com/" target="_blank" title="Freestyle Libre">Freestyle Libre</a><br>
 
+## **Organisations:**
+Association of Medical Research Charities: <a href="https://www.amrc.org.uk/" target="_blank" title="Association of Medical Research Charities">Association of Medical Research Charities</a><br>
+
+
 ## **Diet:**
 Glycaemic Index: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
 
 NIH: <a href="https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity" target="_blank" title="NIH">NIH</a><br>
+
+Carb & Cals: <a href="www.carbandcals.com" target="_blank" title="Carb & Cals">Carb & Cals</a><br>
 
 ## **Diabetes Watches**<br>
 
