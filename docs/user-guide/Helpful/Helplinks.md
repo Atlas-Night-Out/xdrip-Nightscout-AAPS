@@ -58,7 +58,7 @@ Diabetes Federation of Ireland: <a href="https://www.diabetes.ie/" target="_blan
 
 Insulin Dependent Diabetes Trust: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Insulin Dependent Diabetes Trust">Insulin Dependent Diabetes Trust</a><br>
 
-Input Insulin Pump Therapy Advocacy Group: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Input Insulin Pump Therapy Advocacy Group">Input Insulin Pump Therapy Advocacy Group</a><br>
+Input Insulin Pump Therapy Advocacy Group: <a href="www.input.me.uk" target="_blank" title="Input Insulin Pump Therapy Advocacy Group">Input Insulin Pump Therapy Advocacy Group</a><br>
 
 Therapy Advocacy Group: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Insulin Dependent Diabetes Trust">Therapy Advocacy Group Trust</a><br>
 
