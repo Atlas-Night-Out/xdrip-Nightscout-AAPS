@@ -28,7 +28,7 @@ You will see a long list of options to chose from. In this example I will be sho
 <tr style="height: 56.4063px;">
 <td style="width: 1158px; "350 border-color: #000000;><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
 
-Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If it does unpair it, before you begin. xdrip+ will do it for you!  <a href="https://clarity.dexcom.com/" target="_blank" title="Dexcom USA Account">See Here</a> for USA accounts and <a href="https://clarity.dexcom.eu/" target="_blank" title="Bluetooth connection"> </a> 
+Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If it does unpair it, before you begin. xdrip+ will do it for you!  <a href="https://clarity.dexcom.com/" target="_blank" title="Dexcom USA Account">See Here</a> <a href="https://clarity.dexcom.eu/" target="_blank" title="Bluetooth connection"> </a> 
 </span></td>
 </tr>
 </tbody>
