@@ -5,10 +5,18 @@ docs made by D.Galloway 2019- 2021-->
 These is where you will be selecting your Device or Transmitter to work with xdrip.<br>
 
 You will need to go to choose your data source you will be using.
-To do this you should have a start source setup wizard on your main screen from installation.
+To do this you should have a start source setup wizard on your main screen from installation.<br>
+
 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/start source setup wizard.jpg" title="Start Source setup wizard"/></a><br>
 If you do not have one do a long press on the xdrip+ image at the top of your main screen.<br>
+
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/xdrip image logo.jpg" title="xdrip+ image logo"/></a><br>
+
+And turn on your Source Wizard Button.<br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/source wizard button.jpg" title="Source Wizard Button"/></a><br>
+
+Or you can go to the Burger icon in top left then /settings/Harware Data Source<br>
+<iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/8OnjK3BYeCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 
 ## **Data Source**
