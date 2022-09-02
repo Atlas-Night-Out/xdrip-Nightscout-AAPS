@@ -50,7 +50,7 @@ Association of Medical Research CharitieInternational Diabetes Federations: <a h
 
 
 ## **Diet:**
-Glycaemic Index: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
+Glycaemic Index: <a href="https://glycaemicindex.com/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
 
 NIH: <a href="https://www.niddk.nih.gov/health-information/diabetes/overview/diet-eating-physical-activity" target="_blank" title="NIH">NIH</a><br>
 
