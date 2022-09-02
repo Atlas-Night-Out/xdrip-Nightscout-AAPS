@@ -54,7 +54,9 @@ Diabetes.co.uk <a href="https://www.diabetes.co.uk/" target="_blank" title="Diab
 
 Diabetes Research & Wellness Foundation: <a href="https://www.drwf.org.uk/" target="_blank" title="Diabetes Research & Wellness Foundation">Diabetes Research & Wellness Foundation</a><br>
 
-Diabetes Federation of Ireland: <a href="www.diabetes.ie" target="_blank" title="Diabetes Federation of Ireland">Diabetes Federation of Ireland</a><br>
+Diabetes Federation of Ireland: <a href="https://www.diabetes.ie/" target="_blank" title="Diabetes Federation of Ireland">Diabetes Federation of Ireland</a><br>
+
+Insulin Dependent Diabetes Trust: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Insulin Dependent Diabetes Trust">Insulin Dependent Diabetes Trust</a><br>
 
 
 ## **Diet:**
