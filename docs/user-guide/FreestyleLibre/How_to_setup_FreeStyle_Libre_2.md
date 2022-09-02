@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2021-->
 
 ## **How to setup a Freestyle Libre 2** <br>
 
-I believe this method works thanks to Amanda Roberts helping somone kindly in xdrip uk group, why I'm adding it due to them saying it worked ok for them if you have any issues please let me know!<br><br>
+I believe this method works thanks to Amanda Roberts helping somone kindly in <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="xdrip+ UK Facebook Group">xdrip+ UK  group,</a> why I'm adding it due to them saying it worked ok for them if you have any issues please let me know!<br><br>
 
 <center><a href="https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/FreestyleLibre/how to setup freestyle libre 2.jpg" title="How to Setup Freestyle Libre 2"/><br><br>
