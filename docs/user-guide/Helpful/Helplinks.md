@@ -3,6 +3,9 @@
 
 <img src="https://media.giphy.com/media/lNjpNhi82csekMFe3r/giphy.gif" width="200" height="180" /><br>
 
+## **Forums and communities:**
+Insulin Pumpers: <a href="www.insulin-pumpers.org.uk" target="_blank" title="Insulin Pumpers">Insulin Pumpers</a><br>
+
 ## **Web Sites**
 
 JDRF - UK: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF - UK">JDRF - UK</a><br>
