@@ -1,7 +1,7 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by D.Galloway 2019- 2021-->
 <img width="860" height="615" border="0" align="center"  src="/my-project/img/Hardware Data Source/Hardware Data Source.jpg" title="Data Source"/></a><br>
-# **Install xDrip** <br>
+# **Data Source** <br>
 This installation process is a little old now and the video really needs to be updated, which I will do as soon as get time to.
 
 But for now, it’s still a good help for you to set up xdrip+ onto your mobile. Just turn off the music if it’s not to your tastes :-) 
