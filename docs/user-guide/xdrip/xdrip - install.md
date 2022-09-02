@@ -49,8 +49,8 @@ See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
 
 <iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/yHv86lZ2s58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
-###Next:see<br>
-Adding your Data Source 
+## Next:see<br>
+Adding your Data Source <br><br>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
