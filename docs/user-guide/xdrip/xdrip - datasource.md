@@ -55,7 +55,11 @@ Unpair if already connected.<br>
 <tr style="height: 56.4063px;">
 <td style="width: 1158px; "350 border-color: #000000;><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">
 
-Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If it does unpair it, before you begin. xdrip+ will do it for you!  <a href="https://clarity.dexcom.com/" target="_blank" title="Dexcom USA Account">See Here</a> for USA accounts and <a href="https://clarity.dexcom.eu/" target="_blank" title="Bluetooth connection"> </a> 
+Sensors and Transmitters can only connect to one Mobile (or tablet) at a time, and only to one app at a time. There are ways around that will allow you to connect to other software packages like Android APS!
+You should uninstall anything else to connect to xDrip+ so your able to connect to your transmitter and xdrip+
+
+If another mechanism is connected to your sensor or bridge you should turn it off or disable the other app before trying to connect with xDrip+. Better to do it now rather than after your 2 hours warm up!
+  <a href="https://clarity.dexcom.com/" target="_blank" title="Dexcom USA Account">See Here</a> for USA accounts and <a href="https://clarity.dexcom.eu/" target="_blank" title="Bluetooth connection"> </a> 
 </span></td>
 </tr>
 </tbody>
