@@ -60,7 +60,7 @@ Insulin Dependent Diabetes Trust: <a href="https://www.iddt.org/?cn-reloaded=1" 
 
 Input Insulin Pump Therapy Advocacy Group: <a href="www.input.me.uk" target="_blank" title="Input Insulin Pump Therapy Advocacy Group">Input Insulin Pump Therapy Advocacy Group</a><br>
 
-Therapy Advocacy Group: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Insulin Dependent Diabetes Trust">Therapy Advocacy Group Trust</a><br>
+Diabetes with Eating Disorders: <a href="https://www.dwed.org.uk" target="_blank" title="Diabetes with Eating Disorders">Diabetes with Eating Disorders</a><br>
 
 
 ## **Diet:**
