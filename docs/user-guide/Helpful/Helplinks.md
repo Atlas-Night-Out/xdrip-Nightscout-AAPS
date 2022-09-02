@@ -5,8 +5,10 @@
 
 ## **Forums and communities:**
 Insulin Pumpers: <a href="http://www.insulin-pumpers.org.uk/" target="_blank" title="Insulin Pumpers">Insulin Pumpers</a><br>
+
 Diabetes Support Forums: <a href="https://forum.diabetes.org.uk/" target="_blank" title="Diabetes Support Forums">Diabetes Support Forums</a><br>
 
+Digibete: <a href="https://www.digibete.org/" target="_blank" title="Digibete">Digibete</a><br>
 ## **Web Sites**
 
 JDRF - UK: <a href="https://jdrf.org.uk/information-support/about-type-1-diabetes/?gclid=CjwKCAjw77WVBhBuEiwAJ-YoJMKWGEHD9mZVCQJ6g2XTwbkuIU6fRSgAbHjncLVcvIfGbzb8obeFSBoCBBgQAvD_BwE" target="_blank" title="JDRF - UK">JDRF - UK</a><br>
