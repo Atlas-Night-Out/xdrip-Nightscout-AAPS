@@ -9,7 +9,7 @@ You do not need to have Nightscout installed for xdrip+ to work as mentioned in 
 You can get your reading from your CGM direct from xdrip+.
 
 
-## **PC Download**
+## **Dada Source**
 [<img src="../../img/xdrip/xdrip pc download.jpg">](https://github.com/NightscoutFoundation/xDrip/releases)
 <br>
 
