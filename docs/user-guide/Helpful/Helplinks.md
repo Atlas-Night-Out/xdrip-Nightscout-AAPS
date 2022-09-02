@@ -52,7 +52,9 @@ Diabetes.uk <a href="https://www.diabetes.org.uk/" target="_blank" title="Diabet
 
 Diabetes.co.uk <a href="https://www.diabetes.co.uk/" target="_blank" title="Diabetes.co.uk">Diabetes.co.uk</a><br>
 
-Diabetes Research & Wellness Foundation <a href="https://www.drwf.org.uk/" target="_blank" title="Diabetes Research & Wellness Foundation">Diabetes Research & Wellness Foundation</a><br>
+Diabetes Research & Wellness Foundation: <a href="https://www.drwf.org.uk/" target="_blank" title="Diabetes Research & Wellness Foundation">Diabetes Research & Wellness Foundation</a><br>
+
+Diabetes Federation of Ireland: <a href="www.diabetes.ie" target="_blank" title="Diabetes Federation of Ireland">Diabetes Federation of Ireland</a><br>
 
 
 ## **Diet:**
