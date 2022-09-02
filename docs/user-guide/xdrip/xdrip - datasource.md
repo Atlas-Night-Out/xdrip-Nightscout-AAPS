@@ -36,18 +36,10 @@ Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If i
 
 Unpair if already connected.<br>
 
-<img width="380" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/bluetooth unpair.jpg" title="bluetooth unpair"/><img width="380" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/Dexcom unpair.jpg" title="Dexcom unpair"/></a></a><br>
+<img width="350" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/bluetooth unpair.jpg" title="bluetooth unpair"/><img width="350" height="auto" border="0" align="center"  src="/my-project/img/Hardware Data Source/Dexcom unpair.jpg" title="Dexcom unpair"/></a></a><br>
 
 
-
-
-
-
-
-
-
-
-<table width="1166" height="390" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="360" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning! Do not use your mobiles bluetooth connection </span></strong></span></td>
