@@ -58,7 +58,7 @@ Diabetes Federation of Ireland: <a href="https://www.diabetes.ie/" target="_blan
 
 Insulin Dependent Diabetes Trust: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Insulin Dependent Diabetes Trust">Insulin Dependent Diabetes Trust</a><br>
 
-Therapy Advocacy Group: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Insulin Dependent Diabetes Trust">Therapy Advocacy Group Trust</a><br>
+Therapy Advocacy Group: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Therapy Advocacy Group Trust">Therapy Advocacy Group Trust</a><br>
 
 Therapy Advocacy Group: <a href="https://www.iddt.org/?cn-reloaded=1" target="_blank" title="Insulin Dependent Diabetes Trust">Therapy Advocacy Group Trust</a><br>
 
