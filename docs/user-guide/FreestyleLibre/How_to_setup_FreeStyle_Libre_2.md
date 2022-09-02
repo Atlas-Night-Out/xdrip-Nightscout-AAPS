@@ -1,9 +1,10 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by D.Galloway 2019- 2021-->
 <img width="860" height="615" border="0" align="center"  src="/my-project/img/Hardware Data Source/Hardware Data Source.jpg" title="Data Source"/></a><br>
-# **Data Source** <br>
-These is where you will be selecting your Device or Transmitter to work with xdrip.<br>
-
+# **How to setup a Freestyle Libre 2** <br>
+I believe this method works why I'm addin git if you have any issues please let me know!.<br>
+<a href="https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/FreestyleLibre/how to setup freestyle libre 2.jpg" title="How to Setup Freestyle Libre 2"/>
 You will need to go to choose your data source you will be using.
 To do this you should have a start source setup wizard on your main screen from installation.<br>
 
