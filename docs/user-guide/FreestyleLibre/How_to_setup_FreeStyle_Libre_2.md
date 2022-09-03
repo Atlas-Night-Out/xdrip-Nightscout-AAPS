@@ -10,7 +10,7 @@ I believe this method works thank you to Amanda Roberts for helping somone out k
 <center><a href="https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/FreestyleLibre/how to setup freestyle libre 2_logo.png" title="How to Setup Freestyle Libre 2"/><br><br>
 
-<a href=" https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank" title="First create a user account by going to">How to setup a Freestyle Libre 2</a></center>
+## <a href=" https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank" title="First create a user account by going to">How to setup a Freestyle Libre 2</a></center>
   
 
 
