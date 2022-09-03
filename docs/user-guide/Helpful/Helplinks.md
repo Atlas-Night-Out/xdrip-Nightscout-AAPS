@@ -68,6 +68,8 @@ National Institute of Clinical Excellence guidelines for treatment of type 1 Dia
 
 The Yellow Card Scheme-(report medical issues-UK: <a href="https://www.gov.uk/report-problem-medicine-medical-device" target="_blank" title="The Yellow Card Scheme-(report medical issues-UK">The Yellow Card Scheme-(report medical issues-UK</a><br>
 
+MedicAlert is the UK’s medical ID charity: <a href="https://www.medicalert.org.uk/" target="_blank" title="The Yellow Card Scheme-(report medical issues-UK">MedicAlert is the UK’s medical ID charity</a><br>
+
 
 ## **Diet:**
 Glycaemic Index: <a href="https://glycaemicindex.com/" target="_blank" title="Glycaemic Index">Glycaemic Index</a><br>
