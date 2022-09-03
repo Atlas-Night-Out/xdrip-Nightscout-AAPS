@@ -1,16 +1,13 @@
 <!-- this is  on github live server!
 docs made by D.Galloway 2019- 2021-->
 
-
-# Welcome to The Diabetic way
-
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
-## **Nightscout_Oracle Cloud**
+## **Nightscout Oracle Cloud**
 Oracle Cloud
 Coming soon
 
-## <a href=" https://docs.google.com/document/d/1kX1R4y_FVS4AHVqCek0IwtgD-NKi8Y77/edit" target="_blank" title="Oracle Cloud Nightscout">Oracle Cloud Nightscout</a></center>
+## <a href=" https://docs.google.com/document/d/1kX1R4y_FVS4AHVqCek0IwtgD-NKi8Y77/edit" target="_blank" title="Oracle Cloud Nightscout">Oracle Cloud Nightscout</a></center><br>
 
 <br><br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
