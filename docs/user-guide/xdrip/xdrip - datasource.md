@@ -2,7 +2,7 @@
 docs made by D.Galloway 2019- 2021-->
 <img width="860" height="615" border="0" align="center"  src="/my-project/img/Hardware Data Source/Hardware Data Source.jpg" title="Data Source"/></a><br>
 # **Data Source** <br>
-These is where you will be selecting your Device or Transmitter to work with xdrip.<br>
+This is where you will be selecting your Device or Transmitter to work with xdrip.<br>
 
 You will need to go to choose your data source you will be using.
 To do this you should have a start source setup wizard on your main screen from installation.<br>

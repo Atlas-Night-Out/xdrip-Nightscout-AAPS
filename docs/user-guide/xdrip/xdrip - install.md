@@ -48,9 +48,11 @@ See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
 
 
 <iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/yHv86lZ2s58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
-
+<center>
 ## Next:see<br>
-Adding your Data Source <br><br>
+### <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> <br><br></center>
+
+
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
@@ -83,7 +85,8 @@ adding 	Yellow Hightligher!!!!!!!!	with bold too
 <a>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
 
-
+link
+<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
 
 
 Adding a image with link
