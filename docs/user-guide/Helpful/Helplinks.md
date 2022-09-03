@@ -64,7 +64,7 @@ Diabetes with Eating Disorders: <a href="https://www.dwed.org.uk" target="_blank
 
 T1Resources: <a href="https://www.t1resources.uk/home/" target="_blank" title="T1Resources">T1Resources</a><br>
 
-National Institute of Clinical Excellence guidelines for treatment of type 1 Diabetes (Nice): <a href="www.nice.org.uk" target="_blank" title="National Institute of Clinical Excellence guidelines for treatment of type 1 Diabetes (Nice)">National Institute of Clinical Excellence guidelines for treatment of type 1 Diabetes (Nice)</a><br>
+National Institute of Clinical Excellence guidelines for treatment of type 1 Diabetes (Nice): <a href="https://www.nice.org.uk/" target="_blank" title="National Institute of Clinical Excellence guidelines for treatment of type 1 Diabetes (Nice)">National Institute of Clinical Excellence guidelines for treatment of type 1 Diabetes (Nice)</a><br>
 
 The Yellow Card Scheme-(report medical issues-UK: <a href="https://www.gov.uk/report-problem-medicine-medical-device" target="_blank" title="The Yellow Card Scheme-(report medical issues-UK">The Yellow Card Scheme-(report medical issues-UK</a><br>
 
