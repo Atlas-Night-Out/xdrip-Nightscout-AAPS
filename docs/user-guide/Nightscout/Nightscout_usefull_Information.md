@@ -40,7 +40,7 @@ Updating your website to the latest version
 
 These instruction have been made on the 28 <span style="background-color: #FFFF00">**April 2021**</span><br>
 <br>
-<table width="1166" height="110" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="130" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
@@ -146,7 +146,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * <span style="background-color: #FFFF00">**You have successfully updated your GitHub repository**</span>, now let's deploy it in Heroku.
 <br>
 <br>
-<table width="1166" height="110" height="110" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="130" height="110" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
