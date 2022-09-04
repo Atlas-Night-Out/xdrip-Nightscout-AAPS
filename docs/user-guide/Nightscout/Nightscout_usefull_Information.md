@@ -83,7 +83,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
  and the <span style="background-color: #FFFF00">**nightscout/cgm-remote-monitor must be on the right.**</span><br>
  
-## step 2 create pull request
+### **step 2 create pull request**
 
 * Click <span style="background-color: #FFFF00">**"Create pull request” again,**</span> do not change the comparison. Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right side.
 <a >
@@ -110,7 +110,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
  <br>
 
 
-## step 3 merge pull request
+### **step 3 merge pull request**
 
 * Click <span style="background-color: #FFFF00">**"Merge pull request**</span>
 
@@ -133,13 +133,13 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 
 
 
-## step 4 confirm merge
+### **step 4 confirm merge**
 <br>
 * Now Click the  <span style="background-color: #FFFF00">**Confirm merge button.**</span>
 <a>
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/step 4 click  confirm merge.jpg" title="Step 4 Confirm Merge"/></a>
 
-## step 5 merged
+### **step 5 merged**
 
 * If you see <span style="background-color: #FFFF00">**"Merged" in purple,**</span> you have successfully updated your fork. If you're using Heroku you will need to to push the Deploy Branch button, in the Manual deploy section of the Deploy page.
 
@@ -158,7 +158,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 </tbody>
 </table>
 
-# Step6: Deploy in Heroku
+### **Step6: Deploy in Heroku**
 <br>
 
  
