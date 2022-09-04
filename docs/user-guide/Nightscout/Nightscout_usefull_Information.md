@@ -146,7 +146,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * <span style="background-color: #FFFF00">**You have successfully updated your GitHub repository**</span>, now let's deploy it in Heroku.
 <br>
 <br>
-<table width="1166" height="130" height="110" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1166" height="150" height="110" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
@@ -248,7 +248,7 @@ To let your site finish updating itself as soon as you update your fork in the f
 
 
 
-<table width="1266" height="110" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
+<table width="1266" height="160" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
 <tr style="height: 16px;">
 <td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
