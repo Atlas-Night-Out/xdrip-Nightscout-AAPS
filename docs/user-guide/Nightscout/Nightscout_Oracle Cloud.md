@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2021-->
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
-## **Nightscout Oracle Cloud**
+
 Oracle Cloud
 Coming soon
 
