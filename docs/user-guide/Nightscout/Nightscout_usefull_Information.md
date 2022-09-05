@@ -76,7 +76,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
   
 * <span style="background-color: #FFFF00">**Click the Continue updating at GitHub button.**</span> Review the directions on the screen that pops up, and continue.
 
-## step 1 `(see Step1 & Step2 video below)`
+### **step 2 `(see Step1 & Step2 video below)`**
 
 * <span style="background-color: #FFFF00">**Click "Create pull request"**</span> Your fork must be on the left side  
 <a >
