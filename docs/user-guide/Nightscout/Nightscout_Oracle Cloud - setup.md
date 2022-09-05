@@ -11,6 +11,10 @@ a.	Go to Sign in.<br><a href="https://www.youtube.com/watch?v=MFsbm45b6YY" targe
   <img width="auto" height="auto" border="0" align="center"  src="../../img/Nightscout/Nightscout_Oracle Cloud - setup/sign up to Oracle cloud.jpg" title="github account details"/>
 </a><br>
 
+
+
+## To Be continued!
+
 <br><br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
