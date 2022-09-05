@@ -45,7 +45,7 @@ nav:
     - 'Redeploying the repository': 'user-guide/Nightscout/Redeploying your repository.md'
     
     - 'Nightscout Oracle Cloud server': 'user-guide/Nightscout/Nightscout_Oracle Cloud.md'
-    - 'Nightscout Oracle Cloud server': 'user-guide/Nightscout/Nightscout_Oracle Cloud - setup.md'
+    - 'Oracle Cloud Setup': 'user-guide/Nightscout/Nightscout_Oracle Cloud - setup.md'
     
        
 -   Watches:
