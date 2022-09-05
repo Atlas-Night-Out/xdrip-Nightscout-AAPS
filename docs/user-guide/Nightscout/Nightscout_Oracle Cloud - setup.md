@@ -18,9 +18,9 @@ a.	Go to Sign in.<br><a href="https://www.youtube.com/watch?v=MFsbm45b6YY" targe
 ## To Be continued!
 
 <br><br>
-<a href="https://www.diabetes.org.uk/" target="_blank">
+<center><a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs!<br><br>
+</a>Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs!</center><br><br>
 
 
 
