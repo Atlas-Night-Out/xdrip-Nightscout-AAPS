@@ -4,10 +4,12 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
 
-Oracle Cloud
-Coming soon
-
-## <a href=" https://docs.google.com/document/d/1kX1R4y_FVS4AHVqCek0IwtgD-NKi8Y77/edit" target="_blank" title="Oracle Cloud Nightscout">Oracle Cloud Nightscout</a></center><br>
+###  **Setting up Oracle Cloud server for Nightscout**
+So with that, let’s set up a free account on Oracle Cloud <br>
+1.	Sign up: By going to https://www.oracle.com/cloud/sign-in.html or <a href=" https://www.oracle.com/cloud/sign-in.html" target="_blank" title="Sign up">Click Here</a><br><br>
+a.	Go to Sign in.<br><a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="../../img/Nightscout/Nightscout_Oracle Cloud - setup/sign up to Oracle cloud.jpg" title="github account details"/>
+</a><br>
 
 <br><br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
