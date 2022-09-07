@@ -10,7 +10,9 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
 
-Due to yet again for the second time Heroku is starting to charge for having a Nightscout site! I'm not only very frustrated at this but also not going to be helping any more on any of these projects again. I have also noticed Gluco check as also had bad news too on voice prompts that we all so luve being taken away from us all Next June. Looks liek the big boys want to again nick the tecnologies away to be charging you later! They have done this for years! About time they got sued and stopped doing what they do!<br>
+Due to yet again for the second time Heroku is starting to charge for having a Nightscout site! I'm not only very frustrated at this but also not going to be helping any more on any of these projects again.<br>
+
+ I have also noticed Gluco check as also had bad news too on voice prompts that we all so luve being taken away from us all Next June. Looks liek the big boys want to again nick the tecnologies away to be charging you later! They have done this for years! About time they got sued and stopped doing what they do!<br>
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
