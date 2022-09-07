@@ -5,7 +5,11 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
+
+Due to yet again for the second time Heroku is starting to charge for having a Nightscout site! I'm not only mad at this but also not going to be helping any more on any of these projects again.<br>
+
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/heroku charging again.jpg" heroku charging again"/><br>
 
 
 
