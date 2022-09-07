@@ -69,7 +69,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/forking nightscout.jpg" title="Select Fork"/>
 </a>
 
-# Step 2 - Now Deploy in Heroku
+### **Step 2 - Now Deploy in Heroku**
 <br>
 
 * Log into Heroku <a href=" https://id.heroku.com/login" target="_blank" title="logging into Heroku">-- Click Here  --</a> <br>
