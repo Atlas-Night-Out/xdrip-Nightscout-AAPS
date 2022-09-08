@@ -12,7 +12,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 Due to yet again for the second time Heroku is starting to charge for having a Nightscout site! I'm not only very frustrated at this but also not going to be helping any more on any of these projects again.<br>
 
- I have also noticed Gluco check as also had bad news too on voice prompts that we all so luve being taken away from us all Next June. Looks like the big boys want to again nick the tecnologies away to be charging you later! They have done this for years! About time they got sued and stopped doing what they do!<br>
+ I have also noticed Gluco check as also had bad news too on voice prompts that we all so luve being taken away from us all Next June. Looks like the big boys want to again nick the tecnologies away to be charging you later! They have done this for years! About time they got sued and stopped doing what they do!<br>I'm also not at all happy with CGM in the Cloud and come out o fthere facebook group and I have also blocked Bed West for also charging even more than Heroku are (both of these peopl ehave had and took my info to make money for them self while I have done all this free for you all!) Which I will no longer be doing for Nightscout that is unreliable expensive and not needed better to be safe then these peopl and you life in there hand not a Nightscout to be trusted yet I will still leave thsi info here fo rthem to make millions. as 25,00 Type 1 paying a £1 for it is still a lot of money to one person! or one so called company called Heroku
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
