@@ -10,7 +10,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 
 <font size="4">
-# Step 1. Cleaning up Github
+### Step 1. Cleaning up Github
 <br>
 
 <table width="1166" height="500" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
@@ -69,8 +69,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/forking nightscout.jpg" title="Select Fork"/>
 </a>
 
-### **Step 2 - Now Deploy in Heroku**
-<br>
+### **Step 2 - Now Deploy in Heroku** <br>
 
 * Log into Heroku <a href=" https://id.heroku.com/login" target="_blank" title="logging into Heroku">-- Click Here  --</a> <br>
 <br>
