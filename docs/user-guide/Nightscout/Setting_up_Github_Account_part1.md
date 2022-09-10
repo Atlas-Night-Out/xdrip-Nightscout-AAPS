@@ -21,6 +21,8 @@ We are looking at options. Please be patient.
 
  We still have several months before it comes to this so I want to consantrate on getting this free for you all. I would still setup a Heroku account as it will still be easier to transfer over to a new one if we can. If not then you can deside to carry on with Heroku at $7 
 
+ jamorham has also been a great help at getting us out of these situations but I also feel he also needs a rest from these changes that keep happening to be keeping it free, lets hope this is the last time for us all so we can consantrate on the important thing in improving the software and xdrip.
+
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
 
