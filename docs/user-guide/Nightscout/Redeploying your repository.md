@@ -6,7 +6,7 @@ docs made by D.Galloway 2019- 2021-->
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
-## Redeploying your repository
+## Heroku Stack Update 
 <br>
 
 <font size="4">
