@@ -17,11 +17,11 @@ Due to yet again for the second time Heroku is starting to charge for having a N
   We still have several months before any changes take place.
 We are looking at options. Please be patient.
  
- I'm also not at all happy with CGM in the Cloud and come out of there for a while until I calm down w due to the fasts of Ben west taking the info to be charging youe all I high price of $11 when so many of us do this free to help Diabetics have a better easier life (like myself needs too! not be charged $11 thats over 2 million in profits! ) I don't like having to name people but things are getting out of hands in there so I'm stepping back!<br>
+ I'm also not at all happy with CGM in the Cloud and come out of there for a while until I calm down  due to the facts of Ben west taking the info to be charging youe all I high price of $11 when so many of us do this free to help Diabetics have a better easier life (like myself needs too! not be charged $11 thats over 2 million in profits! ) I don't like having to name people but things are getting out of hands in there so I'm stepping back!<br>
 
- We still have several months before it comes to this so I want to consantrate on getting this free for you all. I would still setup a Heroku account as it will still be easier to transfer over to a new one if we can. If not then you can deside to carry on with Heroku at $7 
+ We still have several months before it comes to this so I want to consantrate on getting this free for you all. I would still setup a Heroku account as it will still be easier to transfer over to a new one if we can. If not then you can deside to carry on with Heroku at $7 <br>
 
- jamorham has also been a great help at getting us out of these situations but I also feel he also needs a rest from these changes that keep happening to be keeping it free, lets hope this is the last time for us all so we can consantrate on the important things in improving the software and xdrip with ANdroid APS.
+ jamorham has also been a great help at getting us out of these situations but I also feel he also needs a rest from these changes that keep happening to be keeping it from us free, lets hope this is the last time for us all so we can consantrate on the important things in improving the software and xdrip with ANdroid APS. I was thinking maybe ask the NHS for some free servers for us to do this for free for us all might be a good idea? 
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
