@@ -17,7 +17,7 @@ Due to yet again for the second time Heroku is starting to charge for having a N
   We still have several months before any changes take place.
 We are looking at options. Please be patient. And will still be best to setup this process as normal with Heroku!
  
- I'm also not at all happy with CGM in the Cloud and come out of there for a while until I calm down  due to the facts of Ben west taking the info to be charging you all I high price of $11 when so many of us do this for free to help Diabetics have a better easier life (like myself needs too! not be charged $11 thats over 2 million in profits! ) I don't like having to name people but things are getting out of hands in there so I'm stepping back until this is all sorted out! <br>
+ I'm also not at all happy with CGM in the Cloud and come out of there for a while until I calm down  due to the facts of Ben west T1 PAL taking the info to be charging you all I high price of $11 when so many of us do this for free to help Diabetics have a better easier life (like myself needs too! not be charged $11 thats over 2 million in profits! ) I don't like having to name people but things are getting out of hands in there so I'm stepping back until this is all sorted out! <br>
 
  We still have several months before it comes to this so I want to consantrate on getting this free for you all. I would still setup a Heroku account as it will still be easier to transfer over to a new one if we can. If not then you can deside to carry on with Heroku at $7 <br>
 
