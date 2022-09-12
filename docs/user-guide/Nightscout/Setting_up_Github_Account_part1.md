@@ -12,12 +12,12 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 Due to yet again for the second time Heroku is starting to charge for having a Nightscout site free! I'm not only very frustrated at this but also again the hard work gone into the instructions as to change again.<br>
 
-  I have also noticed Gluco check has also had bad news too on voice prompts that we all so luve being taken away from us all in June by Gpoogle removing a api we need to do this process again money instead of are lives! <a href=" https://pages.glucocheck.app/sunset" target="_blank" title="Gluco check closing down">Click Here</a>. Looks like the big boys want to to cause frustrations but I hope might come to a better end and be free for life! <br>
+  I have also noticed Gluco check has also had bad news too on voice prompts that we all so luve being taken away from us all in June by Gpoogle removing a api we need to do this process again! <a href=" https://pages.glucocheck.app/sunset" target="_blank" title="Gluco check closing down">Click Here</a>. <br>
 
   We still have several months before any changes take place.
-We are looking at options. Please be patient.
+We are looking at options. Please be patient. And will still be best to setup this process as normal with Heroku!
  
- I'm also not at all happy with CGM in the Cloud and come out of there for a while until I calm down  due to the facts of Ben west taking the info to be charging youe all I high price of $11 when so many of us do this free to help Diabetics have a better easier life (like myself needs too! not be charged $11 thats over 2 million in profits! ) I don't like having to name people but things are getting out of hands in there so I'm stepping back!<br>
+ I'm also not at all happy with CGM in the Cloud and come out of there for a while until I calm down  due to the facts of Ben west taking the info to be charging you all I high price of $11 when so many of us do this for free to help Diabetics have a better easier life (like myself needs too! not be charged $11 thats over 2 million in profits! ) I don't like having to name people but things are getting out of hands in there so I'm stepping back until this is all sorted out! <br>
 
  We still have several months before it comes to this so I want to consantrate on getting this free for you all. I would still setup a Heroku account as it will still be easier to transfer over to a new one if we can. If not then you can deside to carry on with Heroku at $7 <br>
 

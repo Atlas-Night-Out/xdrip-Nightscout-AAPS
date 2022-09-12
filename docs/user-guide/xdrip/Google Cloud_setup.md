@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
 
-###  **Nightscout on to Google Cloud**<br>
+###  **Nightscout on Google Cloud**<br>
 
 ### **So with that, let’s set up a free account on Google Cloud <br>**
 
