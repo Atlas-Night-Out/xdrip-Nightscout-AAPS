@@ -3,7 +3,7 @@
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
 <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
 
@@ -21,7 +21,7 @@ We are looking at options. Please be patient. And will still be best to setup th
 
  We still have several months before it comes to this so I want to consantrate on getting this free for you all. I would still setup a Heroku account as it will still be easier to transfer over to a new one if we can. If not then you can deside to carry on with Heroku at $7 <br>
 
- jamorham has also been a great help at getting us out of these situations but I also feel he also needs a rest from these changes that keep happening to be keeping it from us free, lets hope this is the last time for us all so we can consantrate on the important things in improving the software and xdrip with ANdroid APS. I was thinking maybe ask the NHS for some free servers for us to do this for free for us all might be a good idea? 
+ jamorham has also been a great help at getting us out of these situations but I also feel he also needs a rest from these changes that keep happening to us all.
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
