@@ -10,7 +10,8 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 
 
-Annoncment again for the second time Heroku is starting to charge for having a Nightscout site free! I'm not only very frustrated at this but also again all the hard work gone into the instructions to setup Heroku as to change be again or maybe more other option availible to have..<br>
+Annoncment again for the second time Heroku is starting to charge for having a Nightscout site free! I'm not only very frustrated at this but also again all the hard work gone into the instructions to setup Heroku as to change it again or maybe us setup more other option to have a Nightscout site..<br>
+** Here is what Heroku has Announced! <br>
 <center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
 
   I have also noticed Gluco check has also had bad news too on voice prompts that we all so luve being taken away from us all in June by Google removing a api we need to do this process again! <a href=" https://pages.glucocheck.app/sunset" target="_blank" title="Gluco check closing down">Click Here</a>. <br>
