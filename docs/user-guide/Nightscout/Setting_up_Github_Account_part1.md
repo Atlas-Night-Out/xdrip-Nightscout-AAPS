@@ -59,11 +59,12 @@ with other devices and setups too! You do this at your own risk as my instructio
 
 ###2. Fill in all of your account  details  on screen and keep them written down in a safe place to keep.<br>
 
-###3. <a href="https://github.com/" target="_blank">
+###3. Setting up Github<br>
+<a href="https://github.com/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github account.jpg" title="Setting up Github"/>
 </a><br>
 
-      <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/Github account details.jpg" title="Github account details"/>
+  <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/Github account details.jpg" title="Github account details"/>
 </a><br>
 ###4. After filling in your details you will then need to do a <span style="background-color: #FFFF00">**puzzle**</span> Puzzle<br>
 
