@@ -68,7 +68,7 @@ with other devices and setups too! You do this at your own risk as my instructio
 </a><br>
 ###4. After filling in your details you will then need to do a <span style="background-color: #FFFF00">**puzzle**</span> Puzzle<br>
 
-    <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
 </a><br>
 ###5. After doing the puzzle you will be sent an email, so <span style="background-color: #FFFF00">**check your email**</span>  for the code sent to you!<br> 
 
