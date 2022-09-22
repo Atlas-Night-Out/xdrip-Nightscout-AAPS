@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
 
-Oracle Cloud
+Google Cloud
 Coming soon
 
 ## <a href=" https://docs.google.com/document/d/1kX1R4y_FVS4AHVqCek0IwtgD-NKi8Y77/edit" target="_blank" title="Oracle Cloud Nightscout">Oracle Cloud Nightscout</a></center><br>
