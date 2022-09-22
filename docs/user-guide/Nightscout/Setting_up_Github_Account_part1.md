@@ -17,7 +17,7 @@ Annoncment again for the second time Heroku is starting to charge for having a N
   I have also noticed Gluco check has also had bad news too on voice prompts that we all so luve being taken away from us all in June by Google removing a api we need to do this process again! <a href=" https://pages.glucocheck.app/sunset" target="_blank" title="Gluco check closing down">Click Here</a>. <br>
 
   We still have several months before any changes take place.
-We are looking at options. Please be patient. And will still be best to setup this process as normal with Heroku!
+We are looking at options. Please be patient. And it will still be best to setup this process as normal with Heroku!To upgrade at a later time or move to a differrent one.
  
  I have also setup two groups for you to join for helpful advice on issues we face. 
 <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Xdrip+ Uk">Xdrip+ Uk</a>
