@@ -15,7 +15,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 
 
-###1. **Now Open another tab**  to make a Mongodb Atlas** Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Try Free">See Here</a> 
+###1. **Now Open another tab**  to make a Mongodb Atlas Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Try Free">See Here</a> 
   and **click** <span style="background-color: #FFFF00">**Start Free**</span><br>
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Atlas/free Atlas Account.jpg" title="Sign up a Atlas Account"/></a>	
 ###2. Enter your Account Details like I have and then click <span style="background-color: #FFFF00">**get started free**</span> 
