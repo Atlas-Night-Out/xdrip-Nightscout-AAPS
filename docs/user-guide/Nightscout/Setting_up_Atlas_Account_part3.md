@@ -89,10 +89,8 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 </tbody>
 </table><br><br>
 ###16. Makeup a name for your database, this is not a important information (example kdatabase ), note that default is <span style="background-color: #FFFF00">**myFirstDatabase**</span>. Only letters and numbers, no spaces.<br><br>
-###17. I will try to give you an example about the way to do it below:
+###  17. IIII will try to give you an example about the way to do it below:<br>
 
-
-<br>
   ** A.** In the boxes below 1st is your Atlas Account you gave yourself a <span style="background-color: #FFFF00">**User Name**</span> add it to the box below User Name on the left side!
  <br>
    **B.** Then you also made a <span style="background-color: #FFFF00">**Database user Password add your Password** </span>you  created for your database add this too into the box on the left side.
