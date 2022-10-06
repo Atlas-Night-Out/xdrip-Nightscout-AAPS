@@ -17,6 +17,12 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 ### a. First Go to settings <br>
 <img width="350" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/left Hamburger bar.jpg" title="settings "/><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Main Settings.jpg" title="Main Settings "/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Main Settings.jpg" title="Main Settings "/></a><br>
+### b. then xdrip+ sync settings<br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Sync settings (2).jpg" title="xdrip+ sync settings"/></a><br>
+### c. These are the Settings to select.<br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/sync settings.jpg" title="Settings to select"/></a><br>
+Make the Main primary data source Mobile master (enable checkbox):<br>
 ###2. then xdrip+ sync settings<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip+ sync settings.jpg" title="xdrip+ sync settings"/></a><br><br>
 ###3. These are the Settings to select.<br><br>
