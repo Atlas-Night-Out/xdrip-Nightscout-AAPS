@@ -42,10 +42,10 @@ On AASP it is done seperatly, you add your Nightscout Web URL and then add your 
 ### 1. **Setting up xDrip as a (follower) for your dad**
 This will be on your <span style="background-color: #FFFF00">**followers mobile phone,**</span> not your own.
 #### a. In the xDrip Settings / Hardware Data Source, choose “Nightscout Follower” as the hardware data source.
-<center><img width="250" height="Auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/><img width="250" height="Auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/Hardware Data Source1.jpg" title=" Select Hardware Data Source"/></a><img width="250" height="Auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/Hardware Data Source.jpg" title=" Nightscout Follow"/></a></center><br>
+<center><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/Hardware Data Source1.jpg" title=" Select Hardware Data Source"/></a><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/Hardware Data Source.jpg" title=" Nightscout Follow"/></a></center><br>
 
 Under “Nightscout Follow URL”, <br>
-<center><img width="250" height="auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/nightscout follow url.jpg" title=" follow url"/><br>Fly_io<img width="250" height="auto" border="0" align="center"  src="../../img/xdrip/fly nightscout followers url.jpg" title=" fly nightscout followers url"/>Heroku<img width="250" height="auto" border="0" align="center"  src="../../img/xdrip/heroku nightscout followers url.jpg" title=" Heroku nightscout followers url"/></center><br>
+<center><img width="250" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/nightscout follow url.jpg" title=" follow url"/><br>Fly_io<img width="250" height="auto" border="0" align="center"  src="/my-project/img/xdrip/fly nightscout followers url.jpg" title=" fly nightscout followers url"/>Heroku<img width="250" height="auto" border="0" align="center"  src="../../img/xdrip/heroku nightscout followers url.jpg" title=" Heroku nightscout followers url"/></center><br>
 
 Add your Fly_io Host address into it or your Heroku Name URL depending on which one you are using.<br>
 This will only be setting up a follower, giving them the full URL Address but they will not have a Secret Password for it like yourself would have.<br>
@@ -59,16 +59,16 @@ You can also add a Token and email it to one of your follows.<br>
 ### 1. **Make a Token**<br>
 Click the 'Add New Subject' 
 
-<center><img width="auto" height="auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/nightscout Add New Subject.jpg" title=" Add New Subject"/></a></center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/nightscout Add New Subject.jpg" title=" Add New Subject"/></a></center><br>
 
 ### a. In the form that opens, enter a name. Then under “Roles”, copy a role from the table. For example, for your dad that is only supposed to see your readings and nothing else and not be able to enter any other details or do anything else, then enter 'readable' in the roles section. <br><br>
-<center><img width="auto" height="auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/rolls blank edit subject.jpg" title=" edit subject"/></center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/rolls blank edit subject.jpg" title=" edit subject"/></center><br>
 You can enter a combination of different roles by separating them with “,”<br>
 You can also add an optional comment if you like, and then click the save button.<br>
 
 
 ### b. The token will be displayed at the top. You can use it now to give to your follower:<br>
-<center><img width="auto" height="auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/access token for role.jpg" title=" Access Token for Role Dad"/></center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/access token for role.jpg" title=" Access Token for Role Dad"/></center><br>
 
 <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
@@ -102,15 +102,15 @@ Now email the person who is to follow you, and paste the URL into the email, and
 ##  **Issues or Concerns** 
 
 If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="../../img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="../../img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
+  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
 
 
 
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="../../img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
