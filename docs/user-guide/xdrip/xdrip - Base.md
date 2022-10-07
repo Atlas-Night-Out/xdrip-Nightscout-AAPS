@@ -1,8 +1,8 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by D.Galloway 2019- 2021-->
-<img width="860" height="615" border="0" align="center"  src="/my-project/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a><br>
+<img width="460" height="315" border="0" align="center"  src="../../img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
 
-# **BASE_URL** <br>
+# **BASE_URL** 
 
 ### xdrip+ Base_URL <br>
 
