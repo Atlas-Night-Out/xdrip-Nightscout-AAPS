@@ -46,7 +46,7 @@ Leave the Main Mobile on this picture for the moment! <br>
 ### d.  Then select Auto Configure again<br>
 <img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto config3.jpg" title="Auto Configure"/><br>
 
-### e. and scan the other mobile bar code, with it<br>
+### e. and scan the others mobile bar code, with it<br>
 <img width="600" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure_viewfinder.jpg" title="mobile bar code"/></a><br><br>
 
 ## **There is practically no limit in the amount of xDrip+ follower devices you can have.**
