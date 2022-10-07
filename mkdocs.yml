@@ -40,10 +40,10 @@ nav:
     - 'Part 2 Setting up Heroku Account ': 'user-guide/Nightscout/Setting_up_Heroku_Account_part2.md'
     - 'Part 3 Setting up Atlas Account ': 'user-guide/Nightscout/Setting_up_Atlas_Account_part3.md'
     - 'Part 4 - Fork and Deploy cgm remote monitory': 'user-guide/Nightscout/Part 4 - Fork and Deploy cgm remote monitory.md'
-    - 'Nightscout Update': 'user-guide/Nightscout/Nightscout_update.md'
+    - 'Updating Nightscout': 'user-guide/Nightscout/Nightscout_update.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout/Nightscout_usefull_Information.md'
     - 'Heroku Redeploy Update ': 'user-guide/Nightscout/Redeploying your repository.md'
-    
+    - 'Google Cloud Setup': 'user-guide/Nightscout/Google Cloud_setup.md'
     - 'Nightscout Google Cloud server': 'user-guide/Nightscout/Nightscout_Oracle Cloud.md'
     - 'Oracle Cloud Setup': 'user-guide/Nightscout/Nightscout_Oracle Cloud - setup.md'
     

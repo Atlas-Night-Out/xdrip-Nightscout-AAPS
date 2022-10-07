@@ -40,7 +40,7 @@ You will be given a Hostname, that you will use to go to your nightscout site la
 
 ### a. You need a Google account to proceed. If you do not have one go to https://support.google.com/accounts/answer/27441?hl=en and sign up or <a href=" https://support.google.com/accounts/answer/27441?hl=en" target="_blank" title="Sign up">Google Account</a>
 <a href="https://support.google.com/accounts/answer/27441?hl=en" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="../../img/Nightscout/Google Cloud/create a google account.jpg" title="sign up for a Google Account"/><br><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/create a google account.jpg" title="sign up for a Google Account"/><br><br>
   
   **Once you have created a Google account** <br><br>
 
