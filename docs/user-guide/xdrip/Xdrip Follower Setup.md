@@ -22,8 +22,13 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 ### c. These are the Settings to select.<br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/sync settings.jpg" title="Settings to select"/></a><br>
 Make the Main primary data source Mobile master (enable checkbox):<br>
-###2. then xdrip+ sync settings<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip+ sync settings.jpg" title="xdrip+ sync settings"/></a><br><br>
+## 2.Now go back to settings to display the security key QR code. So your Follower can scan it.<br>
+### a. Go to Settings and scroll to the bottom to show settings QR codes on main mobile<br>
+<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip_followers_setup/show settings QR codes.jpg" title="show settings QR codes"/></a><br>
+### b. And select xdrip plus security key settings only.<br>
+<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip_followers_setup/security key settings only.jpg" title="xdrip plus security key settings only"/></a><br><br>
+Leave the Main Mobile on this picture for the moment! <br>
+<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip_followers_setup/EXAMPLE SCAN CODE.jpg" title="EXAMPLE SCAN CODE"/></a><br>
 ###3. These are the Settings to select.<br><br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/sync settings.jpg" title="Settings to select"/></a><br><br>
 ## **Now display the security key QR code and scan with our Followers handset**<br><br><br>
