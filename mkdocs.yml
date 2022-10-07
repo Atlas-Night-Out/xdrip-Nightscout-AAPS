@@ -29,6 +29,7 @@ nav:
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
     - 'Base URL': 'user-guide/xdrip/xdrip - Base.md'
     - 'Data Source': 'user-guide/xdrip/xdrip - datasource.md'
+    - 'Hardware Data Source': 'user-guide/xdrip/xdrip - hardwaredatasource.md'
     - 'Connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
     - 'Follower Setup': 'user-guide/xdrip/Xdrip Follower Setup.md'
     - 'Setting up Glucose Meters': 'user-guide/xdrip/Xdrip - Setting up Glucose Meters.md'
