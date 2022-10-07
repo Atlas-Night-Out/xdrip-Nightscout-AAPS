@@ -32,7 +32,7 @@ To get to your settings click on the left Hamburger bar at the top.<br>
 There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Setting main.jpg" title="Settings List"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/settings search1.jpg" title="Settings List"/></a></a><br>
 
-## 3. [xdrip±  Settings List ](../xdrip/xdrip-settingslisting.md#xdrip-settings) <br>
+## 3. [xdrip±  Settings List ](../xdrip/settings.md#3-xdrip-settings-list) <br>
 There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
 <img width="250" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip Settings_list.jpg" title="Settings List"/><br>
 
