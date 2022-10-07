@@ -1,6 +1,7 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
-# **Install xDrip+**<br><img width="360" height="104" border="0"  src="/my-project/img/xdrip/xdrip+ T1s original logo.png" title="Xdrip+"/></a>
+<img width="860" height="615" border="0" align="center"  src="../../img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a><br>
+# **Install xDrip** <br>
 
 This video installation process is a little old now and the video really needs to be updated, which I will do as soon as I get time to.
 
