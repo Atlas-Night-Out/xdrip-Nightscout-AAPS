@@ -30,34 +30,25 @@ Make the Main primary data source Mobile master (enable checkbox):<br>
 Leave the Main Mobile on this picture for the moment! <br>
 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/EXAMPLE SCAN CODE.jpg" title="EXAMPLE SCAN CODE"/></a><br>
 ###3. These are the Settings to select.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/sync settings.jpg" title="Settings to select"/></a><br><br>
-## **Now display the security key QR code and scan with our Followers handset**<br><br><br>
+##  3.Now configure <span style="background-color: #FFFF00">**the follower’s Mobile handset**</span> using its camera<br>
 
-###4.  Go to setting/show settings QR codes on main mobile phone<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/show settings QR codes.jpg" title="show settings QR codes"/></a><br><br>
+### a. Go to settings / hardware data source on Followers Mobile<br>
+<img width="260" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Setting main.jpg" title="Main settings "/></a><img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Harware Data Source.jpg" title="hardware data source "/></a><br>
 
-###5. And select xdrip plus security key settings only.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip plus security key settings only.jpg" title="xdrip plus security key settings only"/></a><br><br>
+### b. and then select xdrip+ sync follower<br>
+<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/sync follower.jpg" title="xdrip+ Sync Follower"/></a><br>
 
-##  Now configure <span style="background-color: #FFFF00">**the follower’s handset**</span> using its camera<br><br>
+### c. Now select Configure and allow permissions. If asked too<br>
+<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto config3.jpg" title="Auto Configure"/></a><br>
 
-###6. Go to settings / hardware data source <br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/hardware data source.jpg" title="hardware data source "/></a><br><br>
+### d.  Then select Auto Configure again<br>
+<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto config3.jpg" title="Auto Configure"/><br>
 
-###7. and then select xdrip+ sync follower<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/xdrip+ sync follower..jpg" title="xdrip+ sync follower"/></a><br><br>
+### e. and scan the other mobile bar code, with it<br>
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure_viewfinder.jpg" title="mobile bar code"/></a><br><br>
 
-###8. Now select Configure and allow permissions.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure.jpg" title="Auto Configure"/></a><br><br>
-
-###9. Then select Auto Configure again<br><br>
-<img width=300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/Auto Configure.jpg" title="Auto Configure again"/></a><br><br>
-
-###10. and scan the other mobile bar code, with it<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/bar code.jpg" title="mobile bar code"/></a><br><br>
-
-### If you need to setup mulitiple xdrip Followers then see my other setup on how to do this. I will add a link
-###when I have done it! <br><br>
+## **There is practically no limit in the amount of xDrip+ follower devices you can have.**
+In my own setup I have a mobile and a Tablet that share my levels beween each other from xdrip± using this setup!.<br><br>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
