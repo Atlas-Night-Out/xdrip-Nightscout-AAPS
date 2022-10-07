@@ -31,7 +31,7 @@ Make the Main primary data source Mobile master (enable checkbox):<br>
 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/security key settings only.jpg" title="xdrip plus security key settings only"/></a><br><br>
 Leave the Main Mobile on this picture for the moment! <br>
 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip_followers_setup/EXAMPLE SCAN CODE.jpg" title="EXAMPLE SCAN CODE"/></a><br>
-###3. These are the Settings to select.<br><br>
+
 ##  3.Now configure <span style="background-color: #FFFF00">**the follower’s Mobile handset**</span> using its camera<br>
 
 ### a. Go to settings / hardware data source on Followers Mobile<br>
