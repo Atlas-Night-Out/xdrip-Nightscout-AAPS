@@ -46,7 +46,7 @@ nav:
     - 'Updating Nightscout': 'user-guide/Nightscout/Nightscout_update.md'
     - 'Nightscout usefull Information': 'user-guide/Nightscout/Nightscout_usefull_Information.md'
     - 'Heroku Redeploy Update ': 'user-guide/Nightscout/Redeploying your repository.md'
-    - 'Fly_io' Server Setup 'user-guide/Nightscout/Google Cloud_setup.md'
+    - 'Fly_io Server Setup': 'user-guide/Nightscout/Google Cloud_setup.md'
     - 'Google Cloud Server Setup': 'user-guide/Nightscout/Fly_io-setup.md'
     - 'Fly_io': 'user-guide/Nightscout/Fly_io-setup.md'
     - 'Oracle Cloud Setup': 'user-guide/Nightscout/Nightscout_Oracle Cloud - setup.md'
