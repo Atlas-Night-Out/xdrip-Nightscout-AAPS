@@ -20,6 +20,13 @@ theme:
       scheme: default
     nav_style: primary
 
+    extra_css:
+    - css/admonitions.css
+markdown_extensions:
+    - admonition
+    - toc:
+        permalink: ⌁
+
 nav:
 - Home: 'index.md'
 - Dexcom :

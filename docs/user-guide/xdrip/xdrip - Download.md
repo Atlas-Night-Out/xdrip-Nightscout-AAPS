@@ -5,7 +5,7 @@ docs made by D.Galloway 2019- 2021-->
 
 
 ## PC Download
-test
+
 <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip pc download.jpg" title="PC Download"/>
 </a><br>
@@ -22,14 +22,45 @@ No need to uninstall first. But I would would recomend you do! And don't forget 
 
 <centre><iframe width="860" height="615" align="center" src="https://www.youtube.com/embed/C3n9cKoD3Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </centre><br><br>
 
+## Forked versions
 
+Some developers add features and customizations that are <span style="background-color: #FFFF00">**not available**</span> in the approved pre-releases until the author will create a Pull Request in xDrip+ and get it merged in the main project.<br>
+
+!!!warning "Updating forked Versions Risks"  
+    You can use these editions but need to understand they might only be supported only by their designer.<br>
+    **xDrip+ automated updates won't work with forked versions.**  
+    Also remember you cannot install a forked version if you have an official version installed on your phone:<br>
+    You will need to uninstall one or the other, either way around it first. (Forked or Official) only one can be installed.
+
+
+Bence's forks for CareLink follower you can get here [Bence's forks](https://github.com/benceszasz/xDripCareLinkFollower/releases). <br>
+
+Once downloaded continue to [installation](../xdrip/xdrip%20-%20install.md#install-xdrip) <br>
+<br>
+
+
+## Variants
+
+You cannot install xDrip+ many times on the same phone. But xDrip+ variants have different names.<br>
+So, you can install xDrip+ and an xDrip+ variant or even more. This essentially lets you install multiple instances of xDrip+ on the same phone.<br>
+
+This can prove exceptionally useful to follow more than one person at a time.<br>
+
+<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/Variants.jpg" title="Variants"/></a>
+<br><br>
+
+
+To download nightly <a href=" https://drive.google.com/drive/folders/0B6mvYVNVC-fOWkxnVF80dlFabjQ?resourcekey=0-ebguuiPuB1wUI9Rp2zjMNg" target="_blank" title="variants.">variants</a><br><br><br>
+
+Once you have downloaded a variant from Google Drive, continue like a normal [Setting up xDrip+ install ](../xdrip/xdrip%20-%20Download.md#pc-download).<br>
+<br><br>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
  <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
-test
+
 <!--  
   ******************************************************************************************************************
   mkdocs.yml    # The configuration file.
