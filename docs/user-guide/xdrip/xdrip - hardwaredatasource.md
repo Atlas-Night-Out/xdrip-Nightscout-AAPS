@@ -1,9 +1,9 @@
 <!-- this is not on github server its local only and run my mkdocs server!
-docs made by D.Galloway 2019- 2021-->
+docs made by Tunasalad 2019- 2021-->
 <img width="860" height="615" border="0" align="center"  src="/my-project/img/xdrip/Hardware Data Source_header.jpg" title="Data Source"/></a><br>
 
 ## [xdrip± Settings](../xdrip/settings.md)
-## [xdrip± Data Source](../xdrip/xdrip%20-%20hardwaredatasource.md#xdrip-data-source) <br>
+## [xdrip± Hardware Data Source](../xdrip/xdrip%20-%20hardwaredatasource.md#xdrip-data-source) <br>
 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/choose data source.png" title="choose data source"/></a>If you don't see this<br>
 
 This is where you will be selecting your Device or Transmitter to work with xdrip.<br>
@@ -61,14 +61,10 @@ If another mechanism is connected to your sensor or bridge you should turn it of
 </tr>
 </tbody>
 </table><br>
+# Different Hardware Data Sources to use<br>
+## 1. [Dexcom G6 & Dexcom One](../xdrip/xdrip%20-%20Dexcom%20G6%20and%20Dexcom%20One.md#xdrip-data-source) <br>
 
 ## To Be continued!
-
-##  **Issues or Concerns** 
-
-If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
@@ -181,4 +177,3 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </table>
 
 -->
-
