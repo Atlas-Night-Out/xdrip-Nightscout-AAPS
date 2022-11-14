@@ -16,7 +16,11 @@ These are the results from the Survey done at <a title="Xdrip compatible Watche
 
 <iframe width="940" height="600" marginwidth="0" marginheight="0" src="https://docs.google.com/forms/d/e/1FAIpQLScEzDtI5bMXFj2bKpuZ7Sel7yE4KpFMXMFfojIpBAgOdO39IA/viewform?embedded=true" frameborder="0">Loading...</iframe>
 
-
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
+</center>
 
 
 <!--  
