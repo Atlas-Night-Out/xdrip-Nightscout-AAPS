@@ -43,7 +43,7 @@ I normally Take a picture of the transmitter code as well as keeping the box. In
 
 ## G5/G6 Debug Settings
 
-Now move down and select your Debug settings. <img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/G5_G6 Debug Settings.jpg" title="G5_G6 Debug Settings"/></a><br>
+Now move down and select your Debug settings. <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/G5_G6 Debug Settings.jpg" title="G5_G6 Debug Settings"/></a><br>
 
 This section can be very frustrating and can cause issues with you not having the correct settings for your particular Setup.<br>
 Do NOT enable restart sensor. Not at all sure why as I had no issues having this enabled!<br>
