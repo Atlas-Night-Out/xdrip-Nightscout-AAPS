@@ -41,6 +41,7 @@ nav:
     - 'Compatible - Watches': 'user-guide/xdrip/Compatible Watches.md'
     - 'xdrip± Follower': 'user-guide/xdrip/Xdrip Follower Setup.md'
     - 'Hardware Data Source': 'user-guide/xdrip/xdrip - hardwaredatasource.md'
+    - 'G6 & One': 'user-guide/xdrip/xdrip - Dexcom G6 and Dexcom One.md'
     - 'Connection Problem fix': 'user-guide/Xdrip connection Problem fix.md'
     
     - 'Setting up Glucose Meters': 'user-guide/xdrip/Xdrip - Setting up Glucose Meters.md'
