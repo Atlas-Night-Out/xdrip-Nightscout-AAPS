@@ -46,7 +46,7 @@ So, you can install xDrip+ and an xDrip+ variant or even more. This essentially 
 
 This can prove exceptionally useful to follow more than one person at a time.<br>
 
-<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/Variants.jpg" title="Variants"/></a>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Variants.jpg" title="Variants"/></a>
 <br><br>
 
 
