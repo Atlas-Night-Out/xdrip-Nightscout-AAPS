@@ -20,7 +20,7 @@ theme:
       scheme: default
     nav_style: primary
 
-    extra_css:
+extra_css:
     - css/admonitions.css
 markdown_extensions:
     - admonition
