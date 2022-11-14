@@ -50,9 +50,8 @@ See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
 
 <iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/yHv86lZ2s58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <center>
-## Next:see<br>
+## Next:see
 ### <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> <br><br></center>
-
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
