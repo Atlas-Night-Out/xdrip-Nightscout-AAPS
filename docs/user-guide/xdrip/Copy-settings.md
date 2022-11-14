@@ -1,6 +1,6 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by D.Galloway 2019- 2021-->
-<img width="860" height="615" border="0" align="center"  src="../../img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a><br>
+<img width="860" height="615" border="0" align="center"  src="/my-project/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a><br>
 
 
 ## Copy settings
@@ -10,11 +10,11 @@ Show Settings QR Code
 Will Show settings QR code displays a QR code containing xDrip+ settings.
 Go to Hamburger/ Settings/Show Settings QR codes/Share Settings via QR code<br>
 
-<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
 
-<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/show settings QR codes.jpg" title="Show settings QR codes"/></a><BR>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/show settings QR codes.jpg" title="Show settings QR codes"/></a><BR>
 
-<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/share settings via qr code.jpg" title="Share Settings Via QR Code"/></a>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/share settings via qr code.jpg" title="Share Settings Via QR Code"/></a>
  
 
   
@@ -26,24 +26,24 @@ Show General and collection settings include general settings and your hardware 
 Copy All Settings include all (not alarms you need to recreate them manually).<br>
 
 This will obtain you a QR code that you can scan with Auto Set up on another Mobile.
- <img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/EXAMPLE SCAN CODE.jpg" title="Share Settings Via QR Code"/></a>
+ <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/EXAMPLE SCAN CODE.jpg" title="Share Settings Via QR Code"/></a>
 
 ## Auto Configure ±
 Auto configure permits you to import settings from another Mobiles QR code.
- <img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/handburger menu.jpg" title="Handburger Menu"/></a>
- <img width="300" height="auto" border="0" align="center"  src="../../img/xdrip/Setting main.jpg" title="Settings"/></a><br>
- <img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/Data Synce Auto Configure.jpg" title="Data Synce/ Auto Configure"/></a>
+ <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/handburger menu.jpg" title="Handburger Menu"/></a>
+ <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Setting main.jpg" title="Settings"/></a><br>
+ <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Data Synce Auto Configure.jpg" title="Data Synce/ Auto Configure"/></a>
  
 You need to permit xDrip+ to access the Mobiles camera.
 You can then scan the QR code displayed on another phone in order to copy the settings you selected when displaying it as explained at [xdrip - Show Settings QR Code](#xdrip-show-settings-qr-code) above.<br>
-<img width="auto" height="auto" border="0" align="center"  src="../../img/xdrip/Auto Configure_viewfinder.jpg" title="Auto Configure Viewfinder"/></a>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Auto Configure_viewfinder.jpg" title="Auto Configure Viewfinder"/></a>
  
 Current settings will be overwritten.
 Restart your phone to apply the changes.<br>
 
 Your follower should now be able to see your Readings. You can check this by going to your System Status Followers page, you will need to swipe to the left or right! <br>
 
-<img width="500 height="auto" border="0" align="center"  src="../../img/xdrip/System Status Followers.jpg" title="System Status Followers"/></a>
+<img width="500 height="auto" border="0" align="center"  src="/my-project/img/xdrip/System Status Followers.jpg" title="System Status Followers"/></a>
 
 ## **To Be continued!**<br>
 
@@ -51,8 +51,8 @@ Your follower should now be able to see your Readings. You can check this by goi
 ### Any Typo, error, missing information or changes 
 
 If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="../../img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="../../img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
+  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
 
 
 
@@ -60,7 +60,7 @@ If you have any issues or concerns please post your questions in the  <a href="h
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="../../img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
