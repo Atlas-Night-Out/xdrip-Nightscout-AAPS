@@ -9,15 +9,15 @@ Starting a sensor in xDrip+ has very different ways depending on your sensor typ
 
 Go to Hamburger/ <br>
 
-<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
 
 Start Sensor/ <br>
 
-<img width="300" height="auto" border="0" align="center"  src="../../img/xdrip/start sensor.jpg" title="Start Sensor"/></a><br><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/start sensor.jpg" title="Start Sensor"/></a><br><br>
 
 ## Start New Sensor/
 
-<img width="auto" height="auto" border="0" align="center"  src="../../img/xdrip/start new sensor.jpg" title="Start Sensor"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/start new sensor.jpg" title="Start Sensor"/></a><br>
 
 xDrip+ will take you to the [system status page,](../xdrip/xdrip%20-%20System%20Status.md#system-status) <br>
  do not exit until the transmitter is connected.Stay on the system status page.<br>
@@ -27,7 +27,7 @@ Come back here to follow on with the setup!<br>
 
 Check the system status from time to time to make sure the transmitter is still connected. If connection falls, check your G5 or G6 settings and connection.<br>
 
-<img width="auto" height="auto" border="0" align="center"  src="../../img/xdrip/please wait sensor wars up.jpg" title="Time Left to warm up finishes"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/please wait sensor wars up.jpg" title="Time Left to warm up finishes"/></a><br>
 
 ## Sensor code 
 
@@ -39,7 +39,7 @@ If you lose the sensor code, see below: No code start.<br>
 
 
 
-<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/G6 Sensor code.jpg" title="Sensor ode"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/G6 Sensor code.jpg" title="Sensor ode"/></a><br>
 
 !!!info  
     No code start
