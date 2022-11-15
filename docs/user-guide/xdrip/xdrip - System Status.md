@@ -1,5 +1,5 @@
 <!-- this is not on github server its local only and run my mkdocs server!
-docs made by D.Galloway 2019- 2021-->
+docs made by Tunasalad 2019- 2021-->
 
 ## G5/G6 System Status Page <br>
 Go to Settings top left menu bar / System Status<br>

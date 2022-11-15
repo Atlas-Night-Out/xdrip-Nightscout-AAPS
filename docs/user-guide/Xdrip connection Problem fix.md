@@ -1,5 +1,5 @@
 <!-- this is not on github server its local only and run my mkdocs server!
-docs made by D.Galloway 2019- 2021-->
+docs made by tunasalad 2019- 2021-->
 
 # Welcome to The Diabetic way
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
