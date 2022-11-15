@@ -35,7 +35,7 @@ For a new installation the <span style="background-color: #FFFF00">**down gradab
 
 Any <span style="background-color: #FFFF00">**Version information**</span> name that shows further information, like debug, dev, a smartwatch name, care link, will be  a [forked version release](../xdrip/xdrip%20-%20Download.md#forked-versions) of xDrip+ and might not contain all the latest functions of xdrip+ released app.<br>
 
-<img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/data source sensor start connection status.jpg" title="Data Source - Bluetooth Device - Connection Status - Sensor Start"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/data source sensor start connection status.jpg" title="Data Source - Bluetooth Device - Connection Status - Sensor Start"/></a><br>
 
 Also, on this page you will find the <span style="background-color: #FFFF00">**Data Source: **</span> Type (one you selected to receive your BG values in my case a Dexcom G6) <br>
 After the data source type, you'll see the name of the actual <span style="background-color: #FFFF00">**Bluetooth Device:**</span>  Serial number connected to xDrip+<br>
