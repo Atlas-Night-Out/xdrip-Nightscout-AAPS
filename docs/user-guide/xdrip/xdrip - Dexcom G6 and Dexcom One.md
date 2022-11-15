@@ -35,7 +35,7 @@ Enter the Correct Data Source, from the list (In this case it will be G5/G6 Tran
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Hardware Datasource G5_G6 Transmitter.jpg" title="Data Source G5/G6 Transmitter"/></a><br>
 
-Now select <span style="background-color: #FFFF00">**Dexcom Transmitter Id**</span> below it and enter your Code. <img width="500" height="auto" border="0" align="center"  src="../../img/xdrip/Dexcom Transmitter ID code.jpg" title="Dexcom SN"/></a><br>(You can find this code on your box as a SN which you need to Enter the code, and confirm it.<br>
+Now select <span style="background-color: #FFFF00">**Dexcom Transmitter Id**</span> below it and enter your Code. <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Dexcom Transmitter ID code.jpg" title="Dexcom SN"/></a><br>(You can find this code on your box as a SN which you need to Enter the code, and confirm it.<br>
 <br>
 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Dexcom SN Code.jpg" title="Dexcom SN"/></a><br>
 
