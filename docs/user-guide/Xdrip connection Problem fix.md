@@ -1,39 +1,43 @@
 <!-- this is not on github server its local only and run my mkdocs server!
-docs made by tunasalad 2019- 2021-->
+docs made by tunasalad 2019- 2023-->
 
-# Welcome to The Diabetic way
+
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a><br>
-## <span style="color:#111478">Xdrip connection Problem fix </span> <br>
+<img width="auto" height="auto" border="0" align="center"  src="../../img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a><br>
+## <span style="color:#111478">Xdrip connection Problem </span> <br>
 
-<iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
-<br>  
+<iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>  
 <font size="4"> 
-1. Make sure you are up to date on xdrip. You can this by <span style="background-color: #FFFF00">** Following the links below**</span><br>
-2. If you are working on a <span style="background-color: #FFFF00">** PC **</span> Download latest version of Xdrip from here <a href= target="_blank" title="xdrip Nightly build PC">Click Here</a> or goto https://github.com/NightscoutFoundation/xDrip/releases 
+### 1. Make sure you are up to date on xdrip. You can do this by <span style="background-color: #FFFF00">** Following the links below**</span><br>
+
+a. If you are working on a <span style="background-color: #FFFF00">** PC **</span> Download latest version of Xdrip from here <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank" title="xdrip Nightly build PC">Click Here</a> or goto https://github.com/NightscoutFoundation/xDrip/releases <br>
+
  <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/xdrip_nightly build logo.jpg" title="xdrip Nightly Build"/></a>
-3. If you are working on a <span style="background-color: #FFFF00">** Mobile - Go to Chrome on your mobile**</span> & Download the latest version of Xdrip on to your Android Mobile Device <a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here to download</a> or go to https://jamorham.github.io/#xdrip-plus in your broswer.
+  <img width="auto" height="auto" border="0" align="center"  src="/img/xdrip/xdrip_nightly build logo.jpg" title="xdrip Nightly Build"/></a><br>
+
+b. If you are working on a <span style="background-color: #FFFF00">** Mobile - Go to Chrome on your mobile**</span> & Download the latest version of Xdrip on to your Android Mobile Device <a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here to download</a> or go to https://jamorham.github.io/#xdrip-plus in your broswer.
  <a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Nightly Build Mobile link.jpg" title="xdrip Nightly Build Mobile"/></a><br>
-  4. First try un-pairing your Bluetooth on mobile if it’s still paired to it.<br>
+  <img width="auto" height="auto" border="0" align="center"  src="../../img/xdrip/Nightly Build Mobile link.jpg" title="xdrip Nightly Build Mobile"/></a><br>
+### 2. Try un-pairing your Bluetooth on mobile if it’s still paired to it.You will have to wait the 2 hour warm up time again doing this process.<br>
   <iframe width="860" height="615" src="https://www.youtube.com/embed/YVy_qxeHpog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-  5. Then go to your system status in xdrip and forget device and <span style="background-color: #FFFF00">** restart the Collector**</span><br>
+  a. Then go to your system status in xdrip and forget device and <span style="background-color: #FFFF00">** restart the Collector** </span>or you can try with just restarting collector first to avoid the two hour warm up but does not always work this way!<br>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/tUckHWhXiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-   6. Now Re-boot your mobile <br>
-   7. After re-booting, go back to <span style="background-color: #FFFF00">** your System Status page**</span> and swipe left to your Classic Status Page <br>and wait for it to re-pair to your Bluetooth mobile again.<br>
-   8. <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE?start=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+   b. Now Re-boot your mobile <br>
+   c. After re-booting, go back to <span style="background-color: #FFFF00">** your System Status page**</span> and swipe left to your <span style="background-color: #FFFF00">**Classic Status Page**</span> and wait for it to re-pair to your Bluetooth mobile again.<br>
+   
+  <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE?start=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
    This can <span style="background-color: #FFFF00">** take a while be patient,**</span> but stay on the Classic page for it to do the process of connecting to your device.<br>
-   9. Once connected to your  Bluetooth you will need to <span style="background-color: #FFFF00">**re-boot again**</span><br>
-   10. Hope you find this video helpfull and fixes your issues.<br><br>
+   You may now need to start your sensor again and do the 2 hour warm up all depends which method you did in xdrip with forget device and restart the Collector options.<br>
+Best to <span style="background-color: #FFFF00">**re-boot again before your restart Sensor**</span><br>
+<center>
+### Hope you find this video helpful and fixes your connection issues.<br><br></center>
    
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="../../img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
@@ -142,4 +146,3 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </table>
 
 -->
-
