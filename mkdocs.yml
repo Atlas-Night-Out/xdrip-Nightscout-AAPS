@@ -22,6 +22,8 @@ theme:
 
 extra_css:
     - css/admonitions.css
+extra:
+  generator: false
 markdown_extensions:
     - admonition
     - toc:
