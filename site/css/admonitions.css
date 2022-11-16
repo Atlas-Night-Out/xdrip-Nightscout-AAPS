@@ -52,6 +52,7 @@
   font-size: inherit;
   font-family: inherit;
   font-weight: 500;
+  border-radius: 10px;
 }
 .admonition.warning .admonition-title {
   color: #a66a16;
@@ -60,6 +61,16 @@
   font-size: 1.4em;
   font-family: inherit;
   font-weight: 500;
+
+  border-radius: 0px;
+  -moz-border-radius-topleft: 20px;
+  -webkit-border-top-left-radius: 20px;
+  -khtml-border-radius-topleft: 20px;
+  border-top-left-radius: 20px;
+  -moz-border-radius-topright: 20px;
+  -webkit-border-top-right-radius: 20px;
+  -khtml-border-radius-topright: 20px;
+  border-top-right-radius: 20px;
 }
 .admonition.info {
   border-left-color: #009FE3;
@@ -67,7 +78,7 @@
   border-bottom-color: #009FE3;
   border-right-color: #009FE3;
   border-top-color: #009FE3;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .admonition.info .admonition-title {
   color: #1993B6;
