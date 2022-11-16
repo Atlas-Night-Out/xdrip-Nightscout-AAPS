@@ -11,21 +11,19 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>  
 <font size="4"> 
 ### 1. Make sure you are up to date on xdrip. You can do this by <span style="background-color: #FFFF00">** Following the links below**</span><br>
-
-a. If you are working on a <span style="background-color: #FFFF00">** PC **</span> Download latest version of Xdrip from here <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank" title="xdrip Nightly build PC">Click Here</a> or goto https://github.com/NightscoutFoundation/xDrip/releases <br>
+#### a. If you are working on a <span style="background-color: #FFFF00">** PC **</span> Download latest version of Xdrip from here <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank" title="xdrip Nightly build PC">Click Here</a> or goto https://github.com/NightscoutFoundation/xDrip/releases <br>
 
  <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip_nightly build logo.jpg" title="xdrip Nightly Build"/></a><br>
-
-b. If you are working on a <span style="background-color: #FFFF00">** Mobile - Go to Chrome on your mobile**</span> & Download the latest version of Xdrip on to your Android Mobile Device <a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here to download</a> or go to https://jamorham.github.io/#xdrip-plus in your broswer.
+#### b. If you are working on a <span style="background-color: #FFFF00">** Mobile - Go to Chrome on your mobile**</span> & Download the latest version of Xdrip on to your Android Mobile Device <a href=" https://jamorham.github.io/#xdrip-plus" target="_blank" title="Download Xdrip from mobile">Click Here to download</a> or go to https://jamorham.github.io/#xdrip-plus in your broswer.
  <a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Nightly Build Mobile link.jpg" title="xdrip Nightly Build Mobile"/></a><br>
 ### 2. Try un-pairing your Bluetooth on mobile if it’s still paired to it.You will have to wait the 2 hour warm up time again doing this process.<br>
   <iframe width="860" height="615" src="https://www.youtube.com/embed/YVy_qxeHpog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-  a. Then go to your system status in xdrip and forget device and <span style="background-color: #FFFF00">** restart the Collector** </span>or you can try with just restarting collector first to avoid the two hour warm up but does not always work this way!<br>
+#### a. Then go to your system status in xdrip and forget device and <span style="background-color: #FFFF00">** restart the Collector** </span>or you can try with just restarting collector first to avoid the two hour warm up but does not always work this way!<br>
    <iframe width="560" height="315" src="https://www.youtube.com/embed/tUckHWhXiFQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-   b. Now Re-boot your mobile <br>
-   c. After re-booting, go back to <span style="background-color: #FFFF00">** your System Status page**</span> and swipe left to your <span style="background-color: #FFFF00">**Classic Status Page**</span> and wait for it to re-pair to your Bluetooth mobile again.<br>
+#### b. Now Re-boot your mobile <br>
+#### c. After re-booting, go back to <span style="background-color: #FFFF00">** your System Status page**</span> and swipe left to your <span style="background-color: #FFFF00">**Classic Status Page**</span> and wait for it to re-pair to your Bluetooth mobile again.<br>
    
   <iframe width="860" height="615" src="https://www.youtube.com/embed/WfKZ2_Hv3nE?start=100" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
    This can <span style="background-color: #FFFF00">** take a while be patient,**</span> but stay on the Classic page for it to do the process of connecting to your device.<br>
