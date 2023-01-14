@@ -4,7 +4,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
 
 <br>
-Annoncment again for the second time Heroku is starting to charge for having a Nightscout site free! I'm not only very frustrated at this but also again all the hard work gone into the instructions to setup Heroku as to change it again or maybe us setup more other option to have a Nightscout site..<br>
+Annoncment Heroku is starting to charge for having a Nightscout site free! I'm not only very frustrated at this but also again all the hard work gone into the instructions to setup Heroku as to change it again or maybe us setup more other option to have a Nightscout site..<br>
 ** Here is what Heroku has Announced!** <br>
 <center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
 
