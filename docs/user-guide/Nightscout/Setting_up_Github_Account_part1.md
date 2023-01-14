@@ -21,7 +21,7 @@ We are looking at options. Please be patient. And it will still be best to setup
  <br>
 
 
-<img width="auto" height="auto" border="0" align="center"  src="../../img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
 
 
