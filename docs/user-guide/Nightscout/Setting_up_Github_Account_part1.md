@@ -3,8 +3,9 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
 
-<br>
+<br>55
 Annoncment Heroku is starting to charge for having a Nightscout site free!<br>
+
 ** Here is what Heroku has Announced!** <br>
 <center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
 
@@ -17,9 +18,8 @@ We are looking at options. Please be patient. And it will still be best to setup
 <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Xdrip+ Uk">Xdrip+ Uk</a>
  and <a href=" https://www.facebook.com/groups/2064928127034626" target="_blank" title="AndroidAPS users UK">AndroidAPS users UK</a>  <br>
 
- We still have several months before it comes to this so I want to consantrate on getting this free for you all. I would still setup a Heroku account as it will still be easier to transfer over to a new one if we can. If not then you can deside to carry on with Heroku at $7 <br>
+ <br>
 
- jamorham has also been a great help at getting us out of these situations but I also feel he also needs a rest from these changes that keep happening to us all.
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
