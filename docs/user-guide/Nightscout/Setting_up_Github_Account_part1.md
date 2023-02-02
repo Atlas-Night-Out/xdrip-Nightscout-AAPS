@@ -3,7 +3,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
 
-<br>
+<br>dave
 Annoncment Heroku is starting to charge for having a Nightscout site free!<br>
 
 ** Here is what Heroku has Announced!** <br>
