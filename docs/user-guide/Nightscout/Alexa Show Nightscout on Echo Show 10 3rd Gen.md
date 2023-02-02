@@ -5,7 +5,7 @@ The latest software releases from Amazon for the Alexa Show 10 allows you to vie
 
 ## 1.	Swipe down from top of Show display and tap Settings:<br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Setting main.jpg" title="Settings List"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Settings_20230201_180912.jpg" title="Settings"/></a>
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Settings_20230201_180912.jpg" title="Settings"/></a>
 
 
 <br>
