@@ -145,7 +145,7 @@ Parents of Children with Type 1 Diabetes - Group <a href="https://www.facebook.c
 
 Juicebox Podcast: Type 1 Diabetes - Group <a href="https://www.facebook.com/groups/boldwithinsulin/" target="_blank"> Juicebox Podcast: Type 1 Diabetes</a><br>
 
-Nightscout UK: <a href="https://www.facebook.com/groups/nightscoutUK" target="_blank"> Nightscout UK</a><br>
+Nightscout UK: <a href="https://www.facebook.com/groups/1399088137561908" target="_blank"> Nightscout UK</a><br>
 
 Diabetes 101 for Beginners: <a href="" target="_blank"> Diabetes 101 for Beginners - Avoid!</a><br>
 
