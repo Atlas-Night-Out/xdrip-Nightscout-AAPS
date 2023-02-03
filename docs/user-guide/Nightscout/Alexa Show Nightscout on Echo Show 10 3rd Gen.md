@@ -6,7 +6,62 @@ The latest software releases from Amazon for the Alexa Show 10 allows you to vie
 
 ## 1.	Swipe down from top of Show display and tap Settings:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Settings_20230201_180912.jpg" title="Settings"/></a>
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Settings_20230201_180912.jpg" title="Settings"/></a><br>
+
+## 2.	Scroll up and tap on Device Options:<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Device options2.jpg" title="Device options"/></a><br>
+
+## 3.	Roll up and tap on Web Options:<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Web Options_20230201.jpg" title="Web Options"/></a><br>
+
+## 4.	Scroll up and tap on Browser:<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Browser_20230201.jpg" title="Browser"/></a><br>
+
+## 5.	Select Silk:<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Silk.jpg" title="Silk"/></a><br>
+
+
+## NOW say <span style="background-color: #FFFF00">**“Alexa go home”**</span><br>
+
+## THEN say <span style="background-color: #FFFF00">** “Alexa show Silk”**</span><br>
+
+## SELECT Search and enter your Nightscout address:<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/yourappname.jpg" title="yourappname"/></a><br>
+
+## TYPE in your Nightscout URL: https://(yourappname).herokuapp.com<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/yourappname2.jpg" title="yourappname"/></a><br>
+
+Give yourself a big Clap to  and take a  coffee: break:  Well Done<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/nightscout_20230201.jpg" title="Nightscout on a Echo Show 10 3rd Gen"/></a><br>
+
+## You can now select the menu cube bar at the top left icon to save as a Book Mark your Nightscout. <br>
+
+<iframe width="760" height="515" src="https://www.youtube.com/embed/AtUQmPmVn24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## After you add it just say:<span style="background-color: #FFFF00">**“Alexa show Silk”**</span><br>
+
+<iframe width="760" height="515" src="https://www.youtube.com/embed/Qie0bqnAqU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
+## You can also use your Nightscout menu and select Colour to get one large coloured number for a display or a large reading.<br>
+
+## 1.	Select the lock<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/add api_secret.jpg" title="api secret"/></a><br>
+
+## 2.	Select the clock views.<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/clock views.jpg" title="Nightscout clock views"/></a><br>
+
+## 3.	You now have a bigger display to see your levels.<br>
+
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/big reading.jpg" title="Nightscout big reading.jpg"/></a><br>
 
 
 <br>
