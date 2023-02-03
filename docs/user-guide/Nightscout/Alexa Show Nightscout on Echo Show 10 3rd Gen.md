@@ -10,7 +10,7 @@ The latest software releases from Amazon for the Alexa Show 10 allows you to vie
 
 ## 2.	Scroll up and tap on Device Options:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Device options2.jpg" title="Device options"/></a><br>
+<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Device options2.jpg" title="Device options"/></a><br>
 
 ## 3.	Roll up and tap on Web Options:<br>
 
