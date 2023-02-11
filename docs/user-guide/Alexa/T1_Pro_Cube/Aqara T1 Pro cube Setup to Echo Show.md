@@ -1,4 +1,4 @@
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/T1pro_cube_logo860x1147.jpg" title="T1 Pro Cube"/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/T1pro_cube_logo860x1147.jpg" title="T1 Pro Cube"/></a><br>
 
 You will have already have had to setup a Nightscout site before you can do this setup, see [Nightscout Setup](../Setting_up_Github_Account_part1.md) if you have not already set it up.<br>
 
