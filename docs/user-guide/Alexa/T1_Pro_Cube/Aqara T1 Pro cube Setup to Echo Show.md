@@ -1,11 +1,33 @@
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/T1pro_cube_logo860x1147.jpg" title="T1 Pro Cube"/></a><br>
 
 ## Short Intro
-There are many ways to setup this device, but I will only be going through using a Android Mobile phone with a Dexcom One Transmitter using it with a Echo Show 10 (3rd generation)
+This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more. I will be trying to help you set up an Echo Show 10 (3rd Gen) or an Echo Dot or a Samsung Tablet. So, it will read out your Glucose readings. I will not be going through and explaining the unboxing as this as been done in other videos.<br>
 
-This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more. I will be trying to help you setup onto an Echo Show 10 (3rd Gen) so it will read out your Glucose readings.
+This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more. I will be trying to help you setup onto an Echo Show 10 (3rd Gen) or a Exco Dot so it will read out your Glucose readings.
+
 <br>
 
+## Items you are going to need
+
+1.	<a href="https://www.amazon.co.uk/dp/B0BHWS3VTZ?maas=maas_adg_F2E7A71BEAD7E7012F8DA4528E905764_afap_abs&linkCode=sl1&tag=paulhibbert-21&linkId=17f5a99c41bcb0d2cd1cdd6c378794b3&language=en_GB&ref_=as_li_ss_tl" target="_blank" title="Aqara Cube T1 Pro">Aqara Cube T1 Pro</a>   (Also REQUIRES AQARA ZIGBEE 3.0 HUB)
+2.	<a href="https://www.amazon.co.uk/dp/B09BJCNCKM?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Aqara Smart Hub">Aqara Smart Hub E1</a> Aqara Smart Hub E1 (2.4 GHz Wi-Fi Required)
+3.	<a href="https://www.amazon.co.uk/dp/B084P3KP2R?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Echo Show 10">Echo Show 10 (3rd generation)</a> or an <a href="https://www.amazon.co.uk/gp/product/B09B96TG33/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Echo Dot">Echo Dot </a> (5th generation, 2022 release)
+4.	Android Mobile Device in my case a <a href="https://www.amazon.co.uk/gp/product/B07W6XFX64/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Samsung Note10 +">(Samsung Note10 +)</a> 
+If you have an iPhone you may wish to set it up with Home App (but I will not be showing you in this video) <br>
+
+## Software you will need to have Setup
+
+1.	[Nightscout](../../Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout)
+(Which I will not be showing you how to setup in these instructions) But will add a link for you to do it if you have not done so already. 
+<br>
+
+
+2.	<a href="https://www.sugarmate.io/" target="_blank" title="Sugarmate">Sugarmate</a>  on a  PC (You will need to sign up) or
+3.	Sugarmate link sent onto your Desktop of your mobile phone.
+4.	<a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en" target="_blank" title="Amazon Alexa App">Amazon Alexa App</a> 
+<br> with an Amazon Account
+5.	<a href="https://atlas-night-out.github.io/my-project/user-guide/xdrip/xdrip%20-%20Download/" target="_blank" title="Xdrip">Xdrip</a> 
+<br>
 
 
 # Setup Coming soon! 
@@ -60,7 +82,19 @@ Adding a image with link
 <a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
 </a><br>
+******************************
+just a link
+***************
 
+<a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Try Free">See Here</a> 
+
+********************************
+link to another page!
+*************************
+
+[Nightscout](../../Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout)
+
+********************************************
 
 Adding Video
 
