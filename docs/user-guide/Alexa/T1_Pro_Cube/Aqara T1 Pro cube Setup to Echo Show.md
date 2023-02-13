@@ -21,14 +21,22 @@ If you have an iPhone you may wish to set it up with Home App (but I will not be
 (Which I will not be showing you how to setup in these instructions) But will add a link for you to do it if you have not done so already. 
 <br>
 
-
 2.	<a href="https://www.sugarmate.io/" target="_blank" title="Sugarmate">Sugarmate</a>  on a  PC (You will need to sign up) or
 3.	Sugarmate link sent onto your Desktop of your mobile phone.
 4.	<a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en" target="_blank" title="Amazon Alexa App">Amazon Alexa App</a> 
 <br> with an Amazon Account
 5.	<a href="https://atlas-night-out.github.io/my-project/user-guide/xdrip/xdrip%20-%20Download/" target="_blank" title="Xdrip">Xdrip</a> 
+6.	<a href="https://aiot-management.aqara.cn/config/app/aqaraHomeDeveloping" target="_blank" title="Aqara Home">Aqara Home</a>  App
 <br>
 
+## My Setup
+
+#### Quick Setup
+### Add Device
+1.	First download the Aqara Home app.
+Search for "Aqara Home" in the Apple App Store, or Google Play,
+Xiaomi Get Apps, Huawei App Gallery, or scan the following QR code to download the Aqara Home App:<br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara barcode.jpg" title="Aqara Home App"/></a>
 
 # Setup Coming soon! 
 
