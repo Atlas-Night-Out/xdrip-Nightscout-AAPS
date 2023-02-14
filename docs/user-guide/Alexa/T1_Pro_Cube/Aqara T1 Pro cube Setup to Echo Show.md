@@ -55,7 +55,7 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 6.	Please log in the following website to ask for help: www.aqara.com/support.
 
 ####not finished yet more to come!
-# Setup Coming soon! 
+# Full Setup Coming soon! 
 
 
 
