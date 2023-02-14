@@ -54,7 +54,7 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Adding Accessory.png" title="Add Accessory"/></a><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Gateway_Hub E1.png" title="Gateway - Hub E1"/></a><br>
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Hub E1.png" title="Add Hub E1"/></a><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/scan the device.png" title="scan the Device"/></a><br>
-####not finished yet
+####not finished yet more to come!
 # Setup Coming soon! 
 
 
