@@ -1,4 +1,5 @@
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/T1pro_cube_logo860x1147.jpg" title="T1 Pro Cube"/></a><br>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/bTc6qBVb9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 ## Short Intro
 This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more. I will be trying to help you set up an Echo Show 10 (3rd Gen) or an Echo Dot or a Samsung Tablet. So, it will read out your Glucose readings. I will not be going through and explaining the unboxing as this as been done in other videos.<br>
@@ -49,9 +50,9 @@ You may need to set your home router to this until you are connected then you ca
 keep the mobile phone as close to the hub as possible, and your mobile phone and hub are using the same Wi-Fi network<br>
 2. Open the Aqara Home app, click "+" in the upper right corner of the home page, select "Hub E1", from Adding Accessory - Gateway/Hub E1 and follow the instructions of the app to operate.
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Adding Accessory.png" title="Add Accessory"/></a><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Gateway_Hub E1.png" title="Gateway - Hub E1"/></a><br>
+1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Adding Accessory.png" title="Add Accessory"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Gateway_Hub E1.png" title="Gateway - Hub E1"/></a><br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Hub E1.png" title="Add Hub E1"/></a><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/scan the device.png" title="scan the Device"/></a><br>
+3 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Hub E1.png" title="Add Hub E1"/></a>4 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/scan the device.png" title="scan the Device"/></a><br>
 ####not finished yet more to come!
 # Setup Coming soon! 
 
