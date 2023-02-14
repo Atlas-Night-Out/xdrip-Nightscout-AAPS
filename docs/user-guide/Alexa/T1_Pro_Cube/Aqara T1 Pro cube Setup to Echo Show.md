@@ -36,8 +36,25 @@ If you have an iPhone you may wish to set it up with Home App (but I will not be
 1.	First download the Aqara Home app.
 Search for "Aqara Home" in the Apple App Store, or Google Play,
 Xiaomi Get Apps, Huawei App Gallery, or scan the following QR code to download the Aqara Home App:<br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara barcode.jpg" title="Aqara Home App"/></a>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara barcode.jpg" title="Aqara Home App"/></a><br>
 
+2.	An Aqara Zigbee 3.0 hub is required. Please make sure
+you have an <a href="https://www.amazon.co.uk/dp/B09BJCNCKM?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Aqara Smart Hub">Aqara Smart Hub E1</a> installed and added to
+your Aqara Home App<br>
+
+## Setting up the hub 
+
+3.	Plug the hub into a USB port that can provide power, wait for the yellow indicator to flash quickly, and make sure your mobile phone is connected to a Wi-Fi network in the 2.4 GHz frequency band. <br>
+
+You may need to set your home router to this until you are connected then you can turn it back to Auto 5GHz <br>
+
+keep the mobile phone as close to the hub as possible, and your mobile phone and hub are using the same Wi-Fi network<br>
+4.	Open the Aqara Home app, click "+" in the upper right corner of the home page, select "Hub E1", from Adding Accessory - Gateway/Hub E1 and follow the instructions of the app to operate.
+
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Adding Accessory.png" title="Add Accessory"/></a><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Gateway_Hub E1.png" title="Gateway - Hub E1"/></a><br>
+
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Hub E1.png" title="Add Hub E1"/></a><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/scan the device.png" title="scan the Device"/></a><br>
+y
 # Setup Coming soon! 
 
 
