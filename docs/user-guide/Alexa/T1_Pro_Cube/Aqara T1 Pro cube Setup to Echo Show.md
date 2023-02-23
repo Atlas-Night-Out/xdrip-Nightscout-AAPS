@@ -45,9 +45,12 @@ your Aqara Home App<br>
 3. 
 ## Setting up the E1 Hub 
 <img width="200" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/E1 Hub.png" title="E1 USB Hub"/></a><br>
-1. 3.	Plug the hub into a USB port that can provide power, wait for the yellow indicator to flash quickly, and make sure your mobile phone is connected to a Wi-Fi network in the 2.4 GHz frequency band.  <br>
+
+1.	Plug the hub into a USB port that can provide power, wait for the yellow indicator to flash quickly, and make sure your mobile phone is connected to a Wi-Fi network in the 2.4 GHz frequency band.  <br>
+
 You will need to make sure your home router is set to a 2.4 ghz bands until you are setup with your hub and T1 Pro, you may turn it back to Auto 5GHz after the setup.  <br>
 keep the mobile phone as close to the hub as possible, and your mobile phone and hub are using the same Wi-Fi network.<br>
+
 2. Open the Aqara Home app, click "+" in the upper right corner of the home page, select "Hub E1", from Adding Accessory - Gateway/Hub E1 and follow the instructions of the app to operate.<br>
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Adding Accessory.png" title="Add Accessory"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Gateway_Hub E1.png" title="Gateway - Hub E1"/></a><br>
 3 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Hub E1.png" title="Add Hub E1"/></a>4 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/scan the device.png" title="scan the Device"/></a><br>
