@@ -61,7 +61,14 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 
 ## Adding the T1 Pro Cube
 
-1. In the Aqara Home app, click <span style="background-color: #FFFF00">**+**</span> in the upper right corner of the home page to enter the <span style="background-color: #FFFF00">**Add Accessory page**</span>, then select <span style="background-color: #FFFF00">**Remote control**</span> on the left then select <span style="background-color: #FFFF00">**Cube T1 Pro,**</span> and select the hub to be linked.<br>
+Adding Battery 
+Open the battery cover of Cube T1 Pro with the ejector tool, take out the battery, replace it with a new CR2450.
+Be careful when removing the lid to know the correct  position of the cube for knowing when replacing the lid after you change the battery, that you have the correct position to avoid damage to the lid. <br>
+
+<iframe width="1083" height="609" src="https://www.youtube.com/embed/Ec3coJxT6Lw" title="T1 Pro Cube Battery Replacement Tip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+1. Now in the Aqara Home app, click <span style="background-color: #FFFF00">**+**</span> in the upper right corner of the home page to enter the <span style="background-color: #FFFF00">**Add Accessory page**</span>, then select <span style="background-color: #FFFF00">**Remote control**</span> on the left then select <span style="background-color: #FFFF00">**Cube T1 Pro,**</span> and select the hub to be linked.<br>
 
 use corresponding to the instructions on the app, and then long press the device reset button for 5 seconds, waiting for the hub to indicate that the connection is successful.<br>
 
