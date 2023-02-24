@@ -61,7 +61,7 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 
 ## Adding the T1 Pro Cube
 
-1. In the Aqara Home app, click <span style="background-color: #FFFF00">**+**</span> in the upper right corner of the home page to enter the <span style="background-color: #FFFF00">**Accessory page**</span>Add , then select <span style="background-color: #FFFF00">**Remote control**</span> on the left then select <span style="background-color: #FFFF00">**Cube T1 Pro,**</span> and select the hub to be linked.<br>
+1. In the Aqara Home app, click <span style="background-color: #FFFF00">**+**</span> in the upper right corner of the home page to enter the <span style="background-color: #FFFF00">**Add Accessory page**</span>, then select <span style="background-color: #FFFF00">**Remote control**</span> on the left then select <span style="background-color: #FFFF00">**Cube T1 Pro,**</span> and select the hub to be linked.<br>
 
 use corresponding to the instructions on the app, and then long press the device reset button for 5 seconds, waiting for the hub to indicate that the connection is successful.<br>
 
