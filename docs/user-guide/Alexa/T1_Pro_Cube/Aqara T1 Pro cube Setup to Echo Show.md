@@ -57,13 +57,15 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 5.	If the addition fails, please long press the hub button for 10s to reset the network, and then add it again in the app.<br>
 6. Once the E1 Hub is connected you can now connect the T1 Pro Cube.<br>
 
+<iframe width="392" height="697" src="https://www.youtube.com/embed/6WkQg_FvaU8" title="Connecting to Aqava E1 Hub after changing Router to a 2 4ghz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+
 ## Adding the T1 Pro Cube
 
 1. In the Aqara Home app, click + in the upper right corner of the home page to enter the "Add Accessory" page, select Remote control on the left then select "Cube T1 Pro", and select the hub to be linked.<br>
 
 use corresponding to the instructions on the app, and then long press the device reset button for 5 seconds, waiting for the hub to indicate that the connection is successful.<br>
 
-1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/AQara +.png" title="AQara +"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote Cube T1 Pro.png" title="Remote Cube T1 Pro"/></a><br>
+1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/AQara +.png" title="AQara +"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote Cube T1 Pro.png" title="Remote - Cube T1 Pro"/></a><br>
 
 
 ####not finished yet more to come!
