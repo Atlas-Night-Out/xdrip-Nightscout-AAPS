@@ -42,7 +42,7 @@ Xiaomi Get Apps, Huawei App Gallery, or scan the following QR code to download t
 2.	An Aqara Zigbee 3.0 hub is required. Please make sure
 you have an <a href="https://www.amazon.co.uk/dp/B09BJCNCKM?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Aqara Smart Hub">Aqara Smart Hub E1</a> installed and added to
 your Aqara Home App<br>
-3. 
+
 ## Setting up the E1 Hub 
 <img width="200" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/E1 Hub.png" title="E1 USB Hub"/></a><br>
 
