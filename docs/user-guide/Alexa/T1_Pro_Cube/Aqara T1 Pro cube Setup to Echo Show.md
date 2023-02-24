@@ -68,7 +68,7 @@ use corresponding to the instructions on the app, and then long press the device
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/AQara +.png" title="AQara +"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote Cube T1 Pro.png" title="Remote - Cube T1 Pro"/></a><br>
 
 
-####not finished yet more to come!
+#### not finished yet more to come!
 # Full Setup Coming soon! 
 
 
