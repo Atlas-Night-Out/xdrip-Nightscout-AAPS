@@ -65,7 +65,7 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 
 use corresponding to the instructions on the app, and then long press the device reset button for 5 seconds, waiting for the hub to indicate that the connection is successful.<br>
 
-1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click  +" title="AQara +"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote Cube T1 Pro.png" title="Remote - Cube T1 Pro"/></a><br>
+1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click  +" title="AQara +"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
 
 
 
