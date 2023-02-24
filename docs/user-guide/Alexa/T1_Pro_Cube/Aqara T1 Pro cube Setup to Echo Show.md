@@ -68,6 +68,11 @@ use corresponding to the instructions on the app, and then long press the device
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/AQara +.png" title="AQara +"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote Cube T1 Pro.png" title="Remote - Cube T1 Pro"/></a><br>
 
 
+
+1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Adding Accessory.png" title="Add Accessory"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Gateway_Hub E1.png" title="Gateway - Hub E1"/></a><br>
+3 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Hub E1.png" title="Add Hub E1"/></a>4 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/scan the device.png" title="scan the Device"/></a><br>
+
+
 #### not finished yet more to come!
 # Full Setup Coming soon! 
 
