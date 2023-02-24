@@ -57,7 +57,7 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 5.	If the addition fails, please long press the hub button for 10s to reset the network, and then add it again in the app.<br>
 6. Once the E1 Hub is connected you can now connect the T1 Pro Cube.<br>
 
-<iframe width="392" height="697" src="https://www.youtube.com/embed/6WkQg_FvaU8" title="Connecting to Aqava E1 Hub after changing Router to a 2 4ghz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
+<iframe width="292" height="397" src="https://www.youtube.com/embed/6WkQg_FvaU8" title="Connecting to Aqava E1 Hub after changing Router to a 2 4ghz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 ## Adding the T1 Pro Cube
 
