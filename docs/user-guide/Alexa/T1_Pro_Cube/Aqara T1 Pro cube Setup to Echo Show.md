@@ -14,7 +14,7 @@ This device is a very helpful cube T1 Pro that we can use to read out are Glucos
 2.	<a href="https://www.amazon.co.uk/dp/B09BJCNCKM?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Aqara Smart Hub">Aqara Smart Hub E1</a> Aqara Smart Hub E1 (2.4 GHz Wi-Fi Required)
 3.	<a href="https://www.amazon.co.uk/dp/B084P3KP2R?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Echo Show 10">Echo Show 10 (3rd generation)</a> or an <a href="https://www.amazon.co.uk/gp/product/B09B96TG33/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Echo Dot">Echo Dot </a> (5th generation, 2022 release) Or your Samsung Mobile or Tablet
 4.	Android Mobile Device in my case a <a href="https://www.amazon.co.uk/gp/product/B07W6XFX64/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Samsung Note10 +">(Samsung Note10 +)</a> 
-If you have an iPhone you may wish to set it up with Home App (but I will not be showing you in this video) <br>
+If you have an iPhone you may wish to set it up with Home App (but I will not be showing you a setup in this video) <br>
 
 ## Software you will need to have Setup
 
@@ -78,7 +78,7 @@ use corresponding to the instructions on the app, and then long press the device
 
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
 
-2. You should now have both the E1 Hun and T1 Pro Cube installed in your AQara Software.<br>
+2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br>
 <Center><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="Accessories"/></a></Center><br>
 
 
