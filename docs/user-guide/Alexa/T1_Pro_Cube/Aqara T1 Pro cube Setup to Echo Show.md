@@ -99,6 +99,8 @@ use corresponding to the instructions on the app, and then long press the device
 5. Select <span style="background-color: #FFFF00">**Enable**</span> and a new window will open as shown beneath. Please enter your <span style="background-color: #FFFF00">**Aqara account and password**</span> you did earlier.<br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Enable Aqara Home for EU.jpg" title="Enable Aqara Home for EU"/>   <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Login.jpg" title="Login to your Aqara Account"/><br>
 
+6. After registering, tap <span style="background-color: #FFFF00">**Sign in**</span> and a new window will open as shown below:<br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Amazon alexa successfully linked.jpg" title="Amazon alexa successfully linked to your Aqara Account"/><br>
 
 
 #### not finished yet more to come!
