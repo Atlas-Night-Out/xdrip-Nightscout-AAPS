@@ -88,10 +88,11 @@ use corresponding to the instructions on the app, and then long press the device
 2. In Alexa App, after logging in, at the bottom select, <span style="background-color: #FFFF00">**More Option**</span> and then <span style="background-color: #FFFF00">**Skill & Games**</span>.<br>
 
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Alexa App More.jpg" title="Select More"/></a> 2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Skill And Games.jpg" title="Select Skill And Games"/><br>
+
 3 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/search for aqara.jpg" title="search for aqara"/><br>
 
 3. Now do a Search for “Aqara” in the search bar.<br>
-
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/search for aqara.jpg" title="Search for aqara"/>
 4. 
 
 
