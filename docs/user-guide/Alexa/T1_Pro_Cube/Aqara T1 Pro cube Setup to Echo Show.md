@@ -78,6 +78,15 @@ use corresponding to the instructions on the app, and then long press the device
 
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
 
+2. You should now have both the E1 Hun and T1 Pro Cube installed in your AQara Software.<br>
+1 <Center><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="Accessories"/></a></Center><br>
+
+
+## Amazon Alexa
+
+1.	Now you need to install Amazon Alexa App with an Amazon Account on your device rather it be Echo Show 10 or a mobile
+
+
 
 
 
