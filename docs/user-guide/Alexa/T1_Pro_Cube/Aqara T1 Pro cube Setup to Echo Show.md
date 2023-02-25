@@ -66,7 +66,7 @@ Open the battery cover of Cube T1 Pro with the ejector tool, take out the batter
 Be careful when removing the lid to know the correct  position of the cube for knowing when replacing the lid after you change the battery, that you have the correct position to avoid damage to the lid. <br>
 
 ## Reset Switch
-1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/T1 Pro Reset button pairing.jpg" title="Reset button"/><br>
+1 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/T1 Pro Reset button pairing.jpg" title="Reset button"/><br>
 
 ## T1 Battery Replacement
 <iframe width="883" height="509" src="https://www.youtube.com/embed/Ec3coJxT6Lw" title="T1 Pro Cube Battery Replacement Tip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
