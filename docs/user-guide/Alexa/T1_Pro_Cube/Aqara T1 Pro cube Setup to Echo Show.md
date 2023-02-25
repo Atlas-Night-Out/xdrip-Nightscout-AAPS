@@ -77,7 +77,7 @@ use corresponding to the instructions on the app, and then long press the device
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
 
 2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br>
-<Center>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/E1 Hub added.jpg" title="E1 Hub added successfuly"/></a></Center><br>
+<Center>     <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="In Accessories"/></a></Center><br>
 
 
 ## Amazon Alexa
