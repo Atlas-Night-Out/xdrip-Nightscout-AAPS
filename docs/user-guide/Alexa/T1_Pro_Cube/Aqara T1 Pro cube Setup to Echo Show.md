@@ -50,6 +50,7 @@ your Aqara Home App<br>
 You will need to make sure your home router is set to a 2.4 ghz bands until you are setup with your hub and T1 Pro, you may turn it back to Auto 5GHz after the setup.<br>
 <img width="200" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Virgin Riuter settings.jpg" title="Putting a Virgin Router into a 2.4Ghz"/></a><br>
 keep the mobile phone as close to the hub as possible, and your mobile phone and hub are using the same Wi-Fi network.<br>
+
 2. Open the Aqara Home app, click the <span style="background-color: #FFFF00">**+**</span> in the upper right corner of the home page, select <span style="background-color: #FFFF00">**Hub E1**</span>, from  <span style="background-color: #FFFF00">**Add Accessory - Gateway/Hub E1**</span> and follow the instructions of the app to operate.<br>
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Adding Accessory.png" title="Add Accessory"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Gateway_Hub E1.png" title="Gateway - Hub E1"/></a><br>
 3 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Hub E1.png" title="Add Hub E1"/></a>4 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/scan the device.png" title="scan the Device"/></a><br>
@@ -57,8 +58,6 @@ keep the mobile phone as close to the hub as possible, and your mobile phone and
 6. Once the E1 Hub is connected you can now connect the T1 Pro Cube.<br>
 
 <iframe width="392" height="397" src="https://www.youtube.com/embed/6WkQg_FvaU8" title="Connecting to Aqava E1 Hub after changing Router to a 2 4ghz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
-
-## Adding the T1 Pro Cube
 
 ## Adding Battery <br>
 Open the battery cover of Cube T1 Pro with the ejector tool, take out the battery, replace it with a new <span style="background-color: #FFFF00">**CR2450**</span>.
@@ -78,7 +77,7 @@ use corresponding to the instructions on the app, and then long press the device
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
 
 2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br>
-<Center><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="Accessories"/></a></Center><br>
+<Center>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/E1 Hub added.jpg" title="E1 Hub added successfuly"/></a></Center><br>
 
 
 ## Amazon Alexa
