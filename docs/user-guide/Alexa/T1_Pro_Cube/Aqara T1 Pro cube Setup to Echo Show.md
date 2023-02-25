@@ -84,7 +84,7 @@ use corresponding to the instructions on the app, and then long press the device
 
 ## Amazon Alexa
 
-1.	Now you need to install <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en" target="_blank" title="Amazon Alexa App">Amazon Alexa App</a> with an Amazon Account on your device rather it be Echo Show 10 or a mobile
+1.	Now you need to install <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en" target="_blank" title="Amazon Alexa App">Amazon Alexa App</a> with an Amazon Account on your device rather it be Echo Show 10 or an Android Mobile
 
 
 
