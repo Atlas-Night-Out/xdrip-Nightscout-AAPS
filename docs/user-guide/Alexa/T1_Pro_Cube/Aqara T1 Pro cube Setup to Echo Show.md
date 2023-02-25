@@ -87,7 +87,7 @@ use corresponding to the instructions on the app, and then long press the device
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Amazon Alexa.jpg" title="Google Play Amazon Alexa"/></a><br>
 
 1.	Now you need to install <a href="https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en" target="_blank" title="Amazon Alexa App">Amazon Alexa App</a> with an Amazon Account on your Android Mobile device rather than it being on the Echo Show 10.<br>
-2. In Alexa App, after logging in, at the bottom select, More Option and then Skill & Games.<br>
+2. In Alexa App, after logging in, at the bottom select, <span style="background-color: #FFFF00">**More Option**</span> and then <span style="background-color: #FFFF00">**Skill & Games**</span>.<br>
 
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Alexa App More.jpg" title="Select More"/></a> 2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Skill And Games.jpg" title="Select Skill And Games"/><br>
 
