@@ -73,9 +73,8 @@ Be careful when removing the lid to know the correct  position of the cube for k
 1. Now in the Aqara Home app, click <span style="background-color: #FFFF00">**+**</span> in the upper right corner of the home page to enter the <span style="background-color: #FFFF00">**Add Accessory page**</span>, then select <span style="background-color: #FFFF00">**Remote control**</span> on the left then select <span style="background-color: #FFFF00">**Cube T1 Pro,**</span> and select the hub to be linked.<br>
 use corresponding to the instructions on the app, and then long press the device reset button for 5 seconds, waiting for the hub to indicate that the connection is successful.<br>
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
-2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br>
-<Center>     <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="In Accessories"/></a></Center><br>
-
+2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br><Center>     <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="In Accessories"/></a></Center><br>
+3.I now select which Mode Switch I wanted to use.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/JZXkNemHOjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br> 
 
 ## Amazon Alexa
 
@@ -110,10 +109,15 @@ You will again be doing something similar to what you have just done but now for
 5.	Before you can add Routines by Launch in Alexa App, you will have needed to have added your Nightscout DataSource before hand or your Dexcom Server.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmat launch.jpg" title="Sugarmate Launch"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/goto sugarmate settings.jpg" title="sugarmate settings"/>
 
 By going to your Sugarmate account / settings / Datasource and adding your Datasource.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate settings.jpg" title="Settings"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate datasource.jpg" title="Datasource"/><br>
-You will need to have sign in to Sugarmate from your Browser on your mobile.<br> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/sign in on mobile browser.jpg" title="Sign in to Sugarmate"/><br>
-If you have not already done a Nightscout setup then you will need to have a Nightscout site please see [Setting up a Nightscout Account](../../Nightscout/Setting_up_Github_Account_part1.md) <br>
-6.	If you are using Dexcom Server To get the data from xDrip+ to the Dexcom Share Server you first need an account on the Dexcom site.<br> 
+You will need to have sign in to Sugarmate from your Browser on your mobile.<br><br> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/sign in on mobile browser.jpg" title="Sign in to Sugarmate"/><br>
+If you have not already done a Nightscout setup then you will need to have a Nightscout site please before you can do this, see [Setting up a Nightscout Account](../../Nightscout/Setting_up_Github_Account_part1.md) <br>
+ 
 
+## Adding to Xdrip
+1.	If you are using Dexcom Server To get the data from xDrip+ to the Dexcom Share Server you first need an account on the Dexcom site.And to add it to your Xdrip Clod Upload / Dexcom Share Server Upload<br>
+You should have already setup Xdrip and have readings coming into it from your CGM.<br>
+2. This is the same place you are also going to need to add your Nightscout Datasource to Xdrip too. This is located in Nightscout Sync (REST-API) Base URL and to make sure you are getting readings from your Dexcom One into Xdrip.<br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate settings.jpg" title="Settings"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate datasource.jpg" title="Datasource"/><br>
 
 #### not finished yet more to come!
 # Full Setup Coming soon! 
