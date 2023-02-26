@@ -110,7 +110,7 @@ You will again be doing something similar to what you have just done but now for
 5.	Before you can add Routines by Launch in Alexa App, you will have needed to have added your Nightscout DataSource before hand or your Dexcom Server.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmat launch.jpg" title="Sugarmate Launch"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/goto sugarmate settings.jpg" title="sugarmate settings"/>
 
 By going to your Sugarmate account / settings / Datasource and adding your Datasource.<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate settings.jpg" title="Settings"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate datasource.jpg" title="Datasource"/>
-You will need to sign in to Sugarmate from your Browser on your mobile. <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/sign in on mobile browser.jpg" title="Sign in to Sugarmate"/>
+You will need to have sign in to Sugarmate from your Browser on your mobile. <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/sign in on mobile browser.jpg" title="Sign in to Sugarmate"/>
 If you have not already done a Nightscout setup then you will need to have a Nightscout site please see [Setting up a Nightscout Account](../../Nightscout/Setting_up_Github_Account_part1.md) <br>
 6.	If you are using Dexcom Server To get the data from xDrip+ to the Dexcom Share Server you first need an account on the Dexcom site.<br> 
 
