@@ -71,11 +71,8 @@ Be careful when removing the lid to know the correct  position of the cube for k
 
 ## Adding Aqara Cube T1 Pro
 1. Now in the Aqara Home app, click <span style="background-color: #FFFF00">**+**</span> in the upper right corner of the home page to enter the <span style="background-color: #FFFF00">**Add Accessory page**</span>, then select <span style="background-color: #FFFF00">**Remote control**</span> on the left then select <span style="background-color: #FFFF00">**Cube T1 Pro,**</span> and select the hub to be linked.<br>
-
 use corresponding to the instructions on the app, and then long press the device reset button for 5 seconds, waiting for the hub to indicate that the connection is successful.<br>
-
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
-
 2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br>
 <Center>     <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="In Accessories"/></a></Center><br>
 
@@ -102,6 +99,7 @@ use corresponding to the instructions on the app, and then long press the device
 6. After registering, tap <span style="background-color: #FFFF00">**Sign in**</span> and a new window will open as shown below:<br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Amazon alexa successfully linked.jpg" title="Amazon alexa successfully linked to your Aqara Account"/><br>
 
+## Linking Amazon Alexa to xDrip+ Intro
 
 #### not finished yet more to come!
 # Full Setup Coming soon! 
