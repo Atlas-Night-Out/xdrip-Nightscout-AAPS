@@ -118,7 +118,8 @@ If you have not already done a Nightscout setup then you will need to have a Nig
 1.	If you are using Dexcom Server To get the data from xDrip+ to the Dexcom Share Server you first need an account on the Dexcom site. And to add it to your Xdrip Cloud Upload / Dexcom Share Server Upload<br>
 You should have already setup Xdrip and have readings coming into it from your CGM.<br>
 2. This is the same place you are also going to need to add your Nightscout Datasource to Xdrip too. This is located in Nightscout Sync (REST-API) Base URL and to also make sure you are getting readings from your Dexcom One into Xdrip.<br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate settings.jpg" title="Settings"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Sugarmate datasource.jpg" title="Datasource"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/xdrip readings and hamberger.jpg" title="xdrip Readings and Hamberger Menu"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/xdrip cloud upload.jpg" title="Cloud Upload"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Nightscout Sync (REST-API).jpg" title="Nightscout Sync (REST-API)"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Nightscout Sync Base URL.jpg" title="Add your Nightscout Sync Base URL API Secret"/><br>
 
 #### not finished yet more to come!
 # Full Setup Coming soon! 
