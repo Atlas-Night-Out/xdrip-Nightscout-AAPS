@@ -74,7 +74,8 @@ Be careful when removing the lid to know the correct  position of the cube for k
 use corresponding to the instructions on the app, and then long press the device reset button for 5 seconds, waiting for the hub to indicate that the connection is successful.<br>
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
 2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br><Center>     <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="In Accessories"/></a></Center><br>
-3.I now select which Mode Switch I wanted to use.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/JZXkNemHOjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br> 
+3. I now select which Mode Switch I wanted to use.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/JZXkNemHOjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>  
+4. I used Scene Mode.<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Mode switch scene mode.jpg" title=" I used Scene Mode"/></a><br>
 
 ## Amazon Alexa
 
