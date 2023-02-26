@@ -99,7 +99,18 @@ use corresponding to the instructions on the app, and then long press the device
 6. After registering, tap <span style="background-color: #FFFF00">**Sign in**</span> and a new window will open as shown below:<br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Amazon alexa successfully linked.jpg" title="Amazon alexa successfully linked to your Aqara Account"/><br>
 
-## Linking Amazon Alexa to xDrip+ Intro
+## Enable SugarMate in Amazon Alexa
+
+You will again be doing something similar to what you have just done but now for Sugarmate.<br>
+
+1.	Now we need to enable, the SugarMate skill through the Alexa app on your phone.<br>
+2.	In Alexa App, after logging in, at the bottom select, <span style="background-color: #FFFF00">**More Option**</span> and then <span style="background-color: #FFFF00">**Skill & Games**</span>.<br>
+3.	In the search look for Sugarmate<br>
+4.	Setup a Sugarmate account if you have not already done so it will give you an email address as a Follower.<br>
+5.	Before you can add Routines by Launch you will needed to have added your Nightscout DataSource.<br>
+By going to your Sugarmate account / settings / Datasource and adding it. If you have not already done a Nightscout setup then you will need to have a Nightscout site please see [Setting up a Nightscout Account](/docs/user-guide/Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout) <br>
+7.	If you are using Dexcom Server To get the data from xDrip+ to the Dexcom Share Server you first need an account on the Dexcom site.<br> 
+
 
 #### not finished yet more to come!
 # Full Setup Coming soon! 
