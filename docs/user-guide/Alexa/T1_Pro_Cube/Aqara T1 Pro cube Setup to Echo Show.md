@@ -122,7 +122,7 @@ You should have already setup Xdrip and have readings coming into it from your C
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Nightscout Sync (REST-API).jpg" title="Nightscout Sync (REST-API)"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Nightscout Sync Base URL.jpg" title="Add your Nightscout Sync Base URL API Secret"/><br>
 
-#### not finished yet more to come!
+#### not finished yet more Alexa Routi to come!
 # Full Setup Coming soon! 
 
 
