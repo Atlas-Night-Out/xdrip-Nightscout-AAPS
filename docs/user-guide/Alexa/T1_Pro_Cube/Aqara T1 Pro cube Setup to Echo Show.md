@@ -124,8 +124,8 @@ You should have already setup Xdrip and have readings coming into it from your C
 It will now be best to check your Echo Show or Echo Dot to see if it is working correctly, before you do your Routines in the Alexa App. You can see some of the things you can ask Alexa on the Amazon Site Skills, also in the Sugarmate APP.<br> <center><a href="https://www.amazon.co.uk/Wild-Village-Sugarmate/dp/B0722KNWX2" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Amazon Sugarmate.jpg" title="Amazon Site Skills"/></a><iframe width="560" height="315" src="https://www.youtube.com/embed/IKRYSBTtlJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center><br> 
 
-  If all is working and you are getting your readings read out to you, you can now setup Rotines to have it read out your readings automaticly from moving the cube.<br>
-  
+  If all is working and you are getting your readings read out to you, you can now setup Routines to have it read out your readings automatically from moving the cube.<br>
+
 
 
 
