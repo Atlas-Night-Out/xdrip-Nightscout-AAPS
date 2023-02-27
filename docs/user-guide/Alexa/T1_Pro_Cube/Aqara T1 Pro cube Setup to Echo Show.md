@@ -75,7 +75,7 @@ use corresponding to the instructions on the app, and then long press the device
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Aqara Home app click plus.png" title="AQara Plus"/></a>2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/remote T1 Pro cube.png" title="Remote - Cube T1 Pro"/></a><br>
 2. You should now have both the E1 Hub and T1 Pro Cube installed in your AQara Software.<br><Center>     <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Accessories.jpg" title="In Accessories"/></a></Center><br>
 3. I now select which Mode Switch I wanted to use.<br><iframe width="560" height="315" src="https://www.youtube.com/embed/JZXkNemHOjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>  
-4. I used Scene Mode.<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Mode switch scene mode.jpg" title=" I used Scene Mode"/></a><br>
+4. I used the Scene Mode.<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Mode switch scene mode.jpg" title=" I used Scene Mode"/></a><br>
 
 ## Amazon Alexa
 
@@ -87,9 +87,7 @@ use corresponding to the instructions on the app, and then long press the device
 1 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Alexa App More.jpg" title="Select More"/></a> 2 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Skill And Games.jpg" title="Select Skill And Games"/><br>
 
 3 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Select Search.jpg" title="Select Search"/>4 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/search for aqara.jpg" title="Search for aqara"/> <br>
-3. Now do a Search for “Aqara” in the search bar.<br>
-
-
+3. Now do a Search for <span style="background-color: #FFFF00">**Aqara**</span> in the search bar.<br>
 4. Select the Aqara Home to enter its details page as beneath:
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Select Aqara Home for EU.jpg" title="Select Aqara Home for EU"/><br>
 
