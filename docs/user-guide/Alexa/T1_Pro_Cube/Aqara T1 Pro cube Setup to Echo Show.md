@@ -123,6 +123,8 @@ You should have already setup Xdrip and have readings coming into it from your C
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Nightscout Sync (REST-API).jpg" title="Nightscout Sync (REST-API)"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Nightscout Sync Base URL.jpg" title="Add your Nightscout Sync Base URL API Secret"/><br>
 
+It will now be best to check your Echo Show or Echo Dot to see it is working correctly, before you do your Routines in the Alexa App. You can see some of the things you can ask Alexa on the <a href="https://www.amazon.co.uk/Wild-Village-Sugarmate/dp/B0722KNWX2" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Amazon Sugarmate.jpg" title="Amazon Site Skills"/></a> and also in the Sugarmate APP.
 #### not finished yet more Alexa Routi to come!
 # Full Setup Coming soon! 
 
