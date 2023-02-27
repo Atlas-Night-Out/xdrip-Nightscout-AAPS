@@ -88,7 +88,7 @@ use corresponding to the instructions on the app, and then long press the device
 
 3 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Select Search.jpg" title="Select Search"/>4 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/search for aqara.jpg" title="Search for aqara"/> <br>
 3. Now do a Search for <span style="background-color: #FFFF00">**Aqara**</span> in the search bar.<br>
-4. Select the Aqara Home to enter its details page as beneath:
+4. Select the Aqara Home for EU to enter its details page as beneath:
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Select Aqara Home for EU.jpg" title="Select Aqara Home for EU"/><br>
 
 5. Select <span style="background-color: #FFFF00">**Enable**</span> and a new window will open as shown beneath. Please enter your <span style="background-color: #FFFF00">**Aqara account and password**</span> you did earlier.<br>
