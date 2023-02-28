@@ -150,9 +150,7 @@ Congratulations and my apologize for the length of this setup was a hard one for
 
 I wish I could help more with other setups but at least you will have a clue idea to vary it to your setup, I hope!<br> 
 
-
-#### not finished yet need to add a video! And someone to ceck it all works for them!
-# Full Setup Coming soon! 
+ 
 
 
 
