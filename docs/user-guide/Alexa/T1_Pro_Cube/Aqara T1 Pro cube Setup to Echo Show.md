@@ -115,7 +115,7 @@ If you have not already done a Nightscout setup then you will need to have a Nig
 ## Adding to Xdrip
 1.	If you are using Dexcom Server To get the data from xDrip+ to the Dexcom Share Server you first need an account on the Dexcom site. And to add it to your Xdrip Cloud Upload / Dexcom Share Server Upload<br>
 You should have already setup Xdrip and have readings coming into it from your CGM.<br>
-2. This is the same place you are also going to need to add your Nightscout Datasource to Xdrip too. This is located in Nightscout Sync (REST-API) Base URL and to also make sure you are getting readings from your Dexcom One into Xdrip.<br>
+2. This is the same place you are also going to need to add your Nightscout Datasource in to Xdrip. This is located in Nightscout Sync (REST-API) Base URL and to also make sure you are getting readings from your Dexcom One into Xdrip.<br>
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/xdrip readings and hamberger.jpg" title="xdrip Readings and Hamberger Menu"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/xdrip cloud upload.jpg" title="Cloud Upload"/><br>
 
@@ -126,10 +126,32 @@ It will now be best to check your Echo Show or Echo Dot to see if it is working 
 
   If all is working and you are getting your readings read out to you, you can now setup Routines to have it read out your readings automatically from moving the cube.<br>
 
+## Amazon Alexa Routines
+<iframe width="660" height="415" src="https://www.youtube.com/embed/u9NZkSLj8ig" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
+1. Sign into your Amazon Alexa.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Amazon Alexa2.jpg" title="Amazon Alexa App"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Alexa More.jpg" title="Alexa More"/>
+2. Select <span style="background-color: #FFFF00">**More**</span>
+3. Select <span style="background-color: #FFFF00">**Routines**</span><br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Select Routines.jpg" title="Select Routines"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/plus sign.jpg" title="Select The Plus Sign"/>
+4.	Select the + sign at the top right. 
+5.	Pick the + for  <span style="background-color: #FFFF00">**When this Happens**</span><br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/when this happens.jpg" title="when this happens"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Smart Home.jpg" title="Select Smart Home"/>
+6. Then pick the <span style="background-color: #FFFF00">**Smart Home**</span><br><br>
+Pick your T1 Pro Cube number you would like to use. In my case I want 5 on the cube (Disc) to do this task.
+7. <span style="background-color: #FFFF00">**Choose your Device**</span> (Cube T1 Pro-five)<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Choose Device.jpg" title="Choose Device"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/when motion is Detected.jpg" title="Select Detected then Next"/>
+8.	Now select When Motion is: <span style="background-color: #FFFF00">**Detected**</span> Then <span style="background-color: #FFFF00">**Next**</span>
+9.	Now Add Action: <span style="background-color: #FFFF00">**+**</span> (New Routine)<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Add Action.jpg" title="Add Action"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Customised.jpg" title="Customised"/>
+10.	 Select the <span style="background-color: #FFFF00">**Customised**</span> at the top.
+11.	Now enter what you would ask Alexa to do.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/enter what you would ask Alexa.jpg" title="Enter what you would ask Alexa"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Alexa ask sugarmate for my latest reading.jpg" title="Alexa, ask sugarmate for my latest reading"/>
+12. Add <span style="background-color: #FFFF00">**Alexa, ask sugarmate for my latest reading**</span> or you can have Alexa, ask Sugarmate what I'm at” or Alexa, ask Sugarmate to switch units
+13. Save
+14.	Now select your device you want your Blood reading to come out from you can select more than one device by selecting the + again and adding the device.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/from_choose Device.jpg" title="From choose Device"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/Alexa/T1_Pro_Cube/Choose Device Daves Echo Dot Living room.jpg" title="Choose your Device"/>
+15.	 Then <span style="background-color: #FFFF00">**Choose Device**</span>, and then select the <span style="background-color: #FFFF00">**Device  you want**</span>. In My case an Echo Dot to work in my Living room.<br><br>You should now have a fully working T1 Pro Dice (cube) 
+Congratulations and my apologize for the length of this setup was a hard one for me to write up with trying to give as much details as I could.<br> 
 
-#### not finished yet more Alexa adding Routines to come!
+I wish I could help more with other setups but at least you will have a clue idea to vary it to your setup, I hope!<br> 
+
+
+#### not finished yet need to add a video! And someone to ceck it all works for them!
 # Full Setup Coming soon! 
 
 
