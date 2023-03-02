@@ -80,6 +80,9 @@ nav:
 -   Freestyle Libre : 
     - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'
 
+-   AndroidAPS : 
+    - 'AAPS Backup': 'user-guide/AndroidAPS/AAPS Backup.md'
+
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
