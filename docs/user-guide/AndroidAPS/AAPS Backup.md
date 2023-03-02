@@ -19,6 +19,8 @@ After you have exported it from your Mobile and connected it by a USB cable.
 
 
 <img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AndroidAPS folder location.jpg" title="Export Location in windows 10"/><br>
+
+<iframe width="660" height="415" src="https://www.youtube.com/embed/j59zAOLK9IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 ## Export settings (Backup)
 
