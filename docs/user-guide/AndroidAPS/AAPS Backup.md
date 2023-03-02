@@ -27,11 +27,11 @@ After you have exported it from your Mobile and connected it by a USB cable.
 - And then Export settings
 
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
 
 - .Date and time of export will be added to the file name automatically and displayed together with the path
 - Click ‘OK’.
-- Enter master password and click ‘OK’.<br><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
+- Enter master password and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
 
 ## Import settings
 
@@ -40,14 +40,14 @@ To import your settings.<br><br>
 - Go to <span style="background-color: #FFFF00">**Hamburger menu**</span> (top left corner of screen) Or (scroll along the Top)<br>
 - Go to Maintenance again<br>
 - Now <span style="background-color: #FFFF00">**Import settings**</span><br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/" title="Import Settings"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/" title="Import Settings"/><br>
 <br>
 
 -	All files from folder AAPS/preferences/ on your phone will be shown in the list.
--	Select <span style="background-color: #FFFF00">**Your file**</span> you want importing.<br><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Select File to Import.jpg" title="Select File to Import"/>
--	Confirm import by clicking ‘OK’.<br><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/ok import settings.jpg" title="Select Ok"/>
--	Enter your master password and click ‘OK’.<br><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
--	The Details on the preference file will be shown. It will be your last choice to cancel import.<br><img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Last option to import settings.jpg" title="Details on the preference"/>
+-	Select <span style="background-color: #FFFF00">**Your file**</span> you want importing.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Select File to Import.jpg" title="Select File to Import"/>
+-	Confirm import by clicking ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/ok import settings.jpg" title="Select Ok"/>
+-	Enter your master password and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
+-	The Details on the preference file will be shown. It will be your last choice to cancel import.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Last option to import settings.jpg" title="Details on the preference"/>
 -	If all ok Select <span style="background-color: #FFFF00">**Import**</span>.
 -	Confirm message by clicking ‘OK’.
 -	AAPS will, restarted in order to activate your imported preferences.
