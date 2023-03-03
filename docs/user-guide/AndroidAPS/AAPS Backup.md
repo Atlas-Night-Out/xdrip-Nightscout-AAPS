@@ -41,7 +41,7 @@ To import your settings.<br><br>
 - Go to <span style="background-color: #FFFF00">**Hamburger menu**</span> (top left corner of screen) Or (scroll along the Top)<br>
 - Go to Maintenance again<br>
 - Now <span style="background-color: #FFFF00">**Import settings**</span><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/" title="Import Settings"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Import Settings.jpg" title="Import Settings"/><br>
 <br>
 
 -	All files from folder AAPS/preferences/ on your phone will be shown in the list.
