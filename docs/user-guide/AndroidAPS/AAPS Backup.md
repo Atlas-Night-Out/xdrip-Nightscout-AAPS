@@ -48,7 +48,7 @@ To import your settings.<br><br>
 -	The Details on the preference file will be shown. It will be your last choice to cancel import.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Last option to import settings.jpg" title="Details on the preference"/>
 -	If all ok Select <span style="background-color: #FFFF00">**Import**</span>.
 -	Confirm message by clicking ‘OK’.
--	AAPS will, restarted in order to activate your imported preferences.
+-	AAPS will, restarted in order to activate your imported preferences.<br><br>
 
 
 
