@@ -23,6 +23,7 @@ Exported settings should be copied to a cloud storage or your computer, better t
 - And then <span style="background-color: #FFFF00">**Export settings**</span>
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br>
+
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
 
 
