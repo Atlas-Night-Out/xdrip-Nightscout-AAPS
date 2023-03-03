@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2021-->
 
 # Export & import settings
 
-
+test
 ## Is Important!
 Be ready for the unexpected. You might change important settings by accident and have problems to undo the changes. Your phone might break or get stolen or you may get a virus. To easily return to status you've been at, settings should be exported on a consistently basis..
 
@@ -29,7 +29,7 @@ After you have exported it from your Mobile and connected it by a USB cable.
 - And then Export settings
 
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
+
 
 - .Date and time of export will be added to the file name automatically and displayed together with the path
 - Click ‘OK’.
