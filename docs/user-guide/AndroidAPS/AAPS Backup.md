@@ -22,7 +22,7 @@ After you have exported it from your Mobile and connected it by a USB cable.
   
 ## Export settings (Backup)
 
-- Go to Hamburger menu (top left corner of screen) Or (scroll along the Top)
+- Go to <span style="background-color: #FFFF00">**Hamburger menu**</span> (top left corner of screen) Or (scroll along the Top)
 - Then select <span style="background-color: #FFFF00">**Maintenance**</span>
 - And then <span style="background-color: #FFFF00">**Export settings**</span>
 
@@ -46,8 +46,8 @@ To import your settings.<br><br>
 
 -	All files from folder AAPS/preferences/ on your phone will be shown in the list.
 -	Select <span style="background-color: #FFFF00">**Your file**</span> you want importing.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Select File to Import.jpg" title="Select File to Import"/>
--	Confirm import by clicking ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/ok import settings.jpg" title="Select Ok"/>
--	Enter your master password and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
+-	Confirm import by clicking <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/ok import settings.jpg" title="Select Ok"/>
+-	Enter your master password and click <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
 -	The Details on the preference file will be shown. It will be your last choice to cancel import.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Last option to import settings.jpg" title="Details on the preference"/>
 -	If all ok Select <span style="background-color: #FFFF00">**Import**</span>.
 -	Confirm message by clicking ‘OK’.
