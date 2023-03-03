@@ -1,4 +1,4 @@
-<!-- this is not on github server its local only and run my mkdocs server!
+<!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
 # Export & import settings
@@ -11,11 +11,7 @@ Best practice is to export after change of settings or completing an objective.
 
 Exported settings should be copied to a cloud storage or your computer, better two different locations as you can also get virus. So, you are prepared for loss or damage of your AAPS phone and do not have to start from zero.
 
-It will look like this on a Windows 10 computer:
-After you have exported it from your Mobile and connected it by a USB cable.
-
-
- she was using a Samsung with the libre 2 and the libre link app to start her sensor and a watch which sends data to her fitbit sense with glance watch face using xdrip. <br> if you have any issues please let me know!<br><br>
+ <br>
 
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/j59zAOLK9IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
