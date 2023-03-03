@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2021-->
 
 # Export & import settings
 
-test
+
 ## Is Important!
 Be ready for the unexpected. You might change important settings by accident and have problems to undo the changes. Your phone might break or get stolen or you may get a virus. To easily return to status you've been at, settings should be exported on a consistently basis..
 
@@ -17,8 +17,6 @@ After you have exported it from your Mobile and connected it by a USB cable.
 
  she was using a Samsung with the libre 2 and the libre link app to start her sensor and a watch which sends data to her fitbit sense with glance watch face using xdrip. <br> if you have any issues please let me know!<br><br>
 
-
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AndroidAPS folder location.jpg" title="Export Location in windows 10"/><br>
 
 <iframe width="660" height="415" src="https://www.youtube.com/embed/j59zAOLK9IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
