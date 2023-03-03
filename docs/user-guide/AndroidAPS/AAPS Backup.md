@@ -23,15 +23,16 @@ After you have exported it from your Mobile and connected it by a USB cable.
 ## Export settings (Backup)
 
 - Go to Hamburger menu (top left corner of screen) Or (scroll along the Top)
-- Then select Maintenance
-- And then Export settings
+- Then select <span style="background-color: #FFFF00">**Maintenance**</span>
+- And then <span style="background-color: #FFFF00">**Export settings**</span>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
 
 
 - The Date and time of export will be added to the file name automatically and displayed together with the path
-- Click ‘OK’.
-- Enter master password and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
+- Click <span style="background-color: #FFFF00">**‘OK’**</span>.
+- Enter <span style="background-color: #FFFF00">**master password**</span> and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
 
 ## Import settings
 
