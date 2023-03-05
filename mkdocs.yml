@@ -63,7 +63,7 @@ nav:
     - 'Heroku Redeploy Update ': 'user-guide/Nightscout/Redeploying your repository.md'
     - 'Google Cloud Server Setup': 'user-guide/Nightscout/Google Cloud_setup.md'
     - 'Fly_io Server Setup': 'user-guide/Nightscout/Fly_io-setup.md'
-    
+    - 'Redeploying your repository': 'user-guide/Nightscout/Redeploying your repository.md'
     - 'Oracle Cloud Setup': 'user-guide/Nightscout/Nightscout_Oracle Cloud - setup.md'
     - 'Add Nightscout onto an Echo Show': 'user-guide/Nightscout/Alexa Show Nightscout on Echo Show 10 3rd Gen.md'
     
