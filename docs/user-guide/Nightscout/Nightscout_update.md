@@ -165,7 +165,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Select_your_App.jpg" title="Select Deploy Tab"/>
 <br>
 
-* In the middle bit, click on the GitHub button if it isn’t already showing as connected. It will ask you to authorize the connection if you’re doing it for the first time.
+* In the middle bit (Deploy)section, click on the GitHub button if it isn’t already showing as connected. It will ask you to authorize the connection if you’re doing it for the first time.
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/github connected.jpg" title="Select Deploy Tab"/>
 <br>
@@ -191,7 +191,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * Or if Heroku is not connected to GitHub, scroll down and click Connect to GitHub, if a popup window opens and requires authorization, click Authorize Heroku
 <br>
   
-* Now after connecting to Gitnub, Scroll down to the bottom of the page, make sure to select the <span style="background-color: #FFFF00">master branch</span>  and then click <span style="background-color: #FFFF00"> Deploy Branch</span>
+* Now after connecting to Github, Scroll down to the bottom of the page, make sure to select the <span style="background-color: #FFFF00">master branch</span>  and then click <span style="background-color: #FFFF00"> Deploy Branch</span>
 <br>
   <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/masterthendeploy.jpg" title="Select master then Deploy Branch"/>
 </a>
