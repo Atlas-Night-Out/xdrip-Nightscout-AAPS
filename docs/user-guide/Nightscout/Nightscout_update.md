@@ -152,7 +152,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 </tbody>
 </table>
 
-# Step6: Deploy in Heroku
+## Step6: Deploy in Heroku
 <br>
 
  
