@@ -4,7 +4,6 @@
 ## Short Intro
 This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more. I will be trying to help you set up an Echo Show 10 (3rd Gen) or an Echo Dot or a Samsung Tablet. So, it will read out your Glucose readings. I will not be going through and explaining the unboxing as this as been done in other videos.<br>
 
-This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more. I will be trying to help you setup onto an Echo Show 10 (3rd Gen) or a Exco Dot so it will read out your Glucose readings.
 
 <br>
 
