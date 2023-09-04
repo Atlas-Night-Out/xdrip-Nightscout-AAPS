@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2021-->
 
 # Export & import settings
 
-test!
+test!22
 ## Is Important!
 Be ready for the unexpected. You might change important settings by accident and have problems to undo the changes. Your phone might break or get stolen or you may get a virus. To easily return to status you've been at, settings should be exported on a consistently basis..
 
