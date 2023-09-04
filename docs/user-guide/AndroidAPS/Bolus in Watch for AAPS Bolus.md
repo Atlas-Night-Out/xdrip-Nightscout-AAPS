@@ -3,6 +3,8 @@ docs made by D.Galloway 2019- 2021-->
 
 # Bolus on Ticwatch Pro 5 Watch from AAPS Watch faces
 
+Diabetes !102 Years 1921 - 2023
+
 ## Important!
 To be able to bolus from your watch, you are first going to have installed xdrip+ and have it setup and working. You will also have needed to make your own WearOS.APK file and installed that onto your watch by sideloading it. I have made a video showing how to do this and I will also  add a document to help you setup when I get time too! So stay tuned! (Grammer corrected by Berni Warren Thank you!)
 
@@ -17,7 +19,7 @@ To be able to bolus from your watch, you are first going to have installed xdrip
 ## *Step 2 Instructions*
 1. First  double Click on BG Readings icon on which ever Watch Face you are using for AASP. There are a few to choose from. <br>
 ## Watchfaces available <br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS(v2).png" title="AAPS(v2)"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS(v2).png" title="AAPS(v2)"/>AAPS(v2) <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS (Digital Style).png" title="AAPS(v2)"/>AAPS (Digital Style)<br>
 
 <img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click readings icon icon.jpg" title="(BG) Blood Readings Icon"/><br>
 
