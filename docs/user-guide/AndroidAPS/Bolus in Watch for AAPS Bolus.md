@@ -19,7 +19,9 @@ To be able to bolus from your watch, you are first going to have installed xdrip
 ## *Step 2 Instructions*
 1. First  double Click on BG Readings icon on which ever Watch Face you are using for AASP. There are a few to choose from. <br>
 ## Watchfaces available <br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS(v2).png" title="AAPS(v2)"/>AAPS(v2) <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS (Digital Style).png" title="AAPS(v2)"/>AAPS (Digital Style)<br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS(v2).png" title="AAPS(v2)"/>AAPS(v2) <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS (Digital Style).png" title="AAPS (Digital Style)"/>AAPS (Digital Style)<br>
+
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS (Big Chart).png" title="AAPS (Big Chart)"/>AAPS (Big Chart)
 
 <img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click readings icon icon.jpg" title="(BG) Blood Readings Icon"/><br>
 
