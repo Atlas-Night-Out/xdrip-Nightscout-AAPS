@@ -18,5 +18,5 @@ To be able to bolus from your watch, you are first going to have installed xdrip
 1. First  double Click on Readings icon on which ever Watch Face you are using in AASP. There are a few to choose from.
 e.g <br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click Readings icon " title="Readings Icon"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click readings icon icon.jpg" title="Watchface Insulin Unit Icon"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click readings icon icon.jpg" title="Blood Readings Icon"/><br>
 
