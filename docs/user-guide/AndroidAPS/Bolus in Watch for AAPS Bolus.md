@@ -1,13 +1,12 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
-# Bolus in Watch for AAPS Bolus
+# Bolus on Ticwatch Pro 5 Watch from AAPS Watch faces
 
-## Is Important!
-To be able to bolus from yoru watch, you are first going to have installed xdrip+ and setup and working.
-You will also needed to have made your own WearOS.APK file and installed onto your watch by sideloading it. I have done video on how to do this and will add document to help you setup when I get time! So stay tuned!
+## Important!
+To be able to bolus from your watch, you are first going to have installed xdrip+ and have it setup and working. You will also have needed to make your own WearOS.APK file and installed that onto your watch by sideloading it. I have made a video showing how to do this and I will also  add a document to help you setup when I get time too! So stay tuned! (Grammer corrected by Berni Warren Thank you!)
 
-# Step 1 What you will already needed to have done before you go any furrther! 
+# Step 1 What you will already needed to have done before you go any further! 
 
 1. Installed xdrip+ onto your Phone, so its getting reading from your CGM. See Install xdrip+
 2. Settings added into xdrip+ for you to get readings onto your watch.
@@ -16,7 +15,8 @@ You will also needed to have made your own WearOS.APK file and installed onto yo
 
 
 # **Step 2 Instructions**
-1. First  double Click on Insulin units icon on which ever Watch Face you are using in AASP. There are a few to choose from.
-e.g 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click Insulin units icon 2.jpg" title="Watchface Insulin Unit Icon"/><br>
+1. First  double Click on Readings icon on which ever Watch Face you are using in AASP. There are a few to choose from.
+e.g <br>
+
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click Readings icon " title="Readings Icon"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click readings icon icon.jpg" title="Watchface Insulin Unit Icon"/><br>
 
