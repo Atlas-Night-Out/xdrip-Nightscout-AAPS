@@ -83,6 +83,7 @@ nav:
 
 -   AndroidAPS : 
     - 'AAPS Backup': 'user-guide/AndroidAPS/AAPS Backup.md'
+    - 'AAPS Backup': 'user-guide/AndroidAPS/Bolus from your Watch Face in AAPS .md'
 
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
