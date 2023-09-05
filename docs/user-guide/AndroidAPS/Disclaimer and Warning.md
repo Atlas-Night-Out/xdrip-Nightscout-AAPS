@@ -1,61 +1,13 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
-# Export & import settings
+**Disclaimer and Warning**
 
+- All information, thought, and code described here is intended for informational and educational purposes only. Nightscout currently makes no attempt at HIPAA privacy compliance. Use Nightscout and AAPS at your own risk, and do not use the information or code to make medical decisions.
+- Use of code from github.com is without warranty or formal support of any kind. Please review this repository's LICENSE for details.
+- All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
 
-## Is Important!
-Be ready for the unexpected. You might change important settings by accident and have problems to undo the changes. Your phone might break or get stolen or you may get a virus. To easily return to status you've been at, settings should be exported on a consistently basis..
-
-Best practice is to export after change of settings or completing an objective.
-
-Exported settings should be copied to a cloud storage or your computer, better two different locations as you can also get virus. So, you are prepared for loss or damage of your AAPS phone and do not have to start from zero.
-
- <br>
-
-
-<iframe width="660" height="415" src="https://www.youtube.com/embed/j59zAOLK9IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-## Export settings (Backup)
-
-- Go to <span style="background-color: #FFFF00">**Hamburger menu**</span> (top left corner of screen) Or (scroll along the Top)
-- Then select <span style="background-color: #FFFF00">**Maintenance**</span>
-- And then <span style="background-color: #FFFF00">**Export settings**</span>
-
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br>
-
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
-
-
-- The Date and time of export will be added to the file name automatically and displayed together with the path
-- Click <span style="background-color: #FFFF00">**‘OK’**</span>.
-- Enter <span style="background-color: #FFFF00">**master password**</span> and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
-
-## Import settings
-
-To import your settings.<br><br> 
-
-- Go to <span style="background-color: #FFFF00">**Hamburger menu**</span> (top left corner of screen) Or (scroll along the Top)<br>
-- Go to <span style="background-color: #FFFF00">**Maintenance**</span> again<br>
-- Now <span style="background-color: #FFFF00">**Import settings**</span><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Import Settings.jpg" title="Import Settings"/><br>
-<br>
-
--	All files from folder AAPS/preferences/ on your phone will be shown in the list.
--	Select <span style="background-color: #FFFF00">**Your file**</span> you want importing.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Select File to Import.jpg" title="Select File to Import"/>
--	Confirm import by clicking <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/ok import settings.jpg" title="Select Ok"/>
--	Enter your master password and click <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
--	The Details on the preference file will be shown. It will be your last choice to cancel import.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Last option to import settings.jpg" title="Details on the preference"/>
--	If all ok Select <span style="background-color: #FFFF00">**Import**</span>.
--	Confirm message by clicking ‘OK’.
--	AAPS will, restarted in order to activate your imported preferences.<br><br>
-
-
-
-<a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
-</center>
+Please note - this project has no association with and is not endorsed by: [SOOIL](http://www.sooil.com/eng/), [Dexcom](https://www.dexcom.com/), [Accu-Chek, Roche Diabetes Care](https://www.accu-chek.com/), [Insulet](https://www.insulet.com/) or [Medtronic](https://www.medtronic.com/).
 
 
 <!--  

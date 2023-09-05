@@ -82,6 +82,7 @@ nav:
     - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'
 
 -   AndroidAPS : 
+    - 'Disclaimer and Warning': 'user-guide/AndroidAPS/Disclaimer and Warning.md'
     - 'AAPS Backup': 'user-guide/AndroidAPS/AAPS Backup.md'
     - 'Bolus From your Watch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
     
