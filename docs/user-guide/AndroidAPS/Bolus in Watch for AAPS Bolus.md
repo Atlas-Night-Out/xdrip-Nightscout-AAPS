@@ -11,8 +11,9 @@ To be able to bolus from your watch, you are first going to have installed xdrip
 ## Step 1 What you will already needed to have done before you go any further! 
 
 1. Installed xdrip+ onto your Phone, so its getting reading from your CGM. See Install xdrip+
-2. Have AAPS setup version Android AAPS  3.1.0.3 Software onto your Phone, and within the ConfigBuilder you need to enable the Wear plugin. You can download the APK file from https://github.com/nightscout/AndroidAPS  or you can make your own AAPS.APK file to install.  
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> <br>
+2. Make your own AAPS_3.1.0.3.APK file. And have AAPS 3.1.0.3.APS file installed onto your Phone, and then within the ConfigBuilder you need to enable the Wear plugin. You can get teh code from Github from https://github.com/nightscout/AndroidAPS  to make your own AAPS.APK file to install.<br>
+You can see my video on how to do this process from https://youtu.be/VwG-rOolBDM  but you will need to choose Android_3.1.0.5 APP.Main instead when Building! <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Android_3.1.0.5 App Main.jpg" title="Android_3.1.0.5 APP.Main"/>   
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Config Builder wear wear settings.jpg" title="Config Builder - Wear - Wear Setting"/> <br>
 3. Settings added into xdrip+ for you to get readings onto your watch.
 4. Make your own WearOs APK file and transfered to your Android Mobile Device.(will add instruction later on this)
