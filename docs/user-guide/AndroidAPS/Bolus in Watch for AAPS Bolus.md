@@ -11,7 +11,7 @@ To be able to bolus from your watch, you are first going to have installed xdrip
 ## Step 1 What you will already needed to have done before you go any further! 
 
 1. Installed xdrip+ onto your Phone, so its getting reading from your CGM. See Install xdrip+
-2. Setup AAPS Software on your Phone Within AAPS, in the ConfigBuilder you need to enable the Wear plugin.
+2. Setup Android AAPS  3.1.0.3 Software onto your Phone, and within the ConfigBuilder you need to enable the Wear plugin.
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> <br>
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Config Builder wear wear settings.jpg" title="Config Builder - Wear - Wear Setting"/> <br>
 3. Settings added into xdrip+ for you to get readings onto your watch.
