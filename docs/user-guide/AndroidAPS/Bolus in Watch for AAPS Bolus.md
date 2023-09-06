@@ -10,13 +10,16 @@ To be able to bolus from your watch, you are first going to have installed xdrip
 
 ## Step 1 What you will already needed to have done before you go any further! 
 
-1. Installed xdrip+ onto your Phone and working, so its getting reading from your CGM. See <br>
+1. You will need to installed xdrip+ onto your Phone and working, so its getting reading from your CGM. See <br>
 [Install xdrip±](../xdrip/xdrip%20-%20install.md#install-xdrip_1) <br>
 
-2. Make your own copy of AAPS_3.1.0.3.APK file in Android Studio. And then have it AAPS 3.1.0.3.APk file installed onto your Phone and working with xdrip+,  then within the ConfigBuilder you need to enable the Wear plugin. <br>
+2. Important notes Please use Android Studio Version 2020.3.1 or newer to build the apk.
+Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
+
+Make your own copy of AAPS_3.1.0.3.APK file in Android Studio. And then have it AAPS 3.1.0.3.APk file installed onto your Phone and working with xdrip+,  then within the ConfigBuilder you need to enable the Wear plugin. <br>
 <img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Android_3.1.0.5 App Main.jpg" title="Android_3.1.0.5 APP.Main"/> <Br><br>
 
-You can copy the code from Github from https://github.com/nightscout/AndroidAPS  to make your own AAPS.APK file to install onto your phone.<br>
+You can copy the code from Github into Android Studio from <a href=" https://github.com/nightscout/AndroidAPS" target="_blank" title="Git Hub Repository">AAPS</a> https://github.com/nightscout/AndroidAPS  to make your own AAPS.APK file to install onto your phone.<br>
 
 You can see my video on how to do this process from https://youtu.be/VwG-rOolBDM  but you will need to choose Android_3.1.0.5 APP.Main instead of wear when Generate a signed Bundle! For the Software version, later you will make a wear.APK file for your watch Faces.<br>
 
