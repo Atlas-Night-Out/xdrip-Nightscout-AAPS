@@ -5,7 +5,7 @@ docs made by D.Galloway 2019- 2021-->
 
 Diabetes !102 Years 1921 - 2023
 
-## Important!
+## Summary
 To be able to bolus from your watch, you are first going to have installed xdrip+ and have it setup and working on your Phone. You will also have to make your own WearOS.APK file and installed that onto your watch by sideloading it. You do this at your own risk. There is no warrenty on this  I have made a video showing how to do this and I will also  add a document to help you setup when I get time too! So stay tuned! (Grammer corrected by Berni Warren Thank you!)
 
 ## Step 1 What you will already needed to have done before you go any further! 
