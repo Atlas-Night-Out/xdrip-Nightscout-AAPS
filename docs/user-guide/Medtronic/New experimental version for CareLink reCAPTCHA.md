@@ -17,7 +17,7 @@ This version is really just a first working prototype, long term usablity and st
 
 See The Repo on <a href=" https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank" title="v0.1.13-beta">Github</a> by benceszasz 
 <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank">
-  <img width="400" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/></a> by benceszasz<br>
+  <img width="400" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/></a><br>
 <!--  
   ******************************************************************************************************************
   mkdocs.yml    # The configuration file.
