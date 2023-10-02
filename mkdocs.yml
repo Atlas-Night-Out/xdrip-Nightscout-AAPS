@@ -84,8 +84,11 @@ nav:
 -   AndroidAPS : 
     - 'Disclaimer and Warning': 'user-guide/AndroidAPS/Disclaimer and Warning.md'
     - 'AAPS Backup': 'user-guide/AndroidAPS/AAPS Backup.md'
-    - 'Bolus From your Watch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
+    - 'AAPS on Wear OS smartwatch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
     
+-   Medtronic :
+    - 'Disclaimer and Warning': 'user-guide/Medtronic/Disclaimer and Warning.md'
+    - 'New experimental version for CareLink reCAPTCHA': 'user-guide/Medtronic/New experimental version for CareLink reCAPTCHA.md'
 
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
