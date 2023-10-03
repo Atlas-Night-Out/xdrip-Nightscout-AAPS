@@ -43,7 +43,6 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 </tr>
 </tbody>
 </table> <br>
-
 6. You will need to make sure Wear is enabled in AAPS, by going to the Config Builder and scrolling down to Wear. And select it and then click the gear icon to select your setting for it. E.g BG COB<br>
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Config Builder wear wear settings.jpg" title=" Wear Setting"/> <br><br>
