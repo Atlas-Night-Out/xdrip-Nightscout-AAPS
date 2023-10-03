@@ -55,7 +55,7 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 <img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-8. Your AAPS .APK file you have just created in Android Studio will now need to be sideloaded onto your Watch. You do this in a similar way as you will have done with xdrip+ onto your watch with sideloading it, but AAPS is done a little different as its not already installed onto your watch and needs to be added. Big Thank you to  (By Malcolm Bryant) for doing the wear 2 Installer! <br>
+8. Your AAPS .APK file you have just created in Android Studio will now need to be sideloaded onto your Watch. You do this in a similar way as you will have done with xdrip+ onto your watch with sideloading it, but AAPS is done a little different as its not already installed onto your watch and needs to be added. Big Thank you to  (By Malcolm Bryant) for doing the wear 2 Installer! <br><br>
 9. I'm not very good at making videos with me speaking but thought until I have time to write up more docs to do this process, I thought best to just add it so then this will give me more time to try to write some docs up for it, but until then you will still be able to setup. So here is the video to help you sideload wear onto your watch!<br>
 
 <table width="1166" height="515" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
