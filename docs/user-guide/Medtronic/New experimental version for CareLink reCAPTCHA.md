@@ -1,7 +1,7 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
-**NEW EXPERIMENTAL VERSION FOR CARELINK RECAPTCHA USING BROWSER AUTHENTICATION**
+** NEW EXPERIMENTAL VERSION FOR CARELINK RECAPTCHA USING BROWSER AUTHENTICATION**
 
 <img width="200" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/rubiks-cube-29405.png" title="Rubiks-Cube1"/> 
 
