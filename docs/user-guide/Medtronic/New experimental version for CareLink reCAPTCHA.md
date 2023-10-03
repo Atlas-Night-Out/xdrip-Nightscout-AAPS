@@ -5,7 +5,7 @@ docs made by D.Galloway 2019- 2021-->
 
 <img width="200" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/rubiks-cube-29405.png" title="Rubiks-Cube1"/> 
 
-<img width="200" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/><img width="100" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Jigsaw_home.png" title="Type 1 Home"/>
+<img width="200" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/><img width="100" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Jigsaw_home.png" title="Type 1 Smart Home"/> <br>
  <img width="200" height="auto" border="0" align="right"  src="/my-project/img/Medtronic/rubiks-cube-29389.png" title="Rubiks-Cube2 "/> <br>
 <br>
 
