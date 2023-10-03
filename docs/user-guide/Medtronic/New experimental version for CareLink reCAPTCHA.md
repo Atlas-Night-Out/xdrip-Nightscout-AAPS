@@ -5,7 +5,7 @@ docs made by D.Galloway 2019- 2021-->
 
 <img width="200" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/rubiks-cube-29405.png" title="Rubiks-Cube1"/> 
 
-<img width="200" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/><img width="200" height="auto" border="0" align="center"  src="/my-project/docs/img/Medtronic/Jigsaw_home.png" title="Jigsaw Home"/><br>
+<img width="200" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/><br>
  <img width="200" height="auto" border="0" align="right"  src="/my-project/img/Medtronic/rubiks-cube-29389.png" title="Rubiks-Cube2 "/> <br>
 <br>
 
@@ -17,7 +17,7 @@ If xDrip app is already installed it is recommended not to uninstall it and to i
 This version is really just a first working prototype, long term usablity and stability is not guarantedd!
 
 See The Repo on <a href=" https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank" title="v0.1.13-beta">Github</a> by benceszasz <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank">
-  <img width="400" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/></a><br>
+  <img width="400" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/></a><br><img width="200" height="auto" border="0" align="center"  src="/my-project/docs/img/Medtronic/Jigsaw_home.png" title="Jigsaw Home"/>
 <!--  
   ******************************************************************************************************************
   mkdocs.yml    # The configuration file.
