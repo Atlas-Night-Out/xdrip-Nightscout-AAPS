@@ -5,7 +5,8 @@ docs made by D.Galloway 2019- 2021-->
 
 <img width="200" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/rubiks-cube-29405.png" title="Rubiks-Cube1"/> 
 
-<img width="200" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/><img width="100" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Jigsaw_home.png" title="Type 1 Smart Home"/> <br>
+<img width="200" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/><a href="https://atlas-night-out.github.io/my-project/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/" target="_blank">
+  <img width="100" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Jigsaw_home.png" title="Type 1 Smart Home"/></a><br>
  <img width="200" height="auto" border="0" align="right"  src="/my-project/img/Medtronic/rubiks-cube-29389.png" title="Rubiks-Cube2 "/> <br>
 <br>
 
