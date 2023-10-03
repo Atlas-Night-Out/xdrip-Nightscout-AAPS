@@ -42,13 +42,20 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 <iframe width="860" height="415" src="https://www.youtube.com/embed/VwG-rOolBDM?si=B7Pr92kJUqqp0t3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  </span></td>
 </tr>
 </tbody>
-</table><br>
-6. You will need to make sure Wear is enabled in AAPS, by going to the Config Builder and scrolling down to Wear. And select it and then click the gear icon to select your setting for it. E.g BG,COB
+</table> <br>
+
+6. You will need to make sure Wear is enabled in AAPS, by going to the Config Builder and scrolling down to Wear. And select it and then click the gear icon to select your setting for it. E.g BG COB<br>
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Config Builder wear wear settings.jpg" title=" Wear Setting"/> <br><br>
 7. And also, Settings added into xdrip+ for you to get readings onto your watch. By going to Setting/Smart Watch Features/Android Wear Integration <br>
 
-<img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/xdrip Smart Watch Features.jpg" title="xdrip Smart Watch Features"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Android Wear Intergration.jpg" title="Android Wear Intergration"/><img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/><br><br><br><br><br><br><br><br><br><br><br><br>
+<img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/xdrip Smart Watch Features.jpg" title="xdrip Smart Watch Features"/>
+
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Android Wear Intergration.jpg" title="Android Wear Intergration"/>
+
+<img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/>
+
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
