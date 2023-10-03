@@ -55,7 +55,7 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 
 <img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/>
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
