@@ -47,9 +47,8 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 
 <img width="250" height="auto" border="0" align="center"  src="/my-project/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Config Builder wear wear settings.jpg" title=" Wear Setting"/> <br><br>
 7. And also Settings added into xdrip+ for you to get readings onto your watch. By going to Setting/Smart Watch Features/Android Wear Intergration <br>
-
-<img width="250" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/xdrip Smart Watch Features.jpg" title="xdrip Smart Watch Features"/><img width="250" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Android Wear Intergration.jpg"title="Android Wear Intergration"/><br>
-<img width="250" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/><br>
+<img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/xdrip Smart Watch Features.jpg" title="xdrip Smart Watch Features"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Android Wear Intergration.jpg"title="Android Wear Intergration"/><br>
+<img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/><br>
 
 8. Your APK file you have just created In Android Studio will need to be sideloaded onto your Watch. You will also need to install xdrip+ onto your watch with sideloading it too, with Wear Installer  2 for both of them ( By Malcolm Bryant) <br>
 
