@@ -71,8 +71,7 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 </tbody>
 </table>
    
-
- #  <span style="background-color: #FFFF00">**(not fully finished this page yet! be back soon to finish it)**</span>
+# <span style="background-color: #FFFF00">**(not fully finished this page yet! be back soon to finish it)**</span>
 
 
 
