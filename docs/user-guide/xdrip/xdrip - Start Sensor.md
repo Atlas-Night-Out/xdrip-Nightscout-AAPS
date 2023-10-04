@@ -115,8 +115,7 @@ link
 
 Adding a image with link
 <a href="https://www.youtube.com/watch?v=MFsbm45b6YY" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/>
-</a><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/img/Part 1 Setting up Github 2021/Github account details.jpg" title="github account details"/></a><br>
 
 
 Adding Video
