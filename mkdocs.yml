@@ -12,10 +12,6 @@ theme:
         - search.suggest
         - search.highlight
         - content.code.annotate
-        - navigation.sections
-        - toc.integrate
-        - content.tabs.link
-        - content.code.copy
     logo: assets/images/T1_xDrip+logo_white_236x236.png
     logo: assets/images/T1_xDrip+logo_Blackandwhite_236x236.png
     favicon: assets/images/favicon.png
