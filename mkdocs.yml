@@ -20,9 +20,6 @@ theme:
     logo: assets/images/T1_xDrip+logo_Blackandwhite_236x236.png
     favicon: assets/images/favicon.png
     palette:
-    toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
       primary: black
       scheme: default
     nav_style: primary
