@@ -29,6 +29,8 @@ extra:
       link: https://www.facebook.com/groups/xdripuk
     - icon: fontawesome/brands/android 
       link: https://www.facebook.com/groups/androidapsusersuk
+      copyright: Copyright &copy; 2019 - 2023 David Gall
+
 markdown_extensions:
     - admonition
     - toc:
