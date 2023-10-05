@@ -6,6 +6,8 @@ docs made by D.Galloway 2019- 2021-->
 
 <span style="background-color: #FFFF00">**Diabetes !102 Years 1921 - 2023**</span> <br>
 
+<img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Ticwatch Pro 5.jpg" title="(BG) Blood Readings Icon"/><br>
+
 ### Watch wear version of AAPS allows you to: 
 •	show data on your watch: by providing custom watchfaces or in standard watchfaces with use of complications. <br>
 
