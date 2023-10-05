@@ -86,7 +86,7 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 
 <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS (Large).png" title="AAPS (Large)"/>AAPS (Large)
 
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Double Click readings icon icon.jpg" title="(BG) Blood Readings Icon"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Ticwatch Pro 5.jpg" title="(BG) Blood Readings Icon"/><br>
 
 
 

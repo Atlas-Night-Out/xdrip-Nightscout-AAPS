@@ -23,7 +23,7 @@ theme:
 extra_css:
     - css/admonitions.css
 extra:
-  generator: false
+  generator: true
   social:
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/groups/xdripuk
