@@ -234,7 +234,7 @@ News as it arrive's<br><br>
   <img width="auto" height="auto" border="0" align="center"  src="../../img/Diabetes News/_methode_times_prod_web_bin_731fcb92-11d2-11ed-b5dc-213f5c972cc4.jpg" title="Diabetes patients win access to ‘life-changing’ Dexcom gadget"/>
 </a><br><br>
 
-Diabetes patients win access to ‘life-changing’ Dexcom gadget: <a href="https://www.thetimes.co.uk/article/ef0a6e1e-11ce-11ed-b5dc-213f5c972cc4?shareToken=0d704635d470ac18ebfc291e5698be39">Diabetes patients win access to ‘life-changing’ Dexcom gadget</a> (Great News for Diabetic in the UK - I've been fighting for this for 6 years! )<br><br>
+Diabetes patients win access to ‘life-changing’ Dexcom gadget: <a href="https://www.thetimes.co.uk/article/diabetes-patients-win-access-to-life-changing-dexcom-gadget-rknlrzb0l">Diabetes patients win access to ‘life-changing’ Dexcom gadget</a> (Great News for Diabetic in the UK - I've been fighting for this for 6 years! )<br><br>
 
 ## **Contact Us**
 If you see or get any links not working or you have a link you'd like me to add please [Contact Us](mailto:diabetes.uk@outlook.com)
