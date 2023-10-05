@@ -28,8 +28,6 @@ markdown_extensions:
     - toc:
         permalink:
 
-plugins:
-  - social
 
 nav:
 - Home: 'index.md'
