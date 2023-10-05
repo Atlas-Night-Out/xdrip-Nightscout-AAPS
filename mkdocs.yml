@@ -27,7 +27,7 @@ extra:
   social:
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/groups/xdripuk
-      - icon: fontawesome/brands/android 
+    - icon: fontawesome/brands/android 
       link: https://www.facebook.com/groups/androidapsusersuk
 markdown_extensions:
     - admonition
