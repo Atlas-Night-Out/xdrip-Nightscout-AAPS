@@ -1,9 +1,8 @@
-site_name: Xdrip+ Nightscout Android APS Readmedocs 
-
+site_name: Xdrip+ Nightscout Android APS Docs 
 
 theme:
     name: material
-    language: en
+        language: en
     features:
         - navigation.tabs
         - navigation.tabs.sticky
@@ -29,15 +28,14 @@ markdown_extensions:
     - toc:
         permalink:
 
-        plugins:
+plugins:
   - social
-
 
 nav:
 - Home: 'index.md'
 - Dexcom :
         - 'Dexcom G6': 'user-guide/Dexcom/Userguide.md'
-        - 'Dexcom G6': 'user-guide/Dexcom/Dexcom One Userguild.md'
+        - 'Dexcom One': 'user-guide/Dexcom/Dexcom One Userguild.md'
 - Xdrip :
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
