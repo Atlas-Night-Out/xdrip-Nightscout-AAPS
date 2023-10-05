@@ -2,7 +2,7 @@ site_name: Xdrip+ Nightscout Android APS Readmedocs
 
 
 theme:
-    name: readthedocs
+    name: material
     language: en
     features:
         - navigation.tabs
@@ -27,7 +27,11 @@ extra:
 markdown_extensions:
     - admonition
     - toc:
-        permalink: ⌁
+        permalink:
+
+        plugins:
+  - social
+
 
 nav:
 - Home: 'index.md'
