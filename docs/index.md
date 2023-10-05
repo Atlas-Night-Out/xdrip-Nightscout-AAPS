@@ -38,7 +38,7 @@ Menu 7: <a href="https://atlas-night-out.github.io/my-project/user-guide/Android
 Menu 8: <a href="https://atlas-night-out.github.io/my-project/user-guide/Medtronic/Disclaimer%20and%20Warning/">Medtronic</a>
 
 ##  9 - Diabetes Helpful Things
-Menu 9: <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/Helpful/Home/">Diabetes Helpful Things</a> 
+Menu 9: <a href="https://atlas-night-out.github.io/my-project/user-guide/Helpful/Helplinks/">Diabetes Helpful Things</a> 
 
 
 
