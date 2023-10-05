@@ -2,7 +2,7 @@ site_name: Xdrip+ Nightscout Android APS Readmedocs
 
 
 theme:
-    name: material
+    name: readthedocs
     language: en
     features:
         - navigation.tabs

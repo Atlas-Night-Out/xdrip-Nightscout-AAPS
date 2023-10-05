@@ -374,9 +374,7 @@
   
 
 
-  
-
-<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../../.." title="Xdrip+ Nightscout Android APS Readmedocs" class="md-nav__button md-logo" aria-label="Xdrip+ Nightscout Android APS Readmedocs" data-md-component="logo">
       
@@ -1998,6 +1996,260 @@
               </div>
             
             
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#part-4-fork-and-deploy-cgm-remote-monitory" class="md-nav__link">
+    Part 4 - Fork and Deploy cgm remote monitory  
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#if-you-would-like-to-follow-these-instructions-with-video-then-see-below-other-wise-continue-step-by-step-below" class="md-nav__link">
+    If you would like to follow these instructions with video then see below other wise continue step by step below
+  </a>
+  
+    <nav class="md-nav" aria-label="If you would like to follow these instructions with video then see below other wise continue step by step below">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-hopfully-you-should-now-have-3-pages-opened-in-your-browser-heroku-atlas-and-github-make-sure-you-are-logged-in-on-each-one-ie-important-before-you-continue" class="md-nav__link">
+    1. Hopfully you should now have 3 pages opened in your browser: Heroku, Atlas, and Github, Make sure you are logged-in on each one (i.e. important) before you continue.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-click-here-or-goto-httpsgithubcomnightscoutcgm-remote-monitor-to-open-a-new-github-page-click-the-on-fork-icon-in-the-top-right" class="md-nav__link">
+    2.  Click Here or goto https://github.com/nightscout/cgm-remote-monitor, to open a new GitHub page. Click the on Fork icon in the top right
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-wait-for-a-moment" class="md-nav__link">
+    3. Wait for a moment
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#31-scroll-down-the-page-and-click-deploy-to-heroku" class="md-nav__link">
+    3.1. Scroll down the page and click Deploy to Heroku
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-enter-in-your-heroku-account-a-site-name-invent-a-name-you-would-like-to-use-or-see-your-bg-in-on-the-internet-confirm-that-the-name-is-available" class="md-nav__link">
+    4. Enter in your Heroku account a site name: invent a name you would like to use or see your BG in on the internet. Confirm that the name is available.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#5-dont-change-the-region" class="md-nav__link">
+    5.  Don’t change the region.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#6-scroll-down-and-setup-the-following-variables-you-can-come-back-to-these-later-later-by-going-to-settings-and-config-vars-enable-in-heroku" class="md-nav__link">
+    6. Scroll down and setup the following variables: You can come back to these later later by going to settings and config Vars Enable in Heroku!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#7-api_secret-will-be-your-nightscout-site-password-it-needs-to-be-at-least-12-characters-long-and-you-should-not-use-spaces-if-you-use-or-symbol-you-should-not-use-spaces-if-you-use-or-symbols-remember-you-will-probably-need-to-express-them-using-percent-encoding-in-your-uploader-and-downloader-apps-if-youre-not-sure-on-how-to-do-this-it-is-recommended-to-use-only-letters-uppercase-lowercase-and-digits" class="md-nav__link">
+    7. API_SECRET will be your Nightscout site password, it needs to be at least 12 characters long and you should NOT use spaces if you use @ or ! symbol you should NOT use spaces if you use @ or ! symbols remember you will probably need to express them using Percent encoding in your uploader and downloader apps. If you're not sure on how to do this, it is recommended to use only letters (uppercase + lowercase) and digits.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#8-if-you-want-to-link-your-dexcom-share-account-as-a-data-source-complete-the-following-3-lines" class="md-nav__link">
+    8. If you want to link your Dexcom Share account as a data source, complete the following 3 lines:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#9-if-you-want-to-link-your-care-link-account-as-a-data-source-currently-not-functional-with-heroku-complete-the-following-lines" class="md-nav__link">
+    9. If you want to link your Care Link account as a data source (currently not functional with Heroku), complete the following lines:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#10-select-the-units-youre-using-in-display_units-the-acceptable-choices-are-mgdl-or-mmoll-or-just-mmol-when-entering-it" class="md-nav__link">
+    10. Select the units you’re using in DISPLAY_UNITS the acceptable choices are mg/dl or mmol/L (or just mmol when entering it).
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plugins" class="md-nav__link">
+    Plugins 
+  </a>
+  
+    <nav class="md-nav" aria-label="Plugins">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#11-in-enable-copy-and-paste-the-following-plugins-below-separated-by-a-space-so-that-wont-have-to-think-about-which-you-want-now-and-learn-the-rest-later" class="md-nav__link">
+    11.    In ENABLE, copy and paste the following Plugins below (separated by a space) so that won't have to think about which you want now and learn the rest later!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#12-now-you-need-the-connection-string-you-defined-during-the-atlas-cluster-creation-part-3-as-the-example-below-but-not-the-string-below-copy-and-paste-your-results-into-the-mongodb_uri-variable-field-in-heroku-vars" class="md-nav__link">
+    12. Now you need the connection string you defined during the Atlas cluster creation - Part 3 (as the example below, but not the string below). Copy and paste your! results into the MONGODB_URI variable field in Heroku vars.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#13-i-will-try-to-give-you-an-example-about-the-way-to-do-it-again-below-you-can-also-see-my-video-if-you-get-stuck" class="md-nav__link">
+    13. I will try to give you an example about the way to do it again below, you can also see my video if you get stuck!
+  </a>
+  
+    <nav class="md-nav" aria-label="13. I will try to give you an example about the way to do it again below, you can also see my video if you get stuck!">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#i-have-given-you-my-examples-below-on-the-right-side-of-the-boxes-so-just-ignore-them-they-are-my-examples-to-show-you-how-the-connection-string-is-made-up" class="md-nav__link">
+    **I have given you my examples below on the right side of the  boxes so just ignore them they are my examples to show you how the connection string is made up! **
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#my-connection-string-results" class="md-nav__link">
+    My Connection String results
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#14-once-you-have-added-your-connection-string-into-the-mongodb_uri-scroll-down-to-the-bottom-of-the-config-var-list-and-click-the-deploy-app" class="md-nav__link">
+    14. Once you have added your Connection string into the MongoDB_Uri. Scroll down to the bottom of the Config var list and click the Deploy APP
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#15-click-the-view-button-and-it-should-come-up-if-not-then-click-the-manage-app-open-app-in-the-top-right-corner" class="md-nav__link">
+    15.  click the  View button and it should come up (if not, then click the Manage App -&gt; Open App, in the top right corner)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#16-your-nightscout-site-should-open-and-direct-you-to-fill-in-profile-editor-for-nightscout" class="md-nav__link">
+    16. Your Nightscout site  should open and direct you to fill in profile editor for Nightscout.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#17-all-you-need-to-fill-in-at-this-moment-in-time-is-your-time-zone-and-eventually-all-the-other-fields-eg-insulin-to-carbs-make-sure-to-not-leave-any-fields-empty-if-you-dont-understand-which-value-to-use-just-use-the-default-value" class="md-nav__link">
+    17. All you need to fill in at this moment in time is your Time zone and eventually all the other fields e.g. Insulin to carbs. Make sure to not leave any fields empty. If you don't understand which value to use, just use the default value.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#18-you-will-then-need-to-go-down-to-authentication-status-on-the-left-and-click-authentication-and-enter-your-heroku-api-secret-you-made-earlier-then-click-authenticate-button-then-save" class="md-nav__link">
+    18. You will then need to go down to Authentication Status on the left and click Authentication.  And enter your Heroku API secret you made earlier. Then click Authenticate button, Then save.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#19-dexcom-share-and-carelink-users-should-see-data-working-after-a-few-minutes-other-uploaders-like-xdrip-spike-xdrip4ios-gimptomato-etc-will-need-to-be-setup-with-a-nightscout-address-and-api-secret-in-each-apps-settings-see-uploaders" class="md-nav__link">
+    19. Dexcom Share and CareLink users should see data working after a few minutes. Other uploaders like xDrip+, Spike, xDrip4iOS, Gimp,Tomato etc will need to be setup with a Nightscout address and API secret in each Apps settings (See Uploaders).
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nightscout-address-for-your-uploader-apps" class="md-nav__link">
+    Nightscout Address for your Uploader Apps
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#papertrail" class="md-nav__link">
+    PAPERTRAIL
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#enable-auto-deploys-in-heroku" class="md-nav__link">
+    Enable Auto Deploys in Heroku
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#issues-or-concerns" class="md-nav__link">
+    Issues or Concerns
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#if-you-have-any-issues-or-concerns-please-post-your-questions-in-the" class="md-nav__link">
+    If you have any issues or concerns please post your questions in the  
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           
             <div class="md-content" data-md-component="content">
@@ -2381,8 +2633,6 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
             </div>
           
           
-  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var tab,labels=set.querySelector(".tabbed-labels");for(tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
-
         </div>
         
           <button type="button" class="md-top md-icon" data-md-component="top" hidden>
@@ -2412,7 +2662,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
     </div>
     
     
-    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.tracking", "navigation.top", "search.suggest", "search.highlight", "content.code.annotate", "navigation.sections", "toc.integrate", "content.tabs.link", "content.code.copy"], "search": "../../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.tracking", "navigation.top", "search.suggest", "search.highlight", "content.code.annotate"], "search": "../../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
       <script src="../../../assets/javascripts/bundle.6eac0284.min.js"></script>
