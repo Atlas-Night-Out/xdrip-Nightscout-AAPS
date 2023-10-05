@@ -30,9 +30,7 @@ extra:
     - icon: fontawesome/brands/android 
       link: https://www.facebook.com/groups/androidapsusersuk
       copyright: Copyright &copy; 2019 - 2023 David Gall
-    cards_layout_options:
-    background_color: blue             # Change background color
-    background_image: null             # Remove background image
+
 markdown_extensions:
     - admonition
     - toc:
