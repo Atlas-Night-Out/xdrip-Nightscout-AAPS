@@ -10,6 +10,7 @@ theme:
         - navigation.tracking
         - navigation.top
         - search.suggest
+        - navigation.footer
         - search.highlight
         - content.code.annotate
     logo: assets/images/T1_xDrip+logo_white_236x236.png
