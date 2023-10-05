@@ -19,6 +19,8 @@ theme:
       primary: black
       scheme: default
     nav_style: primary
+plugins:
+  - blog
 
 extra_css:
     - css/admonitions.css
