@@ -24,6 +24,9 @@ extra_css:
     - css/admonitions.css
 extra:
   generator: false
+  social:
+    - icon: fontawesome/brands/facebook 
+      link: https://www.facebook.com/groups/xdripuk
 markdown_extensions:
     - admonition
     - toc:
