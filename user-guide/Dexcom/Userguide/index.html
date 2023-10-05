@@ -1,194 +1,1942 @@
-<!DOCTYPE html>
-<html class="writer-html5" lang="en" >
-<head>
-    <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <link rel="shortcut icon" href="../../../img/favicon.ico" />
-    <title>Dexcom G6 - Xdrip+ Nightscout Android APS Readmedocs</title>
-    <link rel="stylesheet" href="../../../css/theme.css" />
-    <link rel="stylesheet" href="../../../css/theme_extra.css" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
-        <link href="../../../css/admonitions.css" rel="stylesheet" />
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
     
-      <script>
-        // Current page data
-        var mkdocs_page_name = "Dexcom G6";
-        var mkdocs_page_input_path = "user-guide\\Dexcom\\Userguide.md";
-        var mkdocs_page_url = null;
-      </script>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../../..">
+      
+      
+        <link rel="next" href="../Dexcom%20One%20Userguild/">
+      
+      
+      <link rel="icon" href="../../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.5.3, mkdocs-material-9.4.3">
     
-    <!--[if lt IE 9]>
-      <script src="../../../js/html5shiv.min.js"></script>
-    <![endif]-->
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
-      <script>hljs.highlightAll();</script> 
-</head>
+    
+      
+        <title>Dexcom G6 - Xdrip+ Nightscout Android APS Readmedocs</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.79e020e9.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.a5377069.min.css">
+      
+      
 
-<body class="wy-body-for-nav" role="document">
 
-  <div class="wy-grid-for-nav">
-    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
-    <div class="wy-side-scroll">
-      <div class="wy-side-nav-search">
-          <a href="../../..">
-          <img src="../../../assets/images/T1_xDrip+logo_Blackandwhite_236x236.png" class="logo" alt="Logo"/>
-        </a><div role="search">
-  <form id ="rtd-search-form" class="wy-form" action="../../../search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
-  </form>
-</div>
-      </div>
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../css/admonitions.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
-              <ul>
-                <li class="toctree-l1"><a class="reference internal" href="../../..">Home</a>
-                </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Dexcom</span></p>
-              <ul class="current">
-                  <li class="toctree-l1 current"><a class="reference internal current" href="./">Dexcom G6</a>
-    <ul class="current">
-    </ul>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../Dexcom%20One%20Userguild/">Dexcom G6</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Xdrip</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip%20-%20Download/">Download</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip%20-%20install/">Install</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/settings/">xdrip± Settings</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip-HamburgerMenu/">xdrip± Hamburger Menu</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/Copy-settings/">xdrip± Copy Settings</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip%20-%20Base/">Base URL</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/Compatible%20Watches/">Compatible - Watches</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/Xdrip%20Follower%20Setup/">xdrip± Follower</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip%20-%20hardwaredatasource/">Hardware Data Source</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip%20-%20Dexcom%20G6%20and%20Dexcom%20One/">G6 & One</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip%20-%20System%20Status/">System Status</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/xdrip%20-%20Start%20Sensor/">Start Sensor</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/Xdrip%20connection%20Problem%20fix/">Connection issues – How to Fix</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/Xdrip%20-%20Setting%20up%20Glucose%20Meters/">Setting up Glucose Meter</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../xdrip/TicWatch-Pro-3-side-load---xdrip/">Sideload Ticwatch Pro </a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Nightscout</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Specifications/">Specifications</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Setting_up_Github_Account_part1/">Part 1 Setting up Github Account </a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Setting_up_Heroku_Account_part2/">Part 2 Setting up Heroku Account </a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Setting_up_Atlas_Account_part3/">Part 3 Setting up Atlas Account </a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Part%204%20-%20Fork%20and%20Deploy%20cgm%20remote%20monitory/">Part 4 - Fork and Deploy cgm remote monitory</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Nightscout_update/">Updating Nightscout</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Nightscout_usefull_Information/">Nightscout usefull Information</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Redeploying%20your%20repository/">Heroku Redeploy Update </a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Google%20Cloud_setup/">Google Cloud Server Setup</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Fly_io-setup/">Fly_io Server Setup</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Redeploying%20your%20repository/">Redeploying your repository</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Nightscout_Oracle%20Cloud%20-%20setup/">Oracle Cloud Setup</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Alexa%20Show%20Nightscout%20on%20Echo%20Show%2010%203rd%20Gen/">Add Nightscout onto an Echo Show</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Watches</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Watches/">Watches</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Watches/TicWatch-Pro-3-side-load---xdrip/">Sideload Ticwatch Pro</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Garmin_Connect_BloodReadings/">Connecting Garmin 945 to Dexcom G6</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Watches/Compatible%20Watches/">Compatible Watches</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">T1's Smart Home</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/">Aqara T1 Pro cube Setup to Echo Show</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Nightscout/Alexa%20Show%20Nightscout%20on%20Echo%20Show%2010%203rd%20Gen/">Add Nightscout onto an Echo Show</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Freestyle Libre</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">Setup Freestyle Libre 2</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">AndroidAPS</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../AndroidAPS/Disclaimer%20and%20Warning/">Disclaimer and Warning</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../AndroidAPS/AAPS%20Backup/">AAPS Backup</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../AndroidAPS/Bolus%20in%20Watch%20for%20AAPS%20Bolus/">AAPS on Wear OS smartwatch</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Medtronic</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Medtronic/Disclaimer%20and%20Warning/">Disclaimer and Warning</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Medtronic/New%20experimental%20version%20for%20CareLink%20reCAPTCHA/">New experimental version for CareLink reCAPTCHA</a>
-                  </li>
-              </ul>
-              <p class="caption"><span class="caption-text">Helpful Things</span></p>
-              <ul>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Helpful/Helplinks/">Helpful Links</a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../Helpful/Deleting-your-cgm-remote-monitor/">Github - Deleting-your-cgm-remote-monitor  </a>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../../../about/">About</a>
-                  </li>
-              </ul>
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="black" data-md-color-accent="indigo">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#there-are-4-elements-to-get-started" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../../.." title="Xdrip+ Nightscout Android APS Readmedocs" class="md-header__button md-logo" aria-label="Xdrip+ Nightscout Android APS Readmedocs" data-md-component="logo">
+      
+  <img src="../../../assets/images/T1_xDrip+logo_Blackandwhite_236x236.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Xdrip+ Nightscout Android APS Readmedocs
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Dexcom G6
+            
+          </span>
+        </div>
       </div>
     </div>
-    </nav>
-
-    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
-          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="../../..">Xdrip+ Nightscout Android APS Readmedocs</a>
+    
+      
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
         
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
       </nav>
-      <div class="wy-nav-content">
-        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
-  <ul class="wy-breadcrumbs">
-    <li><a href="../../.." class="icon icon-home" aria-label="Docs"></a></li>
-          <li class="breadcrumb-item">Dexcom</li>
-      <li class="breadcrumb-item active">Dexcom G6</li>
-    <li class="wy-breadcrumbs-aside">
-    </li>
-  </ul>
-  <hr/>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
-          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
-            <div class="section" itemprop="articleBody">
+    
+    
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../.." class="md-tabs__link">
+        
+  
+    
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+  
+    
+    
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="./" class="md-tabs__link">
+          
+  
+  Dexcom
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../xdrip/xdrip%20-%20Download/" class="md-tabs__link">
+          
+  
+  Xdrip
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Specifications/" class="md-tabs__link">
+          
+  
+  Nightscout
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Watches/" class="md-tabs__link">
+          
+  
+  Watches
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/" class="md-tabs__link">
+          
+  
+  T1's Smart Home
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../FreestyleLibre/How_to_setup_FreeStyle_Libre_2/" class="md-tabs__link">
+          
+  
+  Freestyle Libre
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../AndroidAPS/Disclaimer%20and%20Warning/" class="md-tabs__link">
+          
+  
+  AndroidAPS
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Medtronic/Disclaimer%20and%20Warning/" class="md-tabs__link">
+          
+  
+  Medtronic
+
+        </a>
+      </li>
+    
+  
+
+      
+        
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../../Helpful/Helplinks/" class="md-tabs__link">
+          
+  
+  Helpful Things
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
               
-                <p><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom G6 Logo_1_200x30.png" title="Dexcom"/></a><br></p>
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="Xdrip+ Nightscout Android APS Readmedocs" class="md-nav__button md-logo" aria-label="Xdrip+ Nightscout Android APS Readmedocs" data-md-component="logo">
+      
+  <img src="../../../assets/images/T1_xDrip+logo_Blackandwhite_236x236.png" alt="logo">
+
+    </a>
+    Xdrip+ Nightscout Android APS Readmedocs
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Home
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Dexcom
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_2">
+            <span class="md-nav__icon md-icon"></span>
+            Dexcom
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Dexcom G6
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  <span class="md-ellipsis">
+    Dexcom G6
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#there-are-4-elements-to-get-started" class="md-nav__link">
+    There are 4 Elements to get started
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    Setup
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dexcom-intro-userguide" class="md-nav__link">
+    Dexcom Intro Userguide
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dexcom-insertion-video" class="md-nav__link">
+    Dexcom Insertion Video
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#if-using-a-receiver" class="md-nav__link">
+    If Using A Receiver
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    Tips
+  </a>
+  
+    <nav class="md-nav" aria-label="Tips">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tips-2" class="md-nav__link">
+    Tips 2
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tips-3" class="md-nav__link">
+    Tips 3
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-sensor-glucose-wont-always-match-your-blood-glucose" class="md-nav__link">
+    Why Sensor Glucose Won't Always Match Your Blood Glucose
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Dexcom%20One%20Userguild/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Dexcom G6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Xdrip
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Xdrip
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip%20-%20Download/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Download
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip%20-%20install/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Install
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/settings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    xdrip± Settings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip-HamburgerMenu/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    xdrip± Hamburger Menu
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/Copy-settings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    xdrip± Copy Settings
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip%20-%20Base/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Base URL
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/Compatible%20Watches/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Compatible - Watches
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/Xdrip%20Follower%20Setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    xdrip± Follower
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip%20-%20hardwaredatasource/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Hardware Data Source
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip%20-%20Dexcom%20G6%20and%20Dexcom%20One/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    G6 & One
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip%20-%20System%20Status/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    System Status
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/xdrip%20-%20Start%20Sensor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Start Sensor
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/Xdrip%20connection%20Problem%20fix/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Connection issues – How to Fix
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/Xdrip%20-%20Setting%20up%20Glucose%20Meters/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setting up Glucose Meter
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../xdrip/TicWatch-Pro-3-side-load---xdrip/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sideload Ticwatch Pro 
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Nightscout
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            Nightscout
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Specifications/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Specifications
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Setting_up_Github_Account_part1/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Part 1 Setting up Github Account 
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Setting_up_Heroku_Account_part2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Part 2 Setting up Heroku Account 
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Setting_up_Atlas_Account_part3/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Part 3 Setting up Atlas Account 
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Part%204%20-%20Fork%20and%20Deploy%20cgm%20remote%20monitory/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Part 4 - Fork and Deploy cgm remote monitory
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Nightscout_update/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Updating Nightscout
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Nightscout_usefull_Information/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Nightscout usefull Information
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Redeploying%20your%20repository/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Heroku Redeploy Update 
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Google%20Cloud_setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Google Cloud Server Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Fly_io-setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Fly_io Server Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Redeploying%20your%20repository/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Redeploying your repository
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Nightscout_Oracle%20Cloud%20-%20setup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Oracle Cloud Setup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Alexa%20Show%20Nightscout%20on%20Echo%20Show%2010%203rd%20Gen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Add Nightscout onto an Echo Show
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Watches
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            Watches
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Watches/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Watches
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Watches/TicWatch-Pro-3-side-load---xdrip/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Sideload Ticwatch Pro
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Garmin_Connect_BloodReadings/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Connecting Garmin 945 to Dexcom G6
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Watches/Compatible%20Watches/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Compatible Watches
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_6" >
+        
+          
+          <label class="md-nav__link" for="__nav_6" id="__nav_6_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    T1's Smart Home
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_6_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_6">
+            <span class="md-nav__icon md-icon"></span>
+            T1's Smart Home
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Aqara T1 Pro cube Setup to Echo Show
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Nightscout/Alexa%20Show%20Nightscout%20on%20Echo%20Show%2010%203rd%20Gen/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Add Nightscout onto an Echo Show
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_7" >
+        
+          
+          <label class="md-nav__link" for="__nav_7" id="__nav_7_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Freestyle Libre
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_7_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_7">
+            <span class="md-nav__icon md-icon"></span>
+            Freestyle Libre
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../FreestyleLibre/How_to_setup_FreeStyle_Libre_2/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Setup Freestyle Libre 2
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_8" >
+        
+          
+          <label class="md-nav__link" for="__nav_8" id="__nav_8_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    AndroidAPS
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_8_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_8">
+            <span class="md-nav__icon md-icon"></span>
+            AndroidAPS
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AndroidAPS/Disclaimer%20and%20Warning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Disclaimer and Warning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AndroidAPS/AAPS%20Backup/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AAPS Backup
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../AndroidAPS/Bolus%20in%20Watch%20for%20AAPS%20Bolus/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    AAPS on Wear OS smartwatch
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_9" >
+        
+          
+          <label class="md-nav__link" for="__nav_9" id="__nav_9_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Medtronic
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_9_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_9">
+            <span class="md-nav__icon md-icon"></span>
+            Medtronic
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Medtronic/Disclaimer%20and%20Warning/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Disclaimer and Warning
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Medtronic/New%20experimental%20version%20for%20CareLink%20reCAPTCHA/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    New experimental version for CareLink reCAPTCHA
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+    
+    
+    
+    
+    
+      
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_10" >
+        
+          
+          <label class="md-nav__link" for="__nav_10" id="__nav_10_label" tabindex="">
+            
+  
+  <span class="md-ellipsis">
+    Helpful Things
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_10_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_10">
+            <span class="md-nav__icon md-icon"></span>
+            Helpful Things
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Helpful/Helplinks/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Helpful Links
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Helpful/Deleting-your-cgm-remote-monitor/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    Github - Deleting-your-cgm-remote-monitor  
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../about/" class="md-nav__link">
+        
+  
+  <span class="md-ellipsis">
+    About
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#there-are-4-elements-to-get-started" class="md-nav__link">
+    There are 4 Elements to get started
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    Setup
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dexcom-intro-userguide" class="md-nav__link">
+    Dexcom Intro Userguide
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dexcom-insertion-video" class="md-nav__link">
+    Dexcom Insertion Video
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#if-using-a-receiver" class="md-nav__link">
+    If Using A Receiver
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips" class="md-nav__link">
+    Tips
+  </a>
+  
+    <nav class="md-nav" aria-label="Tips">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#tips-2" class="md-nav__link">
+    Tips 2
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tips-3" class="md-nav__link">
+    Tips 3
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#why-sensor-glucose-wont-always-match-your-blood-glucose" class="md-nav__link">
+    Why Sensor Glucose Won't Always Match Your Blood Glucose
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  <h1>Dexcom G6</h1>
+
+<p><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom G6 Logo_1_200x30.png" title="Dexcom"/></a><br></p>
 <h3 id="there-are-4-elements-to-get-started"><strong>There are 4 Elements to get started</strong><a class="headerlink" href="#there-are-4-elements-to-get-started" title="Permanent link">⌁</a></h3>
 <h2 id="setup">Setup<a class="headerlink" href="#setup" title="Permanent link">⌁</a></h2>
 <ol>
@@ -337,51 +2085,50 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </table>
 
 -->
-              
+
+
+
+
+
+                
+              </article>
             </div>
-          </div><footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../../.." class="btn btn-neutral float-left" title="Home"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../Dexcom%20One%20Userguild/" class="btn btn-neutral float-right" title="Dexcom G6">Next <span class="icon icon-circle-arrow-right"></span></a>
-    </div>
-
-  <hr/>
-
-  <div role="contentinfo">
-    <!-- Copyright etc -->
-  </div>
-
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
-</footer>
+          
           
         </div>
-      </div>
-
-    </section>
-
-  </div>
-
-  <div class="rst-versions" role="note" aria-label="Versions">
-  <span class="rst-current-version" data-toggle="rst-current-version">
-    
-    
-      <span><a href="../../.." style="color: #fcfcfc">&laquo; Previous</a></span>
-    
-    
-      <span><a href="../Dexcom%20One%20Userguild/" style="color: #fcfcfc">Next &raquo;</a></span>
-    
-  </span>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
 </div>
-    <script src="../../../js/jquery-3.6.0.min.js"></script>
-    <script>var base_url = "../../..";</script>
-    <script src="../../../js/theme_extra.js"></script>
-    <script src="../../../js/theme.js"></script>
-      <script src="../../../search/main.js"></script>
-    <script>
-        jQuery(function () {
-            SphinxRtdTheme.Navigation.enable(true);
-        });
-    </script>
-
-</body>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.tracking", "navigation.top", "search.suggest", "search.highlight", "content.code.annotate"], "search": "../../../assets/javascripts/workers/search.a264c092.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.6eac0284.min.js"></script>
+      
+    
+  </body>
 </html>
