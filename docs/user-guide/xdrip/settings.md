@@ -1,5 +1,5 @@
 These docs are based on the [latest Nightly Build](https://github.com/NightscoutFoundation/xDrip/releases) Which you can download from there. (allow a few days for update to take effect).  
-**If you're already using xDrip+** and don't find a feature documented here and want it, you might need to [update](../../use/update) your xDrip+ app. <br> 
+**If you're already using xDrip+** and don't find a feature documented here and want it, you might need to [update](xdrip%20-%20install.md#pc-download) your xDrip+ app. <br> 
 
 See at the bottom of each page the version at which it was written, if you have an older version it might not include the feature.
 
