@@ -73,7 +73,7 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 </tbody>
 </table>
    
-# (not fully finished this page yet! be back soon to finish it)
+# (not fully finished on this page yet! will be back soon to finish it)
 
 
 
