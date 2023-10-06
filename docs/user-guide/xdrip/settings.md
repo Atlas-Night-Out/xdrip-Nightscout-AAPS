@@ -21,7 +21,7 @@ You need an Android phone.
 ### Translation
 
 The documentation is only available in English for now.  
-You might find it easier to follow if you [switch your xDrip+ to English](../../use/display/#language) and read it using and automatic translation with Google.<br>
+You might find it easier to follow if you [switch your xDrip+ to English](Display-Settings.md#Display-Settings/) and read it using and automatic translation with Google.<br>
 
 
 ## 1. [xdrip±  Hamburger Menu](../xdrip/settings.md#1-xdrip-hamburger-menu) <br>
