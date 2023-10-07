@@ -3,7 +3,7 @@ docs made by D.Galloway 2019- 2023-->
 
 
 
-This menu allows you to modify many graphical aspect settings of xDrip+.
+### This menu allows you to modify many graphical aspect settings of xDrip+.
 
 ## xdrip+ Colour Settings
 
