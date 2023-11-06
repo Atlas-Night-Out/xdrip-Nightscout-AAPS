@@ -93,9 +93,10 @@ nav:
     - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'
 
 -   AndroidAPS : 
-    - 'Disclaimer and Warning': 'user-guide/AndroidAPS/Disclaimer and Warning.md'
+    - 'AAPS Notification': 'user-guide/AndroidAPS/AAPS Notifications.md'
     - 'AAPS Backup': 'user-guide/AndroidAPS/AAPS Backup.md'
     - 'AAPS on Wear OS Smartwatch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
+    - 'Disclaimer and Warning': 'user-guide/AndroidAPS/Disclaimer and Warning.md'
     
 -   Medtronic :
     - 'Disclaimer and Warning': 'user-guide/Medtronic/Disclaimer and Warning.md'
