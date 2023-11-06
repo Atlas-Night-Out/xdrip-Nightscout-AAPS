@@ -1,6 +1,6 @@
 <img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Echo Show 10 (3rd gen).jpg" title="Echo Show 10 (3rd gen)"/></a><br>
 
-You will have already have had to setup a Nightscout site before you can do this setup, see [Nightscout Setup](/docs/user-guide/Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout) if you have not already set it up.<br>
+You will have already have had to setup a Nightscout site before you can do this setup, see [Nightscout Setup](./../../Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout) if you have not already set it up.<br>
 
 
 
