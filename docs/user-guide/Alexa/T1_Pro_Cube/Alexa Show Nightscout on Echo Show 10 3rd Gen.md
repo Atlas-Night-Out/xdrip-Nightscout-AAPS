@@ -2,7 +2,7 @@
 
 You will have already have had to setup a Nightscout site before you can do this setup, see [Nightscout Setup](/docs/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show.md#part-1-setting-up-the-github-for-nightscout) if you have not already set it up.<br>
 
-[Nightscout Setup](/docs/user-guide/Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout)
+[Nightscout Setup](../user-guide/Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout)
 
 The latest software releases from Amazon for the Alexa Show 10 allows you to view with Silk Browser only on its display. This guide will help step you through the setup for voice commands to show your Nightscout site with just a few words on the Echo Shows display. We are be thinking the Shows Wake Word is “Alexa”! <br>
 
