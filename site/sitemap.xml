@@ -16,11 +16,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://atlas-night-out.github.io/my-project/user-guide/Nightscout_Plugins/</loc>
-         <lastmod>2023-11-06</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Atlas_Account_part3/</loc>
          <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
@@ -137,6 +132,11 @@
     </url>
     <url>
          <loc>https://atlas-night-out.github.io/my-project/user-guide/Nightscout/Nightscout_Oracle%20Cloud/</loc>
+         <lastmod>2023-11-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://atlas-night-out.github.io/my-project/user-guide/Nightscout/Nightscout_Plugins/</loc>
          <lastmod>2023-11-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
