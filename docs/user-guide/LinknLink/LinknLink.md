@@ -2,7 +2,7 @@
 <iframe width="660" height="415" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 <iframe width="660" height="415" src="https://www.youtube.com/embed/bTc6qBVb9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
-##  <span style="background-color: #5B9BD5">**Intro**</span>
+##  <span style="background-color: #00D8FF">**Intro**</span>
 Full Protocol Support and Ease of Use
  iSG is a favourably compatible smart home gateway supporting all <a href="https://www.dfrobot.com/blog-13453.html" target="_blank" title="Global IoT Protocols">Global IoT Protocols</a>Global IoT Protocols, including Wi-Fi, Matter, zigbee,z-wave, IR, RF, BLE 
  
@@ -17,7 +17,7 @@ Zigbee and z-wave are supported via USB Dongle, IR and RF are supported by eHub)
 ## Items you are going to need
 
 1.	<a href="https://shop.linknlink.com/products/isg-the-next-generation-all-in-one-super-smart-home-gateway" target="_blank" title="LinknLink iSG">LinknLink iSG</a>  (The Next Generation All-in-One Super Smart Home Gateway)
-2.	<a href="https://www.amazon.co.uk/gp/product/B078YR6PPL/ref=ox_sc_saved_image_1?smid=A1HSXKK2MQMA8M&th=1" target="_blank" title="Home Hub Mount">Home Hub Mount</a> Only need if you ar egoing to fix to a wall!
+2.	<a href="https://www.amazon.co.uk/gp/product/B078YR6PPL/ref=ox_sc_saved_image_1?smid=A1HSXKK2MQMA8M&th=1" target="_blank" title="Home Hub Mount">Home Hub Mount</a>  Will Only need if you are going to fix to a wall!
 3.	<a href="https://www.amazon.co.uk/dp/B084P3KP2R?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Echo Show 10">Echo Show 10 (3rd generation)</a> or an <a href="https://www.amazon.co.uk/gp/product/B09B96TG33/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Echo Dot">Echo Dot </a> (5th generation, 2022 release) Or your Samsung Mobile or Tablet
 4.	Android Mobile Device in my case a <a href="https://www.amazon.co.uk/gp/product/B07W6XFX64/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Samsung Note10 +">(Samsung Note10 +)</a> 
 If you have an iPhone you may wish to set it up with Home App (but I will not be showing you a setup in this video) <br>
