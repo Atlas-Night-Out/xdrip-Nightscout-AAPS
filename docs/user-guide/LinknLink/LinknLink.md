@@ -23,7 +23,13 @@ Zigbee and z-wave are supported via USB Dongle, IR and RF are supported by eHub)
  </a> 
 
 
-## LinknLink Mobile App
+## <span style="background-color: #00D8FF">**LinknLink Mobile App**</span>
+
+
+
+#### More Information Coming soon!
+
+You can also reach out to us on <a href="https://www.facebook.com/groups/linknlinkisg/" target="_blank" title="Facebook">Facwbook Group</a>Facebook
 
 
 
