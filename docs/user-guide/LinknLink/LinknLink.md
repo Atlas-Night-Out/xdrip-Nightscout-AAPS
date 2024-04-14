@@ -2,7 +2,7 @@
 <iframe width="660" height="415" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 <iframe width="660" height="415" src="https://www.youtube.com/embed/bTc6qBVb9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
-##  <span style="background-color: #3180C2">**Intro**</span>Intro
+##  <span style="background-color: #5B9BD5">**Intro**</span>
 Full Protocol Support and Ease of Use
  iSG is a favourably compatible smart home gateway supporting all Global IoT Protocols, including Wi-Fi, Matter, zigbee,z-wave, IR, RF, BLE 
  
