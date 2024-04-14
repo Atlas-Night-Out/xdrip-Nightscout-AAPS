@@ -1,5 +1,5 @@
 <center><img width="700" height="auto" border="0" align="center"  src="/my-project/img/LinknLink/linknlink all in one Intelligent super gateway.jpg" title="LinknLink iSG: The Next Generation All-in-One Super Smart Home Gateway"/></a></center><br>
-<iframe width="660" height="415" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<center><iframe width="660" height="415" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center><br>
 <iframe width="660" height="415" src="https://www.youtube.com/embed/bTc6qBVb9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
 ##  <span style="background-color: #00D8FF">**Intro**</span>
