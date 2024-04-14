@@ -4,7 +4,7 @@
 
 ##  <span style="background-color: #00D8FF">**Intro**</span>
 Full Protocol Support and Ease of Use
- iSG is a favourably compatible smart home gateway supporting all <a href="https://www.dfrobot.com/blog-13453.html" target="_blank" title="Global IoT Protocols">Global IoT Protocols</a>Global IoT Protocols, including Wi-Fi, Matter, zigbee,z-wave, IR, RF, BLE 
+ iSG is a favourably compatible smart home gateway supporting all <a href="https://www.dfrobot.com/blog-13453.html" target="_blank" title="Global IoT Protocols">Global IoT Protocols</a>, including Wi-Fi, Matter, zigbee,z-wave, IR, RF, BLE 
  
 Zigbee and z-wave are supported via USB Dongle, IR and RF are supported by eHub), enabling almost all smart home devices connected and managed through iSG regardless of brand or protocol.
 
