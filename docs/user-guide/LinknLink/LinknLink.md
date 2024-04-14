@@ -16,7 +16,7 @@ Zigbee and z-wave are supported via USB Dongle, IR and RF are supported by eHub)
 
 ## Items you are going to need
 
-1.	<a href="https://www.amazon.co.uk/dp/B0BHWS3VTZ?maas=maas_adg_F2E7A71BEAD7E7012F8DA4528E905764_afap_abs&linkCode=sl1&tag=paulhibbert-21&linkId=17f5a99c41bcb0d2cd1cdd6c378794b3&language=en_GB&ref_=as_li_ss_tl" target="_blank" title="Aqara Cube T1 Pro">Aqara Cube T1 Pro</a>   (Also REQUIRES AQARA ZIGBEE 3.0 HUB)
+1.	<a href="https://shop.linknlink.com/products/isg-the-next-generation-all-in-one-super-smart-home-gateway" target="_blank" title="LinknLink iSG">LinknLink iSG</a>  
 2.	<a href="https://www.amazon.co.uk/dp/B09BJCNCKM?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Aqara Smart Hub">Aqara Smart Hub E1</a> Aqara Smart Hub E1 (2.4 GHz Wi-Fi Required)
 3.	<a href="https://www.amazon.co.uk/dp/B084P3KP2R?psc=1&ref=ppx_yo2ov_dt_b_product_details" target="_blank" title="Echo Show 10">Echo Show 10 (3rd generation)</a> or an <a href="https://www.amazon.co.uk/gp/product/B09B96TG33/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Echo Dot">Echo Dot </a> (5th generation, 2022 release) Or your Samsung Mobile or Tablet
 4.	Android Mobile Device in my case a <a href="https://www.amazon.co.uk/gp/product/B07W6XFX64/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="_blank" title="Samsung Note10 +">(Samsung Note10 +)</a> 
