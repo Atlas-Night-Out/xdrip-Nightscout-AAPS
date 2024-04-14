@@ -1,9 +1,15 @@
 <center><img width="700" height="auto" border="0" align="center"  src="/my-project/img/LinknLink/linknlink all in one Intelligent super gateway.jpg" title="LinknLink iSG: The Next Generation All-in-One Super Smart Home Gateway"/></a></center><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<iframe width="660" height="415" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 <iframe width="660" height="415" src="https://www.youtube.com/embed/bTc6qBVb9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
-## Short Intro_test
-This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more. I will be trying to help you set up an Echo Show 10 (3rd Gen) or an Echo Dot or a Samsung Tablet. So, it will read out your Glucose readings. I will not be going through and explaining the unboxing as this as been done in other videos.<br>
+##  <span style="background-color: #3180C2">**Intro**</span>Intro
+Full Protocol Support and Ease of Use
+ iSG is a favourably compatible smart home gateway supporting all Global IoT Protocols, including Wi-Fi, Matter, zigbee,z-wave, IR, RF, BLE 
+ 
+Zigbee and z-wave are supported via USB Dongle, IR and RF are supported by eHub), enabling almost all smart home devices connected and managed through iSG regardless of brand or protocol.
+
+<a href="https://www.dfrobot.com/blog-13453.html" target="_blank" title="Global IoT Protocols">Global IoT Protocols</a> 
+<br>
 
 
 <br>
@@ -190,6 +196,9 @@ I wish I could help more with other setups but at least you will have a clue ide
 		
 adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
+
+adding 	Blue Hightligher!!!!!!!!	with bold too
+<span style="background-color: #3180C2">**Marked text**</span>
 
 
 <a>
