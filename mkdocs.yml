@@ -26,10 +26,14 @@ extra_css:
 extra:
   generator: false
   social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Atlas-Night-Out 
     - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/groups/xdripuk
-    - icon: fontawesome/brands/android 
+    - icon: fontawesome/brands/facebook 
       link: https://www.facebook.com/groups/androidapsusersuk
+    - icon: fontawesome/brands/android 
+      link: https://code.visualstudio.com/
       copyright: Copyright &copy; 2019 - 2023 David Gall
       cards_layout_options:
     
