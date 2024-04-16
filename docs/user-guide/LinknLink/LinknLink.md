@@ -33,7 +33,7 @@ Which you can get from the Google PlayStore<br>
 
 ## **More Information will be Coming soon!**
 
-If You need any further help you can reach out to us on are <a href="https://www.facebook.com/groups/linknlinkisg/" target="_blank" title="Facebook">Facebook Group</a><br><br>
+If You need any further help please reach out to us on are <a href="https://www.facebook.com/groups/linknlinkisg/" target="_blank" title="Facebook">Facebook Group</a><br><br>
 
 
 
