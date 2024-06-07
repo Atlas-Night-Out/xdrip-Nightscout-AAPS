@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 # AAPS on Wear OS smartwatch 
 ## Ticwatch Pro 5 Watch with AAPS Watch faces
 
-<span style="background-color: #FFFF00">**Diabetes !102 Years 1921 - 2023**</span> <br>
+
 
 <img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Ticwatch Pro 5.jpg" title="(BG) Blood Readings Icon"/><br>
 
@@ -29,7 +29,7 @@ docs made by D.Galloway 2019- 2021-->
 Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 
 3. Make your own copy of AAPS_3.1.0.3.APK file in Android Studio. And then have it AAPS 3.1.0.3.APk file installed onto your Phone and working with xdrip+,  then within the ConfigBuilder you need to enable the Wear plugin. <br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Android_3.1.0.5 App Main.jpg" title="Android_3.1.0.5 APP.Main"/> <Br><br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AndroidAPS_3.2.0.3_main.jpg" title="Android_3.2.0.3 APP.Main"/> <Br><br>
 
 4. You can copy the Repo code from Github into Android Studio from  <a href=" https://github.com/nightscout/AndroidAPS   " target="_blank" title="Git Hub Repository">AAPS     </a>    Or go to https://github.com/nightscout/AndroidAPS  to make your own AAPS.APK file to install onto your phone.<br>
 
