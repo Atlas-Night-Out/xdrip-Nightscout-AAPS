@@ -1,19 +1,9 @@
+<img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ Sensor_390x260.png" title="Dexcom One+ Sensor"/></a>
 
-
-
-
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/></a><br>
-
-
-
-## xDrip+ Advised Settings - G6, Dexcom One or One+ - G7 
-
+## xDrip+ Advised Settings - G6, Dexcom One or One+ - G7 <br>
 <font size="5">
-
-
-These are the suggested G6, G7, Dexcom ONE Dexcom One+ settings when using xDrip+
-
- * After a fresh install of xDrip, running the source wizard will result in these same settings. If you see a difference, please let me know.
+* These are the suggested G6, G7, Dexcom ONE Dexcom One+ settings when using xDrip+
+* After a fresh install of xDrip, running the source wizard will result in these same settings. If you see a difference, please let me know.
 
 *  You should use an xDrip+ version not older than the present stable release. Please update accordingly.
 *	Settings −> G5/G6/Dex1 Debug Settings
@@ -62,30 +52,13 @@ Hit on “Permissions”.
 <center>Enable Location: <img width="240" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/location.jpg" title="Enable Location"/> <img width="240" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/Allow Permissions.jpg" title="Allow Permissions"/></a></center>
 
 
-* Restart Your Mobile.
+* Now Restart Your Mobile.
 
 
 </font>
 
 
-## Dexcom Insertion Video
 
-<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
-</iframe>
-
-
-## If Using A Receiver
-
-I found if I was using xdrip+ I would start the Sensor and Transmitter, first in xDrip.+<br>
-
-Then After the 2 hour Warm up I would then add Sensor code and add the tansmitter Serial Number to the Dexcom Receiver to let it do its process. <br>  I tended not to carry the receiver around with me but liked it at the side of the bed as an extra percaution.<br>
-<br>
-<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/c5mjePmJVS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
-
-
-
-
-## Why Sensor Glucose Won't Always Match Your Blood Glucose<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/d9UzbC7pf4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
