@@ -48,6 +48,8 @@ nav:
 - Home: 'index.md'
 - Dexcom :
         - 'Dexcom G6/One': 'user-guide/Dexcom/Userguide.md'
+        - 'Dexcom xDrip Recommended Settings': 'user-guide/Dexcom/xDrip-Advised-Settings - G6, G7,Dexcom One,One+.md'
+        
         
 - Xdrip :
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
