@@ -28,7 +28,7 @@ Forget all devices whose names are **DXCM** or **DX02** where could be any two c
 * Best to update to version **xDrip-plus-20240601-a6fdfc4 xDrip+** to the **Nightly build 1st Jun 2024**. See System Status for xdrip+ version you are on and update it if needed too.
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" title="First create a user account by going to">To Update</a>
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" span style="background-color: #60C447 "title="To Update">**To Update**</a>
-* Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor.<br>
+* Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor. •	<br> Scan the code with your mobile, it's also a good idea to put your mobile in the horizontal position, if it does not do it the first time keep trying, and be patient with it.<br>
 <center> <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/scan code connectivity to G7 or One.jpg" title="Sensor code"/></a></center><br>
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
