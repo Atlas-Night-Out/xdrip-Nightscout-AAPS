@@ -25,10 +25,10 @@
 * If you have the Dexcom App already installed (or any other App collecting that’s using your G7 or One+) uninstall it. Having a Dexcom receiver is OK to use, and you don’t need to disable it.
 * Go to Android Settings −> Connected devices.
 Forget all devices whose names are **DXCM** or **DX02** where could be any two characters.
-* Best to update to version **xDrip-plus-20240601-a6fdfc4 xDrip+** to the **Nightly build 1st Jun 2024**. See System Status for xdrip+ version you are on and update it if needed too.
+* •	It's also best to update to version **xDrip-plus-20240601-a6fdfc4 xDrip+** to the **Nightly build 1st Jun 2024** from when I tested this. Or try the latest version. <br> See System Status for xdrip+ version you are on and update it if needed too.
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" title="First create a user account by going to">To Update</a>
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" span style="background-color: #60C447 "title="To Update">**To Update**</a>
-* Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor. •	<br> Scan the code with your mobile, it's also a good idea to put your mobile in the horizontal position, if it does not do it the first time keep trying, and be patient with it.<br><br>
+* Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor. •	<br> Scan the code below with your mobile, it's also a good idea to put your mobile in the horizontal position, , you may need to move the phone back a little bit from the QR code if scanning from a large-screen computer and wait for a pop up to show up.<br><br>
 <center> <img width="620" height="420" border="0" align="center"  src="/my-project/img/Dexcom/scan code connectivity to G7 or One.jpg" title="Sensor code"/></a></center><br>
 
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
