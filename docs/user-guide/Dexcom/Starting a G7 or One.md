@@ -1,6 +1,6 @@
 
 
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom G6 Logo_1_200x30.png" title="Dexcom"/></a><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/></a><br>
+<img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ Sensor_390x260.png" title="Dexcom One+ Sensor"/></a><br>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/b_E1MbH6qa0?si=W8nLIQu6MJzbhryX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -15,53 +15,31 @@
 * While making sure that the sensor is not spoiled, follow the manufacturer’s instructions to use the applicator to insert the sensor. <br>
 <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ Sensor_390x260.png" title="Dexcom One+ Sensor"/></a>
 * The session, on G7 or One+, will spontaneously start upon inserting the sensor. There is no need to stop or start anything.<br>
-* Take note of the 4-digit pairing code exposed on the sensor applicator as you will need it when establishing connectivity. Best to take a photo of it.
+* Take note of the 4-digit pairing code exposed on the sensor applicator as you will need it when establishing connectivity. Best to take a photo of it.<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
+**We Need an Agreeable NHS!**
+</span>
+<br>
+* You Can get a Dexcom One+ by requesting one from your GP if within the UK and you can get a Dexcom One Receiver from the <a href=" https://uk.store.dexcom.com/en-GB/dexcom-one-plus/STK-D7-103.html" target="_blank" span style="background-color: #60C447 "title="Dexcom Web Site">**Dexcom Web Site**</a>
 
-</font>
-<font size="5">
-<center>Xdrip Debug Settings: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/xdrip debug settings.jpg" title="Xdrip Debug settings"/></a></center>	
-
-
-* Go to:
-*	Settings −> Less common settings −> Other misc options
-
-<center>Other misc options: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Other misc options.jpg" title="Other misc options"/></a></center>
-
-* Go to:
-*	Settings −> Less common settings −> Bluetooth Settings
-<center>Bluetooth Settings: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Bluetooth Settings.jpg" title="Bluetooth Settings"/></a></center>
-
-* Go to and:
-*  Enable - Settings −> Less common settings −> Aggressive service restarts
-<center>Aggressive service restarts: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Aggressive service restarts.jpg" title="Enable Aggressive service restarts"/></a></center>
-
-* Go to and:
-* Disable - Settings −> Less common settings −> Advanced Calibration −> Automatic Calibration
-<center>Automatic Calibration: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Automatic Calibration.jpg" title="Disable Automatic Calibration"/></a></center><br>
-
-*  Use Android Settings to sync its time with the network as described.
-Phone Time Accuracy
-Synchronise your phone clock to the network (Android Settings −> General Management −> Date & Time).
+### Create connectivity to G7 or One+
+* If you have the Dexcom App already installed (or any other App collecting that’s using your G7 or One+) uninstall it. Having a Dexcom receiver is OK to use, and you don’t need to disable it.
+* Go to Android Settings −> Connected devices.
+Forget all devices whose names are **DXCM** or **DX02** where could be any two characters.
+* Best to update to version **xDrip-plus-20240601-a6fdfc4 xDrip+** to the **Nightly build 1st Jun 2024**. See System Status for xdrip+ version you are on and update it if needed too.
+<a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" title="First create a user account by going to">To Update</a>
+<a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" span style="background-color: #60C447 "title="To Update">**To Update**</a>
+* Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor.<br>
+<center>Xdrip Debug Settings: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/xdrip debug settings.jpg" title="Xdrip Debug settings"/></a></center>
 
 
-<center>Synchronise Date and Time: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Date and Time.jpg" title="Synchronise Date and Time"/></a></center>
-<center>If you don’t, the transmitter could fail and it will not be simple to figure out why.</center><br>
-
-* Disable battery optimization as explained here.
-If you use xDrip as your collector, the app that receives readings from the sensor, you need to disable battery optimization for xDrip on your phone settings.
-Usually, this is at Android settings −> Apps −> xDrip+ −> Advanced −> Battery.
-
-<center>Disable battery optimization: <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/battery.jpg" title="Disable battery optimization"/></a></center>
 
 
-* For Android 11 or newer, enable background location access. 
-To do this go to Android Settings.
-Look for xDrip. Under “Apps” or “Apps info”, and not under “Accessibility”, Select xDrip.
-Hit on “Permissions”.
-<center>Enable Location: <img width="240" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/location.jpg" title="Enable Location"/> <img width="240" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/Allow Permissions.jpg" title="Allow Permissions"/></a></center>
 
 
-* Restart Your Mobile.
+
+
+
+
 
 
 </font>
@@ -153,8 +131,10 @@ font size
 </font>
 
 link
-<a href=" https://github.com/" target="_blank" title="First create a user account by going to">Click Here</a>
+<a href=" https://github.com/" target="_blank" title="First create a user account by going to">**Click Here**</a>
 
+Link with Background colour
+<a href=" https://uk.store.dexcom.com/en-GB/dexcom-one-plus/STK-D7-103.html" target="_blank" span style="background-color: #60C447 "title="Dexcom Web Site">**Dexcom Web Site**</a>
 
 Table
 | Syntax | Description |

@@ -12,7 +12,7 @@ docs made by D.Galloway 2019- 2024-->
  
 • These are extra watch faces available in the normal build of the AAPS Wear OS APK build. After you have installed the AAPS Wear APK onto your watch, they will be obtainable. Here are the stages for selecting one for use: Also remember you need two versions of the AAPS APK files the Main one and a Wear One!
 
-1. On your watch ((guessing  WearOS), long press on your current watch face to bring up the watch face selector screen and scroll to the right until you see the “Add Watch Face” button and select it.<br>
+1. On your watch (guessing  WearOS), long press on your current watch face to bring up the watch face selector screen and scroll to the right until you see the “Add Watch Face” button and select it.<br>
 <center><img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Watch_Screenshot_240604-152527.jpg" title="See more watch faces "/></a></center><br>
 2. Scroll to the list until you see the “AAPS Watch Faces ” section find “AAPS (Custom)” and click the inner of the image to add it to your shortlist of current watch faces. Don’t be concerned about the appearance of the “AAPS (Custom)” watch face, we will choose your preferred watch face in the next step.<br>
 
@@ -65,6 +65,7 @@ docs made by D.Galloway 2019- 2024-->
 
 
    
+
 
 
 
