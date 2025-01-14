@@ -1,9 +1,9 @@
 
 
-<img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ Sensor_390x260.png" title="Dexcom One+ Sensor"/></a><br>
+<img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ XDRIP.png" title="Dexcom One+ Sensor"/></a><br>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/b_E1MbH6qa0?si=W8nLIQu6MJzbhryX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+Dexcom ONE+ XDRIP.png
 ## Starting a G7 or One+  
 
 <font size="5">
