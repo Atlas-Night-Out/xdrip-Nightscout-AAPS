@@ -35,7 +35,7 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 ### **Other misc options**
 
-### **Other misc options**
+
 
 
 
