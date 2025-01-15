@@ -32,56 +32,7 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 
 
-### Translation
 
-The documentation is only available in English for now.  
-You might find it easier to follow if you [switch your xDrip+ to English](Display-Settings.md#language) and read it using and automatic translation with Google.<br>
-
-
-## 1. [xdrip±  Hamburger Menu](../xdrip/settings.md#1-xdrip-hamburger-menu) <br>
-To get to your settings click on the left Hamburger bar at the top.<br>
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu "/></a><br>
-
-## 2. [xdrip±  Settings Search](../xdrip/settings.md#2-xdrip-settings-search) <br>
-There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Setting main.jpg" title="Settings List"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/settings search1.jpg" title="Settings List"/></a></a><br>
-
-## 3. [xdrip±  Settings List ](../xdrip/settings.md#3-xdrip-settings-list) <br>
-There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
-<img width="250" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip Settings_list.jpg" title="Settings List"/><br>
-
-## 4. [xdrip±  Glucose Units](../xdrip/settings.md#3-xdrip-glucose-units) <br>
-In this menu you can select the units used by xDrip+ (mg/dl or mmol/l) and set high and low targets.
-These two targets will decide when the graph BG dots change colour above or below target.
-<br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Glucose Units.jpg" title="Glucose Units"/></a><br>
-
-## 5. [xdrip±  Alarm and Alerts](../xdrip/settings.md#4-xdrip-alarm-and-alerts)
-
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Alarm and Alerts.jpg" title="Alarm and Alerts"/></a><br>
-
-## 6. [xdrip±  Hardware Data Source](../xdrip/xdrip%20-%20hardwaredatasource.md#xdrip-data-source)<br>
-These settings vary on the data source selected.<br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Hardware Data Source.jpg" title="Hardware Data Source"/></a><br>
-
-## 7. [xdrip±  Auto Configure](../xdrip/settings.md#7-xdrip-auto-configure)<br>
-Auto configure helps you copy settings between two xDrip+ apps installed on different Mobiles.<br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Data Synce Auto Configure.jpg" title="Auto Configure"/></a><br>
-
-## To Be continued!<br>
-
-
-### My Typo, error, missing information or changes 
-
-If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
-
-
-
-</br>
-
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
 
 
 
@@ -202,5 +153,62 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </tr>
 </tbody>
 </table>
+
+
+
+
+
+temp
+### Translation
+
+The documentation is only available in English for now.  
+You might find it easier to follow if you [switch your xDrip+ to English](Display-Settings.md#language) and read it using and automatic translation with Google.<br>
+
+
+## 1. [xdrip±  Hamburger Menu](../xdrip/settings.md#1-xdrip-hamburger-menu) <br>
+To get to your settings click on the left Hamburger bar at the top.<br>
+<img width="600" height="auto" border="0" align="center"  src="/my-project/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu "/></a><br>
+
+## 2. [xdrip±  Settings Search](../xdrip/settings.md#2-xdrip-settings-search) <br>
+There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
+<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Setting main.jpg" title="Settings List"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/settings search1.jpg" title="Settings List"/></a></a><br>
+
+## 3. [xdrip±  Settings List ](../xdrip/settings.md#3-xdrip-settings-list) <br>
+There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
+<img width="250" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip Settings_list.jpg" title="Settings List"/><br>
+
+## 4. [xdrip±  Glucose Units](../xdrip/settings.md#3-xdrip-glucose-units) <br>
+In this menu you can select the units used by xDrip+ (mg/dl or mmol/l) and set high and low targets.
+These two targets will decide when the graph BG dots change colour above or below target.
+<br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Glucose Units.jpg" title="Glucose Units"/></a><br>
+
+## 5. [xdrip±  Alarm and Alerts](../xdrip/settings.md#4-xdrip-alarm-and-alerts)
+
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Alarm and Alerts.jpg" title="Alarm and Alerts"/></a><br>
+
+## 6. [xdrip±  Hardware Data Source](../xdrip/xdrip%20-%20hardwaredatasource.md#xdrip-data-source)<br>
+These settings vary on the data source selected.<br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Hardware Data Source.jpg" title="Hardware Data Source"/></a><br>
+
+## 7. [xdrip±  Auto Configure](../xdrip/settings.md#7-xdrip-auto-configure)<br>
+Auto configure helps you copy settings between two xDrip+ apps installed on different Mobiles.<br>
+<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Data Synce Auto Configure.jpg" title="Auto Configure"/></a><br>
+
+## To Be continued!<br>
+
+
+### My Typo, error, missing information or changes 
+
+If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
+
+
+
+</br>
+
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
 
 -->
