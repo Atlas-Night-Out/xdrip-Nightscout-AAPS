@@ -10,9 +10,11 @@ I hope these documents are of some help, but they will be constantly changing du
 
 Others have now started to do documents and have taken on my ideas on doing what takes a lot of time to do but glad things are moving on for a great bit of software, that all Diabetics should be using.
 
-There is still a long way to go and still things need changing and I hope I can help by trying to do my little to help back on technology that is beyond my scope to do.
+There is still a long way to go and still lots of things need changing or the bugs somehow resoled, and I hope I can help by trying to do my little to help back on technology that is beyond my scope to do.
 
-Nightscout is yet again changing due to Heroku charging for their service, so again I'm in yet a position to try to find a way to keep it free like its supposed to be and I need all the help and support from my follow-up Diabetes friends in helping them do this. I too need to keep alive with type 1 so I understand how important it is to try to make it a little easier for us all. If you are stuck or need help ask in the groups, or maybe inbox me or email me, I will try my best to help if I can.
+Nightscout is forever changing and lots of different servers to run it now, so I will not be covering all of them that is too much for me to keep up, so I will just stick with Heroku one that I first started with and have no issues.
+
+I need all the help and support from my follow-up Diabetes friends Developers and whoever wishes to help to do these setups or ideas. I too need to keep alive with type 1 so I understand how important it is to try to make it a little easier for us all. If you are stuck or need help ask in the groups, or maybe inbox me or email me, I will try my best to help if I can.
 
 I hope with help from others I can help back further and thank you for your help and support!
 
