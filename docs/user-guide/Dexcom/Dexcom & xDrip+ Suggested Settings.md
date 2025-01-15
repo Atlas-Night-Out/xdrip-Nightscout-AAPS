@@ -28,7 +28,11 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 
 
-### **Advanced**
+### **Advanced Calibration**
+
+* Disable  Settings −> Less common settings -> Advanced Calibration -> [Automatic Calibration](https://github.com/user-attachments/assets/65eb65dd-c3cd-4f42-b7ca-16282eca03b7 "Automatic Calibration")<br>
+
+Disable       Settings −> Less common settings −> Advanced Calibration −> Automatic Calibration
 
 ### **Other misc options**
 
