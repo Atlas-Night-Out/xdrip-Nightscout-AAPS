@@ -15,6 +15,8 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 ![image](https://github.com/user-attachments/assets/c4fd1d74-761f-4963-a2f6-c6e65a90b063)
 
+* Confirm Settings −> Less common settings -> [Bluetooth Settings](https://github.com/user-attachments/assets/c4fd1d74-761f-4963-a2f6-c6e65a90b063 "Bluetooth Settings")<br>
+
 ### **Dex Debug Settings**
 
 * Confirm Settings −> Dex Debug Settings<br>
