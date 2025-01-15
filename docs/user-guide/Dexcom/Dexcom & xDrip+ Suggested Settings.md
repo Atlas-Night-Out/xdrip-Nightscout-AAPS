@@ -15,11 +15,11 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 ### **G5/G6/G7/ Dex1 Debug Settings**
 
-Confirm Settings −> G5/G6/G7/ Dex1 Debug Settings -> [G5/G6/G7/ Dex1 Debug Settings](https://github.com/user-attachments/assets/ba2b9b35-e16c-4ab8-9151-78c9e13097de "G5/G6/G7/ Dex1 Debug Settings")<br>
+* Confirm Settings −> G5/G6/G7/ Dex1 Debug Settings -> [G5/G6/G7/ Dex1 Debug Settings](https://github.com/user-attachments/assets/ba2b9b35-e16c-4ab8-9151-78c9e13097de "G5/G6/G7/ Dex1 Debug Settings")<br>
 
 ### **Other misc options**
 
-Less common settings -> [Other misc options](https://github.com/user-attachments/assets/01fa6f8a-b836-464e-afb3-44f075c9b4e8 "Other misc options")<br>
+* Less common settings -> [Other misc options](https://github.com/user-attachments/assets/01fa6f8a-b836-464e-afb3-44f075c9b4e8 "Other misc options")<br>
 
 
 ### **Aggressive service restarts**
