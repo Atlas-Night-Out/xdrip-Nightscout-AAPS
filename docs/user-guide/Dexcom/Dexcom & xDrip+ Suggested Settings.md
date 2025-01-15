@@ -19,7 +19,7 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 ### **Other misc options**
 
-* Verify Settings −> Less common settings -> [Other misc options](https://github.com/user-attachments/assets/01fa6f8a-b836-464e-afb3-44f075c9b4e8 "Other misc options")<br>
+* Confirm Settings −> Less common settings -> [Other misc options](https://github.com/user-attachments/assets/01fa6f8a-b836-464e-afb3-44f075c9b4e8 "Other misc options")<br>
 
 
 ### **Aggressive service restarts**
