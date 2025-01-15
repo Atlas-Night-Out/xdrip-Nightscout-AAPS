@@ -19,10 +19,10 @@
 
 <center> <img width="520" height="320" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom One Sensor_2057.jpg" title="Dexcom One Sensor"/></a></center>
 <center> <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a></center>
-
+</span><br>
 **We Need an Agreeable NHS!**
-</span>
-<br>
+
+
 * You Can get a Dexcom One+ by requesting one from your GP if within the UK and you can get a Dexcom One Receiver from the <a href=" https://uk.store.dexcom.com/en-GB/dexcom-one-plus/STK-D7-103.html" target="_blank" span style="background-color: #60C447 "title="Dexcom Web Site">**Dexcom Web Site**</a>
 
 ### Create connectivity to G7 or One+
@@ -45,18 +45,16 @@ You should see a message like this come up:<br>
 Add the 4-digit pairing code displayed on the sensor applicator as the transmitter id the one you took a photo of earlier. Also, make sure your Hardware Data Source is selected for a Dexcom One+><br>
 <img width="320" height="120" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom Transmitter id_2.jpg" title="Dexcom Transmitter ID"/></a><br>
 
-Now go to the G5/G6 System Status Page and wait for a connection.
+* Now go to the G5/G6 System Status Page and wait for a connection.
 Approve the pairing request you will receive if you are using Android 10 or newer.<br>
 If you inserted the sensor more than 30 minutes ago, you should see readings. If you have just inserted a sensor, you will see a warmup.
 Over time, the status page will fill with other data elements, like time remaining etc.
 
-<img width="320" height="120" border="0" align="center"  src="/my-project/img/Dexcom/System Status Page_20250114-113727_xDrip+.jpg" title="System Status Page"/></a><br>
+<img width="320" height="120" border="0" align="center"  src="/my-project/img/Dexcom/System Status Page_20250114-113727_xDrip+.jpg" title="System Status Page"/></a>
 
 
 ## Troubleshooting
 If you see “Mismatch” on the status page, it signifies either your pairing code is wrong or there is another sensor close. Confirm that the pairing code is accepted and wait for the connection.
-
-
 <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
 
 
