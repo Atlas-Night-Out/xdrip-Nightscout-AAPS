@@ -11,10 +11,9 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 ### **Bluetooth Settings**
 
-
 * Confirm Settings −> Less common settings -> [Bluetooth Settings](https://github.com/Atlas-Night-Out/my-project/blob/main/wiki_images/860x3395.jpg "Bluetooth Settings")<br>
 
-
+![image](https://github.com/user-attachments/assets/c4fd1d74-761f-4963-a2f6-c6e65a90b063)
 
 ### **Dex Debug Settings**
 
