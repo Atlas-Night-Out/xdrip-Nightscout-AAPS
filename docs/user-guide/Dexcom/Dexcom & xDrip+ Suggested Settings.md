@@ -19,7 +19,7 @@ Confirm Settings −> G5/G6/G7/ Dex1 Debug Settings -> [G5/G6/G7/ Dex1 Debug Set
 
 ### **Other misc options**
 
-* Confirm Settings −> Less common settings −> Other misc options<br>
+* Confirm Settings −> Less common settings -> [Other misc options](![image](https://github.com/user-attachments/assets/01fa6f8a-b836-464e-afb3-44f075c9b4e8) "Other misc options")<br>
 
 ### **Aggressive service restarts**
 
