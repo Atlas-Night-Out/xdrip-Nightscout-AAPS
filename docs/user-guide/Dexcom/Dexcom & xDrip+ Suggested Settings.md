@@ -26,7 +26,7 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 * Enable Settings −> Less common settings -> [Aggressive service restarts](https://github.com/user-attachments/assets/b6041008-d4cc-41ce-a51f-12cc4e6604f1 "Aggressive service restarts")<br>
 
-•	Enable       Settings −> Less common settings −> Aggressive service restarts
+
 
 ### **Advanced**
 
