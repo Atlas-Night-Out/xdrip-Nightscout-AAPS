@@ -34,8 +34,9 @@ Forget all devices whose names are **DXCM** or **DX02** where could be any two c
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" span style="background-color: #60C447 "title="To Update">**To Update**</a>
 * Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor.	<br> Scan the code below with your mobile, it's also a good idea to put your mobile in the horizontal position, , you may need to move the phone back a little bit from the QR code if scanning from a large-screen computer and wait for a pop up to show up.<br><br>
 <center> <img width="620" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/e10b566f-5799-4474-a537-19567dba14f4" title="Sensor code"/></a></center><br>
+
 You should see a message like this come up:<br>
-<img width="620" height="420" border="0" align="center"  src="/my-project/img/Dexcom/are you sure_Keks_p1_20250113-225339_xDrip+.jpg" title="Keks"/></a><br>
+<img width="620" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/d97eb7fe-feb0-4fae-8c33-24fb60dedd5a" title="Keks"/></a><br>
 
 <center><iframe width="417" height="741" src="https://www.youtube.com/embed/NQmZOjAGYqI" title="Keks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center><br>
 
