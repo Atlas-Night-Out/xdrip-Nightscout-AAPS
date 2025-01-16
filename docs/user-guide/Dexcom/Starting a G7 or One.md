@@ -1,6 +1,6 @@
 
 
-<img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ XDRIP.png" title="Dexcom One+ Sensor"/></a><br>
+<img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f0560afb-e63a-45d0-97be-c28732662e80" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></a><br>
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/b_E1MbH6qa0?si=W8nLIQu6MJzbhryX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
