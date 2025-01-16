@@ -17,8 +17,8 @@
 * The session, on G7 or One+, will spontaneously start upon inserting the sensor. There is no need to stop or start anything.<br>
 * Take note of the 4-digit pairing code exposed on the sensor applicator as you will need it when establishing connectivity. Best to take a photo of it.<br>
 
-<center> <img width="520" height="320" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom One Sensor_2057.jpg" title="Dexcom One Sensor"/></a></center>
-<center> <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a></center>
+<center> <img width="420" height="320" border="0" align="center"  src="https://github.com/user-attachments/assets/edc8d0b3-cbb2-4752-87a1-7b03a04e555e" title="Dexcom One Sensor"/></a></center>
+<center> <img width="320" height="220" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor Applicator"/></a></center>
 </span><br>
 **We Need an Agreeable NHS!**
 
