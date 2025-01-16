@@ -11,24 +11,31 @@ and you want to install it for the first time continue to <a href="https://atlas
 
 ### **Bluetooth Settings**
 
+* Confirm Settings −> Less common settings -> [Bluetooth Settings](https://github.com/user-attachments/assets/c4fd1d74-761f-4963-a2f6-c6e65a90b063 "Bluetooth Settings")<br>
 
-* Confirm Settings −> Less common settings -> [Bluetooth Settings](https://github.com/Atlas-Night-Out/my-project/blob/main/wiki_images/860x3395.jpg "Bluetooth Settings")<br>
+### **G5/G6/G7/ Dex1 Debug Settings**
 
-### **Dex Debug Settings**
-
-* Confirm Settings −> Dex Debug Settings<br>
+* Confirm Settings −> G5/G6/G7/ Dex1 Debug Settings -> [G5/G6/G7/ Dex1 Debug Settings](https://github.com/user-attachments/assets/ba2b9b35-e16c-4ab8-9151-78c9e13097de "G5/G6/G7/ Dex1 Debug Settings")<br>
 
 ### **Other misc options**
 
-* Confirm Settings −> Less common settings −> Other misc options<br>
+* Confirm Settings −> Less common settings -> [Other misc options](https://github.com/user-attachments/assets/01fa6f8a-b836-464e-afb3-44f075c9b4e8 "Other misc options")<br>
+
 
 ### **Aggressive service restarts**
 
-### **Advanced**
+* Enable Settings −> Less common settings -> [Aggressive service restarts](https://github.com/user-attachments/assets/b6041008-d4cc-41ce-a51f-12cc4e6604f1 "Aggressive service restarts")<br>
+
+
+
+### **Automatic Calibration**
+
+* Disable  Settings −> Less common settings -> Advanced Calibration -> [Automatic Calibration](https://github.com/user-attachments/assets/65eb65dd-c3cd-4f42-b7ca-16282eca03b7 "Automatic Calibration")<br>
+
 
 ### **Other misc options**
 
-### **Other misc options**
+
 
 
 
