@@ -4,6 +4,8 @@
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/b_E1MbH6qa0?si=W8nLIQu6MJzbhryX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/E1MbH6qa0&ab/0.jpg)](https://www.youtube.com/watch?v=b_E1MbH6qa0&ab_channel=DexcomUK)
+
 ## Starting a G7 or One+  
 
 <font size="5">
