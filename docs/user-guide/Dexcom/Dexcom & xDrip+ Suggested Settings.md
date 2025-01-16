@@ -1,3 +1,8 @@
+<img src="https://github.com/user-attachments/assets/bf87838c-2baf-4407-84c9-87b07fd6aadd" width="600" height="400">
+
+
+![image](https://github.com/user-attachments/assets/bf87838c-2baf-4407-84c9-87b07fd6aadd)
+
 Dexcom One, Dexcom G6, G7, and One+ collector suggested settings
 For ideal performance with xDrip+ and Dexcom devices, follow these advised settings.
  <br> 
