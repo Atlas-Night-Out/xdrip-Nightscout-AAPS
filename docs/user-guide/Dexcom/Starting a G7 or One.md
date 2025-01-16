@@ -17,8 +17,8 @@
 * The session, on G7 or One+, will spontaneously start upon inserting the sensor. There is no need to stop or start anything.<br>
 * Take note of the 4-digit pairing code exposed on the sensor applicator as you will need it when establishing connectivity. Best to take a photo of it.<br>
 
-<center> <img width="520" height="320" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom One Sensor_2057.jpg" title="Dexcom One Sensor"/></a></center>
-<center> <img width="420" height="220" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a></center>
+<center> <img width="420" height="320" border="0" align="center"  src="https://github.com/user-attachments/assets/edc8d0b3-cbb2-4752-87a1-7b03a04e555e" title="Dexcom One Sensor"/></a></center>
+<center> <img width="320" height="220" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor Applicator"/></a></center>
 </span><br>
 **We Need an Agreeable NHS!**
 
@@ -33,29 +33,30 @@ Forget all devices whose names are **DXCM** or **DX02** where could be any two c
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" title="First create a user account by going to">To Update</a>
 <a href=" https://www.thediabeticway.co.uk/index.php/en/xdrip-downloads" target="_blank" span style="background-color: #60C447 "title="To Update">**To Update**</a>
 * Go to Settings −> Auto configure to scan the QR code shown below if you haven’t already. You will not need to do this with every sensor.	<br> Scan the code below with your mobile, it's also a good idea to put your mobile in the horizontal position, , you may need to move the phone back a little bit from the QR code if scanning from a large-screen computer and wait for a pop up to show up.<br><br>
-<center> <img width="620" height="420" border="0" align="center"  src="/my-project/img/Dexcom/scan code connectivity to G7 or One.jpg" title="Sensor code"/></a></center><br>
-You should see a message like this come up:<br>
-<img width="620" height="420" border="0" align="center"  src="/my-project/img/Dexcom/are you sure_Keks_p1_20250113-225339_xDrip+.jpg" title="Keks"/></a><br>
+<center> <img width="620" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/e10b566f-5799-4474-a537-19567dba14f4" title="Sensor code"/></a></center><br><br>
+
+You should see a message like this come up:<br><br>
+<img width="620" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/d97eb7fe-feb0-4fae-8c33-24fb60dedd5a" title="Keks"/></a><br>
 
 <center><iframe width="417" height="741" src="https://www.youtube.com/embed/NQmZOjAGYqI" title="Keks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center><br>
 
 ## Prepare your xDrip+ settings
 * Prepare your xDrip+ settings, on your mobile, as described (here). It is crucial to go over the settings and confirm they are correct. This is different than scanning the code you have just done, so spend some time going though these settings.<br>
 * Make sure your old Dexcom used G7 or One+ device are out of range or place them inside the microwave. This is not necessary. But it will speed up pairing. Also check you removed it from your Bluetooth settings too.<br>
-Add the 4-digit pairing code displayed on the sensor applicator as the transmitter id the one you took a photo of earlier. Also, make sure your Hardware Data Source is selected for a Dexcom One+><br>
-<img width="320" height="120" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom Transmitter id_2.jpg" title="Dexcom Transmitter ID"/></a><br>
+Add the 4-digit pairing code displayed on the sensor applicator as the transmitter id the one you took a photo of earlier. Also, make sure your Hardware Data Source is selected for a Dexcom One+<br><br>
+<img width="420" height="420" border="0" align="center"  src="https://github.com/user-attachments/assets/9be76474-bb39-4379-b912-ed9b725ad73c" title="Dexcom Transmitter ID"/></a><br>
 
 * Now go to the G5/G6 System Status Page and wait for a connection.
 Approve the pairing request you will receive if you are using Android 10 or newer.<br>
 If you inserted the sensor more than 30 minutes ago, you should see readings. If you have just inserted a sensor, you will see a warmup.
 Over time, the status page will fill with other data elements, like time remaining etc.
 
-<img width="320" height="120" border="0" align="center"  src="/my-project/img/Dexcom/System Status Page_20250114-113727_xDrip+.jpg" title="System Status Page"/></a>
+<img width="320" height="320" border="0" align="center"  src="https://github.com/user-attachments/assets/1d13c1a7-e72d-4923-a100-ad9b2cad8a4f" title="System Status Page"/></a>
 
 
 ## Troubleshooting
-If you see “Mismatch” on the status page, it signifies either your pairing code is wrong or there is another sensor close. Confirm that the pairing code is accepted and wait for the connection.
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Dexcom/Decom-one-+-sensor- applicator_661x661.png" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
+If you see “Mismatch” on the status page, it signifies either your pairing code is wrong or there is another sensor close. Confirm that the pairing code is accepted and wait for the connection.<br><br>
+<img width="400" height="400" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor" title="Dexcom One+ Sensor Applicator"/></a><span style="color:#008D00">
 
 
 
