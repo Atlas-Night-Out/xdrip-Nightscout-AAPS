@@ -13,7 +13,7 @@
 * Before inserting a new sensor, use a marker to mark your old one to make sure you won’t possibly peel off the inappropriate sensor when the time comes. Maybe take a photo of it too.<br>
 
 * While making sure that the sensor is not spoiled, follow the manufacturer’s instructions to use the applicator to insert the sensor. <br>
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ Sensor_390x260.png" title="Dexcom One+ Sensor"/></a>
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></a>
 * The session, on G7 or One+, will spontaneously start upon inserting the sensor. There is no need to stop or start anything.<br>
 * Take note of the 4-digit pairing code exposed on the sensor applicator as you will need it when establishing connectivity. Best to take a photo of it.<br>
 
