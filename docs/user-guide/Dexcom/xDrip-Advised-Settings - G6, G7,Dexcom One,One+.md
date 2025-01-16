@@ -1,4 +1,5 @@
-<img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ Sensor_390x260.png" title="Dexcom One+ Sensor"/></a>
+
+<img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom ONE+ XDRIP.png" title="Dexcom One+ Sensor"/></a>
 
 ## xDrip+ Advised Settings - G6, Dexcom One or One+ - G7 <br>
 <font size="5">

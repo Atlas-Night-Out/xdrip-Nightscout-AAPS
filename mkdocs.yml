@@ -51,7 +51,7 @@ nav:
         - 'Dexcom G6/One': 'user-guide/Dexcom/Userguide.md'
         - 'Dexcom xDrip Recommended Settings': 'user-guide/Dexcom/xDrip-Advised-Settings - G6, G7,Dexcom One,One+.md'
         - 'Starting a G7 or One+': 'user-guide/Dexcom/Starting a G7 or One.md'
-        - 'Dexcom & xDrip+ Suggested Settings': 'user-guide/Dexcom/Dexcom & xDrip+ Suggested Settings.md'
+        
         
 - Xdrip :
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
@@ -109,6 +109,7 @@ nav:
     - 'Adding More AAPS Custom WatchFaces': 'user-guide/AndroidAPS/Adding More AAPS Custom watchfaces.md'
     - 'Disclaimer and Warning': 'user-guide/AndroidAPS/Disclaimer and Warning.md'
     - 'Starting a G7 or One+': 'user-guide/Dexcom/Starting a G7 or One.md'
+    - 'Dexcom & xDrip+ Suggested Settings': 'user-guide/Dexcom/Dexcom & xDrip+ Suggested Settings.md'
     
 -   Medtronic :
     - 'Disclaimer and Warning': 'user-guide/Medtronic/Disclaimer and Warning.md'
