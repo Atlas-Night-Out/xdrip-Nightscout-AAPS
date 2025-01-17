@@ -61,6 +61,8 @@ xDrip stands as a testament to how technology can revolutionize the management o
 ## From Your Admin Team: **Dave!**
 ### **Some Rainbow colour Support be great!**
 
+<span style="color: #FFFF00">**Import Export features**</span> 
+
 
 
 <!--  
