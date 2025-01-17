@@ -54,6 +54,7 @@ nav:
         
         
 - Xdrip :
+    - 'Xdrip+ Intro': 'user-guide/xdrip/xdrip - Intro.md'
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
     - 'Backup - Import_Export': 'user-guide/xdrip/xdrip - Backup - Import_Export_Settings.md'
