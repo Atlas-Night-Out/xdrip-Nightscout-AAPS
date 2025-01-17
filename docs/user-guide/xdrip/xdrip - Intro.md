@@ -4,13 +4,15 @@ docs made by D.Galloway 2019- 2025-->
 <img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12e85984-14a1-43c6-b1bb-1c6662a6be96" title="Dexcom One+"/>
 <center><img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></center><br>
 
-# **xDrip+ Intro** <br>
+# $\textcolor{red}{xDrip+\ Intro}$ <br>
+### **to**
 
-# **xDrip: Revolutionizing Diabetes Management** <br>
+
+# **Revolutionizing Diabetes Management** <br>
 #### **An Insightful Overview**
 xDrip is an open-source application that has been designed to transform the management of diabetes. It serves as a powerful tool for individuals with diabetes, allowing them to monitor their glucose levels continuously and seamlessly. This comprehensive document delves into the functionalities, benefits, and impact of xDrip within the diabetes community.
 
-
+# $\textcolor{yellow}{Understanding\ xDrip}$
 # **Understanding xDrip** 
 
 xDrip is a continuous glucose monitoring (CGM) application that works in conjunction with various CGM systems and transmitters. Its primary function is to provide real-time glucose data to users, enabling them to track their glucose levels more accurately and make informed decisions about their health.
