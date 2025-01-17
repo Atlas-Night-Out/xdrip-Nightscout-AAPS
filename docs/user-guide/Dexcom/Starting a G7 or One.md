@@ -4,6 +4,7 @@
 
 <iframe width="860" height="615" src="https://www.youtube.com/embed/b_E1MbH6qa0?si=W8nLIQu6MJzbhryX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 ## Starting a G7 or One+  
 
 <font size="5">
@@ -17,13 +18,13 @@
 * The session, on G7 or One+, will spontaneously start upon inserting the sensor. There is no need to stop or start anything.<br>
 * Take note of the 4-digit pairing code exposed on the sensor applicator as you will need it when establishing connectivity. Best to take a photo of it.<br>
 
-<center> <img width="420" height="320" border="0" align="center"  src="https://github.com/user-attachments/assets/edc8d0b3-cbb2-4752-87a1-7b03a04e555e" title="Dexcom One Sensor"/></a></center>
-<center> <img width="320" height="220" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor Applicator"/></a></center>
-</span><br>
+<center> <img width="380" height="320" border="0" align="center"  src="https://github.com/user-attachments/assets/edc8d0b3-cbb2-4752-87a1-7b03a04e555e" title="Dexcom One Sensor"/></a></center>
+<center> <img width="300" height="220" border="0" align="center"  src="https://github.com/user-attachments/assets/585e0e6b-1b82-452f-a0b2-e4f8b397752e" title="Dexcom One+ Sensor Applicator"/></a></center>
+</span><br><br>
 **We Need an Agreeable NHS!**
 
 
-* You Can get a Dexcom One+ by requesting one from your GP if within the UK and you can get a Dexcom One Receiver from the <a href=" https://uk.store.dexcom.com/en-GB/dexcom-one-plus/STK-D7-103.html" target="_blank" span style="background-color: #60C447 "title="Dexcom Web Site">**Dexcom Web Site**</a>
+* You Can get a Dexcom One+ by requesting one from your GP if within the UK and you can get a Dexcom One Receiver from the <a href="https://www.dexcom.com/en-GB/dexcom-one-plus-cgm-system" target="_blank" span style="background-color: #60C447 "title="Dexcom Web Site">**Dexcom Web Site**</a>
 
 ### Create connectivity to G7 or One+
 * If you have the Dexcom App already installed (or any other App collecting that’s using your G7 or One+) uninstall it. Having a Dexcom receiver is OK to use, and you don’t need to disable it.
