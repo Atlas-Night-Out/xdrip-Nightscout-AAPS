@@ -2,7 +2,7 @@
 docs made by D.Galloway 2019- 2025-->
 <img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12415676-720b-4bc2-b707-f454889f9c28" title="Dexcom One+"/>
 <img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12e85984-14a1-43c6-b1bb-1c6662a6be96" title="Dexcom One+"/>
-<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></a><br>
+<center><img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></center><br>
 
 # **Install xDrip** <br>
 
