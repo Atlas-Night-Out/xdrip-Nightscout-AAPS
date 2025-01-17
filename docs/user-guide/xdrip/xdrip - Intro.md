@@ -59,7 +59,7 @@ The xDrip community also offers a wealth of educational resources, including tut
 # $\textcolor{yellow}{Conclusion}$
 xDrip stands as a testament to how technology can revolutionize the management of chronic conditions like diabetes. Its comprehensive features, ease of use, and the support of a dedicated community make it an invaluable tool for individuals seeking to improve their diabetes management. As technology continues to advance, xDrip is poised to remain at the forefront of innovative solutions that empower users to live healthier, more informed lives.
 
-## $\textcolor{#60C447}{From\ Your\ Admin\ Team:\**Dave!**}$
+## $\textcolor{#00ff00}{From\ Your\ Admin\ Team:\**Dave!**}$
 
 
 
