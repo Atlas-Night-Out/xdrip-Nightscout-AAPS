@@ -1,6 +1,9 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2025-->
-<img width="460" height="315" border="0" align="center"  src="/my-project/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
+<img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12415676-720b-4bc2-b707-f454889f9c28" title="Dexcom One+"/>
+<img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12e85984-14a1-43c6-b1bb-1c6662a6be96" title="Dexcom One+"/>
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></a><br>
+
 # **Install xDrip** <br>
 
 This video installation process is a little old now and the video really needs to be updated, which I will do as soon as I get time to.
