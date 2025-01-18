@@ -73,6 +73,7 @@ nav:
     - 'Connection issues – How to Fix': 'user-guide/xdrip/Xdrip connection Problem fix.md'
     - 'Setting up Glucose Meter': 'user-guide/xdrip/Xdrip - Setting up Glucose Meters.md'
     - 'Sideload Ticwatch Pro ': 'user-guide/xdrip/TicWatch-Pro-3-side-load---xdrip.md'
+    - 'Noise': 'user-guide/xdrip/xdrip - Noise.md'
     
 
 - Nightscout :
@@ -92,7 +93,8 @@ nav:
     
        
 -   Watches:
-    - 'Watches': 'user-guide/Watches.md'
+    - 'Watches Intro': 'user-guide/Watches Intro.md'
+    - 'Watches': 'user-guide/Watches/Watches.md'
     - 'Sideload Ticwatch Pro': 'user-guide/Watches/TicWatch-Pro-3-side-load---xdrip.md'
     - 'Connecting Garmin 945 to Dexcom G6': 'user-guide/Garmin_Connect_BloodReadings.md'
     - 'Compatible Watches': 'user-guide/Watches/Compatible Watches.md'

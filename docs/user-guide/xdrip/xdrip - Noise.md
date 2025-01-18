@@ -2,69 +2,19 @@
 docs made by D.Galloway 2019- 2025-->
 <img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12415676-720b-4bc2-b707-f454889f9c28" title="Dexcom One+"/>
 <img width="350" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12e85984-14a1-43c6-b1bb-1c6662a6be96" title="Dexcom One+"/>
-<center><img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></center><br>
-
-# xDrip+ Intro 
-
-# **Revolutionizing Diabetes Management** <br>
-#### **An Insightful Overview**
-xDrip is an open-source application that has been designed to transform the management of diabetes. It serves as a powerful tool for individuals with diabetes, allowing them to monitor their glucose levels continuously and seamlessly. This comprehensive document delves into the functionalities, benefits, and impact of xDrip within the diabetes community.
-
-# **Understanding xDrip** 
-
-xDrip is a continuous glucose monitoring (CGM) application that works in conjunction with various CGM systems and transmitters. Its primary function is to provide real-time glucose data to users, enabling them to track their glucose levels more accurately and make informed decisions about their health.
- 
-## How xDrip Works
-
-The application functions by receiving data from a compatible CGM transmitter, which is then processed and displayed on the user's device. xDrip can be used on both Android and iOS platforms, making it accessible to a wide range of users. The application is known for its user-friendly interface, which simplifies the process of monitoring glucose levels.
 <br>
 
-## Key Features of xDrip
-### xDrip boasts a myriad of features designed to enhance the diabetes management experience:
+# xDrip+ Noise 
 
-* Real-Time Glucose Monitoring: xDrip provides users with continuous updates on their glucose levels, ensuring they are always aware of their current status.
-* Customizable Alerts: Users can set personalized alerts for high and low glucose levels, helping them take immediate action when necessary.
-* Data Analysis: The application offers comprehensive data analysis tools, allowing users to track trends, view historical data, and gain insights into their glucose patterns over time.
-* Integration with Other Devices: xDrip can sync with various smartwatches and fitness trackers, providing a holistic view of the user's health data.
-* Remote Monitoring: Loved ones and healthcare providers can remotely access the user's glucose data, offering an additional layer of support and care.
-* Customizable Interface: Users can personalize the app’s interface to suit their preferences, making it more intuitive and user-friendly.
+When the sensor gets older, its correctness reduces, and its connection with interstitial fluid glucose declines. Noise refers to the quick, oscillatory steadiness in readings caused by sensor malfunction, rather than true differences in your blood glucose levels.
 
-# The Key Benefits of Using xDrip
-xDrip offers numerous benefits that can significantly improve the quality of life for individuals with diabetes:
-## Improved Glucose Control
-By providing real-time glucose data, xDrip empowers users to maintain tighter control over their glucose levels. This can lead to fewer hyperglycemic and hypoglycemic episodes, reducing the risk of complications associated with diabetes.
-## Enhanced Decision-Making
-With access to detailed glucose data and trends, users can make better-informed decisions regarding their diet, exercise, and medication. This proactive approach to diabetes management can lead to more stable glucose levels and overall better health outcomes.
-## Increased Convenience
-The ability to monitor glucose levels continuously and receive alerts on mobile devices makes diabetes management more convenient and less intrusive. Users no longer need to rely solely on fingerstick tests, which can be painful and time-consuming.<br><br>
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c5c63b23-f40a-4e76-a3d3-bc7108acbb7f" title="Dexcom One+ Sensor"/></center><br> 
 
-## Support and Peace of Mind
-The remote monitoring feature allows family members and healthcare providers to stay informed about the user's glucose levels, providing additional support and peace of mind. This can be particularly beneficial for parents of children with diabetes or elderly individuals who require assistance.<br><br>
-
-
-# xDrip in the Diabetes Community
-xDrip has garnered widespread acclaim within the diabetes community for its innovation and practicality. It has become a go-to tool for many individuals seeking to take control of their diabetes.
-
-## User Testimonials
-Many users have shared positive experiences with xDrip, praising its ease of use and the sense of empowerment it provides. Testimonials often highlight how the app has improved their ability to manage diabetes and enhanced their quality of life.
-
-## Community
-
-Given its open-source nature, xDrip benefits from a robust community of developers and users who contribute to its continuous improvement. This collaborative approach ensures that the app remains up-to-date with the latest advancements in diabetes technology and user needs.
-
-## Educational Resources
-The xDrip community also offers a wealth of educational resources, including tutorials, forums, and user guides. These resources help users maximize the app’s potential and troubleshoot any issues they may encounter.
-
-# Conclusion
-xDrip stands as a testament to how technology can revolutionize the management of chronic conditions like diabetes. Its comprehensive features, ease of use, and the support of a dedicated community make it an invaluable tool for individuals seeking to improve their diabetes management. As technology continues to advance, xDrip is poised to remain at the forefront of innovative solutions that empower users to live healthier, more informed lives.
+The glucose level rises from reading A to reading B, then decreases from reading B to reading C. Nevertheless, the time interval between these readings is only 5 minutes, which is too small for such quick variations in blood glucose. This disagreement indicates sensor failure (noise). In this instance, you can either swap to a new sensor or accept the unreliable readings until you do change it.
 
 ## From Your Admin Team: **Dave!**
 ### **Some Rainbow colour Support be great!**
 
-<font size="6">
-<span style="color: #FFFF00">**Dr Warnings**</span>
-</font>
- 
 
 
 

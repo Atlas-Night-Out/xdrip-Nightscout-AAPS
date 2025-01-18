@@ -61,9 +61,7 @@ xDrip stands as a testament to how technology can revolutionize the management o
 ## From Your Admin Team: **Dave!**
 ### **Some Rainbow colour Support be great!**
 
-<font size="6">
-<span style="color: #FFFF00">**Dr Warnings**</span>
-</font>
+
  
 
 
