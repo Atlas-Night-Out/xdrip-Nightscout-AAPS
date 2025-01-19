@@ -54,7 +54,7 @@ BlueJay is an exceptional companion for your Dexcom sensor, offering unparallele
 
 BlueJay is an amazing companion of your Dexcom sensor, with or without xDrip+, with or without a phone.
 
-
+Dave
 
 
 
