@@ -1,5 +1,5 @@
 <!-- this is on github server 
-docs made by D.Galloway 2019- 2021
+docs made by D.Galloway 2019- 2025
 images would need to be change for them to show up on github from src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
 src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
 
@@ -112,6 +112,10 @@ You can setup <a href="https://sweloop.se/LoopFollow/index.html" target="_blank"
 <a href="https://gallery.fitbit.com/details/eaed806d-9ff5-4aa9-a2c8-518f1f852f5a" target="_blank">Nightscout Monitor</a>
 Ionic/Sense/Versa/Versa 2/Versa 3/Versa Lite
 <a href="https://github.com/sulkaharo/nsfitbit" target="_blank">Repository</a>
+
+## <a href="https://gallery.fitbit.com/details/7b5d9822-7e8e-41f9-a2a7-e823548c001c" target="_blank">BlueJay Watch</a>
+
+BlueJay is an amazing companion of your Dexcom sensor, with or without xDrip+, with or without a phone.
 
 ## <a href="https://gallery.fitbit.com/details/7b5d9822-7e8e-41f9-a2a7-e823548c001c" target="_blank">Glance</a>
 Ionic/Sense/Versa/Versa 2/Versa 3/Versa Lite
