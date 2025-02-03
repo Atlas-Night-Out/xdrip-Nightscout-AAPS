@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 This Preferances allows you to modify Notifications for your Pump.<br><br>
 First, Go to 3 Dots in the top right<br>
 Then Select Preferences<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS 3 Dots.jpg" title="AAPS 3 Dots"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS Preferences.jpg" title="AAPS - Preferences"/><br><br>
+<img width="300" height="auto" border="0" align="center"  src="../my-project/img/AAPS/AAPS 3 Dots.jpg" title="AAPS 3 Dots"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS Preferences.jpg" title="AAPS - Preferences"/><br><br>
 
 
 
