@@ -1,8 +1,8 @@
 
-<img width="350" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom One+"/> <img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Dexcom ONE+ XDRIP.png" title="Dexcom One+ Sensor"/></a>
+<center><img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6478f9b1-f65e-4028-929f-e0aa2416a5aa" title="Dexcom One+"/></a><img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/d8a01a3c-46f0-4dbd-a567-00c7086c8578" title="Dexcom ONE+ Sensor"/></a></center>
 
 ## xDrip+ Advised Settings - G6, Dexcom One or One+ - G7 <br>
-<font size="5">
+<font size="5"><br></br>
 * These are the suggested G6, G7, Dexcom ONE Dexcom One+ settings when using xDrip+
 * After a fresh install of xDrip, running the source wizard will result in these same settings. If you see a difference, please let me know.
 
@@ -11,47 +11,46 @@
 Enable all suggested settings (settings in the image with checkmarks) even if you see “G5” in the description.
 </font>
 <font size="5">
-<center>Xdrip Debug Settings: <img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/xdrip debug settings.jpg" title="Xdrip Debug settings"/></a></center>	
-
-
+<center>Xdrip Debug Settings: <img width="420" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/04f4c7e5-ac9b-42eb-961f-94a27af56b21" title="xdrip debug settings"/></a></center>
+<br><br></br>
 * Go to:
-*	Settings −> Less common settings −> Other misc options
-
-<center>Other misc options: <img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Other misc options.jpg" title="Other misc options"/></a></center>
+* Settings −> Less common settings −> Other misc options
+<center>Other misc options: <img width="420" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/12ef871e-7c16-4c75-b27a-4fb2269dbe14" title="Other misc options"/></a></center>
+<br></br>
 
 * Go to:
 *	Settings −> Less common settings −> Bluetooth Settings
-<center>Bluetooth Settings: <img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Bluetooth Settings.jpg" title="Bluetooth Settings"/></a></center>
+<center>Bluetooth Settings: <img width="420" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/398c8e47-a5e4-412b-b637-da30973c29d8" title="Bluetooth Settings"/></a></center>
+<br></br>
+* Go to and:
+*  Enable - Settings −> Less common settings −> Aggressive service restarts <br></br>
+<center>Aggressive service restarts: <img width="420" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/86f4aaa0-5511-410a-8ee3-e7da0ac3ef5c" title="Aggressive service restarts"/></a></a></center><br><br></br>
 
 * Go to and:
-*  Enable - Settings −> Less common settings −> Aggressive service restarts
-<center>Aggressive service restarts: <img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Aggressive service restarts.jpg" title="Enable Aggressive service restarts"/></a></center>
+* Disable - Settings −> Less common settings −> Advanced Calibration −> Automatic Calibration<br><br></br>
+<center>Automatic Calibration: <img width="420" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/da5097b2-9ee8-4329-9e9d-2d11e5f3dea8" title="Aggressive service restarts"/></a></center><br></br>
 
-* Go to and:
-* Disable - Settings −> Less common settings −> Advanced Calibration −> Automatic Calibration
-<center>Automatic Calibration: <img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Automatic Calibration.jpg" title="Disable Automatic Calibration"/></a></center><br>
-
-*  Use Android Settings to sync its time with the network as described.
+* Use Android Settings to sync its time with the network as described.
 Phone Time Accuracy
 Synchronise your phone clock to the network (Android Settings −> General Management −> Date & Time).
 
-
-<center>Synchronise Date and Time: <img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Date and Time.jpg" title="Synchronise Date and Time"/></a></center>
-<center>If you don’t, the transmitter could fail and it will not be simple to figure out why.</center><br>
+<center>Synchronise Date and Time: <img width="420" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/bc8af28f-5a79-43a5-9340-0a1176edf7af" title="Date and Time"/></a></center>
+<br><br></br>
+	
+* <center>If you don’t, the transmitter could fail and it will not be simple to figure out why.</center>
 
 * Disable battery optimization as explained here.
 If you use xDrip as your collector, the app that receives readings from the sensor, you need to disable battery optimization for xDrip on your phone settings.
-Usually, this is at Android settings −> Apps −> xDrip+ −> Advanced −> Battery.
-
-<center>Disable battery optimization: <img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/battery.jpg" title="Disable battery optimization"/></a></center>
-
+Usually, this is at Android settings −> Apps −> xDrip+ −> Advanced −> Battery.<br><br>
+<center>Disable battery optimization: <img width="420" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/b2596183-08a5-44d4-b5be-29b4b8954f33" title="Battery"/></a></center>
+<br><br></br>
 
 * For Android 11 or newer, enable background location access. 
 To do this go to Android Settings.
 Look for xDrip. Under “Apps” or “Apps info”, and not under “Accessibility”, Select xDrip.
 Hit on “Permissions”.
-<center>Enable Location: <img width="240" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/location.jpg" title="Enable Location"/> <img width="240" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Allow Permissions.jpg" title="Allow Permissions"/></a></center>
-
+<center>Enable Location: <img width="220" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/caad55e1-0fc1-487d-afa9-7fc8c96b8bd5" title="location"/></a> <img width="220" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/ceb91ec1-e5a5-427f-a06d-4cc7b6c5cdf2" title="Allow Permissions"/></a></a></center>
+<br><br>
 
 * Now Restart Your Mobile.
 
