@@ -9,15 +9,15 @@ Starting a sensor in xDrip+ has very different ways depending on your sensor typ
 
 Go to Hamburger/ <br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
 
 Start Sensor/ <br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/start sensor.jpg" title="Start Sensor"/></a><br><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/start sensor.jpg" title="Start Sensor"/></a><br><br>
 
 ## Start New Sensor/
 
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/start new sensor.jpg" title="Start Sensor"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/start new sensor.jpg" title="Start Sensor"/></a><br>
 
 xDrip+ will take you to the [system status page,](../xdrip/xdrip%20-%20System%20Status.md#system-status) <br>
  do not exit until the transmitter is connected.Stay on the system status page.<br>
@@ -27,7 +27,7 @@ Come back here to follow on with the setup!<br>
 
 Check the system status from time to time to make sure the transmitter is still connected. If connection falls, check your G5 or G6 settings and connection.<br>
 
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/please wait sensor wars up.jpg" title="Time Left to warm up finishes"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/please wait sensor wars up.jpg" title="Time Left to warm up finishes"/></a><br>
 
 ## Sensor code 
 
@@ -39,7 +39,7 @@ If you lose the sensor code, see below: No code start.<br>
 
 
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/G6 Sensor code.jpg" title="Sensor ode"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/G6 Sensor code.jpg" title="Sensor ode"/></a><br>
 
 !!!info  
     No code start
@@ -72,7 +72,7 @@ Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If i
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

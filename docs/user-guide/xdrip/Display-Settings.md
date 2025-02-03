@@ -7,42 +7,42 @@ docs made by D.Galloway 2019- 2023-->
 
 ## xdrip+ Colour Settings
 
-First, Go to Hamburger icon in the top left  <img width="150" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Hamberger icon2.jpg" title="Hamburger icon "/></a><br> then Go to Xdrip+ Display Settings.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Setting main.jpg" title="xdrip+ Settings "/></a> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip display settings.jpg" title="xdrip+  Display Settings/ "/></a><br><br>
+First, Go to Hamburger icon in the top left  <img width="150" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Hamberger icon2.jpg" title="Hamburger icon "/></a><br> then Go to Xdrip+ Display Settings.<br><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Setting main.jpg" title="xdrip+ Settings "/></a> <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip display settings.jpg" title="xdrip+  Display Settings/ "/></a><br><br>
 I will start with  Xdrip+ Colour Settings from the list! so select it.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip colour settings1.jpg" title="xdrip+ Colour Settings "/></a> <br><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour settings1.jpg" title="xdrip+ Colour Settings "/></a> <br><br>
 This will now show you the Glucose values and lines with an Example Chart at the top for you see what each colour is doing.<br><br>
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Example chart.jpg" title="Example Chart "/></a> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip colour settings.jpg" title="xdrip+ Colour Settings / "/></a><br><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Example chart.jpg" title="Example Chart "/></a> <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour settings.jpg" title="xdrip+ Colour Settings / "/></a><br><br>
 You can scroll down to see more values.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip colour settings list.jpg" title="xdrip+ Colour Settings List "/></a> <br><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour settings list.jpg" title="xdrip+ Colour Settings List "/></a> <br><br>
  You can do a long press on each of the different colours to change the colour settings.<br><br>
  The example chart on top will show the effect of what you have modified in this section.<br><br>
- <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip colour Pallet.jpg" title="xdrip+ Colour Pallet "/></a><br><br>
+ <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip colour Pallet.jpg" title="xdrip+ Colour Pallet "/></a><br><br>
  You can always select revert to default if you do not like your colour choices.<br><br>
  You can also modify the recent BG value and trend arrow colour in regard with range limits.<br><br>
- <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Colour of BG reading and trend arrow.jpg" title="xdrip+ Colour of BG Reading and Trend Arrow "/>
+ <img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Colour of BG reading and trend arrow.jpg" title="xdrip+ Colour of BG Reading and Trend Arrow "/>
  
 ## Treatments and Prediction Curves
 1.	Insulin on board (treatment main curve)
 2.	Insulin activity (small dotted line)
 3. Glucose Prediction
 4. Carbs on Board<br><br>
- <img width="800" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Treatments Prediction Curves exaple2.jpg" title="xdrip+ Treatments Prediction Curves exaple"/><br><br>
+ <img width="800" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Treatments Prediction Curves exaple2.jpg" title="xdrip+ Treatments Prediction Curves exaple"/><br><br>
 
 ## AVERAGE AND TARGET LINES
 1. - 8-Hour average line
 2. - 24-Hour average line
 3. - Target line<br><br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/average and target lines2.jpg" title="xdrip+ Average and Target Lines"/><br><br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/average and target lines_example.jpg" title="xdrip+ Average and Target Lines example"/><br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/average and target lines2.jpg" title="xdrip+ Average and Target Lines"/><br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/average and target lines_example.jpg" title="xdrip+ Average and Target Lines example"/><br><br>
 
 ## ANNOTATIONS AND DOTS
 1.	Blood tests (also calibrations), and treatments.
 2.	Blood tests Foreground
 3.	Treating Background
 4.	Treating Foreground<br><br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/ANNOTATIONS AND DOTS.jpg" title="xdrip+ ANNOTATIONS AND DOTS"/><br><br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/ANNOTATIONS AND DOTS_example.jpg" title="xdrip+ ANNOTATIONS AND DOTS - Example"/><br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/ANNOTATIONS AND DOTS.jpg" title="xdrip+ ANNOTATIONS AND DOTS"/><br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/ANNOTATIONS AND DOTS_example.jpg" title="xdrip+ ANNOTATIONS AND DOTS - Example"/><br><br>
 
 ## BACKGROUNDS
 Graphs backgrounds
@@ -50,13 +50,13 @@ Graphs backgrounds
 2. Notification Background<br>
 3. Widget Background
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Backgrounds2_numbers.jpg" title="xdrip+ Backgrounds"/>  <br><br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Backgrounds2_example.jpg" title="xdrip+ Backgrounds - Example"/><br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Backgrounds2_numbers.jpg" title="xdrip+ Backgrounds"/>  <br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Backgrounds2_example.jpg" title="xdrip+ Backgrounds - Example"/><br><br>
 
 
 ##  Language
 By default, xDrip+ will use your phone language. You can select additional language for xDrip+ or force it to display instead of the Mobiles language. For this: select the language in Choose a specific language, then change the Force language Text switch.<br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip Display settings Lanuage.jpg" title="xdrip+ Display Settings "/></a> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/choose language.jpg" title="xdrip+ Choose Specific Language / "/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip Display settings Lanuage.jpg" title="xdrip+ Display Settings "/></a> <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/choose language.jpg" title="xdrip+ Choose Specific Language / "/></a><br>
 
 
 
@@ -94,7 +94,7 @@ By default, xDrip+ will use your phone language. You can select additional langu
 ********************************************
     Adding exernal link to other a web sites
 **********************************************
-# <center>Part 2: <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
+# <center>Part 2: <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
 <br>
 **********************************************
 

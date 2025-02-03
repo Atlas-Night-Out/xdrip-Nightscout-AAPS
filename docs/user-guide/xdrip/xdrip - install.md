@@ -1,6 +1,6 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
-<img width="460" height="315" border="0" align="center"  src="/my-project/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
+<img width="460" height="315" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
 # **Install xDrip** <br>
 
 This video installation process is a little old now and the video really needs to be updated, which I will do as soon as I get time to.
@@ -26,11 +26,11 @@ It should ask you to allow these authorizations. If it doesn't or you need to lo
 For me on a Samsung I swiped down and click on the gear icon to get to my settings.<br>
 APPS/xDrip+/Battery<br>
 
-<center><img src="/my-project/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/my-project/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/my-project/img/xdrip/Battery.jpg" alt="alt text" width="300" height="auto"></center><br>
+<center><img src="/xdrip-Nightscout-AAPS/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/xdrip-Nightscout-AAPS/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/xdrip-Nightscout-AAPS/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/xdrip-Nightscout-AAPS/img/xdrip/Battery.jpg" alt="alt text" width="300" height="auto"></center><br>
 
 <center> <span style="background-color: #FFFF00">**And select Battery Unrestricted.**</span><br><br>
 
-<img src="/my-project/img/xdrip/Battery_unrestrcted.jpg" alt="alt text" width="300" height="auto"></center><br>
+<img src="/xdrip-Nightscout-AAPS/img/xdrip/Battery_unrestrcted.jpg" alt="alt text" width="300" height="auto"></center><br>
 
 ## <center>**Making sure xDrip+ will not be put in to sleep mode and enabled permissions**</center><br>
 Make sure these settings are checked, but still make sure they are exactly like shown below. 
@@ -39,7 +39,7 @@ Go to <center><span style="background-color: #FFFF00">**Other misc options**</sp
 <span style="background-color: #FFFF00">**/ Settings / Less Common Settings / Other misc options**</span></center><br><br>
 
 And make sure these are selected!<br>
-<center><img src="/my-project/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br><br>
+<center><img src="/xdrip-Nightscout-AAPS/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br><br>
 
 ## **Enable location & other XDRIP+ Permissions**<br>
 
@@ -51,11 +51,11 @@ See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
 <iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/yHv86lZ2s58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 <center>
 ## Next:see
-### <a href=" https://atlas-night-out.github.io/my-project/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> <br><br></center>
+### <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> <br><br></center>
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
@@ -98,7 +98,7 @@ Adding a image with link
 external link
 ******************
 
-# <center>Part 4: <a href="https://atlas-night-out.github.io/my-project/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
+# <center>Part 4: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
 
 Adding Video
 

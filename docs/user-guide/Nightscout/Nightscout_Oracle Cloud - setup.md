@@ -10,7 +10,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 1.	Sign up: By going to https://www.oracle.com/cloud/sign-in.html or <a href=" https://www.oracle.com/cloud/sign-in.html" target="_blank" title="Sign up">Click Here</a><br><br>
 a.	Go to Sign in.<br><a href="https://www.oracle.com/cloud/sign-in.html" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Nightscout_Oracle Cloud-setup/sign up to Oracle cloud.jpg" title="sign up to Oracle cloud"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Nightscout_Oracle Cloud-setup/sign up to Oracle cloud.jpg" title="sign up to Oracle cloud"/>
 </a><br>
 
 
@@ -19,7 +19,7 @@ a.	Go to Sign in.<br><a href="https://www.oracle.com/cloud/sign-in.html" target=
 
 <br><br>
 <center><a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs!</center><br><br>
 
 

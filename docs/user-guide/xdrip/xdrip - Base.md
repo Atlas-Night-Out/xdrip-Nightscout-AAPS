@@ -1,6 +1,6 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by D.Galloway 2019- 2021-->
-<img width="460" height="315" border="0" align="center"  src="/my-project/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
+<img width="460" height="315" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
 
 # **BASE_URL** 
 
@@ -9,22 +9,22 @@ docs made by D.Galloway 2019- 2021-->
 ### 1. **Set up xDrip to upload to your Nightscout** <br>
 This is what you need to do in xDrip on your master (Main)  phone.<br>
 #### a. Go to xDrip Settings −> Cloud Upload −> Nightscout Sync (REST-API)<br>
-<center><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/></a><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip cloud upload.jpg" title=" Cloud Upload"/></a><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip Nightscout Sync (REST-API).jpg" title=" Nightscout Sync (REST-API)"/></a></center><br>
+<center><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/></a><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip cloud upload.jpg" title=" Cloud Upload"/></a><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip Nightscout Sync (REST-API).jpg" title=" Nightscout Sync (REST-API)"/></a></center><br>
 #### b. Select Enable at the top, if not already enabled.<br>
-<img width="400" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/Nightscout sync (REST-API).jpg" title=" Enable Nightscout Sync (REST-API)"/></a>
+<img width="400" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/Nightscout sync (REST-API).jpg" title=" Enable Nightscout Sync (REST-API)"/></a>
 #### c. Tap on Base URL. Enter the following Url. Remeber yours will be different than what I show you here. You will need to add your Secret-API and your Host to the set out code!
 https://<span style="background-color: #FFFF00">**ThisIsyourSecret-API**</span>@<span style="background-color: #26AF06">**thisisyourHostName**</span>/api/v1/<br>
 If you  forgot or lose your secret-API it can be located at Heroku/ Settings/Config Vars and look down the list for API_SECRET<br>
 This will now be located in a differrent place now within Fly_io<br>
 
 Your Host name is located if <span style="background-color: #FFFF00">**using Heroku**</span> at Heroku/Settings/ and scroll down to the bottom.<br>
-<center><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Heroku/Heroku App name.jpg" title="Heroku App URL "/></a></center><br>
+<center><img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/Heroku App name.jpg" title="Heroku App URL "/></a></center><br>
 Or you can click on the Open app in your Heroku acount at the top of your screen and copy the url from the browser.<br>
-<center><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Heroku/open heroku app.jpg" title="Heroku Open App "/></a></center><br>
-<center><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Heroku/rightclick url nightscout.jpg" title="Heroku Open App "/></a></center><br>
+<center><img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/open heroku app.jpg" title="Heroku Open App "/></a></center><br>
+<center><img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/rightclick url nightscout.jpg" title="Heroku Open App "/></a></center><br>
 <br>
 Your Host name is located if <span style="background-color: #FFFF00">**using Fly_io**</span> its in your Fly_io Dashboard.
-<center><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/example Base URL.jpg" title="Adding Your Base"/></a></center><br>
+<center><img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/example Base URL.jpg" title="Adding Your Base"/></a></center><br>
 
 #### d. (Reminder)Tap on Base URL. Enter the following. https://API-Secret@hostname/api/v1/  <br>
 
@@ -35,17 +35,17 @@ If you do not see levels after 5 mins, triple check the way you have added your 
 This is the same has above except your Url will be your web address for Fly_io Host address, not like xdrip's where it has Both Secret and Fly_io host on one line with the added api/v1 at the end of it<br>
 On AASP it is done seperatly, you add your Nightscout Web URL and then add your Secret in NS API secret below.There is no api/v1 in it<br>
                                   
-<center>Fly_io<img width="300" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/AAPS_Base URL.jpg" title="Fly_io Base"/></a>Heroku<img width="300" height="Auto" border="0" align="center"  src="/my-project/img/Heroku/AAPS Heroku URL (2).jpg" title="AAPS Heroku Base"/></a></center><br>
+<center>Fly_io<img width="300" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/AAPS_Base URL.jpg" title="Fly_io Base"/></a>Heroku<img width="300" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/AAPS Heroku URL (2).jpg" title="AAPS Heroku Base"/></a></center><br>
 
 ### Adding a Follower
 
 ### 1. **Setting up xDrip as a (follower) for your dad**
 This will be on your <span style="background-color: #FFFF00">**followers mobile phone,**</span> not your own.
 #### a. In the xDrip Settings / Hardware Data Source, choose “Nightscout Follower” as the hardware data source.
-<center><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/Hardware Data Source1.jpg" title=" Select Hardware Data Source"/></a><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/Hardware Data Source.jpg" title=" Nightscout Follow"/></a></center><br>
+<center><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/Hardware Data Source1.jpg" title=" Select Hardware Data Source"/></a><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/Hardware Data Source.jpg" title=" Nightscout Follow"/></a></center><br>
 
 Under “Nightscout Follow URL”, <br>
-<center><img width="250" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/nightscout follow url.jpg" title=" follow url"/><br>Fly_io<img width="250" height="auto" border="0" align="center"  src="/my-project/img/xdrip/fly nightscout followers url.jpg" title=" fly nightscout followers url"/>Heroku<img width="250" height="auto" border="0" align="center"  src="/my-project/img/xdrip/heroku nightscout followers url.jpg" title=" Heroku nightscout followers url"/></center><br>
+<center><img width="250" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/nightscout follow url.jpg" title=" follow url"/><br>Fly_io<img width="250" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/fly nightscout followers url.jpg" title=" fly nightscout followers url"/>Heroku<img width="250" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/heroku nightscout followers url.jpg" title=" Heroku nightscout followers url"/></center><br>
 
 Add your Fly_io Host address into it or your Heroku Name URL depending on which one you are using.<br>
 This will only be setting up a follower, giving them the full URL Address but they will not have a Secret Password for it like yourself would have.<br>
@@ -59,16 +59,16 @@ You can also add a Token and email it to one of your follows.<br>
 ### 1. **Make a Token**<br>
 Click the 'Add New Subject' 
 
-<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/nightscout Add New Subject.jpg" title=" Add New Subject"/></a></center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/nightscout Add New Subject.jpg" title=" Add New Subject"/></a></center><br>
 
 ### a. In the form that opens, enter a name. Then under “Roles”, copy a role from the table. For example, for your dad that is only supposed to see your readings and nothing else and not be able to enter any other details or do anything else, then enter 'readable' in the roles section. <br><br>
-<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/rolls blank edit subject.jpg" title=" edit subject"/></center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/rolls blank edit subject.jpg" title=" edit subject"/></center><br>
 You can enter a combination of different roles by separating them with “,”<br>
 You can also add an optional comment if you like, and then click the save button.<br>
 
 
 ### b. The token will be displayed at the top. You can use it now to give to your follower:<br>
-<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/access token for role.jpg" title=" Access Token for Role Dad"/></center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/access token for role.jpg" title=" Access Token for Role Dad"/></center><br>
 
 <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
 <tbody>
@@ -102,12 +102,12 @@ Now email the person who is to follow you, and paste the URL into the email, and
 ##  **Issues or Concerns** 
 
 If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
+  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

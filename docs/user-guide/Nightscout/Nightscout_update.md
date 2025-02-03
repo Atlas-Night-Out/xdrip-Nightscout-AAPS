@@ -4,7 +4,7 @@
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/NIGHTSCOUT UPDATE 860X430.png" Nightscout Update"/>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/NIGHTSCOUT UPDATE 860X430.png" Nightscout Update"/>
 
 ## <span style="color:#111478">Updating Nightscout to the Latest Version </span> <br> 
 
@@ -59,14 +59,14 @@ as of 0.12, Nightscout no longer supports the free Azure platform now. If you re
 
 
 <a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/>
 </a>
 click the blue button that says<span style="background-color: #FFFF00">**Checks for updates**</span>
 
 * If an update is available, the tool will tell you this,and provide directions for you, and also give you a button that will take you to <span style="background-color: #FFFF00">**GitHub**</span> to finish the process.
 
 <a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/update availible.jpg" title="Update Tool"/></a><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/update availible.jpg" title="Update Tool"/></a><br>
   
 * <span style="background-color: #FFFF00">**Click the Continue updating at GitHub button.**</span> Review the directions on the screen that pops up, and continue.
 
@@ -74,14 +74,14 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 
 * <span style="background-color: #FFFF00">**Click "Create pull request"**</span> Your fork must be on the left side  
 <a >
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/step1_creat_pull_request.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
  and the <span style="background-color: #FFFF00">**nightscout/cgm-remote-monitor must be on the right.**</span><br>
  
 ## step 2 create pull request
 
 * Click <span style="background-color: #FFFF00">**"Create pull request” again,**</span> do not change the comparison. Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right side.
 <a >
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/step 2 create pull request again.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/step 2 create pull request again.jpg" title="Your fork must be on the left side and the nightscout/cgm-remote-monitor must be on the right. right."/></a>
 * <span style="background-color: #FFFF00">** Also Give your pull request a name**</span> like “Update” or “Sweet Liquorice Update” — doesn’t really matter what this is.
 
 ## Step 1 & Step 2 Video
@@ -109,7 +109,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 * Click <span style="background-color: #FFFF00">**"Merge pull request**</span>
 
 <a >
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/step 3 merge pull request.jpg" title="Merge pull request"/></a>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/step 3 merge pull request.jpg" title="Merge pull request"/></a>
   
 * or see video below
 <br>
@@ -131,7 +131,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 <br>
 * Now Click the  <span style="background-color: #FFFF00">**Confirm merge button.**</span>
 <a>
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/step 4 click  confirm merge.jpg" title="Step 4 Confirm Merge"/></a>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/step 4 click  confirm merge.jpg" title="Step 4 Confirm Merge"/></a>
 
 ## step 5 merged
 
@@ -158,16 +158,16 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
  
 * Log into <a href="https://id.heroku.com/login" target="_blank" title="Nightscout Release Versions">Heroku</a>  
 <a href="https://id.heroku.com/login" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/log into heroku.jpg" title="Log into Heroku"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/log into heroku.jpg" title="Log into Heroku"/>
 </a>
 
 * Select your app `(In my case The Dibetic Way)`
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Select_your_App.jpg" title="Select Deploy Tab"/>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/Select_your_App.jpg" title="Select Deploy Tab"/>
 <br>
 
 * In the middle bit (Deploy)section, click on the GitHub button if it isn’t already showing as connected. It will ask you to authorize the connection if you’re doing it for the first time.
 
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/github connected.jpg" title="Select Deploy Tab"/>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/github connected.jpg" title="Select Deploy Tab"/>
 <br>
 
 * Type “cgm” into the repo-name search box, and click Search
@@ -193,17 +193,17 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
   
 * Now after connecting to Github, Scroll down to the bottom of the page, make sure to select the <span style="background-color: #FFFF00">master branch</span>  and then click <span style="background-color: #FFFF00"> Deploy Branch</span>
 <br>
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/masterthendeploy.jpg" title="Select master then Deploy Branch"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/masterthendeploy.jpg" title="Select master then Deploy Branch"/>
 </a>
 <br>
 * Build will start, do not interfere and wait for completion. It can take a while <span style="background-color: #FFFF00">approximately around 10 minutes Do not Interrupt the process</span>  has it can lead to a broken site and you'll need to restart again.
 <br>  
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Build-will-start.jpg" title="Build will start and information will scroll in the log window"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/Build-will-start.jpg" title="Build will start and information will scroll in the log window"/>
 </a>
 <br>
 *  Wait until the deploy process completes and <span style="background-color: #FFFF00">click View</span> if nothing happens click Manage App then upper right Open App
 <br>
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/view-App.jpg" title="Delect View now that the deploy process is complete"/></a>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/view-App.jpg" title="Delect View now that the deploy process is complete"/></a>
 <br>
 *  Your site will open and  it should be at the latest version on your Nightscout Site
 <br>
@@ -254,7 +254,7 @@ click the blue button that says<span style="background-color: #FFFF00">**Checks 
 </table>
 <br><br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs!<br><br>
 
 

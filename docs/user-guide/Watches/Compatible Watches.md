@@ -1,7 +1,7 @@
 # Xdrip Compatible Watches
 
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/Watches/xdrip compatible watches_1563058676051.png" title="Compatible watches logo"/><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Watches/xdrip compatible watches_1563058676051.png" title="Compatible watches logo"/><br>
 
 ###These are the results from the Survey done at <a title="Xdrip compatible Watches Questioner Form" href="https://forms.gle/RzMvHEM89gmbMT2TA">Xdrip compatible Watches Questioner Form</a>
 
@@ -18,7 +18,7 @@
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

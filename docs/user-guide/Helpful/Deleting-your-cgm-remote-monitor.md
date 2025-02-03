@@ -2,7 +2,7 @@
 docs made by D.Galloway 2019- 2021 -->
 
 
- <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Deleting-your-cgm-remote-monitor/utube_Github-deleting your cgm-remote-monitor fork.jpg" title="Github - Deleting Your cgm-remote-monitor fork  "/>
+ <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Deleting-your-cgm-remote-monitor/utube_Github-deleting your cgm-remote-monitor fork.jpg" title="Github - Deleting Your cgm-remote-monitor fork  "/>
 <br>
 ## Deleting Your cgm-remote-monitor fork <br><br>
 
@@ -27,7 +27,7 @@ docs made by D.Galloway 2019- 2021 -->
  
  <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
   

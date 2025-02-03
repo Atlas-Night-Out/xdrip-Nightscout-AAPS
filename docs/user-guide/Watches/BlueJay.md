@@ -1,13 +1,13 @@
 <!-- this is on github server 
 docs made by D.Galloway 2019- 2025
-images would need to be change for them to show up on github from src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
-src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
+images would need to be change for them to show up on github from src="/xdrip-Nightscout-AAPS/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
+src="/xdrip-Nightscout-AAPS/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
 
 -->
 
 <br> 
 
- <img width="460" height="303" border="0" align="center"  src="/my-project/img/Watches/Watches 20210821_233839.jpg" title="xdrip Logo "/>
+ <img width="460" height="303" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Watches/Watches 20210821_233839.jpg" title="xdrip Logo "/>
 ## **BlueJay: An Incredible Companion for Your Dexcom Sensor**
 ## The Dexcom sensor
 <a href=" https://bluejay.website/" target="_blank" title="You can purchase your BlueJay Watch">Click Here</a> download xdrip from mobile: 
@@ -191,7 +191,7 @@ Blue Note
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -229,5 +229,5 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </tr>
 </tbody>
 </table>
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/sadface.png" Sad day"/><br>
 -->

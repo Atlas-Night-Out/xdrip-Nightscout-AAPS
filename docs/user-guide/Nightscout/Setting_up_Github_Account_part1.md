@@ -1,13 +1,13 @@
 
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
 
 <br>
 Annoncment Heroku is starting to charge for having a Nightscout site free!<br>
 
 ** Here is what Heroku has Announced!** <br>
-<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
 
   I have also noticed Gluco check has also had bad news too on voice prompts that we all so luve being taken away from us all in June by Google removing a api we need to do this process again! <a href=" https://pages.glucocheck.app/sunset" target="_blank" title="Gluco check closing down">Click Here</a>. <br>
 
@@ -21,7 +21,7 @@ We are looking at options. Please be patient. And it will still be best to setup
  <br>
 
 
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
 
 
 
@@ -56,33 +56,33 @@ with other devices and setups too! You do this at your own risk as my instructio
 
 ###3. Setting up Github<br>
 <a href="https://github.com/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github account.jpg" title="Setting up Github"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/github account.jpg" title="Setting up Github"/>
 </a><br>
 
-  <img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/Github account details.jpg" title="Github account details"/>
+  <img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/Github account details.jpg" title="Github account details"/>
 </a><br>
 ###4. After filling in your details you will then need to do a <span style="background-color: #FFFF00">**puzzle**</span> Puzzle<br>
 
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/github puzzle.jpg" title="Puzzle"/>
 </a><br>
 ###5. After doing the puzzle you will be sent an email, so <span style="background-color: #FFFF00">**check your email**</span>  for the code sent to you!<br> 
 
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github code.jpg" title="Github Code"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/github code.jpg" title="Github Code"/>
 </a><br>
 ###6. Now <span style="background-color: #FFFF00">**enter the code**</span> sent to you to finish the setup<br>
 
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github enter code.jpg" title="Setting up github"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/github enter code.jpg" title="Setting up github"/>
 </a><br>
 ###7. Just fill in the rest of the details to what you want to use in my case I SELECTED all the tools needed!<br><br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/github tools.jpg" title="Github Tools"/>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/github tools.jpg" title="Github Tools"/>
 </a><br>
 ###8. Now click on the <span style="background-color: #FFFF00">**Cat icon**</span>  to get to your main Github account. <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/cat icon.jpg" title="Github Cat Icon"/>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/cat icon.jpg" title="Github Cat Icon"/>
 </a><br>
 ###9. Click this <a href=" https://github.com/nightscout/cgm-remote-monitor" target="_blank" title="Nightscout Main Repository">Link</a> to take you to the <span style="background-color: #FFFF00">**Nightscout Main Repository**</span> make sure to open it in a new tab: https://github.com/nightscout/cgm-remote-monitor <br>
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/6o3AdkQBVog?start=172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 ###10. Now fork it from <span style="background-color: #FFFF00">**Nightscout Main repository**</span> to your own respository (in my case)  <span style="background-color: #FFFF00">**thediabeticway23**</span> <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Part 1 Setting up Github 2021/nightscout_repo.jpg" Setting up GitHub Part 1"/>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Part 1 Setting up Github 2021/nightscout_repo.jpg" Setting up GitHub Part 1"/>
 ###11. Once you have forked it from Nightscout Repo to your own repo you should be able to go to it, to see all the files!
 
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/M78KtZ5WbYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -109,14 +109,14 @@ with other devices and setups too! You do this at your own risk as my instructio
 <br>
 ## <center>Now we need to Do <br></center>
 <br>
-# <center>Part 2: <a href="https://atlas-night-out.github.io/my-project/user-guide/Nightscout/Setting_up_Heroku_Account_part2/ " target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
+# <center>Part 2: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Nightscout/Setting_up_Heroku_Account_part2/ " target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
 <br>
-https://atlas-night-out.github.io/my-project/user-guide/Nightscout/Setting_up_Heroku_Account_part2/
+https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Nightscout/Setting_up_Heroku_Account_part2/
  
 <br> 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
   <!--  
@@ -345,7 +345,7 @@ Blue Note
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -383,7 +383,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </tr>
 </tbody>
 </table>
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/sadface.png" Sad day"/><br>
 -->
 
 

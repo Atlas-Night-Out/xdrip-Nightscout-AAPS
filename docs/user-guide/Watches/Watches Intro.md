@@ -1,13 +1,13 @@
 <!-- this is on github server 
 docs made by D.Galloway 2019- 2025
-images would need to be change for them to show up on github from src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
-src="/my-project/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
+images would need to be change for them to show up on github from src="/xdrip-Nightscout-AAPS/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " to
+src="/xdrip-Nightscout-AAPS/img/side_load_ xdrip/1_icon_319x368.png" title="Gear Icon " 
 
 -->
 
 <br> 
 
- <img width="460" height="303" border="0" align="center"  src="/my-project/img/Watches/Watches 20210821_233839.jpg" title="xdrip Logo "/>
+ <img width="460" height="303" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Watches/Watches 20210821_233839.jpg" title="xdrip Logo "/>
 ## **Xdrip Watches: Revolutionizing Glucose Monitoring**
 ## An In-Depth Look
 In the ever-evolving landscape of diabetes management, Xdrip watches have emerged as a groundbreaking tool, offering real-time glucose monitoring with unparalleled convenience. These smartwatches, integrated with Xdrip technology, provide users with continuous glucose data, enhancing the quality of life for individuals with diabetes.

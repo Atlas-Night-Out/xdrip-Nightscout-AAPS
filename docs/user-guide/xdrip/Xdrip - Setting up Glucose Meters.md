@@ -5,7 +5,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <br>
 Thank you Julie! 
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/Contour Next one_logo.jpg"Contour Next One Logo"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/Contour Next one_logo.jpg"Contour Next One Logo"/><br>
 
 ## <span style="color:#111478">Setting up CONTOUR®NEXT ONE Meter onto Xdrip+</span> <br> 
 
@@ -46,22 +46,22 @@ CONTOUR DIABETES (UK) Google App  click
 
 ## 2. Putting Xdrip into Pairing Mode
 ### a.  First go into <span style="background-color: #FFFF00">**settings**</span> - <span style="background-color: #FFFF00">**Glucose Meters**</span> and select <span style="background-color: #FFFF00">**Scan for Bluetooth Meter**</span>
-<center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/1_Hamberger_icon.jpg" title="Select Burger icon "/>  <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/2_settings.jpg" title="Go to Settings "/><br></center><br> <center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/4_glucose meters 2.jpg" title="select Glucose Meter"/> 
-<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/5_scan for Bluetooth Meter.jpg" title="Select Scan for Bluetooth "/> </center><br>
+<center><img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/1_Hamberger_icon.jpg" title="Select Burger icon "/>  <img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/2_settings.jpg" title="Go to Settings "/><br></center><br> <center><img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/4_glucose meters 2.jpg" title="select Glucose Meter"/> 
+<img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/5_scan for Bluetooth Meter.jpg" title="Select Scan for Bluetooth "/> </center><br>
 
 ### b.  Now you need to  pair it to your Contour Next One Meter, but before you do this.<br>
-<center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/6_contour Next One2.jpg" title="Contour Next One "/></center>
+<center><img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/6_contour Next One2.jpg" title="Contour Next One "/></center>
 
 ### c. <span style="background-color: #FFFF00">**Press down for 7 sec**</span> on your Contour next meter button, to put it into pairing mode.<br>
-   <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/7_Meter Scan.jpg" title="Meter Scan "/> <br>
+   <img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/7_Meter Scan.jpg" title="Meter Scan "/> <br>
 And select scan. You might not need to do this if you are quick enough. Just <span style="background-color: #FFFF00">**select your Contour**</span> if it pops up<br><br>
 
 ### d. Make sure to put it very close to the Note 10+ I found it better placing it at the back of the mobile!<br>
- <center><img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/9_contour paired.jpg" title="Pairing it "/> <img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/10_paired.jpg" title="Select Pair  "/> </center><br>
+ <center><img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/9_contour paired.jpg" title="Pairing it "/> <img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/10_paired.jpg" title="Select Pair  "/> </center><br>
 <span style="background-color: #FFFF00">**Select Pair**</span>. Then after you have paired it. <br><br>
 
 ### e. You should now be able to turn on the option <span style="background-color: #FFFF00">**Use Bluetooth Meter**</span>  by going back.<br>
-<img width="319" height="auto" border="0" align="center"  src="/my-project/img/Xdrip - Setting up Glucose Meters/use bluetooth meter.jpg" title="Use Bluetooth Meter "/> <br>
+<img width="319" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Xdrip - Setting up Glucose Meters/use bluetooth meter.jpg" title="Use Bluetooth Meter "/> <br>
 
 !!!Info
     You should now be fully able to test your blood readings and have them automatically go straight into xdrip for you. (If you have a brand new meter it won't pair unless there is at least one glucose reading in the meter before you try the pairing to xdrip) Thanks to Matthew Gray for this tip<br>
@@ -72,7 +72,7 @@ And select scan. You might not need to do this if you are quick enough. Just <sp
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 
 
@@ -209,7 +209,7 @@ Blue Note
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>

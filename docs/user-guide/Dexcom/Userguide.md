@@ -2,25 +2,25 @@
 
 
 
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Dexcom G6 Logo_1_200x30.png" title="Dexcom"/></a><br>
+<img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom"/></a><br>
 
 
 ### **There are 4 Elements to get started**
 ## Setup
 1. Sensor Applicator
-<img width="420" height="220" border="0" align="center"  src="../my-project/img/Dexcom/Sensor Applicator_20220811_135041_2.jpg" title="Sensor Applicator"/></a>	
+<img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Sensor Applicator_20220811_135041_2.jpg" title="Sensor Applicator"/></a>	
 2.  Sensor
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Sensor_20220811_160x269.jpg" title="Sensor"/></a>	
+<img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Sensor_20220811_160x269.jpg" title="Sensor"/></a>	
 3.  Transmitter
-<img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Transmitter_20220811_180x190.jpg" title="Transmitter"/></a>
+<img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Transmitter_20220811_180x190.jpg" title="Transmitter"/></a>
 4.  A Display
-<img width="320" height="120" border="0" align="center"  src="/my-project/img/Dexcom/Display_20220812_460x537.jpg" title="Display"/></a><br>
+<img width="320" height="120" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Display_20220812_460x537.jpg" title="Display"/></a><br>
 
 ## Dexcom Intro Userguide
 
 * Prepare for sensor insertion <br>
 * Take off Labels <span style="background-color: #FFFF00">**(Do not forget to keep Lebels safe or take a photo of your Sensor Code)**</span><br> you will need the code later.<br>
-<centre><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Dexcom/Sensor _code20220811_160x271.jpg" title="Sensor Code"/></a></centre><br>
+<centre><img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Sensor _code20220811_160x271.jpg" title="Sensor Code"/></a></centre><br>
 * Insert a sensor <br>
 * Attach transmitter to transmitter holder <br>
 
@@ -80,7 +80,7 @@ And if at any point you feel you are not getting correct readings always do a fi
 ********************************************
     Adding exernal link to other a web sites
 **********************************************
-# <center>Part 2: <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
+# <center>Part 2: <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
 <br>
 **********************************************
 

@@ -8,7 +8,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 ## <span style="color:#111478">Setting up Heroku Account part 2 </span> 
 <br> 
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Robot face_ heroku_account.jpg" Setting up Heroku Part 2"/>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/Robot face_ heroku_account.jpg" Setting up Heroku Part 2"/>
 
 
 
@@ -21,7 +21,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title=" Part 1 Setting up Github Account for Nightscout.">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title=" Part 1 Setting up Github Account for Nightscout.">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -30,16 +30,16 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 ### **Now we are going to create a Heroku account.**<br><br>
 ###1. First you will need go to Heroku web page and create an account for yourself <a href=" https://signup.heroku.com" target="_blank" title="Heroku Account">Click Here</a> or: https://signup.heroku.com  <span style="background-color: #FFFF00">**And enter all your account details**</span>.<br>
 <a href="https://signup.heroku.com" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/sign_up.jpg" title="Sign up a Heroku Account"/></a>	
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/sign_up.jpg" title="Sign up a Heroku Account"/></a>	
 
 First Name, last name, email address
 “Role” and “Primary development language” can be anything, but “Hobbyist” and “Node js” are the most appropriate choices. <span style="background-color: #FFFF00">**And click on Create your free Account**</span><br><br>
 ###2. Now go to verify your account via the link in the verification email that’s sent to you, and then set your password.<br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/set password.jpg" title="set password up"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/set password.jpg" title="set password up"/><br>
 ###3. Click <span style="background-color: #FFFF00">**Later**</span> for Secure your Account this can be done later!<br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Later for Secure your Account.jpg" title="Secure your Account"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/Later for Secure your Account.jpg" title="Secure your Account"/><br>
 ###4. Your Heroku page will open, now click on your profile picture, in the top right corner, and <span style="background-color: #FFFF00">**select Account Settings**</span><br><br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/heroku Account Settings.jpg" title="Heroku Account Settings"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/heroku Account Settings.jpg" title="Heroku Account Settings"/><br>
 
 
 <table width="1166" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
@@ -53,28 +53,28 @@ First Name, last name, email address
 </tbody>
 </table><br>
 ###5.  Click on <span style="background-color: #FFFF00">**Billing**</span><br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/billing.jpg" title="Select Billing"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/billing.jpg" title="Select Billing"/><br>
 ###6.  Click on your <span style="background-color: #FFFF00">**credit card details**</span><br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/Add credit Card.jpg" title="Add yoru credit card details"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/Add credit Card.jpg" title="Add yoru credit card details"/><br>
 ###7.  Enter your <span style="background-color: #FFFF00">**credit card Details**</span> and click Save Details<br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/enter payment details.jpg" title="Enter Card Details"/><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/enter payment details.jpg" title="Enter Card Details"/><br>
 
 ### You should now have 2 web pages open: <span style="background-color: #FFFF00">**Github**</span> and <span style="background-color: #FFFF00">**Heroku**</span> Leave them open.<br><br>
 **Heroku**
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/welcome to heroku.jpg" title="Welcome to Heroku main page"/><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/welcome to heroku.jpg" title="Welcome to Heroku main page"/><br><br>
 **Github**
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Heroku/github & heroku open.jpg" title="Welcome to Github main page"/><br><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Heroku/github & heroku open.jpg" title="Welcome to Github main page"/><br><br>
 
 ## <center>Now we need to do <br></center>
 <br>
-# <center>Part 3: <a href="https://atlas-night-out.github.io/my-project/user-guide/Nightscout/Setting_up_Atlas_Account_part3/" target="_blank" title="set up a Atlas Account - Part 3">Set up a Atlas Account</a> </center>
+# <center>Part 3: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Nightscout/Setting_up_Atlas_Account_part3/" target="_blank" title="set up a Atlas Account - Part 3">Set up a Atlas Account</a> </center>
 <br>
 
 **********************************************************************************************
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

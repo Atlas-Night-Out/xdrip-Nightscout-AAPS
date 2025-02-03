@@ -7,7 +7,7 @@ docs made by D.Galloway 2019- 2021-->
 ## PC Download
 
 <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip pc download.jpg" title="PC Download"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip pc download.jpg" title="PC Download"/>
 </a><br>
 
 
@@ -16,7 +16,7 @@ From a "mobile" You will need to go to a web browser on your mobile and
  Download the latest version of Xdrip <a href="https://jamorham.github.io/#xdrip-plus" target="_blank" title="Mobile xdrip latest version">from Here</a> <br><br>
 
 ## Mobile download
-[<img src="/my-project/img/xdrip/xdrip mobile download.jpg">](https://jamorham.github.io/#xdrip-plus)
+[<img src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip mobile download.jpg">](https://jamorham.github.io/#xdrip-plus)
 
 No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings first!<br> 
 
@@ -46,7 +46,7 @@ So, you can install xDrip+ and an xDrip+ variant or even more. This essentially 
 
 This can prove exceptionally useful to follow more than one person at a time.<br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Variants.jpg" title="Variants"/></a>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Variants.jpg" title="Variants"/></a>
 <br><br>
 
 
@@ -56,7 +56,7 @@ Once you have downloaded a variant from Google Drive, continue like a normal [Se
 <br><br>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

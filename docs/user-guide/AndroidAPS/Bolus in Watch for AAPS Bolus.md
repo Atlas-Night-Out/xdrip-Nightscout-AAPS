@@ -6,7 +6,7 @@ docs made by D.Galloway 2019- 2021-->
 
 
 
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Ticwatch Pro 5.jpg" title="(BG) Blood Readings Icon"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Ticwatch Pro 5.jpg" title="(BG) Blood Readings Icon"/><br>
 
 ### Watch wear version of AAPS allows you to: 
 •	show data on your watch: by providing custom watchfaces or in standard watchfaces with use of complications. <br>
@@ -29,7 +29,7 @@ docs made by D.Galloway 2019- 2021-->
 Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 
 3. Make your own copy of AAPS_3.1.0.3.APK file in Android Studio. And then have it AAPS 3.1.0.3.APk file installed onto your Phone and working with xdrip+,  then within the ConfigBuilder you need to enable the Wear plugin. <br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AndroidAPS_3.2.0.3_main.jpg" title="Android_3.2.0.3 APP.Main"/> <Br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/AndroidAPS_3.2.0.3_main.jpg" title="Android_3.2.0.3 APP.Main"/> <Br><br>
 
 4. You can copy the Repo code from Github into Android Studio from  <a href=" https://github.com/nightscout/AndroidAPS   " target="_blank" title="Git Hub Repository">AAPS     </a>    Or go to https://github.com/nightscout/AndroidAPS  to make your own AAPS.APK file to install onto your phone.<br>
 
@@ -47,14 +47,14 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 </table> <br>
 6. You will need to make sure Wear is enabled in AAPS, by going to the Config Builder and scrolling down to Wear. And select it and then click the gear icon to select your setting for it. E.g BG COB<br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Config Builder wear wear settings.jpg" title=" Wear Setting"/> <br><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/config_wear settings.jpg" title="Config Builder - Wear"/> <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Config Builder wear wear settings.jpg" title=" Wear Setting"/> <br><br>
 7. And also, Settings added into xdrip+ for you to get readings onto your watch. By going to Setting/Smart Watch Features/Android Wear Integration <br>
 
-<img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/xdrip Smart Watch Features.jpg" title="xdrip Smart Watch Features"/>
+<img width="300" height="auto" border="0" align="left"  src="/xdrip-Nightscout-AAPS/img/Medtronic/xdrip Smart Watch Features.jpg" title="xdrip Smart Watch Features"/>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/Medtronic/Android Wear Intergration.jpg" title="Android Wear Intergration"/>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/Android Wear Intergration.jpg" title="Android Wear Intergration"/>
 
-<img width="300" height="auto" border="0" align="left"  src="/my-project/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/>
+<img width="300" height="auto" border="0" align="left"  src="/xdrip-Nightscout-AAPS/img/Medtronic/Android Wear Intergration settings.jpg" title="Wear Intergration Settings"/>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 8. Your AAPS .APK file you have just created in Android Studio will now need to be sideloaded onto your Watch. You do this in a similar way as you will have done with xdrip+ onto your watch with sideloading it, but AAPS is done a little different as its not already installed onto your watch and needs to be added. Big Thank you to  (By Malcolm Bryant) for doing the wear 2 Installer! <br><br>
@@ -83,10 +83,10 @@ Windows 10 32-bit systems are not supported by Android Studio 2020.3.1 <br>
 ## *Step 2 Instructions*
 1. First  double Click on BG Readings icon on which ever Watch Face you are using for AASP. There are a few to choose from. <br>
 ## Watchfaces available <br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS(v2).png" title="AAPS(v2)"/>    <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS (Digital Style).png" title="AAPS (Digital Style)"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/AAPS(v2).png" title="AAPS(v2)"/>    <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/AAPS (Digital Style).png" title="AAPS (Digital Style)"/><br>
 <br>AAPS(v2)  AAPS (Digital Style)
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS (Large).png" title="AAPS (Large)"/>AAPS (Large)
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/AAPS (Large).png" title="AAPS (Large)"/>AAPS (Large)
 
 
 

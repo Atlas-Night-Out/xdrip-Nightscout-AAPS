@@ -3,14 +3,14 @@
 
 ## [xdrip± Home](../xdrip/xdrip-HamburgerMenu.md#xdrip-home)<br>
 Hamburger Menu
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/handburger menu.jpg" title="Hamburger Menu "/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/handburger menu.jpg" title="Hamburger Menu "/></a><br>
 
 
 ## [xdrip± Main Settings List](../xdrip/settings.md#3-xdrip-settings-list)<br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Setting main.jpg" title="Main Settings List"/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Setting main.jpg" title="Main Settings List"/></a><br>
 
 ## [xdrip - Add Calibration±](../xdrip/xdrip-HamburgerMenu.md#xdrip-add-calibration) <br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/add calibration.jpg" title="Hamburger Menu "/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/add calibration.jpg" title="Hamburger Menu "/></a><br>
 
 ## Stop Sensor
 
@@ -27,25 +27,25 @@ Hamburger Menu
 ## History
 
 ## [xdrip - Settings±](../xdrip/settings.md#3-xdrip-settings-list) <br>
-<img width="250" height="auto" border="0" align="center"  src="/my-project/img/xdrip/xdrip Settings_list.jpg" title="Settings list± "/></a><br>
+<img width="250" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip Settings_list.jpg" title="Settings list± "/></a><br>
 
 
 ## [xdrip± Copy settings](../xdrip/xdrip-HamburgerMenu.md#xdrip-copy-settings) <br>
 xDrip+ provides an easy way to copy settings from one Mobile to another.<br>
 <br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/copy setting2.jpg" title="Copy Settings"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/copy setting2.jpg" title="Copy Settings"/></a><br>
 
 ## [xdrip±  Show Settings QR Code](../xdrip/xdrip-HamburgerMenu.md#xdrip-show-settings-qr-code) <br>
 Will how settings QR code displays a QR code containing xDrip+ settings.<br>
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/xdrip/show settings QR codes.jpg" title="show settings QR codes "/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/show settings QR codes.jpg" title="show settings QR codes "/></a><br>
 
 ## [xdrip±  share-settings-via-qr-code](../xdrip/xdrip-HamburgerMenu.md#xdrip-share-settings-via-qr-code) <br>
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/xdrip/share settings via qr code.jpg" title="share settings via QR code "/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/share settings via qr code.jpg" title="share settings via QR code "/></a><br>
 
 
 ## [xdrip± Auto Configure](../xdrip/xdrip-HamburgerMenu.md#xdrip-auto-configure)
 Auto configure permits you to import settings from another Mobiles QR code.
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Data Synce Auto Configure.jpg" title="Auto Configure"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Data Synce Auto Configure.jpg" title="Auto Configure"/></a><br>
 
 
 
@@ -58,8 +58,8 @@ Auto configure permits you to import settings from another Mobiles QR code.
 ### My Typo, error, missing information or changes 
 
 If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
+  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
 
 
 
@@ -96,7 +96,7 @@ If you have any issues or concerns please post your questions in the  <a href="h
 ********************************************
     Adding exernal link to other a web sites
 **********************************************
-# <center>Part 2: <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
+# <center>Part 2: <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
 <br>
 **********************************************
 

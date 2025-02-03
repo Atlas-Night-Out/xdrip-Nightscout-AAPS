@@ -22,14 +22,14 @@ Exported settings should be copied to a cloud storage or your computer, better t
 - Then select <span style="background-color: #FFFF00">**Maintenance**</span>
 - And then <span style="background-color: #FFFF00">**Export settings**</span>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings.jpg" title="Export Settings"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Export Settings.jpg" title="Export Settings"/><br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Export Settings to.jpg" title="Export Settings"/>
 
 
 - The Date and time of export will be added to the file name automatically and displayed together with the path
 - Click <span style="background-color: #FFFF00">**‘OK’**</span>.
-- Enter <span style="background-color: #FFFF00">**master password**</span> and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
+- Enter <span style="background-color: #FFFF00">**master password**</span> and click ‘OK’.<br><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Master Password.jpg" title="Master Password"/>
 
 ## Import settings
 
@@ -38,14 +38,14 @@ To import your settings.<br><br>
 - Go to <span style="background-color: #FFFF00">**Hamburger menu**</span> (top left corner of screen) Or (scroll along the Top)<br>
 - Go to <span style="background-color: #FFFF00">**Maintenance**</span> again<br>
 - Now <span style="background-color: #FFFF00">**Import settings**</span><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Import Settings.jpg" title="Import Settings"/><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Hamburger.jpg" title="Hamburger Menu"/><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Import Settings.jpg" title="Import Settings"/><br>
 <br>
 
 -	All files from folder AAPS/preferences/ on your phone will be shown in the list.
--	Select <span style="background-color: #FFFF00">**Your file**</span> you want importing.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Select File to Import.jpg" title="Select File to Import"/>
--	Confirm import by clicking <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/ok import settings.jpg" title="Select Ok"/>
--	Enter your master password and click <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Master Password.jpg" title="Master Password"/>
--	The Details on the preference file will be shown. It will be your last choice to cancel import.<br><img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/Last option to import settings.jpg" title="Details on the preference"/>
+-	Select <span style="background-color: #FFFF00">**Your file**</span> you want importing.<br><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Select File to Import.jpg" title="Select File to Import"/>
+-	Confirm import by clicking <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/ok import settings.jpg" title="Select Ok"/>
+-	Enter your master password and click <span style="background-color: #FFFF00">**‘OK’**</span>.<br><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Master Password.jpg" title="Master Password"/>
+-	The Details on the preference file will be shown. It will be your last choice to cancel import.<br><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Last option to import settings.jpg" title="Details on the preference"/>
 -	If all ok Select <span style="background-color: #FFFF00">**Import**</span>.
 -	Confirm message by clicking ‘OK’.
 -	AAPS will, restarted in order to activate your imported preferences.<br><br>
@@ -53,7 +53,7 @@ To import your settings.<br><br>
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

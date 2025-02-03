@@ -1,4 +1,4 @@
-<center><img width="700" height="auto" border="0" align="center"  src="/my-project/img/LinknLink/linknlink all in one Intelligent super gateway.jpg" title="LinknLink iSG: The Next Generation All-in-One Super Smart Home Gateway"/></a></center><br>
+<center><img width="700" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/LinknLink/linknlink all in one Intelligent super gateway.jpg" title="LinknLink iSG: The Next Generation All-in-One Super Smart Home Gateway"/></a></center><br>
 <center><iframe width="660" height="415" src="https://www.youtube.com/embed/xsfQdJCw5t0?si=-8eSIoDo8rVHpzdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center><br>
 
 
@@ -28,7 +28,7 @@ Which you can get from the Google PlayStore<br>
 
 
 <center><a href="https://play.google.com/store/search?q=linknlink&c=apps" target="_blank">
-  <img width="700" height="auto" border="0" align="center"  src="/my-project/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
+  <img width="700" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
 </a></center><br>
 
 ## **More Information will be Coming soon!**
@@ -84,7 +84,7 @@ Adding a image with external link
 ******************************
 Adding a image with external link in the center!
 <center><a href="https://play.google.com/store/search?q=linknlink&c=apps" target="_blank">
-  <img width="700" height="auto" border="0" align="center"  src="/my-project/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
+  <img width="700" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
 </a></center><br>
 
 
@@ -295,7 +295,7 @@ Blue Note
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -333,7 +333,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </tr>
 </tbody>
 </table>
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/sadface.png" Sad day"/><br>
 -->
 
 

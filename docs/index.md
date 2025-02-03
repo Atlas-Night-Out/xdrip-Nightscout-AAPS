@@ -14,7 +14,7 @@ For full Web site content visit [The Diabetic Way](https://www.thediabeticway.co
 
 
 ## 1 - Dexcom
-Menu 1: <a href="https://atlas-night-out.github.io/my-project/user-guide/Dexcom/Userguide/">Dexcom</a>
+Menu 1: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Dexcom/Userguide/">Dexcom</a>
 
 ## 2 - Download xdrip
 Menu 2: <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/xdrip/xdrip%20-%20Download/">Download xdrip</a> 
@@ -26,19 +26,19 @@ Menu 3: <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-r
 Menu 4: <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/watches/Watches/">CGM Watches Setups</a>
 
 ## 5 - T1's Smart Home
-Menu 5: <a href="https://atlas-night-out.github.io/my-project/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/">T1's Smart Home</a>
+Menu 5: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/">T1's Smart Home</a>
 
 ## 6 - Freestyle Libre
-Menu 6: <a href="https://atlas-night-out.github.io/my-project/user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">Freestyle Libre</a>
+Menu 6: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">Freestyle Libre</a>
 
 ## 7 - AndroidAPS
-Menu 7: <a href="https://atlas-night-out.github.io/my-project/user-guide/AndroidAPS/Disclaimer%20and%20Warning/">AndroidAPS</a>
+Menu 7: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/AndroidAPS/Disclaimer%20and%20Warning/">AndroidAPS</a>
 
 ## 8 - Medtronic
-Menu 8: <a href="https://atlas-night-out.github.io/my-project/user-guide/Medtronic/Disclaimer%20and%20Warning/">Medtronic</a>
+Menu 8: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Medtronic/Disclaimer%20and%20Warning/">Medtronic</a>
 
 ##  9 - Diabetes Helpful Things
-Menu 9: <a href="https://atlas-night-out.github.io/my-project/user-guide/Helpful/Helplinks/">Diabetes Helpful Things</a> 
+Menu 9: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Helpful/Helplinks/">Diabetes Helpful Things</a> 
 
 
 

@@ -9,4 +9,4 @@ utube info
 This is to show you how to generate your Connection string code to add to your  
 Heroku account settings config Var mongodb_url to work with Nightscout
 
-Please can see the full Setup process at: https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/
+Please can see the full Setup process at: https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/

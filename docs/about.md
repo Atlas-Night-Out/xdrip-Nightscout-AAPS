@@ -8,7 +8,7 @@ and also my notes in onenote Mkdocs to Github-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
 
-<img width="600" height="600" border="0" align="center"  src="/my-project/img/cyb netics_logo.jpg" title="Cyb netics Intro"/>
+<img width="600" height="600" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/cyb netics_logo.jpg" title="Cyb netics Intro"/>
 
 
 The Diabetic way was first created in 2000
@@ -27,7 +27,7 @@ I have been on computers since the Zx81 when it then, was just a black and white
 Now in 2021 I see that computers are doing a lot more in helping Diabetics live and manage a easier life and want in some way also try to help where I can in doing so but still hope things will be come even esier
 
 I will not be teaching you on this site of Diabetes itself you will be better visiting My favorite Diabetes web site [Diabetes.uk](https://www.diabetes.org.uk/"The best Diabetes web site for your Diabetes")<a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="150px" height="50" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="150px" height="50" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>
 
 I will also always be relating to a Type 1 Diabetes not a Type 2 has I do not have this disease myself and would find it hard to relate to it like I do with type 1! A lot what a T1 does will still relate a lot to a T2
@@ -51,7 +51,7 @@ you enjoy your stay on the site and I hope it will be a place to keep.
 visiting back from time to time for updates and help with video tips and Articles. All the Best to you all and I hope you can have a happier T1 life :-)
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) or [One million steps - Diabetes.uk](https://step.diabetes.org.uk/)  <p align="center">
 <img src="https://media.giphy.com/media/7lcMTfXfU33mwg9sPW/giphy.gif" width="400" height="220" /><br>
 </p>

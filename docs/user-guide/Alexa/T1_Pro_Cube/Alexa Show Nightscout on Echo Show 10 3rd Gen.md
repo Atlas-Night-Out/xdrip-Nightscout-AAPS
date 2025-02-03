@@ -1,4 +1,4 @@
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Echo Show 10 (3rd gen).jpg" title="Echo Show 10 (3rd gen)"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Echo Show 10 (3rd gen).jpg" title="Echo Show 10 (3rd gen)"/></a><br>
 
 You will have already have had to setup a Nightscout site before you can do this setup, see [Nightscout Setup](./../../Nightscout/Setting_up_Github_Account_part1.md#part-1-setting-up-the-github-for-nightscout) if you have not already set it up.<br>
 
@@ -8,23 +8,23 @@ The latest software releases from Amazon for the Alexa Show 10 allows you to vie
 
 ## 1.	Swipe down from top of Show display and tap Settings:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Settings_20230201_180912.jpg" title="Settings"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Settings_20230201_180912.jpg" title="Settings"/></a><br>
 
 ## 2.	Scroll up and tap on Device Options:<br>
 
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Device options2.jpg" title="Device options"/></a><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Device options2.jpg" title="Device options"/></a><br>
 
 ## 3.	Roll up and tap on Web Options:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Web Options_20230201.jpg" title="Web Options"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Web Options_20230201.jpg" title="Web Options"/></a><br>
 
 ## 4.	Scroll up and tap on Browser:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Browser_20230201.jpg" title="Browser"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Browser_20230201.jpg" title="Browser"/></a><br>
 
 ## 5.	Select Silk:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/Silk.jpg" title="Silk"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/Silk.jpg" title="Silk"/></a><br>
 
 
 ## NOW say <span style="background-color: #FFFF00">**“Alexa go home”**</span><br>
@@ -33,15 +33,15 @@ The latest software releases from Amazon for the Alexa Show 10 allows you to vie
 
 ## SELECT Search and enter your Nightscout address:<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/yourappname.jpg" title="yourappname"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/yourappname.jpg" title="yourappname"/></a><br>
 
 ## TYPE in your Nightscout URL: https://(yourappname).herokuapp.com<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/yourappname2.jpg" title="yourappname"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/yourappname2.jpg" title="yourappname"/></a><br>
 
 Give yourself a big Clap to  and take a  coffee: break:  Well Done<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/nightscout_20230201.jpg" title="Nightscout on a Echo Show 10 3rd Gen"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/nightscout_20230201.jpg" title="Nightscout on a Echo Show 10 3rd Gen"/></a><br>
 
 ## You can now select the menu cube bar at the top left icon to save as a Book Mark your Nightscout. <br>
 
@@ -55,15 +55,15 @@ Give yourself a big Clap to  and take a  coffee: break:  Well Done<br>
 
 ## 1.	Select the lock<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/add api_secret.jpg" title="api secret"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/add api_secret.jpg" title="api secret"/></a><br>
 
 ## 2.	Select the clock views.<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/clock views.jpg" title="Nightscout clock views"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/clock views.jpg" title="Nightscout clock views"/></a><br>
 
 ## 3.	You now have a bigger display to see your levels.<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Echo10/big reading.jpg" title="Nightscout big reading.jpg"/></a><br>
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Echo10/big reading.jpg" title="Nightscout big reading.jpg"/></a><br>
 
 
 <br>
@@ -314,7 +314,7 @@ Blue Note
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -352,7 +352,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </tr>
 </tbody>
 </table>
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/sadface.png" Sad day"/><br>
 -->
 
 

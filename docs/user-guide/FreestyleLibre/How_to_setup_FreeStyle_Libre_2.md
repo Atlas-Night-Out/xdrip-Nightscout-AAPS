@@ -8,7 +8,7 @@ I believe this method works thank you to Amanda Roberts for helping somone out k
  she was using a Samsung with the libre 2 and the libre link app to start her sensor and a watch which sends data to her fitbit sense with glance watch face using xdrip. <br> if you have any issues please let me know!<br><br>
 
 <center><a href="https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/FreestyleLibre/how to setup freestyle libre 2_logo.png" title="How to Setup Freestyle Libre 2"/><br>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/FreestyleLibre/how to setup freestyle libre 2_logo.png" title="How to Setup Freestyle Libre 2"/><br>
 
 ## <a href=" https://www.minimallooper.com/post/how-to-setup-freestyle-libre-2-and-oop2-to-use-a-native-bluetooth-connection-in-xdrip?fbclid=IwAR1yHKlplJhKftxK8mhHQT9m_ih3vbhDldwsdT_8vNBAiDBCAwHQHPQjC6o" target="_blank" title="How to setup a Freestyle Libre 2">How to setup a Freestyle Libre 2</a></center>
   
@@ -18,7 +18,7 @@ I believe this method works thank you to Amanda Roberts for helping somone out k
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

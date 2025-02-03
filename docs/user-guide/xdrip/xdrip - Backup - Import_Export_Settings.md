@@ -1,7 +1,7 @@
 
 
 <br>
-<img width="auto" height="auto" border="0" align="center"  src="/my-project/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a><br>
+<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/the groups blood my xdrip_logo_white_cloud.png" title="xdrip logo"/></a><br>
 ## <span style="color:#111478">Import Export Settings </span> <br>
 
 
@@ -12,9 +12,9 @@ To Backup in Xdrip+ you can do it in a few ways, so  I will show you two of them
 ### 1st Method: 
 Select the 3 dots (top right) menu: Select then <span style="background-color: #FFFF00">**Import Export features**</span> 
 
-<center><img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/3 dots menu.jpg" title="3 Dots Menu "/></a>   <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/import export features.jpg" title="Import Export Features "/></a></center><br>
+<center><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/3 dots menu.jpg" title="3 Dots Menu "/></a>   <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/import export features.jpg" title="Import Export Features "/></a></center><br>
 and select <span style="background-color: #FFFF00">**Load/Save settings**</span>.
-<center><img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/load save settings.jpg" title="Load Save Settings"/>   <img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/save all settings.jpg" title="Save all settings to the settings file"/></a></a></center>
+<center><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/load save settings.jpg" title="Load Save Settings"/>   <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/save all settings.jpg" title="Save all settings to the settings file"/></a></a></center>
 ## **Save all settings to the settings file**<br>
 
 This will then be saved in /storage/emulated/0/Download/xDrip-Export for old versions xdrip+(export to SD) <br>
@@ -23,15 +23,15 @@ but in more recent versions of xdrip+ it is located at <span style="background-c
 This will save a file extension of XML in that folder for you to keep safe, in the cloud or hard drive or on your computer.
 com.eveningoutpost.dexdrip_preferences.xml<br></b>
 
-<img width="800" height="auto" border="0" align="center"  src="/my-project/img/xdrip/backup saved location.jpg" title="Exported file location"/></a>
+<img width="800" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/backup saved location.jpg" title="Exported file location"/></a>
 
 ## **Load all Settings from the settings file:**
 This will restore your settings.<br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/load all settings from the settings file.jpg" title="Exported file location"/></a>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/load all settings from the settings file.jpg" title="Exported file location"/></a>
 
 ## **Delete Settings Folder:**
 This will delete the backup you have saved in the the Download/xDrip-export folder on your mobile (so be careful) to save it else where<br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Delete settings folder Download_xDrip-export.jpg" title="Delete settings folder (Download/xDrip-export)"/></a>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Delete settings folder Download_xDrip-export.jpg" title="Delete settings folder (Download/xDrip-export)"/></a>
 
 
 
@@ -94,7 +94,7 @@ Adding a image with external link
 ******************************
 Adding a image with external link in the center!
 <center><a href="https://play.google.com/store/search?q=linknlink&c=apps" target="_blank">
-  <img width="700" height="auto" border="0" align="center"  src="/my-project/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
+  <img width="700" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/LinknLink/linknlink_playstore.jpg" title="LinknLink APP"/>
 </a></center><br>
 
 
@@ -305,7 +305,7 @@ Blue Note
 <td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
 </tr>
 <tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
+<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> You will have already needed to have done <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank" title="firt you need to do Part 1 Setting up Github Account for Nightscout">Part 1 Setting up Github Account for Nightscout</a>. To be able to continue.</span></span></td>
 </tr>
 </tbody>
 </table>
@@ -343,7 +343,7 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </tr>
 </tbody>
 </table>
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/sadface.png" Sad day"/><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/sadface.png" Sad day"/><br>
 -->
 
 

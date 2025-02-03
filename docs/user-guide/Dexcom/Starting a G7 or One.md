@@ -102,7 +102,7 @@ If you see “Mismatch” on the status page, it signifies either your pairing c
 ********************************************
     Adding exernal link to other a web sites
 **********************************************
-# <center>Part 2: <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
+# <center>Part 2: <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
 <br>
 **********************************************
 

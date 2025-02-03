@@ -4,7 +4,7 @@ docs made by D.Galloway 2019- 2021-->
 This Preferances allows you to modify Notifications for your Pump.<br><br>
 First, Go to 3 Dots in the top right<br>
 Then Select Preferences<br><br>
-<img width="300" height="auto" border="0" align="center"  src="../../my-project/img/AAPS/AAPS 3 Dots.jpg" title="AAPS 3 Dots"/>  <img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS Preferences.jpg" title="AAPS - Preferences"/><br><br>
+<img width="300" height="auto" border="0" align="center"  src="../../xdrip-Nightscout-AAPS/img/AAPS/AAPS 3 Dots.jpg" title="AAPS 3 Dots"/>  <img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/AAPS Preferences.jpg" title="AAPS - Preferences"/><br><br>
 
 
 
@@ -13,13 +13,13 @@ Then Select Preferences<br><br>
 These Notifications can also be passed in xdrip+<br>
 ## Local Alerts 
 Scroll down to Local Alerts
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/AAPS Local ALERTS.jpg" title="Local Alerts"/><br><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/AAPS Local ALERTS.jpg" title="Local Alerts"/><br><br>
 •	These Settings should be easy to understand.<br>
 •	But I will explain two of them for you which I use.<br>
 •	Alert if no BG data is received – this will give me an alert sound, if no data is coming from my CGM<br><br>
 <iframe width="406" height="721" src="https://www.youtube.com/embed/z_Q9h0Oln5Q" title="Alert if no BG data is received" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 •	Alert if carbs are required – Will give me a notification if I need Carbs.<br><br>
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/AAPS/ADDITIONAL CARBS REQUIRED.jpg" title="ADDITIONAL CARBS REQUIRED"/><br><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/ADDITIONAL CARBS REQUIRED.jpg" title="ADDITIONAL CARBS REQUIRED"/><br><br>
 
 
 
@@ -32,7 +32,7 @@ Scroll down to Local Alerts
 
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 

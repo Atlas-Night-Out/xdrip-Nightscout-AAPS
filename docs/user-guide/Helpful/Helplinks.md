@@ -223,7 +223,7 @@ Cyb-Netic Nightscout wiki <a href="https://github.com/Atlas-Night-Out/xDrip-plus
 
 Nightscout Speech - Gluco-Chek <a href="https://atlas-night-out.github.io/gluco-check/" title="Cyb-Netic Nightscout Gluco-Check">See Here</a><br>
 
-Nightscout Setup: <a href="https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Github_Account_part1/" target="_blank"> Nightscout Setup</a><br>
+Nightscout Setup: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Github_Account_part1/" target="_blank"> Nightscout Setup</a><br>
 
 
 

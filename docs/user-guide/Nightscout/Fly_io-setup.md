@@ -6,7 +6,7 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 
 ###  **Fly_io for Nightscout**<br>
 
-<img width="600" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/Fly Setup_1665402118863.jpg" title="Turbocharge your Heroku App with Fly"/></a><br>	
+<img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/Fly Setup_1665402118863.jpg" title="Turbocharge your Heroku App with Fly"/></a><br>	
 
 Credit too: Big thanks to Robby,  for the idea, links putting it together, implementing the installer, and testing everything with myself for the docs, and Robby for the tips.<br>
 
@@ -16,7 +16,7 @@ Process:old heroku account  to a new Turbo Fly_io Account. <br><br>
 If you already have a working Nightscout site working, there is no rush to switch to this yet.
 It is  still in  testing stages and improving this if we can. On testing this setup was easy and trouble free to me, only issues is on how to change your details of you need to as in your Config vars and secret password, which I will be looking into for you all!<br><br>
 
-<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/Turbocharge your heroku app with fly.jpg" title="Turbocharge your Heroku App with Fly"/></a>	</center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/Turbocharge your heroku app with fly.jpg" title="Turbocharge your Heroku App with Fly"/></a>	</center><br>
 
 ### **So with all that, let’s set up a free Turbo Account on Fly_io <br>**
 You will need to keep to the free Tier for this setup to be free, in you having a Nightscout site again totally free. This could change and we are not fully knowing for how long it will be free; all we know is as long as you stick to the free tire Requirements it should be free. Let’s hope for life.<br>
@@ -25,7 +25,7 @@ You will need to keep to the free Tier for this setup to be free, in you having 
 
 #### 1.	Setup Fly_io Account: By going to https://fly.io/launch/heroku or <a href=" https://fly.io/launch/heroku" target="_blank" title="Account">Fly_io Account</a>
 <a href="https://www.noip.com/" target="_blank">
-  <center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/my-heroku-app.jpg" title="sign up to Google cloud"/></center>
+  <center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/my-heroku-app.jpg" title="sign up to Google cloud"/></center>
 </a><br>
 
 
@@ -33,22 +33,22 @@ You will need to keep to the free Tier for this setup to be free, in you having 
 You will then be asked to fill in your payment details
 Fill in your payment details, don't worry, you will not be charged if you keep to a free tier as outlined.
 <br>
-<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/fly payment.jpg" title="Your hostname"/></a>	</center><br>
+<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/fly payment.jpg" title="Your hostname"/></a>	</center><br>
 
 ### 3. After filling in and setting up your payment details go back to the page you just come from before you filled in the payment details and  carry on the Deploying process  from the Heroku site. This can take a while to do.<br>
 
-<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/Deploying.jpg" title="Deploying"/></a>	</center>
+<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/Deploying.jpg" title="Deploying"/></a>	</center>
 
 ### 4.  Sit back have another cuppa. <br>
 
 ### 5.  Fly_io Dashboard <br>
 You should now be able to see or be at your Fly_io Dashboard and be presented with your Hostname<br><br>
 
-**Host Name**<center><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/new heroku installation is ready url.jpg" title="Installation is Ready"/>	</center><br>
+**Host Name**<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/new heroku installation is ready url.jpg" title="Installation is Ready"/>	</center><br>
 
 **Dashboard**<br>
 
-</a><img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/Dashboard_Hostname.jpg" title="Dashboard Host Name"/></a>
+</a><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/Dashboard_Hostname.jpg" title="Dashboard Host Name"/></a>
 
 
 ##  **We now need to setup Xdrip**
@@ -61,16 +61,16 @@ You can also see the link below if you like other wise carry on below it!<br>
 
 This is what you need to do in xDrip on your master (Main) Mobile.<br>
 #### a. Go to xDrip Settings −> Cloud Upload −> Nightscout Sync (REST-API)<br>
-<center><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/></a><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip cloud upload.jpg" title=" Cloud Upload"/></a><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip Nightscout Sync (REST-API).jpg" title=" Nightscout Sync (REST-API)"/></a></center><br>
+<center><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/></a><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip cloud upload.jpg" title=" Cloud Upload"/></a><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip Nightscout Sync (REST-API).jpg" title=" Nightscout Sync (REST-API)"/></a></center><br>
 #### b. Select Enable at the top, if not already enabled.<br>
-<img width="400" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/Nightscout sync (REST-API).jpg" title=" Enable Nightscout Sync (REST-API)"/></a>
+<img width="400" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/Nightscout sync (REST-API).jpg" title=" Enable Nightscout Sync (REST-API)"/></a>
 #### c. Tap on Base URL. Enter the following URL. Remember yours will be different than what I show you here. You will need to add your Secret-API and your Host to the set out code!
 https://<span style="background-color: #FFFF00">**ThisIsyourSecret-API**</span>@<span style="background-color: #26AF06">**thisisyourHostName**</span>/api/v1/<br>
 If you  forgot or lose your secret-API it can be located at Heroku/ Settings/Config Vars and look down the list for API_SECRET<br>
 This can now be located in a different place now within Fly_io<br>
 
 Your Host name is located in your Fly_io Dashboard.
-<center><img width="Auto" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/example Base URL.jpg" title="Adding Your Base"/></a></center><br>
+<center><img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/example Base URL.jpg" title="Adding Your Base"/></a></center><br>
 
 #### d. (Reminder)Tap on Base URL. Enter the following. https://API-Secret@hostname/api/v1/  <br>
 
@@ -81,7 +81,7 @@ If you do not see levels after 5 mins, triple check the way you have added your 
 #### Basic settings for Most CGM 
 This is the same has above except your URL will be your web address for Fly_io Host address, not like xdrip's where it has Both Secret and Fly_io host on one line with the added api/v1 at the end of it<br>
 On AASP it is done separately, you add your Nightscout Web URL and then add your Secret in NS API secret below. There is no api/v1 in it<br>
-<center><img width="350" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Fly_io/AAPS_Base URL.jpg" title="AAPS Base"/></a></center><br>
+<center><img width="350" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Fly_io/AAPS_Base URL.jpg" title="AAPS Base"/></a></center><br>
 
 #### a. Set your Nightscout URL e.g.,  https://yoursitesname.fly.dev/<br>
 
@@ -91,13 +91,13 @@ On AASP it is done separately, you add your Nightscout Web URL and then add your
 
 These are in your settings/Cloud Upload/Nightscout Sync (REST-API) / Extra Options.<br>
 
-<center><img width="300" height="Auto" border="0" align="center"  src="/my-project/img/xdrip/Disable Upload treatments.jpg" title="Disable Upload treatments,Alert on failures,Back-fill data"/></a></center><br>
+<center><img width="300" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Disable Upload treatments.jpg" title="Disable Upload treatments,Alert on failures,Back-fill data"/></a></center><br>
 
 #### d. Also Disable <span style="background-color: #FFFF00">**Automatic Calibration**</span> you can enable it for the first time but then after that it will need to be Disabled.<br> you can do this by selecting the Download treatments  to switch Automatic calibration (on/Off)
 
 You can do this at: Settings/Cloud Upload/Nightscout Sync (REST-API) /<br>
 
-<center><img width="300" height="Auto" border="0" align="center"  src="/my-project/img/xdrip/Disable Automatic Calibration.jpg" title="Disable Automatic Calibration"/></a></center><br>
+<center><img width="300" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Disable Automatic Calibration.jpg" title="Disable Automatic Calibration"/></a></center><br>
 
 
 
@@ -106,15 +106,15 @@ You can do this at: Settings/Cloud Upload/Nightscout Sync (REST-API) /<br>
 
 This will be on your <span style="background-color: #FFFF00">**follower’s mobile phone,**</span> not your own.
 #### 1. In the xDrip Settings / Hardware Data Source, choose “Nightscout Follower” as the hardware data source. See  [xdrip - Base URL](../xdrip/xdrip%20-%20Base.md#1-setting-up-xdrip-as-a-follower-for-your-dad) for more information<br>
-<center><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/Hardware Data Source1.jpg" title=" Select Hardware Data Source"/></a><img width="250" height="Auto" border="0" align="center"  src="/my-project/img/Nightscout/Google Cloud/Hardware Data Source.jpg" title=" Nightscout Follow"/></a></center><br>
+<center><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/xdrip settings.jpg" title=" xdrip settings"/><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/Hardware Data Source1.jpg" title=" Select Hardware Data Source"/></a><img width="250" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/Hardware Data Source.jpg" title=" Nightscout Follow"/></a></center><br>
 
 ## To Be continued!
 
 ##  **Issues or Concerns** 
 
 If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/my-project/img/Github/github-logo-icon-16155.png" title="Github"/></a>
+  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Github/github-logo-icon-16155.png" title="Github"/></a>
 
   
 
@@ -122,7 +122,7 @@ If you have any issues or concerns please post your questions in the  <a href="h
 
 <br><br>
 <center><a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) for your Diabetes Needs!</center><br><br>
 
 
@@ -167,7 +167,7 @@ If you have any issues or concerns please post your questions in the  <a href="h
 ********************************************
     Adding exernal link to other a web sites
 **********************************************
-# <center>Part 2: <a href=" https://atlas-night-out.github.io/my-project/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
+# <center>Part 2: <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
 <br>
 **********************************************
 external link with image 

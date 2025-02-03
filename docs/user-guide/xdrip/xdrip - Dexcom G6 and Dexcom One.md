@@ -1,9 +1,9 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by tunasalad 2019- 2021-->
-<img width="860" height="615" border="0" align="center"  src="/my-project/img/xdrip/Hardware Data Source_header.jpg" title="Dexcom G6 and Dexcom One"/></a><br>
+<img width="860" height="615" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Hardware Data Source_header.jpg" title="Dexcom G6 and Dexcom One"/></a><br>
 
 ## [xdrip± Back to Data Source](../xdrip/xdrip%20-%20hardwaredatasource.md#xdrip-data-source) <br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/choose data source.png" title="choose data source"/></a><br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/choose data source.png" title="choose data source"/></a><br><br>
 
 ## Adding Dexcom G6 and Dexcom One Data Source
 <table width="1166" height="148" border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
@@ -21,39 +21,39 @@ Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If i
 </table>
 Go to Hamburger/ <br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br><br>
 
 Settings/
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Main Settings (2).jpg" title="Main Settings"/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Main Settings (2).jpg" title="Main Settings"/></a><br>
 
 Hardware Data Source<br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Hardware Data Source.jpg" title="Hardware Data Source"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Hardware Data Source.jpg" title="Hardware Data Source"/></a><br>
 
 Enter the Correct Data Source, from the list (In this case it will be G5/G6 Transmitter) label on the box and  confirm it.<br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Hardware Datasource G5_G6 Transmitter.jpg" title="Data Source G5/G6 Transmitter"/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Hardware Datasource G5_G6 Transmitter.jpg" title="Data Source G5/G6 Transmitter"/></a><br>
 
-Now select <span style="background-color: #FFFF00">**Dexcom Transmitter Id**</span> below it and enter your Code. <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Dexcom Transmitter ID code.jpg" title="Dexcom SN"/></a><br>(You can find this code on your box as a SN which you need to Enter the code, and confirm it.<br>
+Now select <span style="background-color: #FFFF00">**Dexcom Transmitter Id**</span> below it and enter your Code. <img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Dexcom Transmitter ID code.jpg" title="Dexcom SN"/></a><br>(You can find this code on your box as a SN which you need to Enter the code, and confirm it.<br>
 <br>
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Dexcom SN Code.jpg" title="Dexcom SN"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Dexcom SN Code.jpg" title="Dexcom SN"/></a><br>
 
 I normally Take a picture of the transmitter code as well as keeping the box. In case I lose it or if I’m out and need to re-enter it for any reasons. But also keep a record Date has it has a 3-month limit on the Transmitter from when it stops working on you. 90 Days from day you start your first sensor with it.<br>
 
 ## G5/G6 Debug Settings
 
-Now move down and select your Debug settings. <img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/G5_G6 Debug Settings.jpg" title="G5_G6 Debug Settings"/></a><br>
+Now move down and select your Debug settings. <img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/G5_G6 Debug Settings.jpg" title="G5_G6 Debug Settings"/></a><br>
 
 This section can be very frustrating and can cause issues with you not having the correct settings for your particular Setup.<br>
 Do NOT enable restart sensor. Not at all sure why as I had no issues having this enabled!<br>
 
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip/G5_G6 Debug Settings_P1.jpg" title="G5_G6 Debug Settings"/></a><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/G5_G6 Debug Settings_P1.jpg" title="G5_G6 Debug Settings"/></a><br>
 
 With Android versions below 10 unselect  Avoid Scanning.
 With Android versions 10 and above, if you experience stoppages you can try to disable first <span style="background-color: #FFFF00">**avoid Scanning**</span> and also <span style="background-color: #FFFF00">**Minimize Scanning**</span>. I had no issues on Android Version 11 or v12 with these selected on a Samsung Mobile.<br>
 
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip/G5_G6 Debug Settings_P2.jpg" title="G5_G6 Debug Settings"/></a><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/G5_G6 Debug Settings_P2.jpg" title="G5_G6 Debug Settings"/></a><br>
 
 If you use a Samsung phone with Android 11 and above, you should <span style="background-color: #FFFF00">**enable Special Pairing Workaround**</span>. <br> Again, on my Samsung device I did not have this selected and had no issues.<br><br>
 
@@ -62,22 +62,22 @@ Go to
 
 Go to Hamburger/<br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/left Hamburger bar.jpg" title="Hamburger Menu"/></a><br>
 
 Settings/<br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Main Settings (2).jpg" title="Main Settings"/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Main Settings (2).jpg" title="Main Settings"/></a><br>
 
 
 Less Common Settings<br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Less Common settings.jpg" title="Less Common settings"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Less Common settings.jpg" title="Less Common settings"/></a><br>
 
 Then Go to Advance Calibration / Bluetooth Settings<br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Bluetooth Settings.jpg" title="Bluetooth Settings"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Bluetooth Settings.jpg" title="Bluetooth Settings"/></a><br>
 
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Bluetooth full Settings.jpg" title="Bluetooth Full Settings"/></a><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Bluetooth full Settings.jpg" title="Bluetooth Full Settings"/></a><br>
 
 <span style="background-color: #FFFF00">**Trust Auto-Connect**</span> needs to be (disable for Samsung mobiles)<br>
 If you are having issues with your mobile type also disable this option!<br>
@@ -89,12 +89,12 @@ For Android version 8 and above you can enable <span style="background-color: #F
 
 ## Advanced Calibration
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Advanced Calibration.jpg" title="Advanced Calibration"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Advanced Calibration.jpg" title="Advanced Calibration"/></a><br>
 
 Disable Automatic Calibration 
 go to     Settings / Less common settings / Advanced Calibration / Automatic Calibration<br>
 
-<img width="400" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Automatic Calibration.jpg" title="Advanced Calibration"/></a><br>
+<img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Automatic Calibration.jpg" title="Advanced Calibration"/></a><br>
 
 <span style="background-color: #FFFF00">**Restart your Mobile**</span> to make sure all constraints are being taken into account.<br>
 
@@ -109,16 +109,16 @@ You will not be able to <span style="background-color: #FFFF00">**connect xDrip+
 ## System Status
 Now go to [system status](../xdrip/xdrip%20-%20System%20Status.md#g5g6-system-status-page) and make sure the transmitter is connected (paired). Come back to here: when you have connected or if you know already continue below:<br>
 
-<img width="308" height="auto" border="0" align="center"  src="/my-project/img/xdrip/system status wait until paired.jpg" title="System Status Wait until paired"/></a>-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/system status connected.jpg" title="System Status Now Connected"/></a><br>
+<img width="308" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/system status wait until paired.jpg" title="System Status Wait until paired"/></a>-<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/system status connected.jpg" title="System Status Now Connected"/></a><br>
 
 Do not continue until paired information is showing in the System Status page.<br>
 
-<img width="300" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Bluetooth pairing request.jpg" title="Bluetooth pairing request"/></a><br>
+<img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Bluetooth pairing request.jpg" title="Bluetooth pairing request"/></a><br>
 
 
 And Showing on the <span style="background-color: #FFFF00">**Classic Status Page**</span> Connection Status.<br>
 
-<img width="500" height="auto" border="0" align="center"  src="/my-project/img/xdrip/Classic Status Page_Connection Status paired.jpg" title="Classic Status Page - Connection Status paired"/></a><br>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Classic Status Page_Connection Status paired.jpg" title="Classic Status Page - Connection Status paired"/></a><br>
 
 
 If not paired after a while do a <span style="background-color: #FFFF00">**Forget Device**</span> and then a <span style="background-color: #FFFF00">**Restart Collector**</span> on the <span style="background-color: #FFFF00">**Classic Status Page**</span> and wait in G5/G6 Status again for connection to pair. <br>
@@ -151,7 +151,7 @@ Do not use your mobiles auto Bluetooth connection to pair your Transmitter! If i
 
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/my-project/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
 </a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
 </center>
 
