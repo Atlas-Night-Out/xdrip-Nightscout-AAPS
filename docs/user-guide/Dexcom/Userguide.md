@@ -2,7 +2,7 @@
 
 
 
-<img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/DexcomOne+_logo_250x165.png" title="Dexcom"/></a><br>
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6478f9b1-f65e-4028-929f-e0aa2416a5aa" title="Dexcom One+"/></a>
 
 
 ### **There are 4 Elements to get started**
@@ -21,13 +21,13 @@
 
 * Prepare for sensor insertion <br>
 * Take off Labels <span style="background-color: #FFFF00">**(Do not forget to keep Lebels safe or take a photo of your Sensor Code)**</span><br> you will need the code later.<br>
-<centre><img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Sensor _code20220811_160x271.jpg" title="Sensor Code"/></a></centre><br>
+<centre><img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/2e7cf0c0-05bb-46d2-be05-f97a543f767d" title="Sensor Code"/></a></centre><br>
 * Insert a sensor <br>
 * Attach transmitter to transmitter holder <br>
 
 ## Dexcom Insertion Video
 
-<iframe id="video29564" width="745" height="500" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
+<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/1MRU6_GTEtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen">
 </iframe>
 
 
@@ -37,7 +37,7 @@ I found if I was using xdrip+ I would start the Sensor and Transmitter, first in
 
 Then After the 2 hour Warm up I would then add Sensor code and add the tansmitter Serial Number to the Dexcom Receiver to let it do its process. <br>  I tended not to carry the receiver around with me but liked it at the side of the bed as an extra percaution.<br>
 <br>
-<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/c5mjePmJVS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/c5mjePmJVS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 ## Tips
 I also do not use Alcohol wipes to wipe my skin, I prefer to use one of three types of spray's, one is called Cavilon,the other Sorbaderm or Medi Derma-s all 28ml spray with some kitchen roll.<br> 
@@ -50,7 +50,7 @@ When it's time comes to removing the Sensor after 10 days I use a spray called S
 And if at any point you feel you are not getting correct readings always do a finger prick. I find it can take a few hours for the sensor to settle in so I will finger prick until I can trust the readings.<br>
 
 
-## Why Sensor Glucose Won't Always Match Your Blood Glucose<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/d9UzbC7pf4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Why Sensor Glucose Won't Always Match Your Blood Glucose<iframe id="video29564" width="735" height="490" src="https://www.youtube.com/embed/d9UzbC7pf4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
