@@ -8,13 +8,14 @@
 ### **There are 4 Elements to get started**
 ## Setup
 1. Sensor Applicator
-<img width="420" height="220" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Sensor Applicator_20220811_135041_2.jpg" title="Sensor Applicator"/></a>	
+ <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/cb8931b9-d71a-468f-b2de-b861aa04f798" title="Sensor Applicator"/></a>	
 2.  Sensor
-<img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Sensor_20220811_160x269.jpg" title="Sensor"/></a>	
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e1682efa-b4e4-4874-93fe-1caa106f24b9" title="Sensor"/></a>	
 3.  Transmitter
-<img width="Auto" height="Auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Transmitter_20220811_180x190.jpg" title="Transmitter"/></a>
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/58246840-1489-4333-9143-cad8871ada7e" title="Transmitter"/></a>
 4.  A Display
-<img width="320" height="120" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Dexcom/Display_20220812_460x537.jpg" title="Display"/></a><br>
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7563df5f-bd0e-4fb2-bdc7-e3d2c33a7b0e" title="Display"/></a>
 
 ## Dexcom Intro Userguide
 
