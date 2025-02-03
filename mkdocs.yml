@@ -3,7 +3,7 @@ site_url: https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/
 
 
 theme:
-    name: mkdocs-material
+    name: material
     language: en
     features:
         - navigation.tabs
