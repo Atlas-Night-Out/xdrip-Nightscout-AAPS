@@ -7,7 +7,7 @@
 
 ## Starting a G7 or One+  
 
-<font size="5">
+
 
  * You cannot have both xDrip and Dexcom app (or modified Dexcom app) delivered directly from the same transmitter at the same moment. You can only use one or the other, not both.<br>
  
@@ -71,7 +71,7 @@ If you see “Mismatch” on the status page, it signifies either your pairing c
 
 
 
-</font>
+
 
 
 
