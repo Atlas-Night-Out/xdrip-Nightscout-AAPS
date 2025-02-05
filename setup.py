@@ -1,1 +1,1 @@
-setup.py
+setup(name='main.py', ...)
