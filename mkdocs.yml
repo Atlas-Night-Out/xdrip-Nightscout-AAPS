@@ -18,10 +18,21 @@ theme:
     logo: assets/images/T1_xDrip+logo_Blackandwhite_236x236.png
     favicon: assets/images/favicon.png
     palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: white
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
       primary: black
-      scheme: default
-      accent: red
-    nav_style: primary
+      accent: deep orange
 extra_css:
     - css/admonitions.css
 extra:
@@ -39,8 +50,22 @@ extra:
       cards_layout_options:
     
 markdown_extensions:
-    - admonition
-    - toc:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details 
+  - toc:
         permalink: ⌁
 
 nav:
