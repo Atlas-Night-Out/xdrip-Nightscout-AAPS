@@ -1,17 +1,27 @@
-<center><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Alexa/T1_Pro_Cube/T1pro_cube_logo860x1147.jpg" title="T1 Pro Cube"/></a></center><br>
+<center><img width="300" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Alexa/T1_Pro_Cube/T1pro_cube_logo860x1147.jpg" title="T1 Pro Cube"/></a></center><br>The video below shows the old way we used to get readings read out to us with Sugarmate that which caused to work in Feb 2025
 <iframe width="660" height="415" src="https://www.youtube.com/embed/bTc6qBVb9d4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
 
+Jade the new way now in 2025 to have your reading read out to you!
+
+<iframe width="660" height="415" src="https://www.youtube.com/embed/za9m8ZiOY80?si=yLtleLflcHm19vAX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Short Intro
-This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings but not only that can control your Home and so much more.<br>
+This device is a very helpful cube T1 Pro that we can use to read out are Glucose readings by picking it up or turning it around on a certain Dice number you pick. But not only that you can control your Home and so much more.
+You can even use Presence Sensor or motion sensors to have your blood readings read out to you, wherever you want in your home.
+<br>
+
+Sadly, Sugarmate is no longer doing there App now for it to work in Amazon Alexa App. Since when I wrote these setups up last year, so I will have to re check on my setups to change them due me having e Found an alternative now called Myjade which is a good replacement, in 2025
 
 New Alexa-Only Plan for SugarMate Users
 We’ve heard that SugarMate has removed their Alexa integration, making life harder for vision-impaired users. So, we’re stepping in with a simple, affordable Alexa-only plan!
 This plan will announce your blood sugar levels through Alexa for a <a href="https://store.payproglobal.com/checkout?products%5b1%5d%5bid%5d=107441" target="_blank" title="MyJade Subscription">Click Here</a>
 
-
+<a href="https://store.payproglobal.com/checkout?products%5b1%5d%5bid%5d=107441" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src=" /xdrip-Nightscout-AAPS/img/Alexa/Myjade/myjade offer.jpg" title="github account details"/>
+</a><br>
 
 I will be trying to help you set up an Echo Show 10 (3rd Gen) or an Echo Dot or a Samsung Tablet. So, it will read out your Glucose readings. I will not be going through and explaining the unboxing as this as been done in other videos.<br>
-You can even use Presence Sensor to have them read out where you want around the home.
+
 
 <br>
 
