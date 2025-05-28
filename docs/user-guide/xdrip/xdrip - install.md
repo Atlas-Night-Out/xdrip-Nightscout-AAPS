@@ -1,7 +1,7 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 <img width="460" height="315" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
-# **Install xDrip+   testing** <br>
+# **Install xDrip+   testing  ** <br>
 
 This video installation process is a little old now and the video really needs to be updated, which I will do as soon as I get time to.
 
