@@ -3,64 +3,37 @@ docs made by D.Galloway 2019- 2021
 to see how to setup this see: https://www.mkdocs.org/user-guide/deploying-your-docs/
 and also my notes in onenote Mkdocs to Github-->
 
-# Welcome to The Diabetic way 
+# Welcome to The Diabeticway 
 
-For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
+For full Website content, visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
 
 
 <img width="600" height="600" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/cyb netics_logo.jpg" title="Cyb netics Intro"/>
 
 
-The Diabetic way was first created in 2000
+The Diabeticway was first created in 2000
 
 
 #<span style="color:#111478">A little about me </span> <br> 
-I have had diabetes for over 50 years now, and during this time I have built up a lot of information and knowledge to hopefully help 
-other diabetics by means of exercise and on wearing or having a CGM and pump or Pod with  better food chooses to control are Blood ranges  hopfuly better. 
+The Diabetic Way was created in 2000.
+A Little About Me
+I have had diabetes for over 56 years and have gathered information to help others manage it. By using exercise, CGMs, pumps, or Pods, and making better food choices, we can hopefully control our blood sugar levels more effectively.
+Diabetes is challenging, especially when dealing with other life issues. For someone newly diagnosed, understanding it all quickly can be overwhelming. Finding the right information is crucial.
+The internet provides a vast amount of information, which can sometimes be confusing due to rapid changes and the presence of incorrect or outdated content. It is essential for documents to be updated regularly so that individuals can access the latest information, particularly for those managing diabetes. The goal is to ensure that accurate and current information is available.
+Having used computers since the ZX81, which featured a black and white screen with no sound in the 1970s, I have observed significant advancements. Today, in 2021, computers play a crucial role in helping Diabetics manage their condition more effectively. As technology continues to evolve, it is hoped that managing diabetes will become even easier, and efforts will be made to contribute to this progress.
 
-It's a very difficult and hard disease to cope with let alone deal with other issues in life it's a very hard battle to deal and go through with and for someone to just get the disease can be a nightmare to understanding it all so quickly and find the right information! 
 
-There is lots of information now on the internet now, and in the future but this information can also be very confusing due to things changing that’s very fast and incorrect information too, and also information not keeping up to date on documents for people to know what’s best with latest information for Diabetics to know what Past is and what is the Future to read! Hopefully these Docs will get dated so you will know! But like all Humans we all make and forget! ;-) including myself!
-
-I have been on computers since the Zx81 when it then, was just a black and white screen with no sound, and knowing what I know now now that  way back then in the 1970's that this could be some fun trying to get it to help me with my diabetes in the furture and which it is doing right now for us all.
-.
-Now in 2021 I see that computers are doing a lot more in helping Diabetics live and manage a easier life and want in some way also try to help where I can in doing so but still hope things will be come even esier
-
-I will not be teaching you on this site of Diabetes itself you will be better visiting My favorite Diabetes web site [Diabetes.uk](https://www.diabetes.org.uk/"The best Diabetes web site for your Diabetes")<a href="https://www.diabetes.org.uk/" target="_blank">
+For more information on diabetes, I recommend visiting <a href="https://www.diabetes.org.uk/" target="_blank">
   <img width="150px" height="50" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>
+</a>, a reliable resource for comprehensive details about the condition.
 
-I will also always be relating to a Type 1 Diabetes not a Type 2 has I do not have this disease myself and would find it hard to relate to it like I do with type 1! A lot what a T1 does will still relate a lot to a T2
+The focus here will be on Type 1 Diabetes. Although many aspects may also apply to Type 2 Diabetes, my familiarity and experience are with Type 1 Diabetes.
+I plan to add new foods and recipes to my website, which I started in January 2021. I hope other diabetes communities will adopt this approach too. Using MyFitnessPal for quick scans is a useful tool. I encourage more Type 1 diabetics to join our rides, and I will share the routes with you. Though I'm not a cycling leader, I ride to better manage my Diabetes.
+I started this site to learn web development and now aim to share new information and programs related to diabetes management through technology. Enjoy the documents and cycling events, but importantly, get out on a bike to help manage your diabetes. Xdrip and Nightscout are challenging to set up initially, but they are valuable tools once operational. Xdrip, in particular, should be running smoothly after a 2-hour warm-up period as of this writing. I've managed to create websites despite my grammar issues, and I'm working on improving my English writing skills.
+Technology has truly revolutionised how we manage diabetes, especially for those of us with Type 1. Devices like Continuous Glucose Monitors (CGMs) and insulin pumps have paved the way for a more manageable and precise lifestyle. These advancements, paired with apps that sync effortlessly to provide real-time data, empower us to track our blood glucose levels with unparalleled accuracy. It’s remarkable how something that once seemed futuristic is now a reality, shaping how we take care of ourselves.
+Beyond technology, the sense of community and shared knowledge among diabetics has become a cornerstone of support. Whether it's through online forums, local diabetes groups, or cycling events, connecting with others who share similar experiences can make a world of difference.
+If you have spare time and enjoy designing and writing, please contact me. Your help would be greatly appreciated!
+My focus is on the future of diabetes and guiding people through the world of CGM, pumps, and pods. This setup is complex, and I seek support to do it correctly.
+Initially, I will post recipes and food guides. I hope you enjoy the site and return for updates, video tips, and articles. Best wishes for a happier T1 life!
 
-I will be also looking at new ways to try to add foods and recipes and to my web site which I invented in Jan 2021 and hope the rest of the diabetes communities take on this new way to their web sites too, with a quick scan on the screen is very helpful tool with myfitnesspal, and  I will  also be trying to add events that Blackburn C.T.C also known as (We are Cycling UK) take me on and hope many more Type ones join me on the rides and I will be sharing the routes for you to join us if you wish to do so!  as I am not a leader in cycling and only do it to better 
-control my difficult Diabetes with issues I have with it and controlling it.
-
-I just started the site to learn how to make a web site in the first place and by me learning this I’m now trying to help with new information and programmes that come to are needs and in us having to learn the development of Diabetes getting better with technologies being adapted into are everyday use.
-
-I hope you enjoy the Docs and cycling events but more important is for yourself to get out on a bike (not Car) to help your Diabetes as it won’t help you sitting doing nothing but more important is you enjoy what you are doing.
-
-Xdrip and Nightscout are extremely hard to get setup at the start but once you are setup you will not looking back! It’s the way forward!Xdrip is so much easier to setup and you should be up and running if all goes well in the 2 hour warm up that Decom is of the time of this writing!
-
-I'm also now able to create websites is one big battle I've overcome with grammar issues, so all I need to overcome now is my English literature as 
-I'm a terrible writer and grammar too! So, if there is anyone who can kindle spare time and would enjoy doing designs and writing on the site 
-please gets in touch with me! Will greatly help me trying to do it correctly!
-
-I want to focus on the future of diabetes and help in guiding people into the new world of CGM and Pumps and also Pods. There are lots to understand in this setup and it's not easy for anyone including myself to do this!
-But for these docs I will be doing recipes and foods at the start
-you enjoy your stay on the site and I hope it will be a place to keep.
-visiting back from time to time for updates and help with video tips and Articles. All the Best to you all and I hope you can have a happier T1 life :-)
-
-<a href="https://www.diabetes.org.uk/" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) or  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) or [One million steps - Diabetes.uk](https://step.diabetes.org.uk/)  <p align="center">
-<img src="https://media.giphy.com/media/7lcMTfXfU33mwg9sPW/giphy.gif" width="400" height="220" /><br>
-</p>
-
-## Disclaimer<br>
-
-Disclaimer
-All information, thought, and code described here is intended for informational and educational purposes only. The Diabetic way - Cyb netics currently makes no attempt
-at HIPAA privacy compliance. Use of code from github.com is without warranty or support of any kind. Please review the LICENSE found within each 
-repository for further details. Use Nightscout at your own risk, and do not use the information or code to make medical decisions.<br><br>
-I'm in no means a GP or Endo or specialists and all the information on this site is for my own personal use and ways to try to improve the control of Diabetes please always refer to your GP on medical decisions you make.<br>
-
+It would be really good if xdrip, AAPS and Nightscout could make there own Pods to go with these software packages, and for us all not having to wait another 5 years to get things we need now.  And a way forward so they can be tested quicker, so we are not waiting like we are!
