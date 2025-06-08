@@ -13,7 +13,7 @@ For full Web site content visit [The Diabetic Way](https://www.thediabeticway.co
 # Xdrip-Android-APS-Nightscout-readthetips
 
 
-## 1 - Dexcom
+## 1 - Dexcom test
 Menu 1: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Dexcom/Userguide/">Dexcom</a>
 
 ## 2 - Download xdrip
