@@ -1,4 +1,5 @@
-
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/949ec718-a30d-42ee-b598-23aec1746b2e
+" title="Jade Skills & Games"/></a>
 When I joined xdrip in 2017, documentation was sparse. In 2018, I began creating video tutorials on GitHub. Throughout this project, I've had to relearn aspects of type 1 diabetes management while also managing my own health challenges. Due to dyslexia, I find it difficult to understand some concepts, and my grammar may need correction.
 These documents are intended to be helpful but will change as corrections are made for service charges. This is a hobby project, and updates depend on available time and energy.
 Others have since started documenting these processes, which is beneficial for the diabetic community. Despite progress, there are still many bugs and improvements needed, which I aim to assist with as much as possible.
