@@ -4,14 +4,40 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Github/Robot_face_github_account_860x462.jpg" Setting up GitHub Part 1"/><br>
 
 <br>
-Annoncment Heroku is starting to charge for having a Nightscout site free!<br>
+Annoncment By Heroku click on icon tab below!<br>
 
-** Here is what Heroku has Announced!** <br>
-<center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
+??? info "Here is what Heroku has Announced!"
 
 
- 
- I have also established two groups for you to join, which will provide valuable advice on issues we encounter. These groups are not intended to replace the main xDrip, site but to assist with specific challenges we face in our country concerning setups and regulations
+     <center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
+
+     Heroku no longer offers a free tier as it was discontinued on November 28, 2022. Before that, Heroku had a free plan that allowed users to deploy apps with limited resources without cost.
+
+     Current Heroku Pricing (as of 2024)
+     Hobby Plan: Starts at $5/month (Basic dynos, limited hours).
+
+     Standard & Production Plans: Higher costs for more resources and scalability.
+
+     Free Postgres & Redis Add-ons: Some free-tier add-ons are still available, but dynos (containers running your app) are no longer free.
+
+     Alternatives to Heroku with Free Tiers
+     If you're looking for free alternatives, consider:
+
+     Railway.app – Offers free credits monthly.
+
+     Render – Free tier with limitations.
+
+     Fly.io – Free allowances for small apps.
+
+     Vercel / Netlify – Free for static & serverless apps.
+
+     Google Cloud Run / AWS Free Tier – Limited free usage.
+
+
+
+<br>
+ If you need any further help!<br>
+ I have established two groups for you to join, which will provide valuable advice on issues we encounter. These groups are not intended to replace the main xDrip, site but to assist with specific challenges we face in our country concerning setups and regulations
 <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Xdrip+ Uk">Xdrip+ Uk</a>
  and <a href=" https://www.facebook.com/groups/2064928127034626" target="_blank" title="AndroidAPS users UK">AndroidAPS users UK</a>  <br>
 
@@ -281,6 +307,12 @@ Adding an embeded video
 
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
+
+
+!!! warning "Heroku - See above!"
+
+
+
 
 
 List
