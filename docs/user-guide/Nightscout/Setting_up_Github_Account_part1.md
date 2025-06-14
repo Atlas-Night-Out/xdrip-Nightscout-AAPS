@@ -9,12 +9,9 @@ Annoncment Heroku is starting to charge for having a Nightscout site free!<br>
 ** Here is what Heroku has Announced!** <br>
 <center><img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/Google Cloud/heroku announcement.jpg" title="Heroku Announcement "/></a></center><br>
 
-  I have also noticed Gluco check has also had bad news too on voice prompts that we all so luve being taken away from us all in June by Google removing a api we need to do this process again! <a href=" https://pages.glucocheck.app/sunset" target="_blank" title="Gluco check closing down">Click Here</a>. <br>
 
-  We still have several months before any changes take place.
-We are looking at options. Please be patient. And it will still be best to setup this process as normal with Heroku!To upgrade at a later time or move to a differrent one.
  
- I have also setup two groups for you to join for helpful advice on issues we face. 
+ I have also established two groups for you to join, which will provide valuable advice on issues we encounter. These groups are not intended to replace the main xDrip, site but to assist with specific challenges we face in our country concerning setups and regulations
 <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Xdrip+ Uk">Xdrip+ Uk</a>
  and <a href=" https://www.facebook.com/groups/2064928127034626" target="_blank" title="AndroidAPS users UK">AndroidAPS users UK</a>  <br>
 
