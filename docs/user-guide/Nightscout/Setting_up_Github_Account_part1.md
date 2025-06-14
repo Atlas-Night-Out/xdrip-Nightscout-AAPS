@@ -44,9 +44,6 @@ Annoncment By Heroku click on icon tab below!<br>
  <br>
 
 
-<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Nightscout/heroku charging again.jpg" heroku charging again"/><br>
-
-
 
 ### Part 1: Setting up the Github for Nightscout <br>
 
