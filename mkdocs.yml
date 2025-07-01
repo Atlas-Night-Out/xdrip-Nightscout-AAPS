@@ -3,21 +3,19 @@ site_url: https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/
 
 
 theme:
-    name: material
-    language: en
-    features:
-        - navigation.tabs
-        - navigation.tabs.sticky
-        - navigation.tracking
-        - navigation.top
-        - search.suggest
-        - navigation.footer
-        - search.highlight
-        - content.code.annotate
-    logo: assets/images/T1_xDrip+logo_white_236x236.png
-    logo: assets/images/T1_xDrip+logo_Blackandwhite_236x236.png
-    favicon: assets/images/favicon.png
-    palette:
+  name: material
+  font:
+    text: Merriweather
+    code: Red Hat Mono
+  logo: assets/xDrip+logo.png
+  favicon: assets/favicon.ico
+
+  features:
+    - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+  palette:
     # Dark Mode
     - scheme: slate
       toggle:
@@ -33,22 +31,7 @@ theme:
         name: Light mode
       primary: black
       accent: deep orange
-extra_css:
-    - css/admonitions.css
-extra:
-  generator: false
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/Atlas-Night-Out 
-    - icon: fontawesome/brands/facebook 
-      link: https://www.facebook.com/groups/xdripuk
-    - icon: fontawesome/brands/facebook 
-      link: https://www.facebook.com/groups/androidapsusersuk
-    - icon: fontawesome/brands/android 
-      link: https://code.visualstudio.com/
-      copyright: Copyright &copy; 2019 - 2023 David Gall
-      cards_layout_options:
-    
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -64,13 +47,13 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
-  - pymdownx.details
+  - pymdownx.details 
   
   - attr_list
   - pymdownx.emoji:
-     emoji_index:  !!python/name:material.extensions.emoji.twemoji 
-  - toc:
-        permalink: ⌁
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 
 nav:
 - Home: 'index.md'
@@ -79,7 +62,7 @@ nav:
         - 'Dexcom xDrip Recommended Settings': 'user-guide/Dexcom/Dexcom xDrip Recommended Settings.md'
         - 'Starting a G7 or One+': 'user-guide/Dexcom/Starting a G7 or One.md'
         
-            
+
 - Xdrip :
     - 'Xdrip+ Intro': 'user-guide/xdrip/xdrip - Intro.md'
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
@@ -149,4 +132,9 @@ nav:
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
     - 'About': 'about.md'
+
+
+
+
+
 
