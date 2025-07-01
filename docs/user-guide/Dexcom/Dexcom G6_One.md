@@ -72,9 +72,6 @@ And if at any point you feel you are not getting correct readings always do a fi
 
 <br>
 
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
-
-<br>
 [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 

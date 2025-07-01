@@ -261,7 +261,7 @@ Tidepool primarily syncs data automatically from supported devices (Dexcom, Omni
 
 ### [HardwareDataSource](xdrip%20-%20hardwaredatasource.md) <br><br> 
 
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
 
 <br>
  

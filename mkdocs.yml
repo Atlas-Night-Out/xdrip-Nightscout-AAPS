@@ -9,12 +9,21 @@ theme:
     code: Red Hat Mono
   logo: assets/xDrip+logo.png
   favicon: assets/favicon.ico
+  
 
   features:
     - navigation.footer
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+  plugins:
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.indexes
+    - navigation.sections 
+    - search
+    - git-revision-date-localized  
   palette:
     # Dark Mode
     - scheme: slate
@@ -32,6 +41,23 @@ theme:
       primary: black
       accent: deep orange
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/T1AtlasNightOut
+    - icon: fontawesome/brands/github
+      link: https://github.com/Atlas-Night-Out/xdrip-Nightscout-AAPS
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1
+      
+      
+
+
+  copyright: Copyright &copy; 2025 D. Gall
+  generator: false
+    
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
@@ -53,7 +79,7 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
+   
 
 nav:
 - Home: 'index.md'
@@ -68,7 +94,7 @@ nav:
     - 'Download': 'user-guide/xdrip/xdrip - Download.md'
     - 'Install': 'user-guide/xdrip/xdrip - install.md'
     - 'Backup - Import_Export': 'user-guide/xdrip/xdrip - Backup - Import_Export_Settings.md'
-    - 'xdrip± Settings': 'user-guide/xdrip/settings.md'
+    - 'xdrip± Settings': 'user-guide/xdrip/Settings.md'
     - 'xdrip± Hamburger Menu': 'user-guide/xdrip/xdrip-HamburgerMenu.md'
     - 'xdrip± Display Settings': 'user-guide/xdrip/Display-Settings.md'
     - 'xdrip± Copy Settings': 'user-guide/xdrip/Copy-settings.md'
@@ -102,28 +128,28 @@ nav:
          
 -   Watches:
     - 'Watches Intro': 'user-guide/Watches/Watches Intro.md'
-    - 'Watches': 'user-guide/Watches/Watches.md'
+    - 'All Watche Types': 'user-guide/Watches/Watches.md'
     - 'Sideload Ticwatch Pro': 'user-guide/Watches/TicWatch-Pro-3-side-load---xdrip.md'
     - 'Connecting Garmin 945 to Dexcom G6': 'user-guide/Garmin_Connect_BloodReadings.md'
     - 'Compatible Watches': 'user-guide/Watches/Compatible Watches.md'
     - 'BlueJay': 'user-guide/Watches/BlueJay.md'
 
 -   T1's Smart Home:
-    - 'Aqara T1 Pro cube Setup to Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Aqara T1 Pro cube Setup to Echo Show.md'
-    - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Aexa Show Nightscout on Echo Show 10 3rd Gen.md'
+    
+    - 'Add Nightscout onto an Echo Show': 'user-guide/Alexa/T1_Pro_Cube/Alexa Show Nightscout on Echo Show 10 3rd Gen.md'
     - 'Myjade Aqara Cube T1 Pro Setup for T1’s to Echo Show 10': 'user-guide/Alexa/T1_Pro_Cube/Myjade Aqara Cube T1 Pro Setup for T1’s.md'
     - 'LinknLink': 'user-guide/LinknLink/LinknLink.md'
 -   Freestyle Libre : 
     - 'Setup Freestyle Libre 2': 'user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2.md'
 
 -   AndroidAPS : 
+    - 'What is AAPS': 'user-guide/AndroidAPS/What is AAPS.md'
     - 'AAPS Notification': 'user-guide/AndroidAPS/AAPS Notifications.md'
     - 'AAPS Backup': 'user-guide/AndroidAPS/AAPS Backup.md'
     - 'AAPS on Wear OS Smartwatch': 'user-guide/AndroidAPS/Bolus in Watch for AAPS Bolus.md'
     - 'Adding More AAPS Custom WatchFaces': 'user-guide/AndroidAPS/Adding More AAPS Custom watchfaces.md'
     - 'Disclaimer and Warning': 'user-guide/AndroidAPS/Disclaimer and Warning.md'
-    - 'Starting a G7 or One+': 'user-guide/Dexcom/Starting a G7 or One.md'
-    - 'Dexcom & xDrip+ Suggested Settings': 'user-guide/Dexcom/Dexcom & xDrip+ Suggested Settings.md'
+    
     
 -   Medtronic :
     - 'Disclaimer and Warning': 'user-guide/Medtronic/Disclaimer and Warning.md'
@@ -133,9 +159,15 @@ nav:
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
     - 'About': 'about.md'
+    - 'About': 'user-guide/Helpful/about.md'
 
 
 
+
+
+
+
+  
 
 
 

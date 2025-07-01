@@ -61,8 +61,7 @@ To download nightly <a href=" https://drive.google.com/drive/folders/0B6mvYVNVC-
 
 Once you have downloaded a variant from Google Drive, continue like a normal [Setting up xDrip+ install ](../xdrip/xdrip%20-%20Download.md#pc-download).<br>
 <br>
-<br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
 
 <br>
  

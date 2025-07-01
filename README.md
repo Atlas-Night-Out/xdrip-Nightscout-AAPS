@@ -1,12 +1,13 @@
 
-When I joined xdrip in 2017, documentation was sparse. In 2018, I began creating video tutorials on GitHub. Throughout this project, I've had to relearn aspects of type 1 diabetes management while also managing my own health challenges. Due to dyslexia, I find it difficult to understand some concepts, and my grammar may need correction.
-These documents are intended to be helpful but will change as corrections are made for service charges. This is a hobby project, and updates depend on available time and energy.
-Others have since started documenting these processes, which is beneficial for the diabetic community. Despite progress, there are still many bugs and improvements needed, which I aim to assist with as much as possible.
-Nightscout changes frequently, and numerous servers now run it. I will primarily cover the Heroku setup, which I am most familiar with and have found reliable.
-Support from fellow diabetics, developers, and volunteers is essential. Maintaining good health with type 1 diabetes is crucial, and ease of use for these technologies is important. For assistance, please ask in relevant groups or contact me directly via inbox or email.
-With collective support, I hope to contribute further and I appreciate any assistance provided.
+When I joined xDrip in 2017, documentation was limited. By 2018, I began creating GitHub video tutorials. This project required relearning type 1 diabetes management while dealing with my own health issues. Dyslexia makes understanding some concepts hard, and my grammar may need corrections. These documents aim to be helpful but will evolve over time.<br>
+
+ It’s a hobby project, so updates depend on my available time and energy. Others documenting these processes benefit the diabetic community. Despite progress, many bugs and improvements remain, which I strive to address.<br>
+
+Nightscout often changes, and several servers now run it. I'll focus on Heroku setup, which I know best. Support from diabetics, developers, and volunteers is crucial. Managing type 1 diabetes well is vital, and making technology user-friendly is important. For help, ask in relevant groups or contact me directly.<br>
+
+Collaboration and knowledge-sharing can significantly advance support for diabetics globally. Community feedback helps identify challenges and refine solutions, whether troubleshooting bugs or customizing technology. Rapid changes in tech require collective effort. Together, we can explore innovations in wearables, pump integrations, and data-sharing platforms to ensure accessibility and reliability. Thank you to everyone who contributes—your involvement is invaluable.
+
+I also try to support Diabetes.uk and hence why I have them at the bottom of my pages. I also try to support JDRF now Breakthrough T1D - JDRF - UK: JDRF - UK as well with Helpful Links Page.
+Hope the site helpful and please join me, I won't bit! :smile_cat:
 
 
-
-To further support this initiative, I believe collaboration and pooling of knowledge are the keys to unlocking even greater potential for diabetics worldwide. The community's feedback and shared experiences are invaluable in identifying challenges and refining solutions, be it through troubleshooting bugs or adapting technology to meet individual needs.
-Technology evolves rapidly, and staying abreast of these changes demands collective effort. Together, we can chart new paths, exploring innovations in wearable devices, pump integrations, and data-sharing platforms to ensure accessibility and reliability for all. Thank you to everyone who contributes to this journey—your involvement makes all the difference.

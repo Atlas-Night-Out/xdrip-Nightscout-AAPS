@@ -56,10 +56,7 @@ Hit on “Permissions”.
 
 
 </font>
-<br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
 
-<br>
  
 
 <br>

@@ -235,9 +235,7 @@ By <a href="https://apps.garmin.com/en-US/developer/b2d30711-2708-4f3a-8e83-009c
 
 
 <br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
 
-<br>
  
 
 <br>

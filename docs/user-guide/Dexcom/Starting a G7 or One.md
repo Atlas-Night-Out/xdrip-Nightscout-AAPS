@@ -61,10 +61,7 @@ If you see “Mismatch” on the status page, it signifies either your pairing c
 
 
 
-<br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
 
-<br>
  
 
 <br>

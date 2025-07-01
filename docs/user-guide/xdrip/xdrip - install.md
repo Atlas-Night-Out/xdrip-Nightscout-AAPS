@@ -116,8 +116,7 @@ See video on all the permissions I have allowed Xdrip+ too have on my mobile.
 
 ## <Center><a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> </center><br><br> 
 
-<br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
 
 <br>
  

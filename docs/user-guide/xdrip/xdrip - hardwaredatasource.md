@@ -182,8 +182,7 @@ installed, <a href="https://play.google.com/store/apps/details?id=com.dexcom.fol
 
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7d268930-2b40-4f12-ae06-895b2f849937" title="Bluetooth Pairing Request"/></a>
 
-<br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
 
 <br>
  

@@ -65,9 +65,7 @@ Xdrip watches represent a significant leap forward in diabetes management, offer
 <br>
 
 <br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
 
-<br>
  
 
 <br>
