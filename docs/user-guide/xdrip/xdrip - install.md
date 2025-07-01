@@ -1,63 +1,140 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
-<img width="460" height="315" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip+ original logo.jpg" title="Xdrip+"/></a>
-# **Install xDrip+   testing 333 ** <br>
 
-This video installation process is a little old now and the video really needs to be updated, which I will do as soon as I get time to.
 
-But for now, it’s still a good help for you to set up with xdrip+ onto your mobile. Just turn off the music if it’s not to your tastes :-) 
+<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f778a2b5-6262-4275-80b9-ef0f16f21e35" title="xdrip+ original logo"/></a>
+
+# **Install xDrip+** <br>
+
+
+??? info "Notes"
+
+    This Xdrip+ Install 2019 video installation process is  old now and the video really needed to be updated, which I done now. But will be leaving on the site for reference sake only <br>
+
+I have now managed to make a little update to installing xdrip , but not much changed really apart from settings and the way we connect to CGM as also got more confusing.
+
+
+!!! note "Info"
+
+
+This is the link to the Screencast that I have now setup to see if it will be better to you all for doing videos setups due to it being able to have links working within the video.<br>
+
+I will also add the video to Utube, but the links will not work from there so it will be better to use this Screencast link below! <br>
+
+I'm Also hoping Milos will like this too, and help me fit in a little bit better to getting the right informtion in on this site too due to my Grammer being terrible and I'm not as fast as the rest of the Developers<br>
+
+
+### Xdrip  Install in 2025 Screencast
+
+<a href="https://app.screencast.com/YxuBW3bErdql4" target="_blank" title="Xdrip  Install in 2025 Screencast">Xdrip  Install in 2025</a> </center>
+
+<iframe scrolling='no' frameborder='0' style='width: 1920px; height: 1080px; border:0;' src='https://app.screencast.com/YxuBW3bErdql4/e' allowfullscreen></iframe>
+
+
+
+
+If you want to see the same video on UTUBE Here it is.
+
+### Xdrip  Install in 2025 - On UTUBE
+
+<a href="https://youtu.be/pqmreByMyOA?si=EiBZkDXfgD6ewhfb" target="_blank" title="Xdrip  Install in 2025 Utube">Xdrip  Install in 2025 on UTUBE</a> </center>
+
+<a href="https://www.youtube.com/watch?v=pqmreByMyOA" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e7a7ac32-20c4-4a41-8468-6473d262807d" title="Xdrip  Install in 2025 Screencast"/></a>
+
+<br> <br>
+
+I'm also still going to leave the older version video, here for you all to see how I first did it in and around 2018 and still a good help for you to set up with xdrip+ onto your mobile.<br> Just turn off the music if it’s not to your tastes :-) <br>
+
 You do not need to have Nightscout installed for xdrip+ to work as mentioned in the video!
-You can get your reading from your CGM direct from within xdrip+.
+You can get your reading direct from your CGM direct from within xdrip+.
+
+You also do not need to install Nightscout to use Xdrip+ I made a mistake and did not relize until after when I relized I could run xdrip stright from your sensor! 
+<br><br>
+
+
+!!! Warning "Important Note - This Video is a Old Way to do it! Watch with Caution"
+
+### **Xdrip+ Install 2019** 
+
+<a href="https://www.youtube.com/watch?v=7Qwr4HrchTU" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/8b625dcf-178c-4fc3-909a-044306d04e16" title="xDrip Setup 2019"/></a>
+
+
 <br>
 
-### **Install Xdrip+** 
-
-<iframe id="video29564" width="860" height="615" src="https://www.youtube.com/embed/7Qwr4HrchTU" target="_blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<br>
-
-After you have installed Your Apk and xdrip+ its time to install a few other options within xdrip.<br>
+After you have installed Your Apk and xdrip+ its time to install a few other options and debug settings within xdrip.<br>
 
 ### **Authorize background activity**<br>
 xDrip+ must have the right to be used in the background, and it must be white-listed for battery optimization. 
 This is necessary for the correct functioning of xdrip+.<br>
 
-It should ask you to allow these authorizations. If it doesn't or you need to look this up later, check it in your phone settings <span style="background-color: #FFFF00">**Settings - Apps - xDrip+.**</span> Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
+It should ask you to allow these authorizations. If it doesn't or you need to look this up later, check it in your phone settings <span style="background-color:#26AF06">**(Settings - Apps - xDrip+)**</span> Consult your mobile documents as they will vary on Android software version and manufacturers.<br>
 For me on a Samsung I swiped down and click on the gear icon to get to my settings.<br>
 APPS/xDrip+/Battery<br>
 
-<center><img src="/xdrip-Nightscout-AAPS/img/xdrip/settings.jpg" alt="alt text" width="300" height="auto"><img src="/xdrip-Nightscout-AAPS/img/xdrip/2_Apps.jpg" alt="alt text" width="300" height="auto"><br></center><br>   <center><img src="/xdrip-Nightscout-AAPS/img/xdrip/3_Apps_xdrip+.jpg" alt="alt text" width="300" height="auto"><img src="/xdrip-Nightscout-AAPS/img/xdrip/Battery.jpg" alt="alt text" width="300" height="auto"></center><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#26AF06">**Gear**</span> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#26AF06">**Settings**</span>
+<center><img src="https://github.com/user-attachments/assets/4d41a7bd-c703-457a-b9d0-64e0988bbb4f" alt="alt text" width="300" height="auto" title="Gear" ><img src="https://github.com/user-attachments/assets/7b9e645b-5e87-464b-8f2b-b19508c693a1" alt="alt text" width="300" height="auto" title="Apps"><br></center><br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#26AF06">**Xdrip+**</span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color:#26AF06">**Battery**</span>   <center><img src="https://github.com/user-attachments/assets/47430dea-0993-45e4-aea3-45950ee8b931" alt="alt text" width="300" height="auto" title="Mobil Apps xdrip+"><img src="https://github.com/user-attachments/assets/4b3d66d1-6cf9-4d62-99ec-27afbb52c58d" alt="alt text" width="300" height="auto" title="Battery"></center><br>
 
-<center> <span style="background-color: #FFFF00">**And select Battery Unrestricted.**</span><br><br>
 
-<img src="/xdrip-Nightscout-AAPS/img/xdrip/Battery_unrestrcted.jpg" alt="alt text" width="300" height="auto"></center><br>
+<center> <span style="color:#26AF06">**And select Battery Unrestricted** </span><br><br>
+
+<img src="https://github.com/user-attachments/assets/27723bb7-2b21-4ee4-a7d7-12878aa874a5" alt="alt text" width="300" height="auto" title="Battery unrestrcted"></center><br>
 
 ## <center>**Making sure xDrip+ will not be put in to sleep mode and enabled permissions**</center><br>
 Make sure these settings are checked, but still make sure they are exactly like shown below. 
 Every time your Mobile updates or you re-install, check again: disable and enable checkboxes that should be enabled to enforce the settings.<br>
-Go to <center><span style="background-color: #FFFF00">**Other misc options**</span><br>
-<span style="background-color: #FFFF00">**/ Settings / Less Common Settings / Other misc options**</span></center><br><br>
+Go to <center><span style="background-color:#26AF06">**(Other misc options)**</span><br>
+Go to<br>
+<span style="background-color:#26AF06">**/ Settings / Less Common Settings / Other misc options**</span></center><br><br>
 
 And make sure these are selected!<br>
-<center><img src="/xdrip-Nightscout-AAPS/img/xdrip/Other misc options.jpg" alt="alt text" width="300" height="auto"></center><br><br>
+<center><img src="https://github.com/user-attachments/assets/d2096ed3-2950-403b-95f4-96ab10a43a58" alt="alt text" width="300" height="auto" title="Other misc options"></center><br><br>
 
 ## **Enable location & other XDRIP+ Permissions**<br>
 
 From Android versions <a href="https://en.wikipedia.org/wiki/Android_version_history#Android_6.0_Marshmallow" target="_blank" title="Android version 6 Marshmallow">(6 Marshmallow (and above),</a> location is required to allow Bluetooth Low Energy connection.<br>
-If you will be using xDrip+ with a Bluetooth sensor or bridge you must enable location and allow xDrip+ to access it. See your mobiles instructions as it will depend on Android version and manufacturer in my case I’m using a Samsung Note10+
-See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
+
+If you will be using xDrip+ with a Bluetooth sensor or bridge you must enable location and allow xDrip+ to access it.<Br>
+
+See your mobiles instructions, as it will depend on Android version and manufacturer in my case I’m using a Samsung Note10+ <br>
+
+See video on all the permissions I have allowed Xdrip+ too have on my mobile.
+
+### xDrip+ Permissions
+
+<a href="https://www.youtube.com/embed/yHv86lZ2s58" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/b187ddcd-8755-4be9-96a8-a2432689c3bb" title="xdrip+ Authorization Settings
+"/></a>
+
+<br>
 
 
-<iframe id="video294" width="860" height="615" src="https://www.youtube.com/embed/yHv86lZ2s58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
-<center>
-## Next:see
-### <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> <br><br></center>
 
 
+## Next: see
+
+## <Center><a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/xdrip/xdrip%20-%20datasource/" target="_blank" title="Adding your Data Source">Adding your Data Source</a> </center><br><br> 
+
+<br>
+[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+
+<br>
+ 
+
+<br>
+[&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
+[Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
+
+<br>
+<a href="https://maundyrelief.org.uk/" target="_blank">
+  <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
+<br>
+
+<br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
-</center>
+<img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+
 
 
 <!--  
@@ -77,7 +154,11 @@ See My video on all the permissions I have allowed Xdrip+ too have on my mobile.
 <a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
 		
-		
+
+adding 	Green Hightligher!!!!!!!!	with bold too
+<span style="background-color:#26AF06">**Choose Device**</span>
+
+
 adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
 
@@ -109,9 +190,22 @@ Adding an embeded video
 <iframe id="video3" width="560" height="315" src="https://www.youtube.com/embed/o7-T2IrDJ_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+Video with image but this if a false Video!!!! And just and image with a link!
+<a href="https://youtu.be/FZvuVlHOh8w" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/f44c325b-d1d0-483a-813b-bc45813f846a" title="Alexa - Jade - Skills & Games"/></a>
+
+
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
 
+
+This is a note with a drop down! you have to keep the format the same for it to work!!!!!!!!!!
+??? info "Notes"
+
+    Before proceeding, ensure that you've downloaded and installed all required applications on their respective devices. Once everything is set up, familiarize yourself with each app’s interface and functionality. <br> 
+
+
+!!! Warning "Important Notice - This Video is a Old Way Watch with Caution"
 
 List
 This is a regular paragraph.

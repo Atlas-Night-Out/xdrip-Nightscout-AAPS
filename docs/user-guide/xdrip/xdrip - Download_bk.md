@@ -7,7 +7,7 @@ docs made by D.Galloway 2019- 2021-->
 ## PC Download
 
 <a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fcdd8a71-0a6c-4316-9f21-31669ed83c66" title="PC Download"/>
+  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip pc download.jpg" title="PC Download"/>
 </a><br>
 
 
@@ -16,22 +16,15 @@ From a "mobile" You will need to go to a web browser on your mobile and
  Download the latest version of Xdrip <a href="https://jamorham.github.io/#xdrip-plus" target="_blank" title="Mobile xdrip latest version">from Here</a> <br><br>
 
 ## Mobile download
-<a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/77c6a0b4-d813-448e-80fb-fb23b50a30f3" title="PCMobile Download"/>
-</a><br>
-
+[<img src="/xdrip-Nightscout-AAPS/img/xdrip/xdrip mobile download.jpg">](https://jamorham.github.io/#xdrip-plus)
 
 No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings first!<br> 
 
-
-## Import /Export Features
-<a href="https://www.youtube.com/embed/C3n9cKoD3Dg" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/edccc772-a74c-4e5c-a79f-344b81807fa0" title="Xdrip Save Settings"/></a></center>
-<br><br>
+<centre><iframe width="860" height="615" align="center" src="https://www.youtube.com/embed/C3n9cKoD3Dg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </centre><br><br>
 
 ## Forked versions
 
-Some developers add features and customizations that are <span style="background-color:#26AF06">**not available**</span> in the approved pre-releases until the author will create a Pull Request in xDrip+ and get it merged in the main project.<br>
+Some developers add features and customizations that are <span style="background-color: #FFFF00">**not available**</span> in the approved pre-releases until the author will create a Pull Request in xDrip+ and get it merged in the main project.<br>
 
 !!!warning "Updating forked Versions Risks"  
     You can use these editions but need to understand they might only be supported only by their designer.<br>
@@ -40,9 +33,9 @@ Some developers add features and customizations that are <span style="background
     You will need to uninstall one or the other, either way around it first. (Forked or Official) only one can be installed.
 
 
-Bence's forks for CareLink follower you can get here <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases " target="_blank" title="Bence's forks">Bence's forks</a> <br>
+Bence's forks for CareLink follower you can get here [Bence's forks](https://github.com/benceszasz/xDripCareLinkFollower/releases). <br>
 
-Once downloaded continue to [install](../xdrip/xdrip%20-%20install.md#install-xdrip) <br>
+Once downloaded continue to [installation](../xdrip/xdrip%20-%20install.md#install-xdrip) <br>
 <br>
 
 
@@ -53,32 +46,19 @@ So, you can install xDrip+ and an xDrip+ variant or even more. This essentially 
 
 This can prove exceptionally useful to follow more than one person at a time.<br>
 
-<img width="500" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/54c56873-46e2-4d1c-8b17-ae123a03c108" title="Variants"/></a>
+<img width="500" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/xdrip/Variants.jpg" title="Variants"/></a>
 <br><br>
 
 
 To download nightly <a href=" https://drive.google.com/drive/folders/0B6mvYVNVC-fOWkxnVF80dlFabjQ?resourcekey=0-ebguuiPuB1wUI9Rp2zjMNg" target="_blank" title="variants.">variants</a><br><br><br>
 
 Once you have downloaded a variant from Google Drive, continue like a normal [Setting up xDrip+ install ](../xdrip/xdrip%20-%20Download.md#pc-download).<br>
-<br>
-<br>
-[*Last modified now*](https://github.com/NightscoutFoundation/xDrip/releases)
+<br><br>
 
-<br>
- 
-
-<br>
-[&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
-[Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
-
-<br>
-<a href="https://maundyrelief.org.uk/" target="_blank">
-  <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
-<br>
-
-<br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
-<img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+ <center> <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
+</a>               Why Not take visit [UK Wide Cycle Ride - Diabetes.uk](https://cycle.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span>  [Swim22 - Diabetes.uk](https://swim22.diabetes.org.uk/) <span style="background-color: #FFFF00">**or**</span> [Month of Miles - Diabetes.uk](https://monthofmiles.diabetes.org.uk/?gclid=CjwKCAjwz5iMBhAEEiwAMEAwGO2_OoOGRQdN3BDD3NUQ8WoYAsJsxd1YUJN8dSVJowD1E4AjJ1RdVxoC9bgQAvD_BwE) for all of your Diabetes Needs!
+</center>
 
 
 <!--  
@@ -102,9 +82,6 @@ Once you have downloaded a variant from Google Drive, continue like a normal [Se
 adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
 
-
-adding 	Green Hightligher!!!!!!!!	with bold too
-<span style="background-color:#26AF06">**Choose Device**</span>
 
 <a>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
