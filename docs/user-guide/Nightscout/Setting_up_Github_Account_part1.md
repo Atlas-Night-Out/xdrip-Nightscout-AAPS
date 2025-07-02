@@ -126,6 +126,8 @@ with other devices and setups too! You do this at your own risk as my instructio
 
  <br>
 
+
+
 <br>
 
 [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
@@ -140,9 +142,39 @@ with other devices and setups too! You do this at your own risk as my instructio
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 
+This page was last updated: *{{ git_revision_date_localized }}*
+
+  <!-- 
+
+   # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: black
+      accent: deep orange
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/T1AtlasNightOut
+    - icon: fontawesome/brands/github
+      link: https://github.com/Atlas-Night-Out/xdrip-Nightscout-AAPS
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1
+      
+      
 
 
-  <!--  
+  copyright: Copyright &copy; 2025 D. Gall
+  generator: false
+    
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+
   ******************************************************************************************************************
   mkdocs.yml    # The configuration file.
     docs/

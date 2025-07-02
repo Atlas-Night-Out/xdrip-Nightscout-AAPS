@@ -16,14 +16,19 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
+
   plugins:
     - search.highlight
-    - search.share
-    - navigation.instant
-    - navigation.indexes
-    - navigation.sections 
     - search
-    - git-revision-date-localized  
+    - git-revision-date-localized:
+        type: datetime
+        fallback_to_build_date: true
+        show_timezone: true
+        date_format: 'MMMM dd, yyyy'
+        time_format: 'HH:mm:ss'
+        enable_creation_date: true
+    -    enable_creation_date: true  
+
   palette:
     # Dark Mode
     - scheme: slate
@@ -158,7 +163,6 @@ nav:
 - Helpful Things : 
     - 'Helpful Links': 'user-guide/Helpful/Helplinks.md'
     - 'Github - Deleting-your-cgm-remote-monitor  ': 'user-guide/Helpful/Deleting-your-cgm-remote-monitor.md' 
-    - 'About': 'about.md'
     - 'About': 'user-guide/Helpful/about.md'
 
 
