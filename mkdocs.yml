@@ -4,6 +4,7 @@ site_url: https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/
 
 theme:
   name: material
+  custom_dir: docs/overrides
   font:
     text: Merriweather
     code: Red Hat Mono
@@ -16,19 +17,7 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
-
-  plugins:
     
-    - search
-    - git-revision-date-localized:
-        type: datetime
-        fallback_to_build_date: true
-        show_timezone: true
-        date_format: 'MMMM dd, yyyy'
-        time_format: 'HH:mm:ss'
-        enable_creation_date: true
-    -    enable_creation_date: true  
-
   palette:
     # Dark Mode
     - scheme: slate
@@ -45,6 +34,20 @@ theme:
         name: Light mode
       primary: black
       accent: deep orange
+
+plugins:
+  - search
+  - git-authors:
+        exclude:
+            - index.md
+  - git-revision-date-localized:
+      type: timeago
+      timezone: Europe/london
+      locale: en
+      fallback_to_build_date: false
+      enable_creation_date: true  
+
+
 
 extra:
   social:
