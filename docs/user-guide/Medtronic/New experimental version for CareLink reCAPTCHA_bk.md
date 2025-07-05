@@ -1,31 +1,27 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2021-->
 
-**Disclaimer and Warning**
+** NEW EXPERIMENTAL VERSION FOR CARELINK RECAPTCHA USING BROWSER AUTHENTICATION**
 
-- All information, thought, and code described here is intended for informational and educational purposes only. Nightscout currently makes no attempt at HIPAA privacy compliance. Use Nightscout and AAPS at your own risk, and do not use the information or code to make medical decisions.
-- Use of code from github.com is without warranty or formal support of any kind. Please review this repository's LICENSE for details.
-- All product and company names, trademarks, servicemarks, registered trademarks, and registered servicemarks are the property of their respective holders. Their use is for information purposes and does not imply any affiliation with or endorsement by them.
+<img width="200" height="auto" border="0" align="left"  src="/xdrip-Nightscout-AAPS/img/Medtronic/rubiks-cube-29405.png" title="Rubiks-Cube1"/> 
 
-Please note - this project has no association with and is not endorsed by: [SOOIL](http://www.sooil.com/eng/), [Dexcom](https://www.dexcom.com/), [Accu-Chek, Roche Diabetes Care](https://www.accu-chek.com/), [Insulet](https://www.insulet.com/) or [Medtronic](https://www.medtronic.com/).
-
-<br>
+<img width="200" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/512x512-logo-27170.png" title="Github Rat Cat Snake"/><a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/" target="_blank"> <img width="100" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/Jigsaw_home.png" title="Type 1 Smart Home"/></a><br>
+ <img width="200" height="auto" border="0" align="right"  src="/xdrip-Nightscout-AAPS/img/Medtronic/rubiks-cube-29389.png" title="Rubiks-Cube2 "/> <br>
 <br>
 
+- This is the first version to handle login with CareLink reCAPTCHA. There may be bugs or issues in some cases or on some mobile phones.
+Data source wizard is no longer available for CareLinkFollower data source. After setting CareLinkFollower data source the CareLink Country must selected, but username and password are no longer required. <br>
 
-<br>
+Login to CareLink must be executed by using the Login menu item under CareLink Patient parameter. Login menu item will popup the CareLink website logon screen in an internal browser window, the login to CareLink must be carried out in here. The login page is a bit difficult to use and inconvenient, on-screen keyboard may need to be minized to switch between input fields or to press a button or to solve the reCAPTCHA.<br>
 
-[&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
-[Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
+Login should be required only once, re-authentication (token renewal) is executed automatically before the last login (token) is expired. Authentication and token statuses are displayed on the CareLink Follow status page in the System Status.
 
-<br>
-<a href="https://maundyrelief.org.uk/" target="_blank">
-  <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
-<br>
+If xDrip app is already installed it is recommended not to uninstall it and to install one of the provided variants, which doesn't conflict with the already installed xDrip app.
 
-<br>
-<a href="https://www.diabetes.org.uk/" target="_blank">
-<img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+This version is really just a first working prototype, long term usablity and stability is not guarantedd!
+
+See The Repo on <a href=" https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank" title="v0.1.13-beta">Github</a> by benceszasz <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank">
+  <img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/></a><br><img width="100" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/Jigsaw_home.png" title="Type 1 Home"/>
 <!--  
   ******************************************************************************************************************
   mkdocs.yml    # The configuration file.

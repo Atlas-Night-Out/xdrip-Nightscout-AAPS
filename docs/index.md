@@ -16,6 +16,8 @@ For full Web site content visit <a href="https://www.thediabeticway.co.uk/index.
 : <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara T1 Pro cube Setup to Echo Show/">T1's Smart Home</a>
 * 6 - Freestyle Libre
 : <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">Freestyle Libre</a>
+* 7 - AndroidAPS:
+[Android APS](./user-guide/AndroidAPS/What%20is%20AAPS.md)
 * 8 - Medtronic
 : <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Medtronic/Disclaimer%20and%20Warning/">Medtronic</a>
 * 9 - Diabetes Helpful Things

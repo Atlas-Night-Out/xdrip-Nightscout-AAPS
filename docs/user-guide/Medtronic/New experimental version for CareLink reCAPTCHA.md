@@ -3,10 +3,9 @@ docs made by D.Galloway 2019- 2021-->
 
 ** NEW EXPERIMENTAL VERSION FOR CARELINK RECAPTCHA USING BROWSER AUTHENTICATION**
 
-<img width="200" height="auto" border="0" align="left"  src="/xdrip-Nightscout-AAPS/img/Medtronic/rubiks-cube-29405.png" title="Rubiks-Cube1"/> 
-
-<img width="200" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/512x512-logo-27170.png" title="Github Rat Cat Snake"/><a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/" target="_blank"> <img width="100" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/Jigsaw_home.png" title="Type 1 Smart Home"/></a><br>
- <img width="200" height="auto" border="0" align="right"  src="/xdrip-Nightscout-AAPS/img/Medtronic/rubiks-cube-29389.png" title="Rubiks-Cube2 "/> <br>
+<img width="200" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a5928197-09d9-4224-a104-00b5898d8623" title="Rubiks-Cube-29405"/></a> 
+<img width="200" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1e88403-c2fe-4752-9b8f-08ccc8606eb9" title="Github Black Cat"/></a><a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara%20T1%20Pro%20cube%20Setup%20to%20Echo%20Show/" target="_blank"> <img width="100" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/01ca1425-77c7-4eca-b98e-949aecf85935" title="Jigsaw Homet"/></a><br>
+ <img width="200" height="Auto" border="0" align="right"  src="https://github.com/user-attachments/assets/a7ff8b34-d882-479e-be05-2f07c7eb6ea9" title="Rubiks-Cube-29389"/></a> <br>
 <br>
 
 - This is the first version to handle login with CareLink reCAPTCHA. There may be bugs or issues in some cases or on some mobile phones.
@@ -20,8 +19,30 @@ If xDrip app is already installed it is recommended not to uninstall it and to i
 
 This version is really just a first working prototype, long term usablity and stability is not guarantedd!
 
-See The Repo on <a href=" https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank" title="v0.1.13-beta">Github</a> by benceszasz <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank">
-  <img width="400" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/512x512-logo-27170.png" title="Config Rat Cat Snake"/></a><br><img width="100" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Medtronic/Jigsaw_home.png" title="Type 1 Home"/>
+See The Repo on :simple-github: <a href=" https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank" title="v0.1.13-beta">Github</a> by benceszasz <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases/tag/v0.1.13-beta?fbclid=IwAR2guONkJmuGvpbnCsTh-Ae0R80U1oibMFwlFlDw4FvcQdlJOK8voezwKS8" target="_blank">
+  <img width="200" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c1e88403-c2fe-4752-9b8f-08ccc8606eb9" title="Github Black Cat"/></a></a><br><img width="100" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/01ca1425-77c7-4eca-b98e-949aecf85935" title="Jigsaw Homet"/></a>
+
+<br>
+<br>
+
+<br>
+
+[&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
+[Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
+
+<br>
+<a href="https://maundyrelief.org.uk/" target="_blank">
+  <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
+<br>
+
+<br>
+<a href="https://www.diabetes.org.uk/" target="_blank">
+<img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+
+
+
+
+
 <!--  
   ******************************************************************************************************************
   mkdocs.yml    # The configuration file.
