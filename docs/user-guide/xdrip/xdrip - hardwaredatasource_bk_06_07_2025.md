@@ -1,14 +1,11 @@
 <!-- this is not on github server its local only and run my mkdocs server!
 docs made by Tunasalad 2019- 2021-->
-
 <img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c0b76e2f-d6eb-4a2d-9adf-e58b966cbae7" title="Hardware Data Source Header"/></a>
 <br>
 
-### [Xdrip+ Settings](settings.md#settings)
-
-### [xdrip± Specifications](settings.md#specifications)
-
-### [xdrip± Common Hardware Data Source](#common-hardware-data-sources) 
+### [Xdrip+ Settings](Settings.md#settings)
+### [xdrip± Specifications](Settings.md#specifications)
+### [xdrip± Hardware Data Source](Settings.md#6-xdrip--hardware-data-source) 
 
 <img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/92a803ba-ebcb-48fb-af8a-e10c104544ab" title="Choose Data Source"/></a> If you don't see this on installing!<br>
 
@@ -35,8 +32,6 @@ You will need to pick a Hardware Data source to add into xDrip for your CGM to g
 
 
 ### Common Hardware Data Sources 
-
-<br>
 
 1. Dexcom G6/G7/1/1+ (Transmitter)<br>
 &emsp;&emsp; :octicons-dot-fill-16:  Directly connects to Dexcom G6/G7/1/1+  transmitters via Bluetooth (no need for a separate receiver).<br>
@@ -187,11 +182,12 @@ installed, <a href="https://play.google.com/store/apps/details?id=com.dexcom.fol
 
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/7d268930-2b40-4f12-ae06-895b2f849937" title="Bluetooth Pairing Request"/></a>
 
-<br>
 
 
 <br>
+ 
 
+<br>
 [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 
@@ -203,6 +199,9 @@ installed, <a href="https://play.google.com/store/apps/details?id=com.dexcom.fol
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+
+
+
 
 
 <!--  

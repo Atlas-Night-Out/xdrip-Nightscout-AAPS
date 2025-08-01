@@ -6,16 +6,12 @@ docs made by D.Galloway 2019- 2021-->
 
 ## PC Download
 
-<a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank"> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fcdd8a71-0a6c-4316-9f21-31669ed83c66" title="PC Download"/></a> <br>
-<br>
+<a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank">
+  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fcdd8a71-0a6c-4316-9f21-31669ed83c66" title="PC Download"/>
+</a><br>
 
-
-# Download Latest Version <br>
-
-<br>
 
 To Download latest version of Xdrip on a Pc , <a href="https://github.com/NightscoutFoundation/xDrip/releases " target="_blank" title="PC xdrip latest version">See Here</a>  and go to the  "Latest version". <br>
-
 From a "mobile" You will need to go to a web browser on your mobile and
  Download the latest version of Xdrip <a href="https://jamorham.github.io/#xdrip-plus" target="_blank" title="Mobile xdrip latest version">from Here</a> <br><br>
 
@@ -65,10 +61,12 @@ To download nightly <a href=" https://drive.google.com/drive/folders/0B6mvYVNVC-
 
 Once you have downloaded a variant from Google Drive, continue like a normal [Setting up xDrip+ install ](../xdrip/xdrip%20-%20Download.md#pc-download).<br>
 <br>
-<br>
+
 
 <br>
+ 
 
+<br>
 [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 
@@ -80,6 +78,7 @@ Once you have downloaded a variant from Google Drive, continue like a normal [Se
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+
 
 <!--  
   ******************************************************************************************************************

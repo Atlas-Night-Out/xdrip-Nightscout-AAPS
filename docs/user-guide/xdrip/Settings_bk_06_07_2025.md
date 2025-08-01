@@ -1,70 +1,90 @@
-<!-- this is not on github server its local only and run my mkdocs server!
-docs made by D.Galloway 2019- 2021-->
+These docs are based on the [latest Nightly Build](https://github.com/NightscoutFoundation/xDrip/releases) Which you can download from there. (allow a few days for update to take effect).  
+**If you're already using xDrip+** and don't find a feature documented here and want it, you might need to [update](xdrip%20-%20install.md#pc-download) your xDrip+ app. <br> 
 
-# Download xDrip <br><br>
+See at the bottom of each page the version at which it was written, if you have an older version it might not include the feature.
+
+**If you're completely new to xDrip+** 
+and you want to install it for the first time continue to <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/xdrip/xdrip%20-%20Download/">Download xdrip</a> Or <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/xdrip/xdrip%20-%20install/">Install xdrip</a>
+</br>
+</br>
+
+### **Specifications**
+
+You need an Android phone.
+
+* Minimum supported Android version is 4.4 but 6 and above is recommended.<br>
+* If you will connect xDrip+ to a sensor your phone must support Bluetooth Low Energy (BLE): you can use utilities like this one to check.<br>
+* If you want to use the embedded master - follower function of xDrip+ (called xDrip+ Sync) both phones must have the Google Play Services installed.<br>
+* In order to use NFC scanning features for Libre 1 and 2 (EU only) sensors, or to connect directly to a Libre 2 (EU) sensor your phone needs a compatible NFC reader.<br>
+* If using Android 10 and above make sure you use a recent version of xDrip+ (at least the latest release, we'll talk about it later: continue reading).
+
+### Translation
+
+The documentation is only available in English for now.  
+You might find it easier to follow if you [switch your xDrip+ to English](Display-Settings.md#language) and read it using and automatic translation with Google.<br>
+
+### Settings
 
 
-## PC Download
+## 1. [xdrip±  Hamburger Menu](#1-xdrip--hamburger-menu) <br>
 
-<a href="https://github.com/NightscoutFoundation/xDrip/releases" target="_blank"> <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/fcdd8a71-0a6c-4316-9f21-31669ed83c66" title="PC Download"/></a> <br>
+To get to your settings click on the left Hamburger bar at the top.<br>
+
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/81d21b59-6e7e-4360-afa8-01fc4569899e" title="left Hamburger Bar"/></a><br>
+
+## 2. [xdrip±  Settings Search](#2-xdrip--settings-search) <br>
+
+There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
+
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3bb550ab-fe5c-45d8-a252-bdeb6b0470d8" title="Settings"/>&emsp;&emsp;<<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e74d841f-15fa-4dae-ac52-c26143f6cb6b" title="Settings Search"/></a><br>
+
+## 3. [xdrip±  Settings List ](#3-xdrip--settings-list) <br>
+
+There are lots of settings in xDrip+, So a search for things by looking for, use the search bar at the top right and enter the keyword you're looking for.<br>
+
+<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6b458ee5-4384-46df-bdb7-6cfc919bc9da" title="Settings List"/></a><br>
+
+## 4. [xdrip±  Glucose Units](#4-xdrip--glucose-units) <br>
+
+In this menu you can select the units used by xDrip+ (mg/dl or mmol/l) and set high and low targets.
+These two targets will decide when the graph BG dots change colour above or below target.
+<br>
+
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/13fee6cb-9cca-4bda-b96f-ad8068874055" title="Glucose Units"/></a><br>
+
+## 5. [xdrip±  Alarm and Alerts](#5-xdrip--alarm-and-alerts)
+
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/18e009cd-7fb3-4ec8-8b55-28a78422b1a9" title="Alarm and Alerts"/></a><br>
+
+## 6. [xdrip±  Hardware Data Source](#6-xdrip--hardware-data-source)<br>
+
+These settings vary on the data source selected.<br>
+
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/877292b9-bee2-4d01-a285-8d9d2260d35d" title="Hardware Data Source
+"/></a>
+<br>
+
+## 7. [xdrip±  Auto Configure](#7-xdrip--auto-configure)<br>
+
+Auto configure helps you copy settings between two xDrip+ apps installed on different Mobiles.<br>
+
+<img width="500" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/4bcbaed4-6aec-41a8-9854-28f982118241" title="Data Synce Auto Configure"/></a>
+
 <br>
 
 
-# Download Latest Version <br>
+## To Be continued!<br>
 
-<br>
+####  missing information or changes 
 
-To Download latest version of Xdrip on a Pc , <a href="https://github.com/NightscoutFoundation/xDrip/releases " target="_blank" title="PC xdrip latest version">See Here</a>  and go to the  "Latest version". <br>
-
-From a "mobile" You will need to go to a web browser on your mobile and
- Download the latest version of Xdrip <a href="https://jamorham.github.io/#xdrip-plus" target="_blank" title="Mobile xdrip latest version">from Here</a> <br><br>
-
-## Mobile download
-<a href="https://jamorham.github.io/#xdrip-plus" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/77c6a0b4-d813-448e-80fb-fb23b50a30f3" title="PCMobile Download"/>
-</a><br>
+If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  :simple-facebook: <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the Discussions on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github :simple-github:</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
+  <br>
 
 
-No need to uninstall first. But I would would recomend you do! And don't forget to backup your settings first!<br> 
 
 
-## Import /Export Features
-<a href="https://www.youtube.com/embed/C3n9cKoD3Dg" target="_blank">
-  <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/edccc772-a74c-4e5c-a79f-344b81807fa0" title="Xdrip Save Settings"/></a></center>
-<br><br>
 
-## Forked versions
-
-Some developers add features and customizations that are <span style="background-color:#26AF06">**not available**</span> in the approved pre-releases until the author will create a Pull Request in xDrip+ and get it merged in the main project.<br>
-
-!!!warning "Updating forked Versions Risks"  
-    You can use these editions but need to understand they might only be supported only by their designer.<br>
-    **xDrip+ automated updates won't work with forked versions.**  
-    Also remember you cannot install a forked version if you have an official version installed on your phone:<br>
-    You will need to uninstall one or the other, either way around it first. (Forked or Official) only one can be installed.
-
-
-Bence's forks for CareLink follower you can get here <a href="https://github.com/benceszasz/xDripCareLinkFollower/releases " target="_blank" title="Bence's forks">Bence's forks</a> <br>
-
-Once downloaded continue to [install](../xdrip/xdrip%20-%20install.md#install-xdrip) <br>
-<br>
-
-
-## Variants
-
-You cannot install xDrip+ many times on the same phone. But xDrip+ variants have different names.<br>
-So, you can install xDrip+ and an xDrip+ variant or even more. This essentially lets you install multiple instances of xDrip+ on the same phone.<br>
-
-This can prove exceptionally useful to follow more than one person at a time.<br>
-
-<img width="500" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/54c56873-46e2-4d1c-8b17-ae123a03c108" title="Variants"/></a>
-<br><br>
-
-
-To download nightly <a href=" https://drive.google.com/drive/folders/0B6mvYVNVC-fOWkxnVF80dlFabjQ?resourcekey=0-ebguuiPuB1wUI9Rp2zjMNg" target="_blank" title="variants.">variants</a><br><br><br>
-
-Once you have downloaded a variant from Google Drive, continue like a normal [Setting up xDrip+ install ](../xdrip/xdrip%20-%20Download.md#pc-download).<br>
-<br>
 <br>
 
 <br>
@@ -81,6 +101,9 @@ Once you have downloaded a variant from Google Drive, continue like a normal [Se
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 
+
+
+
 <!--  
   ******************************************************************************************************************
   mkdocs.yml    # The configuration file.
@@ -93,7 +116,17 @@ Once you have downloaded a variant from Google Drive, continue like a normal [Se
 		## <center>Now Do  </center><br>
 		
 		*************************************************************
-		
+		hearer link!
+## 3. <a href=" https://console.cloud.google.com" target="_blank" title="Log into Google Cloud">Google Cloud</a> <br>
+
+
+********************************************
+    Adding exernal link to other a web sites
+**********************************************
+# <center>Part 2: <a href=" https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Setting_up_Heroku_Account_part2/" target="_blank" title="Setting up Heroku Account">Setting up Heroku Account</a> </center>
+<br>
+**********************************************
+
 		
 <a href="http://nightscout.github.io/pages/update-fork/" target="_blank">
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>		
@@ -102,9 +135,6 @@ Once you have downloaded a variant from Google Drive, continue like a normal [Se
 adding 	Yellow Hightligher!!!!!!!!	with bold too
 <span style="background-color: #FFFF00">**Marked text**</span>
 
-
-adding 	Green Hightligher!!!!!!!!	with bold too
-<span style="background-color:#26AF06">**Choose Device**</span>
 
 <a>
   <img width="auto" height="auto" border="0" align="center"  src="/img/Nightscout/Time to Update Nightscout.png" title="Update Tool"/></a>	
@@ -187,4 +217,3 @@ Warning Note<table width="1266" border="1" style="border-color: #000000; backgro
 </table>
 
 -->
-

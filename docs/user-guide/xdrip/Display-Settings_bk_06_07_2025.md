@@ -5,17 +5,14 @@ docs made by D.Galloway 2019- 2023-->
 
 ### This menu allows you to modify many graphical aspect settings of xDrip+.
 
-## [xdrip+ Colour Settings](#colour-settings)
+## [xdrip+ Colour Settings](#xdrip-colour-settings-xdrip-colour-settings)
 
 First, Go to :material-menu: Hamburger icon in the top left  <img width="150" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/36b08519-d3c7-457b-b6c7-b3f6d2204591" title="Hamberger icon"/></a>
 </a><br> then Go to Xdrip+ Display Settings.<br><br>
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3bb550ab-fe5c-45d8-a252-bdeb6b0470d8" title="Settings"/></a>&emsp;&emsp;<img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/31cf2652-3d52-4cda-b587-51cf3195fdce" title="xdrip display settings"/></a>
 <br><br>
 
-It will start with Xdrip+ Colour Settings in the list! so select it.<br>
-<br>
-
-#### colour-settings
+It will start with Xdrip+ Colour Settings in the list! so select it.<br><br>
 
 <img width="250" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/97f25526-64a5-42c6-893d-fad3687b7ef9" title="xdrip colour settings1"/></a>
 <br><br>
@@ -113,11 +110,9 @@ By default, xDrip+ will use your phone language. You can select additional langu
 <img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/0f96ea56-2dee-42e9-a057-d8833669f975" title="xdrip Display settings Lanuage"/></a>&emsp;&emsp;<img width="300" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/1c8438fb-c828-496f-9062-1d525a7e6e6b" title="choose language"/></a>
 <br>
 
+ 
+
 <br>
-
-
-<br>
-
 [&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
 [Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 
@@ -129,6 +124,7 @@ By default, xDrip+ will use your phone language. You can select additional langu
 <br>
 <a href="https://www.diabetes.org.uk/" target="_blank">
 <img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
+
 
  
 
