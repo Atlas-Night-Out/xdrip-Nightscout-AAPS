@@ -8,8 +8,8 @@ For full Web site content visit <a href="https://www.thediabeticway.co.uk/index.
 <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Dexcom/Dexcom%20G6_One/">Dexcom</a>
 * 2 - xdrip:
  <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/xdrip/xdrip%20-%20Intro/"> xdrip</a> 
-* 3 - Nightscout Setup
-: <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/Nightscout/Setting_up_Github_Account_part1/">Nightscout Setup</a> 
+* 3 - Nightscout Setting Up
+: <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Nightscout/Setting_up_Github_Account_part1/">Nightscout Setting Up</a> 
 * 4 - CGM Watches Setups
 : <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/watches/Watches/">CGM Watches Setups</a>
 * 5 - T1's Smart Home
