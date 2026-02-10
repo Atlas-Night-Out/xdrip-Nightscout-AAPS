@@ -10,4 +10,6 @@ Collaboration and knowledge-sharing can significantly advance support for diabet
 I also try to support Diabetes.uk and hence why I have them at the bottom of my pages. I also try to support JDRF now Breakthrough T1D - JDRF - UK: JDRF - UK as well with Helpful Links Page.
 Hope the site helpful and please join me, I won't bit! :smile_cat:
 
+NHS need to stop mistreating Type 1 Diabetics! 
+
 
