@@ -13,7 +13,7 @@ For full Web site content visit <a href="https://www.thediabeticway.co.uk/index.
 * 4 - CGM Watches Setups
 : <a href="https://atlas-night-out.github.io/Xdrip-AndroidAps-Nightscout-readthetips/watches/Watches/">CGM Watches Setups</a>
 * 5 - T1's Smart Home
-: <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/Alexa/T1_Pro_Cube/Aqara T1 Pro cube Setup to Echo Show/">T1's Smart Home</a>
+: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Alexa/T1_Pro_Cube/Alexa%20Show%20Nightscout%20on%20Echo%20Show%2010%203rd%20Gen/">T1's Smart Home</a>
 * 6 - Freestyle Libre
 : <a href="https://atlas-night-out.github.io/Nightscout-xdrip-AAPS/user-guide/FreestyleLibre/How_to_setup_FreeStyle_Libre_2/">Freestyle Libre</a>
 * 7 - AndroidAPS:
