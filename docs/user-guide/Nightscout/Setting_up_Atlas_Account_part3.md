@@ -6,136 +6,167 @@ For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.
 <br>
 <br>
 
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/a1a2f138-e0aa-4cd7-ad22-1738fd6206f8" title="Setting up Atlas Part 3"/></a><br><br>
 
 
-<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/Robot face_ Atlas account_860x462.jpg" Setting up Atlas Part 3"/><br><br>
+
 ## **Part 3 Setting up a Atlas Account for Nightscout**<br><br>
 
 
-
-
-
 ###1. **Now Open another tab**  to make a Mongodb Atlas Account: <a href="https://www.mongodb.com/cloud/atlas" target="_blank" title="Click Try Free">See Here</a> 
-  and **click** <span style="background-color: #FFFF00">**Start Free**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/free Atlas Account.jpg" title="Sign up a Atlas Account"/></a>	
-###2. Enter your Account Details like I have and then click <span style="background-color: #FFFF00">**get started free**</span> 
-  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/setting up a free  Atlas Account.jpg"Fill in your details"/><br><br>
-###3. Atlas will send you an email, if you don't receive it check your Spam folder.<br>
-###4. Now verify your email<br>
-<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/verify your email.jpg"Verify your email"/><br>
-###5. Enter some information like I have below and then Finish <br>
-  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/welcome to Atlas.jpg" Welcome to Atlas"/>
-###6. Select Create a cluster in <span style="background-color: #FFFF00">**Shared Clusters (FREE)**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/deploy a could database free.jpg" title="Shared Clusters (FREE)"/>
-###7. Leave all default values and click <span style="background-color: #FFFF00">**Create Cluster**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/create shared clusters.jpg" title="Create Cluster"/><br>
-  Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes) If not sure after a while click on the leaf icon in the top left!<br><br>
-###8.  Click on <span style="background-color: #FFFF00">**CONNECT**</span><br>
-    <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/click on connect.jpg" title="click connect"/><br>
-###9. Click on <span style="background-color: #FFFF00">**Allow Access from Anywhere**</span><br>
-   <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/Allow Access from Anywhere.jpg" title="Allow Access from Anywhere"/><br>
-   <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">If you don't allow access from anywhere (IP 0.0.0.0/0) Nightscout will not be able to access your database.!<br></span></td>
-</tr>
-</tbody>
-</table><br>
-###10. Click on <span style="background-color: #FFFF00">**Add IP Address**</span><br>
-   <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/Add IP Address.jpg" title=" Click on Add IP Address"/><br>
-<table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">Database Details: Make sure to not use your Atlas account Account details. <br>Do not use special characters: only letters and numbers. No spaces.<br>
- </span></td>
-</tr>
-</tbody>
-</table><br> 
-###11. Add a database username (for example <span style="background-color: #FFFF00">**nightkai**</span>) and a database user password (in the my examples below <span style="background-color: #FFFF00">** Madeuppassword7**</span>) but please change it later, see both images below!!
-    <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/database username and a database password.jpg" title=" Add a database username and a database password, see both images below!"/><br>
-###12. Then click <span style="background-color: #FFFF00">**Create Database User**</span>.<br>
-   <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/create database user.jpg" title=" Create Database User"/><br>
-   <table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">Make sure you write these details down in a safe place, you are going to need them later in the boxes below to make your Connection String!<br> <span style="background-color: #FFFF00">db user</span> and <span style="background-color: #FFFF00">db user password!</span></span></td>
-</tr>
-</tbody>
-</table><br>
-###13. Click on  <span style="background-color: #FFFF00">**Choose a Connection Method**</span><br>
-   <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/connection method.jpg" title=" connection method"/><br>
-###14.  Now Select <span style="background-color: #FFFF00">**Connect your application**</span><br>
-  <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/Connect your application.jpg" title=" Connect your application"/><br>
-###15. Copy the <span style="background-color: #FFFF00">**Connection string:**</span> click Copy icon and paste it somewhere to edit it later(like Notepad).
-<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/connection string.jpg" title=" connection string"/><br>
-<table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #db4e12;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note! It should be similar to this - cluster0 (xxxxx) will be different):</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;">mongodb+srv://nightkai:password@cluster0.xxxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority<br>
- </span></td>
-</tr>
-</tbody>
-</table><br><br>
-###16. Makeup a name for your database, this is not a important information (example kdatabase ), note that default is <span style="background-color: #FFFF00">**myFirstDatabase**</span>. Only letters and numbers, no spaces.<br><br>
-###  17. IIII will try to give you an example about the way to do it below:<br>
 
-  ** A.** In the boxes below 1st is your Atlas Account you gave yourself a <span style="background-color: #FFFF00">**User Name**</span> add it to the box below User Name on the left side!
- <br>
-   **B.** Then you also made a <span style="background-color: #FFFF00">**Database user Password add your Password** </span>you  created for your database add this too into the box on the left side.
-<br>
-   **C.** For the Cluster0 xxxxx where everyones will be unique when making a cluster when it is made so yours needs to be added into the Connection string part after it says Cluster0<br>
-   **D.** And lastly you made up a <span style="background-color: #FFFF00">**Database Name** </span>, also add this to the last box on the left and click the <span style="background-color: #FFFF00">**Generate button**</span>  which will generate your <span style="background-color: #FFFF00">**connection string code**</span> that you will  need to add to your Heroku API
-<br>
-    <br>
-####	**I have given you my examples below on the right side of the  boxes so just ignore them they are my examples to show you how the connection string is made up! **<br> You need to had your details into the left side Boxes making sure to remove (click here, delete and put your own!)first, and click on Generate.
+  and **click** <span style="background-color:#26AF06">**Start Free**</span><br>
+
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/62e08cd7-4986-4016-983d-064b189a52bc" title="Sign up a Atlas Account"/></a><br><br>
+
+###2. Enter your Account Details like I have and then click <span style="background-color:#26AF06">**get started free**</span> 
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/1dd69af5-8f4d-40a3-9f69-2867c8e34646" title="Setting Up a Free  Atlas Account"/></a><br><br>
+
+###3. Atlas will send you an email, if you don't receive it check your Spam folder.<br>
+
+###4. Now verify your email<br>
+
+<img width="400" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/6e940771-e52c-45d0-88b2-fb2514ba7e21" title="Verify your email"/></a>
+
+
+###5. Enter some information like I have below and then Finish <br>
+
+  <img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/d2c8cd18-bc37-4a8f-9f1d-d152843c4496" title="Welcome to Atlas"/></a>
+
+###6. Select Create a cluster in <span style="background-color:#26AF06">**Shared Clusters (FREE)**</span><br>
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/de418612-4427-4fe7-868a-671ddc06c85a" title="Deploy a Cloud Database Free"/></a>
+
+  
+
+###7. Leave all default values and click <span style="background-color:#26AF06">**Create Cluster**</span><br>
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/1aaa6216-a095-4422-a622-c1061cde541d" title="Create Shared Cluster"/></a><br><br>
+
+  Atlas will create your default cluster, wait until it is complete... (can take more than 3 minutes) If not sure after a while click on the leaf icon in the top left!<br><br>
+
+
+###8.  Click on <span style="background-color:#26AF06">**CONNECT**</span><br>
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/990d1930-9f54-4bef-81cd-ba62b6b5db92" title="click on connect"/></a><br>
+
+    
+
+    
+###9. Click on <span style="background-color:#26AF06">**Allow Access from Anywhere**</span><br>
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/8ad830dc-a35a-445c-b2b6-85072a44e3cd" title="Allow Access from Anywhere"/></a><br><br>
+
+
+!!!warning "Allow Access Risks"  
+    If you don't allow access from anywhere (IP 0.0.0.0/0) Nightscout will not be able to access your database.!
+
+   <br>
+
+###10. Click on <span style="background-color:#26AF06">**Add IP Address**</span><br>
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/bea43786-1fee-4d5c-a9d9-b43fa80d567d" title="Add IP Address"/></a><br><br>
+
+   
+!!!warning "Database Details Risk"  
+    Make sure not use your Atlas account Account details. <br>Do not use special characters: only letters and numbers. No spaces.
+
+   <br><br> 
+
+###11. Add a database username (In my example <span style="background-color:#26AF06">**nightkai**</span>) and a database user password (In my examples below <span style="background-color:#26AF06">**Madeuppassword7**</span>) but please change it later, see both images below!!<br><br>
+
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/e174366f-429e-476d-b87b-6fe171e0df6e" title="Add IP Address"/></a><br><br>
+
+
+###12. Then click <span style="background-color:#26AF06">**Create Database User**</span>.<br>
+
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/4ee208b4-54e5-418d-aa58-6cd1ee0630fd" title="create database user"/></a><br><br>
+
+
+!!!warning "Keep Safe"  
+    Make sure you write these details down in a safe place, you are going to need them later in the boxes below to make your <span style="background-color:#26AF06">**Connection string**</span> Which I will explain further down, on this process!<br> <span style="background-color:#26AF06">**db user**</span> and <span style="background-color:#26AF06">**db user password!**</span><br><br>
+
+
+###13. Click on  <span style="background-color:#26AF06">**Choose a Connection Method**</span><br>
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/1db2e288-a627-4507-ad7d-ff49d734cd86" title="connection method"/></a><br><br>
+
+###14.  Now Select <span style="background-color:#26AF06">**Connect your application**</span><br>
+
+<img width="600" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/4e884808-a9f9-44fa-b127-022b559f03b1" title="Connect your application"/></a><br><br>
+
+###15. Copy the <span style="background-color:#26AF06">**Connection string**</span> click Copy icon and paste it somewhere to edit it later(like Notepad, or Notepad++).<br>
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/231f132f-4179-445d-a9e0-6545bf0dd0f5" title="connection string"/></a><br><br>
+
+
+!!!Note "Note! It should be similar to this - cluster0 (xxxxx) yours will be different"  
+    mongodb+srv://nightkai:password@cluster0.xxxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority<br><br>
+
+    
+``` { .yaml .copy }
+mongodb+srv://nightkai:password@cluster0.xxxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+```
+<br><br>
+
+###16. Make up a name for your database, this is not  important information (just an example kdatabase ), note that default is <span style="background-color:#26AF06">**myFirstDatabase**</span><br>
+
+###17. I will try to give you an example about the way to do this in the boxe's belows with my explanations on how to do it.<br>
+
+####A. In the boxes below I have made for you to use.<br> 1st is your Atlas Account, you gave yourself a <span style="background-color:#26AF06">**User Name**</span> add it to the box below User Name on the left side!<br>
+
+####B. You also made a <span style="background-color:#26AF06">**Database user Password**</span> so add your Password you created for your database in the box below, in the box on the left side removing mine I have put there to show you has an example!.<br>
+
+####C. For the Cluster0 xxxxx where everyones will be unique when making a cluster when it is made so yours needs to be added into the Connection string part after it says Cluster0<br>
+
+####D. And lastly you made up a <span style="background-color:#26AF06">**Database Name**</span> , also add this in to the last box, on the left side and click the <span style="background-color:#26AF06">**Generate button**</span>  which will then generate your <span style="background-color:#26AF06">**Connection String Code**</span>, that you will  need to add it in to your Heroku settings reveal Config Vars Mongo URI Section after you make it in the boxes below.
+<br><br>
+
+
+!!!Note "Note! Example Method for you to use! To make your Mongo URI Connection String"  
+    I have given you my examples below on the right side of the  boxes so just ignore them they are my examples to show you how the connection string is made up! <br>
+     You need to had your own details into the left side Boxes making sure to remove mine (click in the box's below, delete and put your own in place of mine!)first, and click on Generate.<br><br>
+
+
 
 </font>
 <br><p>
-<span style="background-color: #FFFF00">**username:**</span> <input type="text" id="username" value="click here, delete and put your own! " size="32">  Eg: username: <input type="text" id="egusername" value="nightkai" size="32"><br>
-
-<span style="background-color: #FFFF00">**Database password:**</span> <input type="text" id="dbpassword" value="click here,delete and put your own!" size="31">Eg: Database password: <input type="text" id="egdbpassword" value="   Madeuppassword7" size="20"><br>
+<span style="background-color:#26AF06">**username:**</span> <input type="text" id="username" value="click here, delete and put your own! " size="32">  Eg: username: <input type="text" id="egusername" value="nightkai" size="32"><br>
 <br>
-<span style="background-color: #FFFF00">**@cluster0:xxxxx**</span> <input type="text" id="@cluster" value="click here, delete and put your own! " size="32"> E.g: cluster0.xxxxx <input type="text" id="egdbname" value=" j2iil " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32">
-
+<span style="background-color:#26AF06">**Database password:**</span> <input type="text" id="dbpassword" value="click here,delete and put your own!" size="31">Eg: Database password: <input type="text" id="egdbpassword" value="   Madeuppassword7" size="20"><br>
 <br>
-<span style="background-color: #FFFF00">**Database Name:**</span> <input type="text" id="dbname" value="click here, delete and put your own! " size="32"> E.g: Database Name: <input type="text" id="egdbname" value=" kdatabase " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32"><br>
-
+<span style="background-color:#26AF06">**@cluster0:xxxxx**</span> <input type="text" id="@cluster" value="click here, delete and put your own! " size="32"> E.g: cluster0.xxxxx <input type="text" id="egdbname" value=" j2iil " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32"><br>
 <br>
-<p></p>
+<span style="background-color:#26AF06">**Database Name:**</span> <input type="text" id="dbname" value="click here, delete and put your own! " size="32"> E.g: Database Name: <input type="text" id="egdbname" value=" kdatabase " size="20><br>output: <input type="text" id="output" value="click here, delete and put your own " size="32"><br>
+<br><br>
+Now click on the <span style="background-color:#26AF06">**Generate**</span>,below! And see the boxes generate your Connection String Code for you!<br>
 
 <button onclick="myFunction()">Generate</button><br><br><br><br>
-<span style="background-color: #FFFF00">**mongodb+srv://**</span> <input type="text" id="field3"value="User Name">
+<span style="background-color:#26AF06">**mongodb+srv://**</span> <input type="text" id="field3"value="User Name">
 : <input type="text" id="field4"value="Database Password">
 @cluster0.<input type="text" id="field6"value="cluster0.xxxxx ">.mongodb.net/ <input type="text" id="field5"value="Database Name">?retryWrites=true&w=majority<br><br>
 
-**E.** After you have generated it, yours should be looking somthing similar to the one below. Mine might be a little different to what yours should be so do check it carefully, and make sure to copy and paste it into notepad like I will show you in the video below<br>
+
+<br>
+####E. After you have generated your code, it should be looking somthing similar to the one below.<br> Mine might be a little different to what yours should be so do check it carefully, and make sure to copy and paste it into notepad like I will explain and show you in the video below for you<br>
 
 ### **My Connection String results**
-<font size="+0"> **mongodb+srv://nightkai:Madeuppassword7@cluster0.j2iil.mongodb.net/kdatabase?retryWrites=true&w=majority**</font><br>
 
-<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
-<table width="1266" Height="120 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #FF0000;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Warning!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;"> Keep this string safely aside, it is called your MONGODB_URI<br/>  </span></td>
-</tr>
-</tbody>
-</table><br>
+``` { .yaml .copy }
+mongodb+srv://nightkai:Madeuppassword7@cluster0.j2iil.mongodb.net/kdatabase?retryWrites=true&w=majority
+```
+<br>
+!!!warning "Warning"  
+    Keep this Connection String in a safe place, it is called your MONGODB_URI and you will need it for your Heroku Account Config Vars<br><br>
+
+The Diagram below, explains a little more  on how to do it yourself. <br>
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3ae9b9fa-7ee2-4a44-a06c-2576e1ed9a01" title="how to make connection string"/></a>
+<br>
 
 
 
@@ -163,49 +194,42 @@ function myFunction() {
 </table><br>
 
 
-
-
-
-
-
-
-
-
-
 ****************************************************************************************
    
-   a) If you want to do it manually: replace <password> with your database password as noted previously (in the example below **Madeuppassword7** ) and <dbname> by any text you want to add as your **database name**, say kdatabase in my example. The result will be like this:<br>
- <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Atlas/how to make connection string.jpg" title="My Connection String results"/>
+####A. If you want to do it manually: replace <password> with your database password as noted previously (in the example below **Madeuppassword7** ) and <dbname> by any text you want to add as your **database name**, say kdatabase in my example. The result will be like this:<br>
+
+ <img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/3ae9b9fa-7ee2-4a44-a06c-2576e1ed9a01" title="how to make connection string"/></a>
 
 
-### ** Another example for you below!** 
-<img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Fork and Deploy cgm remote monitory Part 4/connecting_to_cluster.jpg" title="connecting_to_cluster"/>
-<table width="1166" Height="185 border="1" style="border-color: #000000; background-color: #ffffff;" cellpadding="1" cellspacing="1" height="98">
-<tbody>
-<tr style="height: 16px;">
-<td style="width: 1158px; border-color: #000000; background-color: #5B9BD5;" fff=""><span style="font-size: 14pt;"><strong><span style="color: #ffffff;">Note!</span></strong></span></td>
-</tr>
-<tr style="height: 56.4063px;">
-<td style="width: 1158px; border-color: #000000;"><span style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 14pt;" " target="_blank" title="First create a user account by going to">There are no < and > characters in the final string, neither for password nor for database name.</span></span></td>
-</tr>
-</tbody>
-</table><br>
+###  Another example for you below!
+
+<img width="Auto" height="Auto" border="0" align="center"  src="https://github.com/user-attachments/assets/c070ebe4-9e5e-46aa-be43-60059ffe84ec" title="connecting to cluster"/></a><br><br>
+
+!!!Note "Note! "  
+    There are no < and > characters in the final string, neither for password nor for the database name. You need to remove them!<br><br>
+
+<br>
+
 ## <center>Now we need to do <br></center>
 <br>
-# <center>Part 4: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
+# <center>Part 4: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Nightscout/Part%204%20-%20Fork%20and%20Deploy%20cgm%20remote%20monitory/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
+
+## <center> If you have any issues or concerns please visit: </center> 
+<font size="4"><center>
+:simple-discord:<a href=" https://discord.gg/Gb5SF7jR" target="_blank" title="Discord"> Discord</a>&emsp; :simple-facebook: <a href=" https://www.facebook.com/groups/cgminthecloud" target="_blank" title="CGM in the Cloud on Facebook"> CGM in the Cloud</a> 🩸 <a href=" https://github.com/nightscout/AndroidAPS/issues" target="_blank" title="Nightscout "> Nightscout</a>&emsp; :simple-github:<a href=" https://github.com/nightscout/AndroidAPS?tab=readme-ov-file" target="_blank" title="Github AAPS"> Github AAPS</a> </center></font>
 <br><br>
 
-##  **Issues or Concerns** 
 
-## If you have any issues or concerns please post your questions in the  <a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/facebook/facebook-logo-png-11.png" title="Facebook group xdrip uk"/></a> <a href=" https://www.facebook.com/groups/5390196001057776" target="_blank" title="Facebook xDrip - UK"> Facebook Group</a> or you can go to the <span style="background-color: #FFFF00">**Discussions**</span> on <a href=" https://github.com/NightscoutFoundation/xDrip/discussions" target="_blank" title="Discussions"> Github</a><a href="https://www.facebook.com/groups/5390196001057776" target="_blank">
-  <img width="50" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Github/github-logo-icon-16155.png" title="Github"/></a><br>
+[&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;]()
+[Please Subscribe to our UTUBE Channel](https://www.youtube.com/channel/UC9TwtBefjjKw_uKHiIWMkBA?sub_confirmation=1){ .md-button }
 
 <br>
+<a href="https://maundyrelief.org.uk/" target="_blank">
+  <center><img width="300" height="auto" border="0" align=""  src="https://github.com/user-attachments/assets/585dd221-4f22-4e83-978d-3eedb39d3ca9" title="Maundy Relief"/></center></a>
+<br><br>
 
 <a href="https://www.diabetes.org.uk/" target="_blank">
- <img width="auto" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/Diabetesuk/pngarea.com_rutgers-logo-png-8467605.png" title="Diabetes UK"/>
-</a>   <br>
+<img width="auto" height="auto" border="0" align="center"  src="https://github.com/user-attachments/assets/21b87537-f1fa-4e01-904c-132085884544" title="Diabetes UK"/> </a>Why Not take visit <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/pedal-for-progress" target="_blank"> :man_biking_tone1: UK Wide Cycle Ride - Diabetes.uk :woman_biking_tone5:</a> **or** <a href="https://swim22.diabetes.org.uk/?fbclid=IwAR3XSygKTkbU7l_Xgu88WU3Q3EYFrFoAj1STvQTVz_6X-xthmjqOUWMTiww" target="_blank">Diabetes.UK Swim22 :man_swimming_tone5:</a> **or** <a href="https://www.diabetes.org.uk/support-us/fundraise/fundraising-events/60-miles-challenge" target="_blank">:man_walking_tone5: Diabetes UK Month of Miles Challenge :woman_running:</a> for all of your Diabetes Needs!
 
 
 
@@ -214,67 +238,8 @@ function myFunction() {
 
   <!--  
   ****************************************************************************************************************
-  remove this after you finish it!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
   
-  ##Step 4: Fork and deploy cgm-remote-monitor
-   
-<br>   
-   1.  You should now have 3 pages opened in your browser: Heroku, Atlas, and Github, Make sure you are logged-in on each one (i.e. not asking you to login) before you continue.
-   
-   2.  Click this link https://github.com/nightscout/cgm-remote-monitor, a new GitHub page will open. Click on Fork
-   
-   3. d) Scroll down and click Deploy to Heroku
-   
-   
-   4. Enter your CGM in the Cloud site name: invent a name you will use to see your BG in the cloud. Confirm that the name is available.
-   
-   5.  Don’t change the region.
-   
-   6. Scroll down and setup the following variables:
-   
-   7. API_SECRET will be your Nightscout site password, it needs to be at least 12 characters long and you should NOT use spaces if you use @ or ! symbols remember you will probably need to express them using Percent encoding in your uploader and downloader apps. If you're not sure on how to do this, it is recommended to use only letters (uppercase + lowercase) and digits.
-   
-   8. If you want to link your Dexcom Share account as a data source, complete the following lines:
-   
-   9. If you want to link your CareLink account as a data source (currently not functional with Heroku), complete the following lines:
-   
-   10. Select the units you’re using in DISPLAY_UNITS acceptable choices are mg/dl or mmol/L (or just mmol).
-
-
-11. In ENABLE, copy and paste the following words (separated by a space) so that won't have to think about which you want now:
-12. Now you need the connection string you defined during the Atlas cluster creation (as the example below, but not the string below). Copy and paste it in the MONGODB_URI variable field.
-
-If you compiled all the fields and successfully generated the string this is what you should copy in MONGODB_URI:
-
-Sorry... something is missing for me to make it automatically...
-
-13. If you preferred to make it yourself, make sure it looks like this:
-mongodb+srv://nightscout:soo5ecret@cluster0.xxxxx.mongodb.net/mycgmic?retryWrites=true&w=majority
-
-
-14. Scroll down to the end of the list and click Deploy app
-
-15.  WAIT until completion (will take some time). Do not interrupt the process until it's complete.
-
-16. Then click View (if nothing happens, click Manage App -> Open App, in upper right corner)
-
-17. Your Nightscout site should open and direct you to a new profile creation.
-
-18. Setup your Time zone and eventually all other fields. Do not leave any fields empty. If you don't know which value to use, just use the default value. You can change these values later at any time.
-
-19. Browse down to Authentication status and click Authenticate. Enter your API secret. Click Update.
-
-
-20. Click Save.
-
-21.  If the following pop-up shows up click OK, and check status (upper right of the window).
-
-22. If you need to modify your profile after this, authenticate with the lock icon (top right of the page): enter your API secret. Then click on the hamburger menu and select Profile Editor.
-
-23. Dexcom Share and CareLink users should see data flowing in after some minutes. Other uploaders like xDrip+, Spike, xDrip4iOS, etc will need to be setup with the Nightscout address and API secret in the app.
-   
-   
-   
+  
    
 </font>
  
@@ -328,13 +293,18 @@ external link
 # <center>Part 4: <a href="https://atlas-night-out.github.io/xdrip-Nightscout-AAPS/user-guide/Fork_and_Deploy_cgm_remote_monitory_part4/" target="_blank" title="Fork and Deploy cgm remote monitory Part 4">Fork and Deploy cgm remote monitory</a> </center>
 
 
-
+*****************************************************************
 
 adding 	Yellow Hightligher!!!!!!!!	
 <span style="background-color: #FFFF00">**Marked text**</span>
 
 
-***********************
+adding 	Green Hightligher!!!!!!!!	with bold too
+
+<span style="background-color:#26AF06">**Later**</span>
+
+
+****************************************************************
 adding an image
 ***********************
 
@@ -355,6 +325,15 @@ Adding Video
 Note
 **Note:** a note is something that needs to be mentioned but is apart from the context.
 
+***************************************************************************************
+Adding a copy code block
+
+``` { .yaml .copy }
+mongodb+srv://nightkai:password@cluster0.xxxxx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+```
+
+
+**********************************************************************************************
 
 List
 This is a regular paragraph.
@@ -412,6 +391,14 @@ Table
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+
+************************************************************
+adding a space
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+
+******************************************************************
 
 
 -->
