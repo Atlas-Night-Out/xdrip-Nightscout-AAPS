@@ -6,7 +6,25 @@ docs made by D.Galloway 2019- 2021-->
 For full Website content visit [The Diabetic Way](https://www.thediabeticway.co.uk/index.php/en/).
  
 
-<iframe src="https://giphy.com/embed/1KFYwQfB3U3CUoZnuY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://www.nightscoutfoundation.org/nightscoutproj"target="_blank">Nightscout Foundation</a></p>
+
+
+<style>
+  /* Target the iframe container - MODERN METHOD */
+  iframe {
+    background-color: transparent !important;
+    color-scheme: light dark; /* Matches parent document color scheme */
+  }
+  
+  /* Forces content inside iframe to inherit transparency */
+  iframe body {
+    background-color: transparent !important;
+  }
+</style>
+
+<iframe src="https://giphy.com/embed/1KFYwQfB3U3CUoZnuY" 
+        style="background-color: transparent; border: none;"
+        allow="fullscreen">
+</iframe>
 
 ## Specifications
 
@@ -29,6 +47,12 @@ The current version of Nightscout <strong>will probably not run</strong> on an
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 		
+
+
+
+<iframe src="https://giphy.com/embed/1KFYwQfB3U3CUoZnuY" width="Auto" height="Auto" frameBorder="false" allowtransparency="true" class="giphy-embed" allowFullScreen></iframe><p><a href="https://www.nightscoutfoundation.org/nightscoutproj"target="_blank">Nightscout Foundation</a></p>
+
+
 		-->
 		
 		
