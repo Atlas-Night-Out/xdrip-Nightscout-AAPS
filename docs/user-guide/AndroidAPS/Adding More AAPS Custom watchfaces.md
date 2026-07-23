@@ -1,7 +1,7 @@
 <!-- this is  on github server!
 docs made by D.Galloway 2019- 2024-->
 
-# Adding Other AAPS Custom watch faces2
+# Adding Other AAPS Custom watch faces3
 
 <center><img width="600" height="auto" border="0" align="center"  src="/xdrip-Nightscout-AAPS/img/AAPS/Custom watch faces.jpg" title="Custom Watch Faces"/></a></center>
 
